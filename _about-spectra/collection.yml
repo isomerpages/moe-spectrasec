@@ -2,4 +2,5 @@ collections:
   about-spectra:
     output: true
     order:
+      - Facilities.md
       - Contact Us.md
