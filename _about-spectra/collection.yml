@@ -1,0 +1,4 @@
+collections:
+  about-spectra:
+    output: true
+    order: []
