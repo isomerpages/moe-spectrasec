@@ -54,6 +54,42 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/BZbp6VKdOlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+## Mrs Chong and Garden of Possibilities
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/RBp8Ka5V0zY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## PSG and Garden of Possibilities
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/4D-uk2WhJnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## Spectra School Song 2021
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mcD3DIvm_Ko" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
 
+## Spectra School Song 2020
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Kp7qKImAaDg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## It takes a Village
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8IneIoHZ_n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+## MOE Spectra and Maki-san
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/aWHpgrH-Jlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## MOE Cool Kids 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bIwBWMgNYqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+## Learning by Doing
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-89d2fFZEEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+
+
+With effect from 2021, Spectra offers a new ITE Skills Subject Certificate (ISSC) to further widen the exposure and educational experience of students. New subjects include the Internet of Things (IOTA) and Mobile Web Applications (MWA).
