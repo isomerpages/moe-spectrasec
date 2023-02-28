@@ -1,0 +1,4 @@
+collections:
+  yearbook:
+    output: true
+    order: []
