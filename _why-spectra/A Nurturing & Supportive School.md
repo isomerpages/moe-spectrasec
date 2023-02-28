@@ -3,3 +3,36 @@ title: A Nurturing & Supportive School
 permalink: /why-spectra/a-nurturing-supportive-school/
 description: ""
 ---
+### **Dedicated Support for Students**
+
+At Spectra, class sizes are kept comparatively small with only about 20 students per class. At the lower secondary level, there are two Form Teachers taking care of each class. This enables teachers to get to know our students and their families well to provide customised care and support.
+
+Beyond the classroom, we also have a team of counsellors and Student Welfare Officer in our Counselling Support Unit to follow up with our students together with our year heads and form teachers. After-school engagement activities are designed to provide students with opportunities to meet new friends, learn new skills and develop a sense of belonging to the school in a fun and safe environment. We also work closely with external agencies to expand our network of support for our students.
+
+We are also in the process of re-envisioning and renovating our Student Activity Centre into a more inviting space for students. The new Student Hub will provide student services and comfortable zones for our students to relax and hang out after school. Students can chat over drinks and snacks, exercise at the gym, meet with their friends and even play electronic games together.
+
+![Dedicated Supprt](https://www.spectra.edu.sg/wp-content/uploads/2022/09/SH2022.png)
+
+* * *
+
+### **Leadership Opportunities**
+
+At Spectra, we believe in the holistic development of our students. Besides exciting experiential learning opportunities and a myriad of CCA platforms for students to pursue their areas of interest and talent, we also craft opportunities to develop their leadership skills.
+
+Students with leadership potential can take on roles of class chairpersons, CCA leaders and student councillors. Our student leaders are given opportunities to contribute to the development of their peers, organise school events and show care for residents in our community. These opportunities build confidence, strengthen communication skills and inspire students to be a positive influence wherever they are.
+
+This year, our student leaders took the lead in welcoming the Secondary One students by organising the Ice Breaker Games and the Amazing Race components. These activities meaningfully engaged our new Spectrans and gave them a warm welcome to the Spectra family. Our student leaders also took part in the North West Community Development Council Service week. They devoted time after school to packing special commemorative festive bags that were distributed to the residents living in the rental blocks around the school. Through these experiences, our student leaders learnt first-hand that our actions can indeed make a world of difference to those around us.
+
+![Leadership](https://www.spectra.edu.sg/wp-content/uploads/2021/10/Leadership.png)
+
+* * *
+
+### **Serving the Community**
+
+At Spectra, our students are also actively involved in Service Learning projects with long-term community partners. Our Secondary Two students plan and conduct programmes for children in the Early Intervention Programme for Infants and Children (EIPIC) at SPD. This year, our students made shoebox activity kits that enhance hand-eye coordination, visual-motor integration and visual processing for the children.
+
+Our Secondary Three students engage the elderly from neighbouring senior activity centres and celebrate festivals such as Chinese New Year with them. These intergenerational bonding platforms have brought much joy to our elderly beneficiaries. This year we collaborated with VintageRadio, a radio station that connects the elderly with youths. As part of our National Day celebration, students made live personalized dedications in English, Malay, Tamil and Mandarin for our partners and also showed the elderly how to use the radio app on their mobile phones via online platforms.
+
+Our students also reach out to migrant workers in the community during Racial Harmony Day and National Day through care packs and little notes of appreciation. In serving the needs of various community partners and their beneficiaries, our students develop a stronger sense of empathy and compassion. They also gain a better understanding of the community’s needs.
+
+![Serving The Community](https://www.spectra.edu.sg/wp-content/uploads/2021/10/Serving-The-Community-2.png)
