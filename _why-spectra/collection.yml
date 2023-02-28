@@ -2,6 +2,7 @@ collections:
   why-spectra:
     output: true
     order:
+      - Exceptional Learning & Behavioural Support.md
       - Unique Instructional Programmes.md
       - A Nurturing & Supportive School.md
       - Sexuality Education.md
