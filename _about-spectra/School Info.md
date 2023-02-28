@@ -26,11 +26,26 @@ Spectra Secondary School is a specialized school for Normal Technical students. 
 
 **3\. Data Protection Policy**
 
-Please refer to document for details: [Personal Data Protection Guidelines](/images/Personal-Data-Protection-Guidelines.pdf)
+Please refer to document for details: [Personal Data Protection Guidelines](/files/Personal-Data-Protection-Guidelines.pdf)
 
 **4\. Whistle Blowing Policy**
 
-Please refer to document for details: [Whistleblowing Policy](/images/Item-6-SSS-ADM-0002A-Whistleblowing-Policy-Website-Posting-Ver-3.pdf)
+Please refer to document for details: [Whistleblowing Policy](/files/Item-6-SSS-ADM-0002A-Whistleblowing-Policy-Website-Posting-Ver-3.pdf)
 
 
+# Financial Assistance Scheme (MOE FAS) Information
 
+
+### MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)
+
+The MOE Financial Assistance Scheme aims to help needy Singaporean students pay for essential school expenses. **With effect from January 2023, the income eligibility criteria will be: Gross Monthly Household Income (GHI) = $3000 or below** OR **Gross Monthly Household Per Capita Income (PCI) = $750 or below**.
+
+The MOE FAS will provide a full waiver of school fees and standard miscellaneous fees.  It will also provide free textbooks, free school attire, transport subsidy and meal subsidy.
+
+To apply for the MOE FAS, please download the application form via this link > **[MOE FAS Application Form](/files/SS_FAS-Application-Form-2023.pdf)** or obtain a copy from the General Office. Please complete the application form and return it with supporting documents to the school.
+
+The school will review your application and inform you of the outcome.  If your application is approved before the end of the month, your child/ward will be placed on the MOE FAS in the following month.  There will be no backdating of the effective month and retrospective subsidies provided in respect of expenditure on the MOE FAS provisions will be allowed.
+
+**If you have any enquiries, please contact the General Office at 64660775.**
+
+![MOE FAS 2023](/images/MOE-FAS-2023.png)
