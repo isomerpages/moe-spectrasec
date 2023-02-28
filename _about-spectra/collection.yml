@@ -2,6 +2,7 @@ collections:
   about-spectra:
     output: true
     order:
+      - School Philosophy.md
       - School Info.md
       - Mission & Values.md
       - School Values.md
