@@ -2,6 +2,7 @@ collections:
   about-spectra:
     output: true
     order:
+      - School Values.md
       - School Logo.md
       - Spectra Brochure.md
       - Spectra Videos.md
