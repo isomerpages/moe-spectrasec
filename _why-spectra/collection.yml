@@ -2,4 +2,5 @@ collections:
   why-spectra:
     output: true
     order:
+      - Sexuality Education.md
       - 1 to 1 Computing.md
