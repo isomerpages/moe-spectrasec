@@ -1,0 +1,4 @@
+collections:
+  i-am-a:
+    output: true
+    order: []
