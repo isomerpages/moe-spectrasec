@@ -1,4 +1,5 @@
 collections:
   why-spectra:
     output: true
-    order: []
+    order:
+      - 1 to 1 Computing.md
