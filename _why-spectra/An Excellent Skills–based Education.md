@@ -7,9 +7,8 @@ description: ""
 
 Spectra offers a dual-certification programme: our students will complete and graduate with a **GCE ‘N’ Levels certificate** and an **ITE Skills Subject certificate**. The ITE Skills Subject provides hands-on vocational education in an authentic learning environment for our students.
 
-![](https://www.spectra.edu.sg/wp-content/uploads/2022/08/VE-Pathway-Aug-2022-1024x549.png)
+![](/images/VE-Pathway-Aug-2022-1024x549.png)
 
-* * *
 
 ### **Vocational Education Programmes**
 
@@ -27,10 +26,10 @@ In the upper secondary programme, students will specialise in two ITE Skills Sub
 
 * * *
 
-### **Unique Vocational Education CCAs**
+### Unique Vocational Education CCAs
 
 Spectra also offer opportunities such as learning journeys to ITE campuses, workshops by industry partners, preparation for Early Admission Exercise (EAE) to ITE, and unique CCAs to equip our students for their ITE course of choice.
 
 Through a diverse range of unique CCAs, we empower students to aspire toward their dreams. Our students discover new interests, develop their talents and build on their strengths. Our dedicated teachers encourage students to experiment, learn new skills and pursue their passion in the following CCAs: **Young Chefs, Young Creators, Young Engineers, and Urban Farmers.**
 
-![Unique Ccas](https://www.spectra.edu.sg/wp-content/uploads/2021/10/Unique-CCAs-1.png)
+![Unique Ccas](/images/Unique-CCAs-1.png)
