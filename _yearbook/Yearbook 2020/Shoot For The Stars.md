@@ -8,7 +8,7 @@ Prize Giving Day 2020 was carried out entirely through Zoom. The Student Counc
 
 Our emcees, Shamil Azmi of Class S3-4 and Irfa Syafiqah of Class S3-1, spent many week nights and weekends working on their script, rehearsing and recording each segment as flawless as they could.
 
-![Emcees](https://www.spectra.edu.sg/wp-content/uploads/2020/10/Emcees-1024x292.png)
+![Emcees](/images/Emcees-1024x292.png)
 
 The production would not have gone so smoothly without the support of production managers, Derinda Lim of Class S2-9 and Shania Pan of Class S2-8, and our team of video editors, Mahirah Taufiqah and Izzan Hanifah of Class S3-4, and Sherilyn Goh of Class S2-8, who tirelessly coordinated the filming and editing process of the production crew.
 
