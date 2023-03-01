@@ -4,8 +4,6 @@ permalink: /yearbook/yearbook-2020/student-gallery/
 description: ""
 third_nav_title: Yearbook 2020
 ---
-
-
 We live in a world where our children are under constant pressure to achieve academic excellence. However, in Spectra, we believe that the arts are a key ingredient to a holistic education for our students.
 
 Art and Music develop cognitive skills through a different lens. And, through it, craft and creativity emerge.
@@ -42,25 +40,25 @@ This competition aims to raise awareness among secondary school students by inv
 
 Students played with line and color inspired by Pablo Picasso’s Cubism and Piet Mondrian’s Abstract movement.
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S1-1-TEH-PEI-EN.jpg "By S1 1 Teh Pei En")
+![](/images/By-S1-1-TEH-PEI-EN.jpg "By S1 1 Teh Pei En")
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S1-6-LEE-JIAN-HAO-ALOYSIUS.jpg "By S1 6 Lee Jian Hao Aloysius")
+![](/images/By-S1-6-LEE-JIAN-HAO-ALOYSIUS.jpg "By S1 6 Lee Jian Hao Aloysius")
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S1-5-SOPHIA-SHASMEEN-BINTE-SAZALI.jpg "By S1 5 Sophia Shasmeen Binte Sazali")
+![](/images/By-S1-5-SOPHIA-SHASMEEN-BINTE-SAZALI.jpg "By S1 5 Sophia Shasmeen Binte Sazali")
 
 [![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S1-6-NURUL-HUMAIRA-BINTE-JAMALUDDIN.jpg "By S1 6 Nurul Humaira Binte Jamaluddin")
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S1-6-MUHAMMAD-DANISH-IRFAN-BIN-KHAIRUL-ARIFFIN.jpg "By S1 6 Muhammad Danish Irfan Bin Khairul Ariffin")
+![](/images/By-S1-6-MUHAMMAD-DANISH-IRFAN-BIN-KHAIRUL-ARIFFIN.jpg "By S1 6 Muhammad Danish Irfan Bin Khairul Ariffin")
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S1-4-MUHAMMAD-ZULAFFIQKIN-BIN-MUHAMMAD-KHALID.jpg "By S1 4 Muhammad Zulaffiqkin Bin Muhammad Khalid")
+![](/images/By-S1-4-MUHAMMAD-ZULAFFIQKIN-BIN-MUHAMMAD-KHALID.jpg "By S1 4 Muhammad Zulaffiqkin Bin Muhammad Khalid")
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S1-2-IRFAN-SUFI_AN-BIN-AZHARI.jpg "By S1 2 Irfan Sufi An Bin Azhari")
+![](/images/By-S1-2-IRFAN-SUFI_AN-BIN-AZHARI.jpg "By S1 2 Irfan Sufi An Bin Azhari")
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S2-6-NADRAH-SYAIQIRRA-BINTE-MD-SALEHUDDIN.jpg "By S2 6 Nadrah Syaiqirra Binte Md Salehuddin")
+![](/images/By-S2-6-NADRAH-SYAIQIRRA-BINTE-MD-SALEHUDDIN.jpg "By S2 6 Nadrah Syaiqirra Binte Md Salehuddin")
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S2-10-NG-HAO-QIAN.jpg "By S2 10 Ng Hao Qian")
+![](/images/By-S2-10-NG-HAO-QIAN.jpg "By S2 10 Ng Hao Qian")
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S2-5-YAN-WAI-MAN-MELMAN.jpg "By S2 5 Yan Wai Man Melman")
+![](/images/By-S2-5-YAN-WAI-MAN-MELMAN.jpg "By S2 5 Yan Wai Man Melman")
 
 **Sound of Music**
 
