@@ -4,6 +4,8 @@ collections:
     order:
       - Yearbook 2022/.keep
       - Yearbook 2021/.keep
+      - Yearbook 2020/.keep
+      - Yearbook 2020/Memoir.md
       - Yearbook 2020/Setting The Standards.md
       - Yearbook 2020/Shoot For The Stars.md
       - Yearbook 2020/Stand Up Stand Out.md
@@ -13,5 +15,3 @@ collections:
       - Yearbook 2020/Spectra Partners.md
       - Yearbook 2020/National Education.md
       - Yearbook 2020/The Road Not Taken.md
-      - Yearbook 2020/Memoir.md
-      - Yearbook 2020/.keep
