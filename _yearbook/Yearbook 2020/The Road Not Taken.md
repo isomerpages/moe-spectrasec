@@ -30,6 +30,9 @@ A Math lesson without the whiteboard or the visualiser? We too thought it was u
 
 ![](/images/HBL_Math-e1603541874681-1021x1024.jpg)
 
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qMqygQCN1uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 **HBL – PE Lessons**
 
 Couldn’t lose sight of fitness during the Covid period, could we? The PE teachers devised a plan to make HBL PE lessons both about learning and maintaining fitness. Using Joe Wicks’ homed-based exercise videos and safety guidelines created by the teachers, Spectrans did workouts right in the convenience of their own homes. They filmed all of their workouts and each student produced a video montage capturing his or her progress over the 3 weeks. The teachers also used SLS to cover the PE SOW, providing students with links to discover more about Target Games like Darts, Indoor Bowling and Olympic Shooting.
