@@ -2,5 +2,6 @@ collections:
   our-people:
     output: true
     order:
+      - Executive and Administrative.md
       - Instructional Programme and Vocational Education.md
       - Parent Support Group.md
