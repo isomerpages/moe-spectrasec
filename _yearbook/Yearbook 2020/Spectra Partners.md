@@ -10,11 +10,11 @@ One of these key partners is our Parent Support Group (PSG). Our parent voluntee
 
 Among others, the PSG aims to promote strong parent-child bonding through parenting activities and workshops such as volunteering as part of the school’s Garden-Based Serving Learning (GBSL), and organising a father-child hike at MacRitchie Trail that was held on 8 September this year. The PSG also came on board our school-wide President Challenge 2020 where the parent volunteers demonstrated a desire to play a part in helping the community by hand-painting canvas pouches to raise funds for the less fortunate.
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/spectra-partners/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/spectra_partners_2.jpg)
+![](/images/spectrapartners2.jpg)
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/spectra-partners/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/spectra_partners_1.jpg)
+![](/images/spectrapartners1.jpg)
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/spectra-partners/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/spectra_partners_3.jpg)
+![](/images/spectrapartners3.jpg)
 
 To ensure that our students also stay ahead in preparing themselves for work and life, the school has also partnered with various organisations to bring about authentic learning experiences to the students. As part of our effort towards Education and Career Guidance (ECG), our Secondary 4 students attended a learning journey cum cooking workshop at the Institute of Technical Education (ITE) School of Hospitality to expose them to possible post-secondary educational pathways. Similarly, the school piloted a partnership with EY Singapore to organise Zoom workshops for our graduating students from 15 to 19 June to prepare them for the ITE Early Admission Exercise (EAE). Through the sessions, the students were equipped with tips on how to ace their interviews, giving them an edge during the application process.
 
@@ -22,13 +22,22 @@ As a school, we also recognise the need to provide equal opportunities for all. 
 
 While the COVID-19 pandemic has brought with it challenges, it has also provided the school with opportunities to collaborate with others. We are thankful for the contributions of Mdm Ho Ching who donated bottles of hand sanitisers, and Mr Melvyn Teo who donated face masks, as well as the Temasek Foundation in trialling the use of thermal scanners in our school, as part of the community efforts to ensure our students return back to school safe.
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/spectra-partners/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/spectra_partners_7.jpg)
+![](/images/spectrapartners7.jpg)
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/spectra-partners/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/spectra_partners_4-e1603263070268.jpg)
+![](/images/spectrapartners6.jpg)
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/spectra-partners/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/spectra_partners_8.jpg)
+![](/images/spectrapartners4.jpg)
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/spectra-partners/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/spectra_partners_9.jpg)
+![](/images/spectrapartners5.jpg)
+
+![](/images/spectrapartners8.jpg)
+
+![](/images/spectrapartners9.jpg)
+
+
+
+
+
 
 Lastly, the school believes in the importance of instilling in our students a spirit of giving back to the community. Our school’s collaboration with at-Sunrise brought our students and members of the academy together to work hand-in-hand in baking cookies that were then distributed as goodie packs for the cleaners and the helpers in our school as well as those within our neighbourhood, as part of the Stand up for Cleaners initiative, held from 2 to 6 August 2020.
 
