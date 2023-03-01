@@ -20,14 +20,14 @@ This 2020 Student Council Investiture was challenging but nonetheless memorable!
 
 With a new year, comes a new batch of student councillors. Let’s welcome the members of the Student Council 2020.
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/setting-the-standards/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/SC_Girls.png)
+![](/images/SC_Girls.png)
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/setting-the-standards/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/SC_Boys.png)
+![](/images/SC_Boys.png)
 
 ### Sec 4 Student Councillors
 
 Our graduating Secondary 4 student councillors have served the school since 2018. This tribute video is a token of our appreciation for all their contributions and services.
 
-![](https://www.spectra.edu.sg/wp-content/uploads/2020/10/Student_Councillors-1024x683.jpg)
+![](/images/Student_Councillors-1024x683.jpg)
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Qvsqzj2Es28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
