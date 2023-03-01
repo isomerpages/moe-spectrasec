@@ -2,6 +2,7 @@ collections:
   our-people:
     output: true
     order:
+      - School Board of Directors.md
       - School Management Committee.md
       - Executive and Administrative.md
       - Instructional Programme and Vocational Education.md
