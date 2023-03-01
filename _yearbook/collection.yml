@@ -1,4 +1,5 @@
 collections:
   yearbook:
     output: true
-    order: []
+    order:
+      - Yearbook 2020/.keep
