@@ -2,7 +2,6 @@ collections:
   yearbook:
     output: true
     order:
-      - Yearbook 2022/.keep
       - Yearbook 2020/Prinicipal's Message 2020.md
       - Yearbook 2020/Graduands 2020.md
       - Yearbook 2020/.keep
