@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/spectrahome.gif
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
+        - title: Student Info Hub
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/
         - title: Highlight B
           description: Important highlight B is equally important
           url: https://gmail.com
@@ -25,4 +25,3 @@ sections:
       button: Button text
       url: /faq/
 ---
-
