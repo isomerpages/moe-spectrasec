@@ -2,6 +2,7 @@ collections:
   i-am-a:
     output: true
     order:
+      - Parents/Communication Guidelines.md
       - Parents/Cyber Wellness Support (Parents).md
       - Parents/.keep
       - Student/Student Learning Space.md
