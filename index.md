@@ -19,9 +19,12 @@ sections:
           description: Page A is important too
           url: /privacy/
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
+      title: Facebook
+      subtitle: "visit us "
+      description: <iframe
+        src=“https://www.facebook.com/plugins/post.php?href=https%3A%2F%2Fwww.facebook.com%2FSpectraSecondarySchool%2Fposts%2Fpfbid05v3JzBeamvrfyvh7y1Yq1kuHmSLMxkHybkpYTb3HZLnj7Mjq5SSufvXuwyX1oxNCl&show_text=true&width=500”
+        width=“500" height=“723” style=“border:none;overflow:hidden”
+        scrolling=“no” frameborder=“0" allowfullscreen=“true” allow=“autoplay;
+        clipboard-write; encrypted-media; picture-in-picture;
+        web-share”></iframe>
 ---
