@@ -12,12 +12,6 @@ sections:
         - title: Student Info Hub
           description: ""
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
   - infobar:
       title: Facebook
       subtitle: "visit us "
