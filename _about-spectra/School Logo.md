@@ -3,8 +3,6 @@ title: School Logo
 permalink: /about-spectra/school-logo/
 description: ""
 ---
-
-
 ![logo_full](/images/logo_full.png)
 
 Spectra in Latin means Spectrum and it encapsulates our philosophy of recognising the different strengths and talents of our students.
@@ -16,3 +14,4 @@ _Dusk Purple_ represents the School’s commitment to nurture our students to g
 The angled lines converging towards the centre depict a strong community spirit resembling the _kampung_ or “village”, and a reminder that _“It takes a village to raise a child”._
 
 In essence, it represents the School’s commitment to provide multiple platforms to help every student shine to the brightest of their potential.
+
