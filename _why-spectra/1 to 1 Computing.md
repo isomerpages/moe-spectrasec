@@ -3,11 +3,9 @@ title: 1 to 1 Computing
 permalink: /why-spectra/1-to-1-computing/
 description: ""
 ---
-
-
 ![ICT2022](/images/ICT2022.png)
 
-The Spectra 1-to-1 Computing Programme started its inception in 2014. It aims to support the [**Spectra Philosophy in Learning**](https://www.spectra.edu.sg/about-spectra/school-philosophy/). In particular, the belief that every student learns at a different pace.
+The Spectra 1-to-1 Computing Programme started its inception in 2014. It aims to support the [**Spectra Philosophy in Learning**](/about-spectra/school-philosophy/). In particular, the belief that every student learns at a different pace.
 
 To enable this to happen, all students will need a laptop for their learning. This device can be used to access SLS, learning materials, instructional videos, self-assessed questions to attain mastery, and the Internet to pursue other areas of interest. These resources allow the teacher to assign differentiated instructions and work to different students, customised to their learning needs. More able students can thus move ahead while the weaker ones can spend more time practising to master the current chapter.
 
