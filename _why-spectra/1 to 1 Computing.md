@@ -15,14 +15,14 @@ _**For more details on Spectra PLD 1:1 Computing, click [HERE](https://sites.go
 
 
 
-### Funding for Students
+##### Funding for Students
 
 The cost of the device bundle can be paid using the **student’s Edusave** account, after setting aside a provision for payment of second-tier miscellaneous fees.
 
 To ensure the affordability of devices, there was a one-time Edusave top-up of $200 in April 2020 to support the purchase of the device. This is on top of the annual $290 credited into the Edusave account for Secondary School students. 
 
 
-### Financial Assistance Support:
+##### Financial Assistance Support:
 
 *   For students on MOE-FAS, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket (OOP) will be $0.
 *   For students on non-MOE-FAS, subsidies are available such that the maximum OOP will be $50.
@@ -31,7 +31,7 @@ To ensure the affordability of devices, there was a one-time Edusave top-up of $
 More information will be shared in January 2021, when MOE provides schools with more details.
 
 
-### Supporting Parents to Support their Child
+##### Supporting Parents to Support their Child
 
 As parents, you play an important part in ensuring that your child, continues to learn to be respectful, safe, and responsible users of technology. Some simple tips include:
 
@@ -50,7 +50,7 @@ To support you in keeping your child safe online, you may refer to these resourc
 6.  [help123.sg](http://help123.sg/)
 
 
-### Minimum Laptop Specifications
+##### Minimum Laptop Specifications
 
 *   Intel® Core™ i5-10210U Processor 1.6GHz
 *   Windows 10 Home (64 Bit) Operating System
