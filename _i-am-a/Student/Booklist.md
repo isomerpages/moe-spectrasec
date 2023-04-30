@@ -4,7 +4,7 @@ permalink: /i-am-a/student/booklist/
 description: ""
 third_nav_title: Student
 ---
-**SCHEDULE FOR SALES OF TEXTBOOKS AND UNIFORMS IN SCHOOL**
+##### **SCHEDULE FOR SALES OF TEXTBOOKS AND UNIFORMS IN SCHOOL**
 
 Time: 9.00am to 4.00pm  
 Closed on Saturdays, Sundays, Eve of Public Holidays and Public Holidays.
@@ -14,8 +14,8 @@ Closed on Saturdays, Sundays, Eve of Public Holidays and Public Holidays.
 20 to 22 December 2022 (FAS COLLECTION)
 
 **Sec 3**:  
-1, 2 & 5 December 2022  
-15, 16 & 19 December 2022 (FAS COLLECTION)
+1, 2 &amp; 5 December 2022  
+15, 16 &amp; 19 December 2022 (FAS COLLECTION)
 
 **Sec 4**:  
 28 to 30 November 2022  
