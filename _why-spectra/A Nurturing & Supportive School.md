@@ -3,7 +3,7 @@ title: A Nurturing & Supportive School
 permalink: /why-spectra/a-nurturing-supportive-school/
 description: ""
 ---
-### Dedicated Support for Students
+##### Dedicated Support for Students
 
 At Spectra, class sizes are kept comparatively small with only about 20 students per class. At the lower secondary level, there are two Form Teachers taking care of each class. This enables teachers to get to know our students and their families well to provide customised care and support.
 
@@ -14,7 +14,7 @@ We are also in the process of re-envisioning and renovating our Student Activity
 ![Dedicated Supprt](/images/SH2022.png)
 
 
-### Leadership Opportunities
+##### Leadership Opportunities
 
 At Spectra, we believe in the holistic development of our students. Besides exciting experiential learning opportunities and a myriad of CCA platforms for students to pursue their areas of interest and talent, we also craft opportunities to develop their leadership skills.
 
@@ -26,7 +26,7 @@ This year, our student leaders took the lead in welcoming the Secondary One stud
 
 
 
-### Serving the Community
+##### Serving the Community
 
 At Spectra, our students are also actively involved in Service Learning projects with long-term community partners. Our Secondary Two students plan and conduct programmes for children in the Early Intervention Programme for Infants and Children (EIPIC) at SPD. This year, our students made shoebox activity kits that enhance hand-eye coordination, visual-motor integration and visual processing for the children.
 
