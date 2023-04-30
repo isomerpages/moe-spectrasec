@@ -3,14 +3,14 @@ title: An Excellent Skills–based Education
 permalink: /why-spectra/an-excellent-skills-based-education/
 description: ""
 ---
-### **A Seamless Vocational Education Pathway**
+##### **A Seamless Vocational Education Pathway**
 
 Spectra offers a dual-certification programme: our students will complete and graduate with a **GCE ‘N’ Levels certificate** and an **ITE Skills Subject certificate**. The ITE Skills Subject provides hands-on vocational education in an authentic learning environment for our students.
 
 ![](/images/VE-Pathway-Aug-2022-1024x549.png)
 
 
-### **Vocational Education Programmes**
+##### **Vocational Education Programmes**
 
 Spectra offers the following **5 ITE Skills Subjects (ISS)**:
 
@@ -26,7 +26,7 @@ In the upper secondary programme, students will specialise in two ITE Skills Sub
 
 * * *
 
-### Unique Vocational Education CCAs
+##### Unique Vocational Education CCAs
 
 Spectra also offer opportunities such as learning journeys to ITE campuses, workshops by industry partners, preparation for Early Admission Exercise (EAE) to ITE, and unique CCAs to equip our students for their ITE course of choice.
 
