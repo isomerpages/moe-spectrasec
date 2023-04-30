@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Spectra Secondary School
-description: An Isomer site of the Singapore Government
+title: SPECTRA SECONDARY SCHOOL
+description: Spectra Secondary School Official Website
 image: /images/logo_full.png
 permalink: /
 notification: ""
