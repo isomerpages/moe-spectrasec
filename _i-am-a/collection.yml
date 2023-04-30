@@ -4,7 +4,7 @@ collections:
     order:
       - Student/.keep
       - Student/Student Learning Space.md
-      - Student/PLDs.md
+      - Student/Personal Learning Device.md
       - Student/Fault Reporting & IT Helpdesk.md
       - Student/Booklist.md
       - Student/Co–Curricular Activities.md
