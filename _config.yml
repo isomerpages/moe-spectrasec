@@ -1,9 +1,9 @@
-title: Title
+title: Spectra Secondary School
 url: https://spectra.edu.sg
-favicon: /images/favicon-isomer.ico
+favicon: /images/logo_full.png
 colors:
-  primary-color: "#6031b6"
-  secondary-color: "#649e22"
+  primary-color: "#37196e"
+  secondary-color: "#305407"
   media-colors:
     - title: media-color-one
       color: "#49759a"
@@ -51,8 +51,9 @@ plugins:
   - jekyll-remote-theme
 staging: https://staging.d2vlyv0oi5rmi5.amplifyapp.com
 prod: https://master.d2vlyv0oi5rmi5.amplifyapp.com
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo_full.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
 linkedin-insights: ""
+google_analytics_ga4: ""
