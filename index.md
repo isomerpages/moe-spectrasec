@@ -9,9 +9,9 @@ sections:
   - hero:
       background: /images/spectrahome.gif
       key_highlights:
-        - title: Student Info Hub
+        - title: ""
           description: ""
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/
+          url: ""
   - infobar:
       title: Facebook
       subtitle: "visit us "
