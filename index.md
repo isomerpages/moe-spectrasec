@@ -8,10 +8,6 @@ notification: ""
 sections:
   - hero:
       background: /images/spectrahome.gif
-      key_highlights:
-        - title: ""
-          description: ""
-          url: ""
   - infobar:
       title: Facebook
       subtitle: "visit us "
