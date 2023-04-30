@@ -3,50 +3,50 @@ title: Facilities
 permalink: /about-spectra/facilities/
 description: ""
 ---
-### **Bistro**  
+##### **Bistro**
 ![](/images/Bistro.jpg)
 
-### **Booktique**  
+##### **Booktique**  
 ![](/images/Booktique.jpg)
 
-### **Bready Beans**  
+##### **Bready Beans**  
 ![](/images/BreadBeans.jpg)
 
-### **eCommerce**  
+##### **eCommerce**  
 ![](/images/eCommerce.jpg)
 
-### **Edible Learning Garden**  
+##### **Edible Learning Garden**  
 ![](/images/ELG.jpg)
 
-### **Escape Room**  
+##### **Escape Room**  
 ![](/images/EscapeRoom.jpg)
 
-### **Green Room**  
+##### **Green Room**  
 ![](/images/GreenRoom.jpg)
 
-### **IoTA Studios**  
+##### **IoTA Studios**  
 ![](/images/IoTA.jpg)
 
-### **MWA Studios**  
+##### **MWA Studios**  
 ![](/images/MWAStudios.jpg)
 
-### **Pneumatic Studios**  
+##### **Pneumatic Studios**  
 ![](/images/PneumaticStudio.jpg)
 
-### **Science Lab**  
+##### **Science Lab**  
 ![](/images/ScienceLab.jpg)
 
-### **Student Hub**  
+##### **Student Hub**  
 ![](/images/StudentHub.jpg)
 
-### **Amphitheatre**  
+##### **Amphitheatre**  
 ![](/images/Amphitheatre.jpg)
 
-### **Chill Pods**  
+##### **Chill Pods**  
 ![](/images/ChillPods.jpg)
 
-### **Games Room**  
+##### **Games Room**  
 ![](/images/GamesRoom.jpg)
 
-### **Gym**  
+##### **Gym**  
 ![](/images/Gym.jpg)
