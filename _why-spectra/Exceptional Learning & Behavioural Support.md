@@ -3,7 +3,7 @@ title: Exceptional Learning & Behavioural Support
 permalink: /why-spectra/exceptional-learning-behavioural-support/
 description: ""
 ---
-### Literacy, Numeracy and Behavioural Programme
+##### Literacy, Numeracy and Behavioural Programme
 
 At Spectra, we have a dedicated **Learning Support Unit** that coordinates programmes with a focus on providing literacy, numeracy and behavioural support via a **3-Tier System of Support**. We have committed coaches who provide customised specialist support for our Tier 3 students at the lower secondary levels.
 
@@ -18,9 +18,9 @@ At Spectra, we have a dedicated **Learning Support Unit** that coordinates pro
 ![CSULSU2022](/images/CSULSU2022.png)
 
 
-### **Reading Wednesdays**
+##### **Reading Programme**
 
-At Spectra, we believe that reading is the key to increasing the literacy levels of our students. Reading Wednesdays is a **weekly school-wide platform** where students and teachers read and participate in reading-related activities.
+At Spectra, we believe that reading is the key to increasing the literacy levels of our students. Reading programme is a **weekly school-wide platform** where students and teachers read and participate in reading-related activities.
 
 This whole-school approach towards reading supports students in developing positive reading habits and discovering books that are of interest to them based on their respective reading levels. Students have access to the **Spectra Reading List** as well as **NLB Overdrive** for an extensive collection of reading materials.
 
@@ -30,7 +30,7 @@ Our English Language department also actively promotes reading among the student
 
 
 
-### Volunteer Reading Programme
+##### Volunteer Reading Programme
 
 Besides Literacy coaches who work with our lower secondary students, we also have experienced volunteers who are retired English language teachers, literacy coaches or parents to support our Secondary Three students in small groups via face-to-face or online platforms. Our volunteers engage students in various reading and speaking activities to pique and further develop their confidence and interest in literacy.
 
@@ -40,7 +40,7 @@ We are very thankful for all the care and effort that our volunteers have put in
 
 
 
-### Professional Development for Spectra Teachers
+##### Professional Development for Spectra Teachers
 
 At Spectra, we believe that caring and skilful teachers are key in enabling students to build strong foundations in literacy and numeracy, sharpening their skills in vocational training and digital technology as well as nurturing independent and responsible citizens of good character.
 
