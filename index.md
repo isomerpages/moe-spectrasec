@@ -10,7 +10,7 @@ sections:
       background: /images/homepage background.gif
   - infobar:
       subtitle: ANNOUNCEMENTS
-      description: SPECTRA YEARBOOK 2022
+      description: Spectra Yearbook 2022
       button: Click here
       url: https://drive.google.com/file/d/1TklGHik6N5FFafEHpfGQiobItfrI8pc7/view?usp=sharing
   - infobar:
