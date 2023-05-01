@@ -17,4 +17,6 @@ sections:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 64660775 | Fax:
         64623928 | Email: spectra@schools.gov.sg"
+      button: map
+      url: https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.3.1/images/marker-icon-2x.png
 ---
