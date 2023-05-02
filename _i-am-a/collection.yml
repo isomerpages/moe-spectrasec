@@ -2,7 +2,6 @@ collections:
   i-am-a:
     output: true
     order:
-      - Prospective Staff.md
       - Student/.keep
       - Student/Student Learning Space.md
       - Student/Personal Learning Device.md
@@ -19,3 +18,4 @@ collections:
       - Teacher/Useful Links.md
       - Teacher/Cyber Wellness Support (Teachers).md
       - Prospective Student.md
+      - Prospective Staff.md
