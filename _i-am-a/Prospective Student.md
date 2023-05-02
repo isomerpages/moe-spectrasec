@@ -3,7 +3,7 @@ title: Prospective Student
 permalink: /i-am-a/prospective-student/
 description: ""
 ---
-## Spectra Open House Registration
+#### Spectra Open House Registration
 
 
 **23 – 26 November 2022**
@@ -12,10 +12,10 @@ Students may submit their applications via email or directly to the SSS Admin Of
 
 Click&nbsp;**[HERE](https://forms.moe.edu.sg/forms/J7Wq8J)**&nbsp;to register your interest.
 
-## [Spectra Brochure](/about-spectra/spectra-brochure/)
+#### [Spectra Brochure](/about-spectra/spectra-brochure/)
 
-## [Spectra Videos](/about-spectra/spectra-videos/)
-## Co-Curricular Activities
+#### [Spectra Videos](/about-spectra/spectra-videos/)
+#### Co-Curricular Activities
 
 
 Co-Curricular Activities (CCA) is an important component of character education in Spectra Secondary School, and forms a part of the holistic, well-rounded education that we seek to provide our students.
