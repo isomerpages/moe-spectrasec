@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage background.gif
+      background: /images/homepage hero image.gif
   - infobar:
       subtitle: ANNOUNCEMENTS
       description: Spectra Yearbook 2022
