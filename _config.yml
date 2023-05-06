@@ -2,13 +2,13 @@ title: Spectra Secondary School
 url: https://spectra.edu.sg
 favicon: /images/logo_full.png
 colors:
-  primary-color: "#37196e"
+  primary-color: "#3e006d"
   secondary-color: "#006b51"
   media-colors:
     - title: media-color-one
-      color: "#37196e"
+      color: "#3e006d"
     - title: media-color-two
-      color: "#37196e"
+      color: "#3e006d"
     - title: media-color-three
       color: "#006b51"
     - title: media-color-four
