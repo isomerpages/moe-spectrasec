@@ -29,6 +29,7 @@ Co-Curricular Activities (CCA) is an important component of character education 
 *   Every student is expected to be committed and contribute actively to his/ her CCA that he/ she has chosen.
 *   Students may seek approval from HOD PE and CCA to take up a second CCA in school.
 
+***
 ##### **CCA @ Spectra**
 
 Spectra offer CCA from 4 different groups namely the Uniformed Groups (UG), Visual and Performing Arts (VPA) Groups, Physical Sports or Clubs and Societies (C&amp;S)
@@ -42,8 +43,9 @@ Spectra offer CCA from 4 different groups namely the Uniformed Groups (UG), Visu
 **Transfer of CCA**
 
 All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
+***
 
-**Awards**
+##### **Awards**
 
 **1\. EAGLES Award:**
 
