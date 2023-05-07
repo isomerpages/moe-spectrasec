@@ -43,7 +43,7 @@ Co-Curricular Activities (CCA) is an important component of character education 
 *   Absence from CCA must be supported by medical certificates or parents’ letters, which must be submitted to the CCA teacher promptly.
 *   Every student is expected to be committed and contribute actively to his/ her CCA that he/ she has chosen.
 *   Students may seek approval from HOD PE and CCA to take up a second CCA in school.
-
+***
 ##### **CCA @ Spectra**
 
 Spectra offer CCA from 4 different groups namely the Uniformed Groups (UG), Visual and Performing Arts (VPA) Groups, Physical Sports or Clubs and Societies (C&amp;S)
