@@ -20,5 +20,3 @@ If you need help on Cyber Wellness issues, you can either:
 *   Consult your child’s form teacher or ICT teachers
 *   Visit [https://www.betterinternet.sg/](https://www.betterinternet.sg/)
 *   Visit [https://www.facebook.com/MediaLiteracyCouncilSG/](https://www.facebook.com/MediaLiteracyCouncilSG/)
-*   Visit [https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness](https://www.moe.gov.sg/education/programmes/social-and-emotional-learning/cyber-wellness)
-*   Visit [https://ictconnection.moe.edu.sg/cyber-wellness/for-parents](https://ictconnection.moe.edu.sg/cyber-wellness/for-parents)
