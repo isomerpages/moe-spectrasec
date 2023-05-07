@@ -3,7 +3,7 @@ title: Careers
 permalink: /about-spectra/permalink/
 description: ""
 ---
-#### Careers
+##### **Careers**
 
 A career at Spectra requires a deep passion to serve others coupled with professional pride and competence.  If you are a highly motivated and engaging individual who wants to contribute to the holistic development of students, please write to us.  
 
