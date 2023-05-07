@@ -21,6 +21,6 @@ Erlyyani Binte Mohammad Sharin (S1-7), Hannah Edrynna Binte Arshad (S1-2), Nursh
 
 ![](/images/Puan_Aishah_Award-150x150.jpeg)
 
-<img height="auto" width="100px" src="/images/Puan_Aishah_Award-150x150.jpeg">
+<img height="150px" width="150px" src="/images/Puan_Aishah_Award-150x150.jpeg">
 
 The Puan Noor Aishah Award is presented annually in acknowledgement of units for their achievements in the past year. It is presented at 3 levels of achievements – Gold, Silver and Bronze. The award acknowledge the collective efforts of the Guides, Guiders and Unit Helpers. We are proud to announce that Spectra 1st Coy has been awarded Gold for the year 2019. This is a testament of the collective hard and heart work of the unit.
