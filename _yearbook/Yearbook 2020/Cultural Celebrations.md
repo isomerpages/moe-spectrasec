@@ -4,11 +4,11 @@ permalink: /yearbook/yearbook-2020/cultural-celebrations/
 description: ""
 third_nav_title: Yearbook 2020
 ---
-**Turning Adversities Into Innovative Opportunities For Multi-Cultural Learning**
+**Turning Adversities Into Innovative Opportunities&nbsp;For Multi-Cultural Learning**
 
 To nurture the hearts and minds of Spectrans, an integrative and experiential learning approach is taken in designing cultural activities to provide opportunities for deeper appreciation of the languages and cultures linked to it.
 
-To kick start the year, Spectrans were feasted with a colourful Pongal celebration. A massive Pongal display was set up and as a school, our students collectively witnessed the boiling of the harvested rice. As the dish begins to boil and overflow out of the vessel, Spectrans in unison shouted with joy “Pongalo Pongal”!
+To kick start the year, Spectrans were feasted with a colourful Pongal celebration. A massive Pongal display was set up and as a school, our students collectively witnessed the boiling of the harvested rice. As the dish begins to boil and overflow out of the vessel, Spectrans in unison shouted with joy “Pongalo&nbsp;Pongal”!
 
 ![](/images/Ponggal1.jpeg)
 
@@ -30,9 +30,9 @@ During the Chinese New Year celebrations, Spectrans stepped out of our comfort z
 
 **Rethinking Celebrations**
 
-Quelling any uncertainty ushered in by the pandemic, the changes, big and small, inspired the Mother Tongue Languages department to adapt and think about the possibilities of commemorating the various cultural celebrations regardless. Not dampened by the unprecedented circumstances, in the course of brainstorming, the teachers got together virtually to think of ways to bring about the Hari Raya, Mooncake as well as the Deepavali celebrations.
+Quelling any uncertainty ushered in by the pandemic,&nbsp;the changes, big and small, inspired the Mother Tongue Languages department to adapt and think about the possibilities of commemorating the various cultural celebrations regardless. Not dampened by the unprecedented circumstances, in the course of brainstorming, the teachers got together virtually to think of ways to bring about the Hari Raya, Mooncake as well as the Deepavali celebrations.
 
-Even though the Hari Raya Celebrations coincided with the Circuit Breaker period, the learning and celebration were extended beyond the usual sharing of information via the Student Learning Space (SLS). A highly energetic Hari Raya music video that was inspired from the trending Tik Tok ‘Don’t Rush Challenge’ was made possible by the sheer enthusiasm and creativity of many Spectrans and staff who excitedly contributed their videos. These videos were pieced together and was made uniquely Spectra.
+Even though the Hari Raya Celebrations coincided with the Circuit Breaker period, the learning and celebration were extended beyond the usual sharing of information via the Student Learning Space (SLS). A highly energetic Hari Raya music video that was inspired from the trending Tik Tok ‘Don’t Rush Challenge’ was made possible by the sheer enthusiasm and creativity of many Spectrans and staff who excitedly contributed their videos. These videos were pieced together and was&nbsp;made uniquely Spectra.
 
 Through solving quizzes, exploration of creating and sending e-Hari Raya card to friends and families, Spectrans continued to remain engaged as active learners despite the rapid transition to move learning online. Such similar fun-filled e-celebrations and e-activities continue to take place during the Mooncake (eg. tea appreciation demonstration) and Deepavali celebrations! These e-interactive hands-on-activities struck a chord with our Spectrans.
 
@@ -45,6 +45,3 @@ Through solving quizzes, exploration of creating and sending e-Hari Raya card to
 The engaging e-celebrations extravaganza continued to allow Spectrans to explore and stimulate interest to learn more about the different cultural celebrations as well as understanding and accepting of its traditions. More importantly, in view of the COVID-19 threat, Spectrans learnt to exercise social responsibility and recognize their role to be very mindful of how they can celebrate these momentous events safely and responsibly.
 
 While embracing the volatility of the COVID-19 situation, it is with hope that moving the celebrations virtually will inspire Spectrans to appreciate the virtue of adaptability, have the courage to persevere and face challenges positively as we continue to be ready to confront the new-normal.
-
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/IS7Suc_i-rk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
