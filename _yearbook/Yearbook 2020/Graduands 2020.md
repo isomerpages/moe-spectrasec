@@ -19,18 +19,16 @@ Secondary 4 Year Head**
 
 <img style="width:600px" src="/images/our-graduands-4-1.png">
 
-![](/images/our-graduands-4-1.png)
+<img style="width:600px" src="/images/our-graduands-4-2.png">
 
-![](/images/our-graduands-4-2.png)
+<img style="width:600px" src="/images/our-graduands-4-3.png">
 
-![](/images/our-graduands-4-3.png)
+<img style="width:600px" src="/images/our-graduands-4-4.png">
 
-![](/images/our-graduands-4-4.png)
+<img style="width:600px" src="/images/our-graduands-4-5.png">
 
-![](/images/our-graduands-4-5.png)
+<img style="width:600px" src="/images/our-graduands-4-6.png">
 
-![](/images/our-graduands-4-6.png)
+<img style="width:600px" src="/images/our-graduands-4-7.png">
 
-![](/images/our-graduands-4-7.png)
-
-![](/images/our-graduands-4-8.png)
+<img style="width:600px" src="/images/our-graduands-4-8.png">
