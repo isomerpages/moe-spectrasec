@@ -16,14 +16,14 @@ This 2020 Student Council Investiture was challenging but nonetheless memorable!
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/CHLsxNBWOik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-### Sec 3 Student Councillors
+##### **Sec 3 Student Councillors**
 With a new year, comes a new batch of student councillors. Let’s welcome the members of the Student Council 2020.
 
 ![](/images/SC_Girls.png)
 
 ![](/images/SC_Boys.png)
 
-### Sec 4 Student Councillors
+##### **Sec 4 Student Councillors**
 Our graduating Secondary 4 student councillors have served the school since 2018. This tribute video is a token of our appreciation for all their contributions and services.
 
 ![](/images/Student_Councillors-1024x683.jpg)
