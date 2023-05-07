@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Student
 ---
 ##### [Login Here](https://vle.learning.moe.edu.sg/login)
-<img style="width:400px" src="/images/sls%20logo.png">
+<a target="new" href="https://vle.learning.moe.edu.sg/login"><img style="width:300px" src="/images/sls%20logo.png"></a>
