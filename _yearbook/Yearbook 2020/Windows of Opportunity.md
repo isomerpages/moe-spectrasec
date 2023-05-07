@@ -8,7 +8,7 @@ These students chose to take up the opportunities presented to them and have bee
 
 **All Singapore Secondary Mathematics Competition For Normal Course Students**
 
-Our school participated in the&nbsp;All Singapore Secondary Mathematics Competition For Normal Course Students in 2019 and 2020, and&nbsp;Lim Kai Jie Bryan emerged the top 20 winner for&nbsp;both years. Bryan has always enjoyed solving challenging Mathematics problems and puzzles. He knows that through the process of trying to find a solution, he will be able to broaden his knowledge and sharpen&nbsp;his skills. Bryan looks forward to solving more challenging problems so that he could apply his current knowledge and at the same time see a problem in a different perspective.
+Our school participated in the All Singapore Secondary Mathematics Competition For Normal Course Students in 2019 and 2020, and Lim Kai Jie Bryan emerged the top 20 winner for both years. Bryan has always enjoyed solving challenging Mathematics problems and puzzles. He knows that through the process of trying to find a solution, he will be able to broaden his knowledge and sharpen his skills. Bryan looks forward to solving more challenging problems so that he could apply his current knowledge and at the same time see a problem in a different perspective.
 
 **SYFBeatstheBug (SYFgoesOnline! 2020)**
 
