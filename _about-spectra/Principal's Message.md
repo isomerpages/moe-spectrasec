@@ -15,5 +15,5 @@ Let us continue to do good and celebrate the good! Let us love Spectra and hold 
 
 _Together We Can!_
 
-Teck Hock, Tan
+Tan Teck Hock  
 Principal
