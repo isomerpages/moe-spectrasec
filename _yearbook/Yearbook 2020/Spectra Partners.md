@@ -12,8 +12,6 @@ Among others, the PSG aims to promote strong parent-child bonding through parent
 
 ![](/images/spectrapartners2.jpg)
 
-![](/images/spectrapartners1.jpg)
-
 ![](/images/spectrapartners3.jpg)
 
 To ensure that our students also stay ahead in preparing themselves for work and life, the school has also partnered with various organisations to bring about authentic learning experiences to the students. As part of our effort towards Education and Career Guidance (ECG), our Secondary 4 students attended a learning journey cum cooking workshop at the Institute of Technical Education (ITE) School of Hospitality to expose them to possible post-secondary educational pathways. Similarly, the school piloted a partnership with EY Singapore to organise Zoom workshops for our graduating students from 15 to 19 June to prepare them for the ITE Early Admission Exercise (EAE). Through the sessions, the students were equipped with tips on how to ace their interviews, giving them an edge during the application process.
