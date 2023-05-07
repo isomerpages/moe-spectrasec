@@ -14,11 +14,11 @@ Spectra offers a dual-certification programme: our students will complete and gr
 
 Spectra offers the following **5 ITE Skills Subjects (ISS)**:
 
-1.  **Culinary & Restaurant Operations (CRO)**
-2.  **Internet of Things Applications (IOTA)**
-3.  **Mobile Web Applications (MWA)**
-4.  **Mechanical Design & Automation (MDA)**
-5.  **Retail and e-Commerce (REC)**
+* **Culinary & Restaurant Operations (CRO)**
+* **Internet of Things Applications (IOTA)**
+* **Mobile Web Applications (MWA)**
+* **Mechanical Design & Automation (MDA)**
+* **Retail and e-Commerce (REC)**
 
 At lower secondary levels, students are exposed to Vocational Education course tasters that prepare them for the full range of  ITE Skills Subject offerings.
 
@@ -26,7 +26,7 @@ In the upper secondary programme, students will specialise in two ITE Skills Sub
 
 * * *
 
-##### Unique Vocational Education CCAs
+##### **Unique Vocational Education CCAs**
 
 Spectra also offer opportunities such as learning journeys to ITE campuses, workshops by industry partners, preparation for Early Admission Exercise (EAE) to ITE, and unique CCAs to equip our students for their ITE course of choice.
 
