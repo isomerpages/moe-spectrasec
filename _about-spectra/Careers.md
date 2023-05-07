@@ -14,4 +14,4 @@ A career at Spectra requires a deep passion to serve others coupled with profess
 
 **HOW TO APPLY**
 
-Email a detailed CV to [toh\_sook\_wei@schools.gov.sg](mailto:toh_sook_wei@schools.gov.sg) and [rachael_osborne_koong_li@schools.gov.sg](mailto:rachael_osborne_koong_li@schools.gov.sg) that includes a recent photograph, academic and professional qualifications, and relevant work experiences. We regret that only shortlisted candidates will be notified.
+Email a detailed CV to toh_sook_wei@schools.gov.sg and rachael_osborne_koong_li@schools.gov.sg that includes a recent photograph, academic and professional qualifications, and relevant work experiences. We regret that only shortlisted candidates will be notified.
