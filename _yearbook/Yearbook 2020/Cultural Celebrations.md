@@ -4,7 +4,7 @@ permalink: /yearbook/yearbook-2020/cultural-celebrations/
 description: ""
 third_nav_title: Yearbook 2020
 ---
-**Turning Adversities Into Innovative Opportunities&nbsp;For Multi-Cultural Learning**
+##### **Turning Adversities Into Innovative Opportunities&nbsp;For Multi-Cultural Learning**
 
 To nurture the hearts and minds of Spectrans, an integrative and experiential learning approach is taken in designing cultural activities to provide opportunities for deeper appreciation of the languages and cultures linked to it.
 
@@ -28,7 +28,7 @@ During the Chinese New Year celebrations, Spectrans stepped out of our comfort z
 
 ![](/images/CNY2.jpg)
 
-**Rethinking Celebrations**
+##### **Rethinking Celebrations**
 
 Quelling any uncertainty ushered in by the pandemic,&nbsp;the changes, big and small, inspired the Mother Tongue Languages department to adapt and think about the possibilities of commemorating the various cultural celebrations regardless. Not dampened by the unprecedented circumstances, in the course of brainstorming, the teachers got together virtually to think of ways to bring about the Hari Raya, Mooncake as well as the Deepavali celebrations.
 
