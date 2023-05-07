@@ -5,4 +5,4 @@ description: ""
 third_nav_title: Student
 ---
 ##### [Singpass Link](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/singpass-registration?pli=1)
-![](/images/singpass-logo-new.png)
+<img style="width:400px" src="/images/singpass-logo-new.png">
