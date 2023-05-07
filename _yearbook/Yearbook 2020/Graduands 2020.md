@@ -16,3 +16,19 @@ With much love,
 
 **Ms Germaine  
 Secondary 4 Year Head**
+
+![](/images/our-graduands-4-1.png)
+
+![](/images/our-graduands-4-2.png)
+
+![](/images/our-graduands-4-3.png)
+
+![](/images/our-graduands-4-4.png)
+
+![](/images/our-graduands-4-5.png)
+
+![](/images/our-graduands-4-6.png)
+
+![](/images/our-graduands-4-7.png)
+
+![](/images/our-graduands-4-8.png)
