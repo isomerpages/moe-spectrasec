@@ -4,13 +4,13 @@ permalink: /yearbook/yearbook-2020/the-road-not-taken/
 description: ""
 third_nav_title: Yearbook 2020
 ---
-Pandemic or not, Home-Based Learning (HBL) is an inevitable reality in today’s educational landscape. HBL allows teachers and students to leverage on technology which will enable learning accessibility more flexibly. This digital enabled learning experience will provide opportunities for an autonomous, self-directed learning to take place.
+Pandemic or not, Home-Based Learning (HBL) is an inevitable reality in today’s educational landscape. HBL allows teachers and students to leverage on technology which will enable&nbsp;learning accessibility more flexibly. This digital enabled learning experience will provide opportunities for an autonomous, self-directed learning to take place.
 
 **HBL – From the Lenses of the Students**
 
 Who says learning can’t be fun?
 
-A light-hearted video to share how a typical day of Spectrans during HBL was like.
+A light-hearted video to share how&nbsp;a typical day of Spectrans during HBL was like.
 
 **HBL – English Lessons**
 
@@ -26,12 +26,12 @@ In school, we utilise the wide variety of physical books, newspapers and magazin
 
 **HBL – Math Lessons**
 
-A Math lesson without the whiteboard or the visualiser? We too thought it was unimaginable until we discovered the Wacom tablet. The Wacom tablet simulated the writing Math teachers do on physical worksheets and whiteboards. Compatible with popular platforms like Word, PowerPoint and Paint, Wacom allowed us to effectively replace our traditional tools. The Wacom pen made the hassle of typing and inserting equations disappear too. With HBL, the digital Math classroom was born.
+A Math&nbsp;lesson without the whiteboard or the visualiser? We too thought it was unimaginable until we discovered the Wacom tablet. The Wacom tablet simulated the writing Math&nbsp;teachers do on physical worksheets and whiteboards. Compatible with popular platforms like Word, PowerPoint and Paint, Wacom allowed us to effectively replace our traditional tools. The Wacom pen made the hassle of typing and inserting equations disappear too. With HBL, the digital Math&nbsp;classroom was born.
 
 ![](/images/HBL_Math-e1603541874681-1021x1024.jpg)
 
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/qMqygQCN1uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/qMqygQCN1uM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 **HBL – PE Lessons**
 
