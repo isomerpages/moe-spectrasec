@@ -6,7 +6,7 @@ third_nav_title: Parent
 ---
 ![](/images/PSG-2022-28-July-02-1024x682.png)
 
-##### Our PSG
+##### **Our PSG**
 Parents are a very important part of the SPECTRA family. The SPECTRA **Parents Support Group (PSG)** was set up because we believe that both the parents and teachers have important and complementary roles to play in the upbringing of the children. Today, as children spend long hours in school for both academic and co-curricular activities, it is more crucial that parents partner the school in inculcating a common set of values in them.
 
 ##### **Objectives**
