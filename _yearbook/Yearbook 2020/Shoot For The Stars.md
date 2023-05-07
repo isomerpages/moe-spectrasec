@@ -14,7 +14,7 @@ The production would not have gone so smoothly without the support of production
 
 Well done, team!
 
-**Overall Academic Excellence Sec 1**
+##### **Overall Academic Excellence Sec 1**
 
 <table class="tg">
 <thead>
@@ -30,7 +30,7 @@ Well done, team!
 </table>
 
 
-**Overall Academic Excellence Sec 2**
+##### **Overall Academic Excellence Sec 2**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -52,7 +52,7 @@ Well done, team!
 </thead>
 </table>
 
-**Overall Academic Excellence Sec 3**
+##### **Overall Academic Excellence Sec 3**
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
@@ -72,7 +72,7 @@ Well done, team!
 </thead>
 </table>
 
-**Our Student Council Productions: Roll Call and Stories from Prize Winners**
+##### **Our Student Council Productions: Roll Call and Stories from Prize Winners**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/D19tVWMfulU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
