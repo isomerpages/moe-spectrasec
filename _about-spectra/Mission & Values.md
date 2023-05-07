@@ -5,11 +5,11 @@ description: ""
 ---
 ##### **Our Vision**
 
-_**Every Spectran equipped to lead a fulfilling life.**_&nbsp;
+_Every Spectran equipped to lead a fulfilling life._&nbsp;
 
 ##### **Our Mission**
 
-**_Provide an engaged learning experience that prepares every Spectran for work and life._**
+_Provide an engaged learning experience that prepares every Spectran for work and life._
 
 ##### **Our Motto**
 
