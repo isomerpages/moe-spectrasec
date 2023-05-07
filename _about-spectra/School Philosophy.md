@@ -4,7 +4,6 @@ permalink: /about-spectra/school-philosophy/
 description: ""
 ---
 ##### **General Philosophy in Learning**
-
 ![chart](/images/chart-1024x712.jpg)
 
 ##### **Teaching Philosophy of Spectra**
