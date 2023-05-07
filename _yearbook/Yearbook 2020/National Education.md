@@ -22,7 +22,7 @@ Nevertheless, the significance of these events were not lost among our students,
 
 ![](/images/NationalDay7.jpg)
 
-**National Day Celebrations**
+##### **National Day Celebrations**
 
 This year’s National Day began with an e-Parade, which culminated with the recitation of the Recollections in class. The Secondary 1 and 4 students designed mosaic art pieces on coasters to show our appreciation towards Singapore, while our Secondary 2 and 3 students played hosts to our Serving Learning partners by conducting interactive games and activities via online platforms. As a school, we also prepared Care Packs that were handed out to our various partners and migrant workers who have played a key role in our country’s nation-building.
 
@@ -44,6 +44,6 @@ This year’s National Day began with an e-Parade, which culminated with the rec
 
 ![](/images/NationalDay15.jpg)
 
-**Project Zentangle Art**
+##### **Project Zentangle Art**
 
 ![](/images/Zentangle1.png)
