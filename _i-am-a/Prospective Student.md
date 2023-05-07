@@ -12,7 +12,7 @@ Students may submit their applications via email or directly to the SSS Admin Of
 
 Click&nbsp;**[HERE](https://forms.moe.edu.sg/forms/J7Wq8J)**&nbsp;to register your interest.
 
-##### [Spectra Brochure](/about-spectra/spectra-brochure/)
+##### [Spectra Brochure](https://drive.google.com/file/d/1jYFkm00n_6zWPT8SLSDtE3akO3ZQlNqB/view?usp=share_link)
 
 ##### [Spectra Videos](/about-spectra/spectra-videos/)
 ***
