@@ -3,7 +3,7 @@ title: Prospective Staff
 permalink: /i-am-a/permalink/
 description: ""
 ---
-#### Prospective Staff
+#### **Prospective Staff**
 
 A career at Spectra requires a deep passion to serve others coupled with professional pride and competence.  If you are a highly motivated and engaging individual who wants to contribute to the holistic development of students, please write to us.  
 
