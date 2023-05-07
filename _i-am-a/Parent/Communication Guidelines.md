@@ -5,3 +5,5 @@ description: ""
 third_nav_title: Parent
 ---
 ##### Parent-Staff Communication Guidelines
+
+[](/files/ParentStaffCommunicationGuidelines.pdf)
