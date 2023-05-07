@@ -2,7 +2,6 @@ collections:
   about-spectra:
     output: true
     order:
-      - Facebook.md
       - Principal's Message.md
       - School Philosophy.md
       - School Info.md
@@ -13,4 +12,5 @@ collections:
       - Spectra Videos.md
       - Facilities.md
       - Careers.md
+      - Facebook.md
       - Contact Us.md
