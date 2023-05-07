@@ -27,5 +27,3 @@ With a new year, comes a new batch of student councillors. Let’s welcome the m
 Our graduating Secondary 4 student councillors have served the school since 2018. This tribute video is a token of our appreciation for all their contributions and services.
 
 ![](/images/Student_Councillors-1024x683.jpg)
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Sec 4 Student Councillors" src="https://www.youtube.com/embed/Qvsqzj2Es28" height="361" width="642"></iframe>
