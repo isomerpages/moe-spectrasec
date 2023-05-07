@@ -3,7 +3,7 @@ title: Unique Instructional Programmes
 permalink: /why-spectra/unique-instructional-programmes/
 description: ""
 ---
-##### Garden-Based Service Learning (GBSL)
+##### **Garden-Based Service Learning (GBSL)**
 
 Garden-based Service Learning (GBSL) is part of our enrichment curriculum where students get first-hand experience in growing edible plants from seed to harvest in our **Spectra Edible Learning Garden**. Students not only learn about values such as responsibility and resilience, they also gain greater awareness of environmental conservation and food sustainability.
 
@@ -14,7 +14,7 @@ The GBSL programme is not just about growing edible plants, it is also about inc
 ![Gbsl2022](/images/GBSL2022.png)
 
 
-##### Learning Through Immersive Play
+##### **Learning Through Immersive Play**
 
 At Spectra, our students enjoy learning by working in teams to help each other solve problems together. Our teachers are constantly exploring new ways to provide exciting and engaging experiential learning opportunities to motivate students.
 
