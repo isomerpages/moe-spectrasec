@@ -12,15 +12,14 @@ To enable this to happen, all students will need a laptop for their learning. Th
 In March 2020, MOE announced that all Secondary School Students will embark on the **NDLP** (**National Digital Literacy Programme**). The NDLP will enable all students to own a digital learning device that enables them to be self-directed in their learning and explore their interests during HBL (home-based learning). In June 2020, then Minister of Education, Mr Ong Ye Kung announced that the NDLP will be brought forward to 2021. Hence all Secondary School students will own a personalised device for personalised learning by the end of 2021.
 
 _**For more details on Spectra PLD 1:1 Computing, click [HERE](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld?authuser=0).**_
-
-
+***
 
 ##### **Funding for Students**
 
 The cost of the device bundle can be paid using the **student’s Edusave** account, after setting aside a provision for payment of second-tier miscellaneous fees.
 
 To ensure the affordability of devices, there was a one-time Edusave top-up of $200 in April 2020 to support the purchase of the device. This is on top of the annual $290 credited into the Edusave account for Secondary School students. 
-
+***
 
 ##### **Financial Assistance Support**
 
@@ -29,7 +28,7 @@ To ensure the affordability of devices, there was a one-time Edusave top-up of $
 *   Financial assistance is also available for Permanent residents (PR) and International Students (IS) who need support.
 
 More information will be shared in January 2021, when MOE provides schools with more details.
-
+***
 
 ##### **Supporting Parents to Support their Child**
 
@@ -42,13 +41,13 @@ As parents, you play an important part in ensuring that your child, continues to
 
 To support you in keeping your child safe online, you may refer to these resources:
 
-1.  [MOE Handbook (I) for 1-to-1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
-2.  [MOE Cyber Wellness site](http://go.gov.sg/moe-cyber-wellness)
-3.  [MOE Cyber Wellness Programme](http://go.gov.sg/beta.moe.gov.sg/programmes/cyber-wellness/)
-4.  [Better Internet Singapore](http://go.gov.sg/better-internet-sg)
-5.  [NLB SURE site (identifying fake news)](http://sure.nlb.gov.sg/)
-6.  [help123.sg](http://help123.sg/)
-
+* [MOE Handbook (I) for 1-to-1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
+* [MOE Cyber Wellness site](http://go.gov.sg/moe-cyber-wellness)
+* [MOE Cyber Wellness Programme](http://go.gov.sg/beta.moe.gov.sg/programmes/cyber-wellness/)
+* [Better Internet Singapore](http://go.gov.sg/better-internet-sg)
+* [NLB SURE site (identifying fake news)](http://sure.nlb.gov.sg/)
+* [help123.sg](http://help123.sg/)
+***
 
 ##### **Minimum Laptop Specifications**
 
