@@ -46,8 +46,6 @@ Students played with line and color inspired by Pablo Picasso’s Cubism and 
 
 ![](/images/By-S1-5-SOPHIA-SHASMEEN-BINTE-SAZALI.jpg "By S1 5 Sophia Shasmeen Binte Sazali")
 
-[![](https://www.spectra.edu.sg/yearbook/yearbook-2020/memoir/student-gallery/)](https://www.spectra.edu.sg/wp-content/uploads/2020/10/By-S1-6-NURUL-HUMAIRA-BINTE-JAMALUDDIN.jpg "By S1 6 Nurul Humaira Binte Jamaluddin")
-
 ![](/images/By-S1-6-MUHAMMAD-DANISH-IRFAN-BIN-KHAIRUL-ARIFFIN.jpg "By S1 6 Muhammad Danish Irfan Bin Khairul Ariffin")
 
 ![](/images/By-S1-4-MUHAMMAD-ZULAFFIQKIN-BIN-MUHAMMAD-KHALID.jpg "By S1 4 Muhammad Zulaffiqkin Bin Muhammad Khalid")
