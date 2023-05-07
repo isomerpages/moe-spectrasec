@@ -3,7 +3,7 @@ title: Prospective Student
 permalink: /i-am-a/prospective-student/
 description: ""
 ---
-#### Spectra Open House Registration
+##### **Spectra Open House Registration**
 
 
 **23 – 26 November 2022**
@@ -12,10 +12,11 @@ Students may submit their applications via email or directly to the SSS Admin Of
 
 Click&nbsp;**[HERE](https://forms.moe.edu.sg/forms/J7Wq8J)**&nbsp;to register your interest.
 
-#### [Spectra Brochure](/about-spectra/spectra-brochure/)
+##### [Spectra Brochure](/about-spectra/spectra-brochure/)
 
-#### [Spectra Videos](/about-spectra/spectra-videos/)
-#### Co-Curricular Activities
+##### [Spectra Videos](/about-spectra/spectra-videos/)
+***
+##### **Co-Curricular Activities**
 
 
 Co-Curricular Activities (CCA) is an important component of character education in Spectra Secondary School, and forms a part of the holistic, well-rounded education that we seek to provide our students.
@@ -43,7 +44,7 @@ Co-Curricular Activities (CCA) is an important component of character education 
 *   Every student is expected to be committed and contribute actively to his/ her CCA that he/ she has chosen.
 *   Students may seek approval from HOD PE and CCA to take up a second CCA in school.
 
-**CCA @ Spectra**
+##### **CCA @ Spectra**
 
 Spectra offer CCA from 4 different groups namely the Uniformed Groups (UG), Visual and Performing Arts (VPA) Groups, Physical Sports or Clubs and Societies (C&amp;S)
 
@@ -76,4 +77,4 @@ This is given out within each respective CCA. Awards are given at the discretion
 This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms). Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
 
 
-## Immerse in our school's activities and watch our story here: [Spectra Videos](/about-spectra/spectra-videos/)
+##### **Immerse in our school's activities and watch our story here:** [Spectra Videos](/about-spectra/spectra-videos/)
