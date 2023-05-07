@@ -10,8 +10,8 @@ description: ""
 
 Here in Spectra, we have two key beliefs that guide our teaching and learning.
 
-1. Every student wants to learn
-2. Every student learns at a different pace
+* _Every student wants to learn_
+* _Every student learns at a different pace_
 
 ##### **Every student wants to learn**
 
