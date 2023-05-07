@@ -4,10 +4,9 @@ permalink: /yearbook/yearbook-2020/principals-message/
 description: ""
 third_nav_title: Yearbook 2020
 ---
-
 ![](/images/TTH-4418-Edit-1024x683.jpg)
 
-**Principal’s Message – School Annual 2020**
+##### **Principal’s Message – School Annual 2020**
 
 It has been 9 months since the COVID-19 storm swept Singapore and the world. The collective response of Spectra staff, students and parents has been spectacular. As Singaporeans, we played our part to help our nation tide over this crisis.
 
