@@ -10,7 +10,7 @@ Spectra Secondary School is a specialized school for Normal Technical students. 
 
 ![](/images/VE-Customised-Pathways-2.jpg)
 
-### Key Information
+#### Key Information
 
 
 **1\. Non-Financial Information**
