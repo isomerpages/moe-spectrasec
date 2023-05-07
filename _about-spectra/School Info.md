@@ -3,14 +3,13 @@ title: School Info
 permalink: /about-spectra/school-info/
 description: ""
 ---
-#### School Information
-
+#### **School Information**
 
 Spectra Secondary School is a specialized school for Normal Technical students. We admitted&nbsp;our first batch of Secondary One students&nbsp;in January 2014. We will provide a customized and practice-oriented curriculum to suit the learning needs of our students. We will also work closely with the Institute of Technical Education (ITE) and industry partners to develop programmes and attachment opportunities for our students.’Spectra’ represents the school’s philosophy of recognizing the different spectrum of talents and strengths of our students. The school aims to embrace and nurture our young in developing their strengths and instilling self-confidence in all.
 
 ![](/images/VE-Customised-Pathways-2.jpg)
 
-#### Key Information
+#### **Key Information**
 
 
 **1\. Non-Financial Information**
@@ -36,10 +35,10 @@ Please refer to document for details:&nbsp;[Personal Data Protection Guidelines]
 Please refer to document for details:&nbsp;[Whistleblowing Policy](/files/Item-6-SSS-ADM-0002A-Whistleblowing-Policy-Website-Posting-Ver-3.pdf)
 
 
-#### Financial Assistance Scheme (MOE FAS) Information
+##### **Financial Assistance Scheme (MOE FAS) Information**
 
 
-###### MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)
+###### **MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)**
 
 The MOE Financial Assistance Scheme aims to help needy Singaporean students pay for essential school expenses.&nbsp;**With effect from January 2023, the income eligibility criteria will be: Gross Monthly Household Income (GHI) = $3000 or below**&nbsp;OR&nbsp;**Gross Monthly Household Per Capita Income (PCI) = $750 or below**.
 
@@ -53,7 +52,7 @@ The school will review your application and inform you of the outcome.&nbsp; If 
 
 ![MOE FAS 2023](/images/MOE-FAS-2023.png)
 
-#### Helpline Information
+##### **Helpline Information**
 
 
 
