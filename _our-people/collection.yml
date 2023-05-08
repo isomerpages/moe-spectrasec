@@ -1,0 +1,9 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - School Board of Directors.md
+      - School Management Committee.md
+      - Executive & Administrative.md
+      - Instructional Programme & Vocational Education.md
+      - Parent Support Group.md

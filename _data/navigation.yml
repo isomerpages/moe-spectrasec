@@ -1,15 +1,12 @@
-##################################
-#                                #
-# Feel free to edit this file :) #
-#                                #
-##################################
-
-logo: /images/isomer-logo.svg
-
+logo: /images/logo_full.png
 links:
-  - title: Contact Us
-    url: /contact-us/
-  - title: Example Page
-    url: /example-page/
-  - title: Example Folder
-    collection: example-folder
+  - title: ABOUT SPECTRA
+    collection: about-spectra
+  - title: WHY SPECTRA
+    collection: why-spectra
+  - title: OUR PEOPLE
+    collection: our-people
+  - title: I AM A ...
+    collection: i-am-a
+  - title: YEARBOOK
+    collection: yearbook

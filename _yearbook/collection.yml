@@ -1,0 +1,6 @@
+collections:
+  yearbook:
+    output: true
+    order:
+      - Yearbook 2022.md
+      - Yearbook 2021.md

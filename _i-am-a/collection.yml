@@ -1,0 +1,20 @@
+collections:
+  i-am-a:
+    output: true
+    order:
+      - Student/.keep
+      - Student/Student Learning Space.md
+      - Student/Personal Learning Device.md
+      - Student/Booklist.md
+      - Student/Co–Curricular Activities.md
+      - Student/Cyber Wellness Support.md
+      - Student/Singpass Registration.md
+      - Parent/.keep
+      - Parent/Parent Support Group.md
+      - Parent/PDLP.md
+      - Parent/Cyber Wellness Support (Parents).md
+      - Teacher/.keep
+      - Teacher/Useful Links.md
+      - Teacher/Cyber Wellness Support (Teachers).md
+      - Prospective Student.md
+      - Prospective Staff.md
