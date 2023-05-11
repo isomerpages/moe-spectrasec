@@ -22,8 +22,9 @@ Spectra offers the following **5 ITE Skills Subjects (ISS)**:
 
 At lower secondary levels, students are exposed to Vocational Education course tasters that prepare them for the full range of  ITE Skills Subject offerings.
 
-In the upper secondary programme, students will specialise in two ITE Skills Subjects and complete an onsite work attachment via our Industry Experiential Programme (IEP).![2022 IEP Partners](https://www.spectra.edu.sg/wp-content/uploads/2022/10/2022-IEP-Partners.png)
+In the upper secondary programme, students will specialise in two ITE Skills Subjects and complete an onsite work attachment via our Industry Experiential Programme (IEP).
 
+![](/images/industry%20partners.png)
 * * *
 
 ##### **Unique Vocational Education CCAs**
