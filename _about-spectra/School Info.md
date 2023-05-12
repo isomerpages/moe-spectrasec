@@ -5,7 +5,7 @@ description: ""
 ---
 #### **School Information**
 
-Spectra Secondary School is a specialized school for Normal Technical students. We admitted&nbsp;our first batch of Secondary One students&nbsp;in January 2014. We will provide a customized and practice-oriented curriculum to suit the learning needs of our students. We will also work closely with the Institute of Technical Education (ITE) and industry partners to develop programmes and attachment opportunities for our students.’Spectra’ represents the school’s philosophy of recognizing the different spectrum of talents and strengths of our students. The school aims to embrace and nurture our young in developing their strengths and instilling self-confidence in all.
+<p align="justify">Spectra Secondary School is a specialized school for Normal Technical students. We admitted&nbsp;our first batch of Secondary One students&nbsp;in January 2014. We will provide a customized and practice-oriented curriculum to suit the learning needs of our students. We will also work closely with the Institute of Technical Education (ITE) and industry partners to develop programmes and attachment opportunities for our students.’Spectra’ represents the school’s philosophy of recognizing the different spectrum of talents and strengths of our students. The school aims to embrace and nurture our young in developing their strengths and instilling self-confidence in all.</p>
 
 ![](/images/VE-Customised-Pathways-2.jpg)
 
@@ -40,13 +40,13 @@ Please refer to document for details:&nbsp;[Whistleblowing Policy](/files/Item-6
 
 ###### **MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)**
 
-The MOE Financial Assistance Scheme aims to help needy Singaporean students pay for essential school expenses.&nbsp;**With effect from January 2023, the income eligibility criteria will be: Gross Monthly Household Income (GHI) = $3000 or below**&nbsp;OR&nbsp;**Gross Monthly Household Per Capita Income (PCI) = $750 or below**.
+<p align="justify">The MOE Financial Assistance Scheme aims to help needy Singaporean students pay for essential school expenses.&nbsp;**With effect from January 2023, the income eligibility criteria will be: Gross Monthly Household Income (GHI) = $3000 or below**&nbsp;OR&nbsp;**Gross Monthly Household Per Capita Income (PCI) = $750 or below**.</p>
 
-The MOE FAS will provide a full waiver of school fees and standard miscellaneous fees.&nbsp; It will also provide free textbooks, free school attire, transport subsidy and meal subsidy.
+<p align="justify">The MOE FAS will provide a full waiver of school fees and standard miscellaneous fees.&nbsp; It will also provide free textbooks, free school attire, transport subsidy and meal subsidy.</p>
 
-To apply for the MOE FAS, please download the application form via this link &gt;&nbsp;**[MOE FAS Application Form](/files/SS_FAS-Application-Form-2023.pdf)**&nbsp;or obtain a copy from the General Office. Please complete the application form and return it with supporting documents to the school.
+<p align="justify">To apply for the MOE FAS, please download the application form via this link &gt;&nbsp;**[MOE FAS Application Form](/files/SS_FAS-Application-Form-2023.pdf)**&nbsp;or obtain a copy from the General Office. Please complete the application form and return it with supporting documents to the school.</p>
 
-The school will review your application and inform you of the outcome.&nbsp; If your application is approved before the end of the month, your child/ward will be placed on the MOE FAS in the following month.&nbsp; There will be no backdating of the effective month and retrospective subsidies provided in respect of expenditure on the MOE FAS provisions will be allowed.
+<p align="justify">The school will review your application and inform you of the outcome.&nbsp; If your application is approved before the end of the month, your child/ward will be placed on the MOE FAS in the following month.&nbsp; There will be no backdating of the effective month and retrospective subsidies provided in respect of expenditure on the MOE FAS provisions will be allowed.</p>
 
 **If you have any enquiries, please contact the General Office at 64660775.**
 

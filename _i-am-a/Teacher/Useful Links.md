@@ -17,7 +17,7 @@ third_nav_title: Teacher
 <td>
 <ol>
 <li><a rel="noopener noreferrer" target="_blank" href="https://vle.learning.moe.edu.sg/login">SLS</a></li>
-<li><a href="https://lms.asknlearn.com/LMS/Login_main.aspx">ASKnLearn</a></li>
+
 <li><a href="https://deck.toys/">Deck.Toys</a></li>
 <li><a rel="noopener noreferrer" target="_blank" href="https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home">Spectra Student Information Hub</a></li>
 </ol>
