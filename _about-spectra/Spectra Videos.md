@@ -38,9 +38,6 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/_-FjkNWK3Yw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-##### **Stories of the Two Sisters**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Discovering Passions - Story of the Two Sisters" src="https://www.youtube.com/embed/Y18iRiEDUYM" height="361" width="642"></iframe>
 
 ##### **Discovering Dreams**
 
@@ -62,9 +59,6 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4D-uk2WhJnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-##### ** Spectra School Song**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="Spectra School Song (2021)" src="https://www.youtube.com/embed/mcD3DIvm_Ko" height="361" width="642"></iframe>
 
 ##### **It takes a Village**
 
