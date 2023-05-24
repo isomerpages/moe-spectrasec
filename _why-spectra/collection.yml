@@ -2,10 +2,10 @@ collections:
   why-spectra:
     output: true
     order:
-      - Spectra Academy.md
       - An Excellent Skills–based Education.md
       - Exceptional Learning & Behavioural Support.md
       - Unique Instructional Programmes.md
       - A Nurturing & Supportive School.md
+      - Spectra Academy.md
       - Sexuality Education.md
       - 1 to 1 Computing.md
