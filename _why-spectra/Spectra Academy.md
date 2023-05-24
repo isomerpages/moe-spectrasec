@@ -33,3 +33,4 @@ Programme will also include the following developmental components to:
 
 **Industry Partners**
 
+![](/images/sicc%20st.png)
