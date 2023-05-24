@@ -13,4 +13,23 @@ description: ""
 Programme will also include the following developmental components to:
 * strengthen students’ socio-emotional competencies.
 * cultivate students’ disposition for lifelong learning; and
-* prepare students for work and life. 
+* prepare students for work and life.
+
+![](/images/sa%20pics.png)
+
+**Key Stages of the Programme**
+<p align="justify">Upon successful enrolment, students will be engaged in an intensive orientation programme in Stage 1 (Induction), before receiving the required training in Stage 2 (Preparation). In Stage 3 (Work Attachment), students will be attached to industry partners for work experience. In Stage 4, students will return to the Spectra Academy for assessments and debrief, before transiting to ITE / Work. Students will receive a stipend during their work attachment. </p>
+
+![](/images/sa%20pathway.png)
+
+**Donors**
+
+<p align="justify">We would like to thank these donors who have pledged to help our students in achieving successful outcomes during the pilot run and brighter prospects for the graduates, through the Community Foundation of Singapore:</p>
+
+* Mind the Gap 200 – Hope Fund
+* Kampung Spirit Fund
+* TSMP Foundation
+* Sky Foundation
+
+**Industry Partners**
+
