@@ -14,7 +14,7 @@ Programme will also include the following developmental components to:
 * cultivate students’ disposition for lifelong learning; and
 * prepare students for work and life.
 
-![](/images/sa%20pics.png)
+![](/images/sa%20training.png)
 
 ***
 
@@ -35,13 +35,6 @@ Programme will also include the following developmental components to:
 * Sky Foundation
 
 ***
-
-##### **Industry Partners**
-
-![](/images/sicc%20st.png)        
-
-***
-
 ##### **How to enroll?**
 
-Applications for admission to the next intake will open in late January 2024. If you are keen to find out more about this programme, please email us at spectra@schools.gov.sg
+Applications for admission to the next intake will open in late January 2024. If you are keen to find out more about this programme, please email to us at spectra_academy@schools.gov.sg
