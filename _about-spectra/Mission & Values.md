@@ -5,14 +5,14 @@ description: ""
 ---
 ##### **Our Vision**
 
-_Every Spectran equipped to lead a fulfilling life._&nbsp;
+<b>*Every Spectran equipped to lead a fulfilling life.*</b>&nbsp;
 
 ##### **Our Mission**
 
-_Provide an engaged learning experience that prepares every Spectran for work and life._
+<b>*Provide an engaged learning experience that prepares every Spectran for work and life.*</b>
 
 ##### **Our Motto**
 
 <img style="width:180px" src="/images/School-Motto.jpg">
 
-The motto “**Together We Can**” is the School’s rallying call. It serves to remind every Spectran that with collective effort and steadfast faith, we can achieve success.
+<p></p><p align="justify">The motto “<b>Together We Can</b>” is the School’s rallying call. It serves to remind every Spectran that with collective effort and steadfast faith, we can achieve success.</p>
