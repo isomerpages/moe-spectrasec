@@ -5,13 +5,13 @@ description: ""
 ---
 #### **Prospective Staff**
 
-A career at Spectra requires a deep passion to serve others coupled with professional pride and competence.  If you are a highly motivated and engaging individual who wants to contribute to the holistic development of students, please write to us.  
+<p></p><p align="justify">A career at Spectra requires a deep passion to serve others coupled with professional pride and competence.&nbsp; If you are a highly motivated and engaging individual who wants to contribute to the holistic development of students, please write to us. &nbsp;
 
-**POSITIONS**
+###### **POSITIONS**
 
-1.  Teacher – Various Disciplines
-2.  Executive – School Administration
+* Teacher – Various Disciplines
+* Executive – School Administration
 
-**HOW TO APPLY**
+###### **HOW TO APPLY**
 
-Email a detailed CV to [toh\_sook\_wei@schools.gov.sg](mailto:toh_sook_wei@schools.gov.sg) and [rachael_osborne_koong_lw@schools.gov.sg](mailto:rachael_osborne_koong_li@schools.gov.sg) that includes a recent photograph, academic and profession.
+Email a detailed CV to&nbsp;[toh\_sook\_wei@schools.gov.sg](mailto:toh_sook_wei@schools.gov.sg)&nbsp;and [rachael_osborne_koong_lw@schools.gov.sg](mailto:rachael_osborne_koong_li@schools.gov.sg) that includes a recent photograph, academic and profession.</p>
