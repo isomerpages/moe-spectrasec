@@ -9,6 +9,8 @@ description: ""
 
 ![](/images/VE-Customised-Pathways-2.jpg)
 
+***
+
 #### **Key Information**
 
 
@@ -34,6 +36,7 @@ Please refer to document for details:&nbsp;[Personal Data Protection Guidelines]
 
 Please refer to document for details:&nbsp;[Whistleblowing Policy](/files/Item-6-SSS-ADM-0002A-Whistleblowing-Policy-Website-Posting-Ver-3.pdf)
 
+***
 
 ##### **Financial Assistance Scheme (MOE FAS) Information**
 
@@ -51,6 +54,8 @@ To apply for the MOE FAS for your child/ward, please download the application fo
 **If you have any enquiries, please contact the General Office at 64660775.**
 
 ![MOE FAS 2023](/images/MOE-FAS-2023.png)
+
+***
 
 ##### **Helpline Information**
 
