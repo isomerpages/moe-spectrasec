@@ -5,22 +5,23 @@ description: ""
 ---
 ##### **Literacy, Numeracy and Behavioural Programme**
 
-<p align="justify">At Spectra, we have a dedicated&nbsp;**Learning Support Unit**&nbsp;that coordinates programmes with a focus on providing literacy, numeracy and behavioural support via a&nbsp;3-Tier System of Support. We have committed coaches who provide customised specialist support for our Tier 3 students at the lower secondary levels.</p>
+<p align="justify">At Spectra, we have a dedicated&nbsp;<b>Learning Support Unit</b>&nbsp;that coordinates programmes with a focus on providing literacy, numeracy and behavioural support via a&nbsp;3-Tier System of Support. We have committed coaches who provide customised specialist support for our Tier 3 students at the lower secondary levels.</p>
 
 ![3 Tier Support](/images/3-Tier-Support.png)
 
-**Our Literacy coaches**&nbsp;support students with language learning difficulties to access the Tier 1 main class curriculum by building their confidence and bridging their literacy skills gaps.
+<p></p><p align="justify"><b>Our Literacy coaches</b>&nbsp;support students with language learning difficulties to access the Tier 1 main class curriculum by building their confidence and bridging their literacy skills gaps.
 
-**Our Numeracy coaches**&nbsp;help students build confidence and strengthen their core Mathematical concepts through the use of manipulatives, games and online resources.
+</p><p align="justify"><b>Our Numeracy coaches</b>&nbsp;help students build confidence and strengthen their core Mathematical concepts through the use of manipulatives, games and online resources.
 
-**Our Learning Behaviour Support coaches**&nbsp;support students in achieving better social, emotional, and academic outcomes through the Positive Behavioural Intervention Support (PBIS) approach and individualised behaviour intervention plans.
+</p><p align="justify"><b>Our Learning Behaviour Support coaches</b>&nbsp;support students in achieving better social, emotional, and academic outcomes through the Positive Behavioural Intervention Support (PBIS) approach and individualised behaviour intervention plans.
 
 ![CSULSU2022](/images/CSULSU2022.png)
 
-
+***
+	
 ##### **Reading Programme**
 
-<p align="justify">At Spectra, we believe that reading is the key to increasing the literacy levels of our students. Reading programme is a&nbsp;**weekly school-wide platform**&nbsp;where students and teachers read and participate in reading-related activities.</p>
+</p><p align="justify">At Spectra, we believe that reading is the key to increasing the literacy levels of our students. Reading programme is a&nbsp;<b>weekly school-wide platform</b>&nbsp;where students and teachers read and participate in reading-related activities.</p>
 
 <p align="justify">This whole-school approach towards reading supports students in developing positive reading habits and discovering books that are of interest to them based on their respective reading levels. Students have access to the&nbsp;Spectra Reading List&nbsp;as well as&nbsp;NLB Overdrive&nbsp;for an extensive collection of reading materials.</p>
 
@@ -28,7 +29,7 @@ description: ""
 
 ![Reading Wednesdays](/images/Reading-Wednesdays-1.png)
 
-
+***
 
 ##### **Volunteer Reading Programme**
 
@@ -38,7 +39,7 @@ description: ""
 
 <p align="justify">We are very thankful for all the care and effort that our volunteers have put in to establish this programme and support our Secondary Three students this year. We hope to grow our team of volunteers and customise this programme further to meet the needs of our students.</p>
 
-
+***
 
 ##### **Professional Development for Spectra Teachers**
 
