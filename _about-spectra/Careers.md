@@ -9,8 +9,8 @@ description: ""
 
 **POSITIONS**
 
-1.  Teacher – Various Disciplines
-2.  Executive – School Administration
+* Teacher – Various Disciplines
+* Executive – School Administration
 
 **HOW TO APPLY**
 
