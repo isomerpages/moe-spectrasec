@@ -8,7 +8,7 @@ description: ""
 
 **23 – 26 November 2022**
 
-Students may submit their applications via email or directly to the SSS Admin Office&nbsp;**by 3.00pm, Tuesday, 29 November 2022**.
+<p></p><p align="justify">Students may submit their applications via email or directly to the SSS Admin Office&nbsp;<b>by 3.00pm, Tuesday, 29 November 2022</b>.
 
 Click&nbsp;**[HERE](https://forms.moe.edu.sg/forms/J7Wq8J)**&nbsp;to register your interest.
 
@@ -18,7 +18,7 @@ Click&nbsp;**[HERE](https://forms.moe.edu.sg/forms/J7Wq8J)**&nbsp;to register yo
 ##### **Co-Curricular Activities**
 
 
-Co-Curricular Activities (CCA) is an important component of character education in Spectra Secondary School, and forms a part of the holistic, well-rounded education that we seek to provide our students.
+</p><p align="justify">Co-Curricular Activities (CCA) is an important component of character education in Spectra Secondary School, and forms a part of the holistic, well-rounded education that we seek to provide our students.
 
 &nbsp;**Objectives of CCA:**
 
@@ -55,7 +55,7 @@ Spectra offer CCA from 4 different groups namely the Uniformed Groups (UG), Visu
 
 **Transfer of CCA**
 
-All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
+</p><p align="justify">All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
 
 **Awards**
 
@@ -69,11 +69,11 @@ The aim is to award students who excel in the non-academic areas:
 
 **2\. Other subsidiary Awards (Given internally within each CCA)**
 
-This is given out within each respective CCA. Awards are given at the discretion of the CCA teachers to recognize positive traits such as sportsmanship, creativity, diligence, commitment, etc.
+</p><p align="justify">This is given out within each respective CCA. Awards are given at the discretion of the CCA teachers to recognize positive traits such as sportsmanship, creativity, diligence, commitment, etc.
 
 **CCA Orientation for new students**
 
-This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms). Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
+</p><p align="justify">This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms). Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
 
 
-##### **Immerse in our school's activities and watch our story here:** [Spectra Videos](/about-spectra/spectra-videos/)
+##### **Immerse in our school's activities and watch our story here:** [Spectra Videos](/about-spectra/spectra-videos/)</p>
