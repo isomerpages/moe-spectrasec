@@ -37,4 +37,4 @@ Programme will also include the following developmental components to:
 ***
 ##### **How to enroll?**
 
-Applications for admission to the next intake will open in late January 2024. If you are keen to find out more about this programme, please submit your enquiries to us at <a target="_blank" href="https://go.gov.sg/spectra-academy"><b> https://go.gov.sg/spectra-academy</b></a>
+<p align="justify">Applications for admission to the next intake will open in late January 2024. If you are keen to find out more about this programme, please submit your enquiries to us at <a target="_blank" href="https://go.gov.sg/spectra-academy"><b> https://go.gov.sg/spectra-academy</b></a></p>
