@@ -19,15 +19,15 @@ Programme will also include the following developmental components to:
 ***
 
 ##### **Key Stages of the Programme**
-<p align="justify">Upon successful enrolment, students will be engaged in an intensive orientation programme in Stage 1 (Induction), before receiving the required training in Stage 2 (Preparation). In Stage 3 (Work Attachment), students will be attached to industry partners for work experience. In Stage 4, students will return to the Spectra Academy for assessments and debrief, before transiting to ITE / Work. Students will receive a stipend during their work attachment. </p>
+<p align="justify">Upon successful enrolment, students will be engaged in an intensive orientation programme in Stage 1 (Induction), before receiving the required training in Stage 2 (Preparation). In Stage 3 (Work Attachment), students will be attached to industry partners for work experience. In Stage 4, students will return to the Spectra Academy for assessments and debrief, before transiting to ITE / Work. Students will receive a stipend during their work attachment. We provide financial assistance to students who need financial help and bursaries.</p>
 
 ![](/images/sa%20pathway.png)
 
 ***
 
-##### **Donors**
+##### **Donors to the Spectra Academy**
 
-<p align="justify">We would like to thank these donors who have pledged to help our students in achieving successful outcomes during the pilot run and brighter prospects for the graduates, through the Community Foundation of Singapore:</p>
+<p align="justify">We would like to especially thank the generous donors through the Community Foundation of Singapore who have pledged to provide bursaries to help our students in achieving successful outcomes.</p>
 
 * Mind the Gap 200 – Hope Fund
 * Kampung Spirit Fund
@@ -37,4 +37,4 @@ Programme will also include the following developmental components to:
 ***
 ##### **How to enroll?**
 
-Applications for admission to the next intake will open in late January 2024. If you are keen to find out more about this programme, please email your enquiries to us at [spectra@schools.gov.sg](mailto:spectra@schools.gov.sg)
+Applications for admission to the next intake will open in late January 2024. If you are keen to find out more about this programme, please submit your enquiries to us at **[https://go.gov.sg/spectra-academy](https://go.gov.sg/spectra-academy)**
