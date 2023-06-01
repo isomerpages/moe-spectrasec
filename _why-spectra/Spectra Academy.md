@@ -9,8 +9,8 @@ description: ""
 
 ![](/images/sa%20programme.png)
 
-Programme will also include the following developmental components to:
-* strengthen students’ socio-emotional competencies.
+The programme aims to:
+* strengthen students’ socio-emotional competencies;
 * cultivate students’ disposition for lifelong learning; and
 * prepare students for work and life.
 
@@ -27,7 +27,7 @@ Programme will also include the following developmental components to:
 
 ##### **Donors to the Spectra Academy**
 
-<p align="justify">We would like to especially thank the generous donors through the Community Foundation of Singapore who have pledged to provide bursaries to help our students in achieving successful outcomes.</p>
+<p align="justify">We would like to thank the generous donors through the Community Foundation of Singapore who have pledged to provide bursaries to help our students in achieving successful outcomes.</p>
 
 * Mind the Gap 200 – Hope Fund
 * Kampung Spirit Fund
@@ -35,6 +35,6 @@ Programme will also include the following developmental components to:
 * Sky Foundation
 
 ***
-##### **How to enroll?**
+##### **How to enrol?**
 
 <p align="justify">Applications for admission to the next intake will open in late January 2024. If you are keen to find out more about this programme, please submit your enquiries to us at <a target="_blank" href="https://go.gov.sg/spectra-academy"><b> https://go.gov.sg/spectra-academy</b></a></p>
