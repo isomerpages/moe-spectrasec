@@ -3,7 +3,7 @@ title: Contact Us
 permalink: /about-spectra/contact-us/
 description: ""
 ---
-**Address:**&nbsp;Woodlands Drive 64, Singapore 737758
+**Address:**&nbsp;1 Woodlands Drive 64, Singapore 737758
 
 **Tel:**&nbsp;6466 0775
 
@@ -20,5 +20,3 @@ description: ""
 
 
 <iframe loading="lazy" allowfullscreen="" style="border:0;" height="450" width="600" src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d3988.564487138148!2d103.804379!3d1.436456!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da11bc5df9744d%3A0x85271c660c80496e!2sSpectra%20Secondary%20School!5e0!3m2!1sen!2ssg!4v1677481945517!5m2!1sen!2ssg"></iframe>
-
-
