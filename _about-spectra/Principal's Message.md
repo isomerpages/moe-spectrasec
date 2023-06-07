@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-spectra/principals-message/
 description: ""
 ---
-![](/images/TTH-4418-Edit-1024x683.jpg)
+<img style="width:700px" src="/images/TTH-4418-Edit-1024x683.jpg">
 
 <p align="justify"> 2022 has yet been another challenging year, but our strong Spectran spirit still shone through. Despite the changes and constraints brought about by the pandemic, we continued to provide platforms for our students to develop strong literacy, numeracy, vocational, and digital skills, anchoring on good character values.</p>
 

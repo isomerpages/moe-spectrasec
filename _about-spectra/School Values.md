@@ -3,7 +3,7 @@ title: School Values
 permalink: /about-spectra/school-values/
 description: ""
 ---
-**Respect** is our Foundation.
+**Respect is our Foundation.**
 
 The value of Respect undergirds our students’ attitude, belief and conduct.
 

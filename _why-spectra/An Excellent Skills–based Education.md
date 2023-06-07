@@ -5,11 +5,11 @@ description: ""
 ---
 ##### **A Seamless Vocational Education Pathway**
 
-<p align="justify">Spectra offers a dual-certification programme: our students will complete and graduate with a&nbsp;**GCE ‘N’ Levels certificate**&nbsp;and an&nbsp;**ITE Skills Subject certificate**. The ITE Skills Subject provides hands-on vocational education in an authentic learning environment for our students.</p>
+<p align="justify">Spectra offers a dual-certification programme: our students will complete and graduate with a&nbsp;<b>GCE ‘N’ Levels certificate</b>&nbsp;and an&nbsp;<b>ITE Skills Subject certificate</b>. The ITE Skills Subject provides hands-on vocational education in an authentic learning environment for our students.</p>
 
 ![](/images/VE-Pathway-Aug-2022-1024x549.png)
 
-
+***
 ##### **Vocational Education Programmes**
 
 Spectra offers the following&nbsp;**5 ITE Skills Subjects (ISS)**:
@@ -31,6 +31,6 @@ Spectra offers the following&nbsp;**5 ITE Skills Subjects (ISS)**:
 
 <p align="justify">Spectra also offer opportunities such as learning journeys to ITE campuses, workshops by industry partners, preparation for Early Admission Exercise (EAE) to ITE, and unique CCAs to equip our students for their ITE course of choice.</p>
 
-<p align="justify">Through a diverse range of unique CCAs, we empower students to aspire toward their dreams. Our students discover new interests, develop their talents and build on their strengths. Our dedicated teachers encourage students to experiment, learn new skills and pursue their passion in the following CCAs:&nbsp;**Young Chefs, Young Creators, Young Engineers, and Urban Farmers.**</p>
+<p align="justify">Through a diverse range of unique CCAs, we empower students to aspire toward their dreams. Our students discover new interests, develop their talents and build on their strengths. Our dedicated teachers encourage students to experiment, learn new skills and pursue their passion in the following CCAs:&nbsp;<b>Young Chefs, Young Creators, Young Engineers, and Urban Farmers.</b></p>
 
 ![Unique Ccas](/images/Unique-CCAs-1.png)

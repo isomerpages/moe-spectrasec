@@ -12,7 +12,9 @@ description: ""
 <p align="justify">We are also in the process of re-envisioning and renovating our Student Activity Centre into a more inviting space for students. The new Student Hub will provide student services and comfortable zones for our students to relax and hang out after school. Students can chat over drinks and snacks, exercise at the gym, meet with their friends and even play electronic games together.</p>
 
 ![Dedicated Supprt](/images/SH2022.png)
+
 ***
+
 ##### **Leadership Opportunities**
 
 <p align="justify">At Spectra, we believe in the holistic development of our students. Besides exciting experiential learning opportunities and a myriad of CCA platforms for students to pursue their areas of interest and talent, we also craft opportunities to develop their leadership skills.</p>
@@ -23,7 +25,9 @@ description: ""
 
 ![Leadership](/images/Leadership.png)
 
+
 ***
+
 ##### **Serving the Community**
 
 <p align="justify">At Spectra, our students are also actively involved in Service Learning projects with long-term community partners. Our Secondary Two students plan and conduct programmes for children in the Early Intervention Programme for Infants and Children (EIPIC) at SPD. This year, our students made shoebox activity kits that enhance hand-eye coordination, visual-motor integration and visual processing for the children.</p>
