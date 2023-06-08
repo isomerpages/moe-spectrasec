@@ -43,12 +43,13 @@ description: ""
 
 <p align="justify">To support you in keeping your child safe online, you may refer to these resources:</p>
 
-* [MOE Handbook (I) for 1-to-1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
+* [MOE Handbook for 1-to-1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
 * [MOE Cyber Wellness site](http://go.gov.sg/moe-cyber-wellness)
 * [MOE Cyber Wellness Programme](http://go.gov.sg/beta.moe.gov.sg/programmes/cyber-wellness/)
 * [Better Internet Singapore](http://go.gov.sg/better-internet-sg)
 * [NLB SURE site (identifying fake news)](http://sure.nlb.gov.sg/)
 * [help123.sg](http://help123.sg/)
+
 ***
 
 ##### **Minimum Laptop Specifications**
