@@ -11,7 +11,8 @@ description: ""
 
 <p align="justify">In March 2020, MOE announced that all Secondary School Students will embark on the&nbsp;<b>NDLP</b>&nbsp;(<b>National Digital Literacy Programme</b>). The NDLP will enable all students to own a digital learning device that enables them to be self-directed in their learning and explore their interests during HBL (home-based learning). In June 2020, then Minister of Education, Mr Ong Ye Kung announced that the NDLP will be brought forward to 2021. Hence all Secondary School students will own a personalised device for personalised learning by the end of 2021.</p>
 
-_**For more details on Spectra PLD 1:1 Computing, click&nbsp;[HERE](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld?authuser=0).**_
+<b>For more details on Spectra PLD 1:1 Computing, click&nbsp;[HERE](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld?authuser=0).</b>
+
 ***
 
 ##### **Funding for Students**
@@ -28,8 +29,8 @@ _**For more details on Spectra PLD 1:1 Computing, click&nbsp;[HERE](https://site
 *   For students on non-MOE-FAS, subsidies are available such that the maximum OOP will be $50.
 *   Financial assistance is also available for Permanent residents (PR) and International Students (IS) who need support.
 
-More information will be shared in January 2021, when MOE provides schools with more details.
-***
+<b> More information will be shared in January 2021, when MOE provides schools with more details.</b>
+
 
 ##### **Supporting Parents to Support their Child**
 
