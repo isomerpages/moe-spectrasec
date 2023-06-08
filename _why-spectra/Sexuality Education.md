@@ -74,4 +74,4 @@ description: ""
 
 13.&nbsp; &nbsp;Parents can contact the school at&nbsp;[spectra@schools.gov.sg](mailto:spectra@schools.gov.sg)&nbsp;for discussion or to seek clarification about the school’s sexuality education programme.
 
-14.&nbsp; &nbsp;Parents, who wish to attend the school’s sexuality education programmes, should contact the school to make the necessary arrangements.<p></p>
+14.&nbsp; &nbsp;Parents, who wish to attend the school’s sexuality education programmes, should contact the school to make the necessary arrangements.
