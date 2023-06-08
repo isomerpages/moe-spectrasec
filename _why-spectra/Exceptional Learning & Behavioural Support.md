@@ -9,22 +9,20 @@ description: ""
 
 ![3 Tier Support](/images/3-Tier-Support.png)
 
-<p></p><p align="justify"><b>Our Literacy coaches</b>&nbsp;support students with language learning difficulties to access the Tier 1 main class curriculum by building their confidence and bridging their literacy skills gaps.
+<p></p><p align="justify"><b>Our Literacy coaches</b>&nbsp;support students with language learning difficulties to access the Tier 1 main class curriculum by building their confidence and bridging their literacy skills gaps.</p>
 
-</p><p align="justify"><b>Our Numeracy coaches</b>&nbsp;help students build confidence and strengthen their core Mathematical concepts through the use of manipulatives, games and online resources.
+<p></p><p align="justify"><b>Our Numeracy coaches</b>&nbsp;help students build confidence and strengthen their core Mathematical concepts through the use of manipulatives, games and online resources.</p>
 
-</p><p align="justify"><b>Our Learning Behaviour Support coaches</b>&nbsp;support students in achieving better social, emotional, and academic outcomes through the Positive Behavioural Intervention Support (PBIS) approach and individualised behaviour intervention plans.
-	
+<p></p><p align="justify"><b>Our Learning Behaviour Support coaches</b>&nbsp;support students in achieving better social, emotional, and academic outcomes through the Positive Behavioural Intervention Support (PBIS) approach and individualised behaviour intervention plans.</p>
 
-![CSULSU2022](/images/CSULSU2022.png)
-
+![](/images/CSULSU2022.png)
 	
 ***
 	
 	
 ##### **Reading Programme**
 
-</p><p align="justify">At Spectra, we believe that reading is the key to increasing the literacy levels of our students. Reading programme is a&nbsp;<b>weekly school-wide platform</b>&nbsp;where students and teachers read and participate in reading-related activities.</p>
+<p></p><p align="justify">At Spectra, we believe that reading is the key to increasing the literacy levels of our students. Reading programme is a&nbsp;<b>weekly school-wide platform</b>&nbsp;where students and teachers read and participate in reading-related activities.</p>
 
 <p align="justify">This whole-school approach towards reading supports students in developing positive reading habits and discovering books that are of interest to them based on their respective reading levels. Students have access to the&nbsp;Spectra Reading List&nbsp;as well as&nbsp;NLB Overdrive&nbsp;for an extensive collection of reading materials.</p>
 
