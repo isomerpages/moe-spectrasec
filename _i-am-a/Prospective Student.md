@@ -10,7 +10,7 @@ description: ""
 
 <p></p><p align="justify">Students may submit their applications via email or directly to the SSS Admin Office&nbsp;<b>by 3.00pm, Tuesday, 29 November 2022</b>.
 
-Click&nbsp;**[HERE](https://forms.moe.edu.sg/forms/J7Wq8J)**&nbsp;to register your interest.
+**[HERE](https://forms.moe.edu.sg/forms/J7Wq8J)**to register your interest.
 
 #### [Spectra Brochure](https://drive.google.com/file/d/1jYFkm00n_6zWPT8SLSDtE3akO3ZQlNqB/view?usp=share_link)
 
