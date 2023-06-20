@@ -17,10 +17,6 @@ description: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFuGA2Pxohg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
-##### **Virtual Tour 2021**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnq578XoHjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
 ##### **Finding the Key to the Future**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/veHCX_rVowo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
