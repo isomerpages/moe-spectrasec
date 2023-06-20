@@ -3,7 +3,7 @@ title: Spectra Videos
 permalink: /about-spectra/spectra-videos/
 description: ""
 ---
-##### **Virtual tour 2022**
+##### **Virtual tour 2021**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gnq578XoHjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
