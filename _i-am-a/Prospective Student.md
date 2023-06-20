@@ -10,17 +10,18 @@ description: ""
 
 <p></p><p align="justify">Students may submit their applications via email or directly to the SSS Admin Office&nbsp;<b>by 3.00pm, Tuesday, 29 November 2022</b>.
 
-**[HERE](https://forms.moe.edu.sg/forms/J7Wq8J)**to register your interest.
+[CLICK HERE](https://forms.moe.edu.sg/forms/J7Wq8J) to register your interest.
 
 #### [Spectra Brochure](https://drive.google.com/file/d/1jYFkm00n_6zWPT8SLSDtE3akO3ZQlNqB/view?usp=share_link)
 
 ***
+	
 ##### **Co-Curricular Activities**
 
 
 </p><p align="justify">Co-Curricular Activities (CCA) is an important component of character education in Spectra Secondary School, and forms a part of the holistic, well-rounded education that we seek to provide our students.
 
-&nbsp;**Objectives of CCA:**
+**Objectives of CCA:**
 
 *   Opportunity to develop core attitudes, skills and knowledge (ASK) relative to their CCA, through authentic learning experiences.
 *   Platform for students to learn about themselves and others beyond the classroom
@@ -34,15 +35,17 @@ description: ""
 *   Demonstrate school values and role model school outcomes
 *   Improve emotional and physical well being
 *   Learn valuable life skills
-
-&nbsp;**CCA Policy Spectra Secondary:**
+	
+**CCA Policy Spectra Secondary:**
 
 *   It is mandatory for every student to participate in at least one CCA.
 *   Students must attend all CCA activities.
 *   Absence from CCA must be supported by medical certificates or parents’ letters, which must be submitted to the CCA teacher promptly.
 *   Every student is expected to be committed and contribute actively to his/ her CCA that he/ she has chosen.
 *   Students may seek approval from HOD PE and CCA to take up a second CCA in school.
+	
 ***
+	
 ##### **CCA @ Spectra**
 
 Spectra offer CCA from 4 different groups namely the Uniformed Groups (UG), Visual and Performing Arts (VPA) Groups, Physical Sports or Clubs and Societies (C&amp;S)
