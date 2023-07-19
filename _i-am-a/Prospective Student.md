@@ -48,11 +48,12 @@ Spectra offer CCA from 4 different groups namely the Uniformed Groups (UG), Visu
 
 **Transfer of CCA**
 
-<p></p><p align="justify">All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
+All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
+
 
 **Awards**
 
-**1\. EAGLES Award:**
+1. EAGLES Award:
 
 The aim is to award students who excel in the non-academic areas:
 
@@ -60,7 +61,7 @@ The aim is to award students who excel in the non-academic areas:
 *   Outstanding Leadership
 *   Community Service
 
-**2\. Other subsidiary Awards (Given internally within each CCA)**
+**2. Other subsidiary Awards (Given internally within each CCA)**
 
 This is given out within each respective CCA. Awards are given at the discretion of the CCA teachers to recognize positive traits such as sportsmanship, creativity, diligence, commitment, etc.
 
@@ -69,4 +70,4 @@ This is given out within each respective CCA. Awards are given at the discretion
 This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms). Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
 
 
-##### **Immerse in our school's activities and watch our story here:** [Spectra Videos](/about-spectra/spectra-videos/)</p>
+##### Immerse in our school's activities and watch our story here: [Spectra Videos](/about-spectra/spectra-videos/)<p></p>
