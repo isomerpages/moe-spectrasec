@@ -70,4 +70,4 @@ This is given out within each respective CCA. Awards are given at the discretion
 This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms). Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
 
 
-##### Immerse in our school's activities and watch our story here: [Spectra Videos](/about-spectra/spectra-videos/)<p></p>
+##### Immerse in our school's activities and watch our story here: [Spectra Videos](/about-spectra/spectra-videos/)
