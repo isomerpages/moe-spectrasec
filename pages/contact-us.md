@@ -18,6 +18,7 @@ contacts:
   - content:
       - phone: +65 6466 0775
       - email: spectra@schools.gov.sg
-      - other: +65 6805 8184
+      - other: "Alt Tel: +65 6805 8184"
     title: General Enquiry
+feedback: spectra@schools.gov.sg
 ---
