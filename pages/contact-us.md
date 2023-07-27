@@ -2,7 +2,7 @@
 layout: contact_us
 title: Contact Us
 permalink: /contact-us/
-agency_name: "Spectra Secondary "
+agency_name: Spectra Secondary
 locations:
   - address:
       - 1 Woodlands Drive 64
@@ -18,6 +18,6 @@ contacts:
   - content:
       - phone: +65 6466 0775
       - email: spectra@schools.gov.sg
-      - other: "Fax: 6462 3928"
+      - other: +65 6805 8184
     title: General Enquiry
 ---
