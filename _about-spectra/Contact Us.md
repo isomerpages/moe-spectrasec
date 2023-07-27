@@ -5,9 +5,7 @@ description: ""
 ---
 **Address:**&nbsp;1 Woodlands Drive 64, Singapore 737758
 
-**Tel:**&nbsp;6466 0775
-
-**Fax:**&nbsp;6462 3928
+**Tel:**&nbsp;6466 0775 / 6805 8184
 
 **Email:**&nbsp;[spectra@schools.gov.sg](mailto:spectra@schools.gov.sg)
 
