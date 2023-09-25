@@ -2,5 +2,6 @@ collections:
   yearbook:
     output: true
     order:
+      - Yearbook 2023.md
       - Yearbook 2022.md
       - Yearbook 2021.md
