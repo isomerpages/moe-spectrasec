@@ -3,8 +3,8 @@ title: Prospective Student
 permalink: /i-am-a/prospective-student/
 description: ""
 ---
-#### [Spectra Brochure](https://drive.google.com/file/d/1jYFkm00n_6zWPT8SLSDtE3akO3ZQlNqB/view?usp=share_link)
-
+###### [Click HERE to view the brochure.](https://drive.google.com/file/d/1302QEQDUCi0dL798P3iLRwtt574yi7a_/view?usp=sharing) 
+<a target="new" href="https://drive.google.com/file/d/1302QEQDUCi0dL798P3iLRwtt574yi7a_/view?usp=sharing"><img style="width:600px" src="/images/spectra brochure 2023 cover.png"></a>
 
 	
 ##### Co-Curricular Activities

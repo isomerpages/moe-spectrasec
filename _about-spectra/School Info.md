@@ -9,7 +9,6 @@ description: ""
 
 ![](/images/customised%20pathway.png)
 
-![](/images/full%20subject%20based%20banding.png)
 
 ![](/images/twin%20certification.png)
 
