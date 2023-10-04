@@ -6,4 +6,4 @@ third_nav_title: School Information
 ---
 ##### **Data Protection Policy**
 
-Please refer to document for details:
+Please refer to document for details: [Personal Data Protection Guidelines](/files/Personal-Data-Protection-Guidelines.pdf)
