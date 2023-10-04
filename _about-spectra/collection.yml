@@ -2,6 +2,7 @@ collections:
   about-spectra:
     output: true
     order:
+      - School Philosophy/School Philosophy.md
       - School Philosophy/.keep
       - Principal's Message.md
       - School Information/.keep
