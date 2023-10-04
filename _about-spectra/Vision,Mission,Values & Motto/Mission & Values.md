@@ -4,14 +4,6 @@ permalink: /about-spectra/mission-values/
 description: ""
 third_nav_title: Vision,Mission,Values & Motto
 ---
-##### **Our Vision**
-
-<b>*Every Spectran equipped to lead a fulfilling life.*</b>&nbsp;
-
-##### **Our Mission**
-
-<b>*Provide an engaged learning experience that prepares every Spectran for work and life.*</b>
-
 ##### **Our Motto**
 
 <img style="width:180px" src="/images/School-Motto.jpg">
