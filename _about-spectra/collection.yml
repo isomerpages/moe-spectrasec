@@ -2,6 +2,7 @@ collections:
   about-spectra:
     output: true
     order:
+      - Vision,Mission,Values & Motto/Our Mission.md
       - Vision,Mission,Values & Motto/Our Vision.md
       - Vision,Mission,Values & Motto/.keep
       - Vision,Mission,Values & Motto/Mission & Values.md
