@@ -24,7 +24,7 @@ Spectra offers the following&nbsp;**5 ITE Skills Subjects (ISS)**:
 
 <p align="justify">In the upper secondary programme, students will specialise in two ITE Skills Subjects and complete an onsite work attachment via our Industry Experiential Programme (IEP).</p>
 
-![](/images/industry%20partners.png)
+![](/images/oct%202023%20industry%20partners.png)
 * * *
 
 ##### **Unique Vocational Education CCAs**
