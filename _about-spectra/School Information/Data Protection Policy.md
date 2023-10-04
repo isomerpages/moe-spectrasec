@@ -6,4 +6,4 @@ third_nav_title: School Information
 ---
 ##### **Data Protection Guidelines**
 
-Please refer to document for details: 
+**Please refer to document for details:** [Data Protection Guidelines](/files/personal-data-protection-guidelines%20(spectra).pdf)
