@@ -3,7 +3,7 @@ title: 1 to 1 Computing
 permalink: /why-spectra/1-to-1-computing/
 description: ""
 ---
-<img style="width:800px" src="/images/2023%20ict%20banner.png">
+
 
 <p align="justify">The Spectra 1-to-1 Computing Programme started its inception in 2014. It aims to support the&nbsp;Spectra Philosophy in Learning. In particular, the belief that every student learns at a different pace.</p>
 
