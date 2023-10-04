@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Principal's Message.md
-      - School Philosophy/Joy of Learning.md
-      - School Philosophy/Every Student Learns at a Different Pace.md
-      - School Philosophy/Every Student Wants to Learn.md
       - School Philosophy/.keep
       - School Philosophy/General Philosophy in Learning.md
       - School Philosophy/Teaching Philosophy of Spectra.md
+      - School Philosophy/Every Student Wants to Learn.md
+      - School Philosophy/Every Student Learns at a Different Pace.md
+      - School Philosophy/Joy of Learning.md
       - School Information/.keep
       - School Information/School Information.md
       - School Information/Non Financial Information.md
