@@ -2,14 +2,14 @@ collections:
   i-am-a:
     output: true
     order:
-      - Student/Helpline Information.md
-      - Student/Student Information Hub (SIH).md
       - Student/.keep
+      - Student/Student Information Hub (SIH).md
       - Student/Student Learning Space.md
       - Student/Personal Learning Device.md
       - Student/Booklist.md
       - Student/Co–Curricular Activities.md
       - Student/Cyber Wellness Support.md
+      - Student/Helpline Information.md
       - Student/Singpass Registration.md
       - Parent/MOE FAS Information.md
       - Parent/.keep
