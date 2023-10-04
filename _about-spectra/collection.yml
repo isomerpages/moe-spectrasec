@@ -2,17 +2,17 @@ collections:
   about-spectra:
     output: true
     order:
-      - School Information/School Info.md
-      - School Information/.keep
       - Principal's Message.md
       - School Philosophy.md
+      - School Information/.keep
+      - School Information/School Info.md
       - Mission & Values.md
       - School Values.md
       - School Logo.md
       - Spectra Brochure.md
       - Spectra Videos.md
-      - Social Media/Instagram.md
       - Social Media/.keep
+      - Social Media/Instagram.md
       - Social Media/Facebook.md
       - Facilities.md
       - Careers.md
