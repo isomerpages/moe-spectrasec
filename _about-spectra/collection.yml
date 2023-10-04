@@ -2,6 +2,7 @@ collections:
   about-spectra:
     output: true
     order:
+      - Social Media/Facebook.md
       - Social Media/.keep
       - Principal's Message.md
       - School Philosophy.md
