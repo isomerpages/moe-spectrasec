@@ -21,4 +21,4 @@ The SPECTRA PSG aims to:
 
 	
 ##### Our 2023 PSG EXCO Members
-<img style="width:700px" src="/images/2023 PSG - Oct.png">
+<img style="width:800px" src="/images/2023 psg - oct.png">
