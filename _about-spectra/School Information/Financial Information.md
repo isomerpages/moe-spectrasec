@@ -6,7 +6,7 @@ third_nav_title: School Information
 ---
 #### **Key Information**
 
-**2\. Financial Information**
+**Financial Information**
 
 **Statement of Comprehensive Income**
 
