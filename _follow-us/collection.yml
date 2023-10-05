@@ -2,5 +2,6 @@ collections:
   follow-us:
     output: true
     order:
+      - Instagram.md
       - Facebook.md
       - Spectra Videos.md
