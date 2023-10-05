@@ -6,7 +6,6 @@ description: ""
 ![](/images/2023%20ict%20banner%201.png)
 <p align="justify">In March 2020, MOE announced that all Secondary School Students will embark on the&nbsp;<b>NDLP</b>&nbsp;(<b>National Digital Literacy Programme</b>). The NDLP will enable all students to own a digital learning device that enables them to be self-directed in their learning and explore their interests during HBL (home-based learning). In June 2020, then Minister of Education, Mr Ong Ye Kung announced that the NDLP will be brought forward to 2021. Hence all Secondary School students will own a personalised device for personalised learning by the end of 2021.</p>
 
-<b>For more details on Spectra PLD, click&nbsp;[HERE](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld?authuser=0).</b>
 
 ***
 
