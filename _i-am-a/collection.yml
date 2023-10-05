@@ -2,10 +2,10 @@ collections:
   i-am-a:
     output: true
     order:
-      - Student/Yearbook 2021.md
-      - Student/Yearbook 2022.md
       - Student/.keep
       - Student/Student Information Hub (SIH).md
+      - Student/Yearbook 2021.md
+      - Student/Yearbook 2022.md
       - Student/Student Learning Space.md
       - Student/Personal Learning Device.md
       - Student/Booklist.md
