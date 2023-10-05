@@ -1,5 +1,4 @@
 collections:
   yearbook:
     output: true
-    order:
-      - Yearbook 2021.md
+    order: []
