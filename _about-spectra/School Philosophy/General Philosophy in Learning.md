@@ -5,4 +5,4 @@ description: ""
 third_nav_title: School Philosophy
 ---
 ##### **General Philosophy in Learning**
-![chart](/images/chart-1024x712.jpg)
+<img style="width:800px" src="/images/chart-1024x712.jpg">
