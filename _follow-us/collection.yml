@@ -2,4 +2,5 @@ collections:
   follow-us:
     output: true
     order:
+      - Facebook.md
       - Spectra Videos.md
