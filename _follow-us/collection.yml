@@ -1,4 +1,5 @@
 collections:
   follow-us:
     output: true
-    order: []
+    order:
+      - Spectra Videos.md
