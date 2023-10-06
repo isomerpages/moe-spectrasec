@@ -2,8 +2,8 @@ collections:
   follow-us:
     output: true
     order:
-      - Spectra Human Stories.md
       - Facebook.md
       - Instagram.md
       - Spectra Videos.md
       - Spectra Brochure.md
+      - Spectra Human Stories.md
