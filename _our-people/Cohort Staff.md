@@ -4,7 +4,9 @@ permalink: /our-people/cohort-staff/
 description: ""
 ---
 ##### **Secondary 1 Cohort**
-<img style="width:500px" src="/images/sec%201%20ft%202023%20oct.png">
+<img style="width:500px" src="/images/sec%201%20yh%20support.png">
+
+<img style="width:510px" src="/images/sec%201%20ft%202023%20oct.png">
 
 ##### **Secondary 2 Cohort**
 <img style="width:500px" src="/images/sec%202%20ft%202023%20oct.png">
