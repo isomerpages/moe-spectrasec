@@ -9,10 +9,11 @@ sections:
   - hero:
       background: /images/7 oct hero background image.gif
   - infobar:
-      subtitle: ANNOUNCEMENTS
-      description: Spectra Yearbook 2022
+      subtitle: CALLING ALL EX-STAFF & ALUMNI!
+      description: "Spectra’s 10th Anniversary Celebrations is on Saturday, 28 Oct
+        2023. Register your interest now! "
       button: Click here
-      url: https://drive.google.com/file/d/1TklGHik6N5FFafEHpfGQiobItfrI8pc7/view?usp=sharing
+      url: https://go.gov.sg/together-we-can
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | Alt
