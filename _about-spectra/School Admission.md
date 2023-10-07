@@ -11,3 +11,7 @@ description: ""
 
 
 ![](/images/twin%20certification.png)
+
+***
+###### [Download Spectra Spectacular Brochure](https://drive.google.com/file/d/1302QEQDUCi0dL798P3iLRwtt574yi7a_/view?usp=sharing)
+<a target="new" href="https://drive.google.com/file/d/1302QEQDUCi0dL798P3iLRwtt574yi7a_/view?usp=sharing"><img style="width:500px" src="/images/spectra brochure 2023 cover.png"></a>
