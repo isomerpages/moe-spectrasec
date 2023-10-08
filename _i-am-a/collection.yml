@@ -2,8 +2,6 @@ collections:
   i-am-a:
     output: true
     order:
-      - Prospective Student/Prospective Student.md
-      - Prospective Student/.keep
       - Student/.keep
       - Student/Student Information Hub (SIH).md
       - Student/Student Learning Space.md
@@ -15,12 +13,14 @@ collections:
       - Student/Cyber Wellness Support.md
       - Student/Helpline Information.md
       - Student/Singpass Registration.md
-      - Parent/MOE FAS Information.md
       - Parent/.keep
+      - Parent/MOE FAS Information.md
       - Parent/Parent Support Group.md
       - Parent/PDLP.md
       - Parent/Cyber Wellness Support (Parents).md
       - Teacher/.keep
       - Teacher/Useful Links.md
       - Teacher/Cyber Wellness Support (Teachers).md
+      - Prospective Student/.keep
+      - Prospective Student/Prospective Student.md
       - Prospective Staff.md
