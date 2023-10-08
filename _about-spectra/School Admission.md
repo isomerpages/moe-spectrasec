@@ -18,6 +18,6 @@ description: ""
 
 ***
 
-###### Frequently Asked Question (FAQ) on Direct Admission &amp; Secondary 1 (S1) Posting
+###### Frequently Asked Question (FAQ) on Direct Admission and Secondary 1 (S1) Posting
 
 <img src="/images/sec%201%20posting%20faq.png" style="width:800px">
