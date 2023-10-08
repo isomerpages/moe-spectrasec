@@ -3,7 +3,7 @@ url: https://spectra.edu.sg
 favicon: /images/logo_full.png
 colors:
   primary-color: "#3e006d"
-  secondary-color: "#006b51"
+  secondary-color: "#3e006d"
   media-colors:
     - title: media-color-one
       color: "#006b51"
