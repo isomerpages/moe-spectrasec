@@ -2,6 +2,7 @@ collections:
   10th-anniversary:
     output: true
     order:
+      - Spectra Is 10.md
       - Facebook.md
       - Instagram.md
       - Spectra Videos.md
