@@ -47,24 +47,7 @@ Spectra offer CCA from 4 different groups namely the Uniformed Groups (UG), Visu
 
 **For more information on each CCA, click&nbsp;[HERE](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/spectra-cca).**
 
-**Transfer of CCA**
-
-All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
-
-
-**Awards**
-
-1. EAGLES Award:
-
-The aim is to award students who excel in the non-academic areas:
-
-*   Achievement/ Accomplishment in CCA
-*   Outstanding Leadership
-*   Community Service
-
-**2. Other subsidiary Awards (Given internally within each CCA)**
-
-This is given out within each respective CCA. Awards are given at the discretion of the CCA teachers to recognize positive traits such as sportsmanship, creativity, diligence, commitment, etc.
+***
 
 **CCA Orientation for new students**
 
