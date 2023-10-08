@@ -33,8 +33,7 @@ description: ""
 ##### **Pneumatic Studios**  
 ![](/images/PneumaticStudio.jpg)
 
-##### **Science Lab**  
-![](/images/ScienceLab.jpg)
+
 
 ##### **Student Hub**  
 ![](/images/StudentHub.jpg)
