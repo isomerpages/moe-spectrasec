@@ -1,5 +1,4 @@
 collections:
   spectra-is-10:
     output: true
-    order:
-      - Spectra Is 10.md
+    order: []
