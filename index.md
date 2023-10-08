@@ -14,10 +14,10 @@ sections:
         2023. Register your interest now!
       button: Click here
       url: https://go.gov.sg/together-we-can
+  - resources:
+      id: resources
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
         8184  | Email: spectra@schools.gov.sg"
-  - resources:
-      id: resources
 ---
