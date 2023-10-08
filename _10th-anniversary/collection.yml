@@ -1,5 +1,5 @@
 collections:
-  follow-us:
+  10th-anniversary:
     output: true
     order:
       - Facebook.md
