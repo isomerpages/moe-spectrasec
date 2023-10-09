@@ -2,8 +2,8 @@ collections:
   about-spectra:
     output: true
     order:
-      - School Philosophy.md
       - Principal's Message.md
+      - School Philosophy.md
       - Vision, Mission, Values & Motto.md
       - School Logo.md
       - School Information/.keep
