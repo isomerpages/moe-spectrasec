@@ -8,6 +8,13 @@ notification: ""
 sections:
   - hero:
       background: /images/7 oct hero background image.gif
+      key_highlights:
+        - title: 10th Anniversary
+          description: ""
+          url: ""
+        - title: Facebook
+          description: Follow Us
+          url: https://www.facebook.com/SpectraSecondarySchool
   - infobar:
       subtitle: CALLING ALL EX-STAFF & ALUMNI!
       description: Spectra’s 10th Anniversary Celebrations is on Saturday, 28 Oct
