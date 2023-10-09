@@ -9,12 +9,12 @@ sections:
   - hero:
       background: /images/7 oct hero background image.gif
       key_highlights:
+        - title: Instagram
+          description: "#SpectraStories"
+          url: https://www.instagram.com/spectrastories/
         - title: 10th Anniversary
           description: ""
           url: /10th-anniversary/
-        - title: Facebook
-          description: Follow Us
-          url: https://www.facebook.com/SpectraSecondarySchool
         - title: Sec 1 Admission
           description: ""
           url: /i-am-a/prospective-student/
