@@ -40,3 +40,6 @@ Here in Spectra, we have&nbsp;two key beliefs that guide our teaching and learni
 
 ***
 
+##### **Joy of learning**
+
+<p align="justify">When students are motivated to learn and allowed to learn at a pace suitable for them, they will enjoy learning and will develop a desire to learn more (intrinsic motivation). With this newfound motivation, we believe they will develop many of the desired outcomes of education such as curiosity, self-directedness and the desire for conceptual understanding. All these will prepare them for a world where the ability to learn and apply new knowledge will be critical.</p>
