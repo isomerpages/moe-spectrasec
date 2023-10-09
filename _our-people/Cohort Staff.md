@@ -19,6 +19,4 @@ description: ""
 <img style="width:500px" src="/images/sec%203%20ft%202023%20oct.png">
 
 ##### **Secondary 4 Cohort**
-<img style="width:490px" src="/images/sec%204%20yh%20support.png">
-
-<img style="width:500px" src="/images/sec%204%20ft%202023%20oct.png">
+<img style="width:5700px" src="/images/s4%20cohort%209%20oct.png">
