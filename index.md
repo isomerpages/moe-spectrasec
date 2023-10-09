@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 10th Anniversary
           description: ""
-          url: https://www.spectra.edu.sg/10th-anniversary/
+          url: https://www.spectra.edu.sg//10th-anniversary/
         - title: Facebook
           description: Follow Us
           url: https://www.facebook.com/SpectraSecondarySchool
