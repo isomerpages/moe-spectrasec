@@ -17,7 +17,7 @@ sections:
           url: https://www.facebook.com/SpectraSecondarySchool
         - title: Sec 1 Admission
           description: ""
-          url: ""
+          url: https://www.spectra.edu.sg/i-am-a/prospective-student/
   - infobar:
       subtitle: CALLING ALL EX-STAFF & ALUMNI!
       description: Spectra’s 10th Anniversary Celebrations is on Saturday, 28 Oct
