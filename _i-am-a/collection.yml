@@ -3,7 +3,7 @@ collections:
     output: true
     order:
       - Student/.keep
-      - Student/Student Information Hub (SIH).md
+      - Student/Useful Links.md
       - Student/Student Learning Space.md
       - Student/Yearbook 2021.md
       - Student/Yearbook 2022.md
