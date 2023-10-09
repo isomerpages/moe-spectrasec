@@ -4,13 +4,14 @@ permalink: /i-am-a/teacher/useful-links/
 description: ""
 third_nav_title: Teacher
 ---
-### **Useful Links**
+**Below are some quick links to websites for easy access:**
+
 
 <table cellpadding="1" cellspacing="1" width="600" border="1">
 <tbody>
 <tr>
 <td>
-<h4><strong>Teaching and Learning Portals</strong></h4>
+<h5><strong>Teaching and Learning Portals</strong></h5>
 </td>
 </tr>
 <tr>
@@ -25,7 +26,7 @@ third_nav_title: Teacher
 </tr>
 <tr>
 <td>
-<h4><strong>Communications</strong></h4>
+<h5><strong>Communications</strong></h5>
 </td>
 </tr>
 <tr>
@@ -39,7 +40,7 @@ third_nav_title: Teacher
 </tr>
 <tr>
 <td>
-<h4><strong>Administration</strong></h4>
+<h5><strong>Administration</strong></h5>
 </td>
 </tr>
 <tr>
@@ -59,7 +60,7 @@ third_nav_title: Teacher
 </tr>
 <tr>
 <td>
-<h4><strong>Examination and Result Matters</strong></h4>
+<h5><strong>Examination and Result Matters</strong></h5>
 </td>
 </tr>
 <tr>
@@ -72,7 +73,7 @@ third_nav_title: Teacher
 </tr>
 <tr>
 <td>
-<h4><strong>Professional Learning and Development</strong></h4>
+<h5><strong>Professional Learning and Development</strong></h5>
 </td>
 </tr>
 <tr>
@@ -92,7 +93,7 @@ third_nav_title: Teacher
 </tr>
 <tr>
 <td>
-<h4><strong>Staff Well-Being</strong></h4>
+<h5><strong>Staff Well-Being</strong></h5>
 </td>
 </tr>
 <tr>
