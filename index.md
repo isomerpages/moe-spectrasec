@@ -15,6 +15,9 @@ sections:
         - title: Facebook
           description: Follow Us
           url: https://www.facebook.com/SpectraSecondarySchool
+        - title: Sec 1 Admission
+          description: ""
+          url: ""
   - infobar:
       subtitle: CALLING ALL EX-STAFF & ALUMNI!
       description: Spectra’s 10th Anniversary Celebrations is on Saturday, 28 Oct
