@@ -4,7 +4,6 @@ collections:
     order:
       - Student/.keep
       - Student/Useful Links.md
-      - Student/Student Learning Space.md
       - Student/Yearbook 2021.md
       - Student/Yearbook 2022.md
       - Student/Personal Learning Device.md
