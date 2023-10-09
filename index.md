@@ -18,12 +18,6 @@ sections:
         - title: Sec 1 Admission
           description: ""
           url: https://www.spectra.edu.sg/i-am-a/prospective-student/
-  - infobar:
-      subtitle: CALLING ALL EX-STAFF & ALUMNI!
-      description: Spectra’s 10th Anniversary Celebrations is on Saturday, 28 Oct
-        2023. Register your interest now!
-      button: Click here
-      url: https://go.gov.sg/together-we-can
   - resources:
       id: resources
   - infobar:
