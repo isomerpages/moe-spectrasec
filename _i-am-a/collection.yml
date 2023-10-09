@@ -4,12 +4,12 @@ collections:
     order:
       - Student/.keep
       - Student/Useful Links.md
-      - Student/Yearbook 2021.md
-      - Student/Yearbook 2022.md
       - Student/Booklist.md
       - Student/Co–Curricular Activities.md
       - Student/Cyber Wellness Support.md
       - Student/Helpline Information.md
+      - Student/Yearbook 2021.md
+      - Student/Yearbook 2022.md
       - Parent/.keep
       - Parent/MOE FAS Information.md
       - Parent/Sexuality Education.md
