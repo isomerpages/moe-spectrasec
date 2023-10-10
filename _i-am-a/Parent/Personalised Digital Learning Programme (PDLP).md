@@ -7,16 +7,14 @@ third_nav_title: Parent
 Today, rapid technological advancements are changing the way we live, work and play.
   
 
-*   **STUDENTS** will need to be equipped with the skills to handle changes and deal with challenges in the digital future.
+*   Students will need to be equipped with the skills to handle changes and deal with challenges in the digital future.
     
-*   **SCHOOLS** will develop all students to be agile and future-ready, regardless of their backgrounds and starting points in life.
+*   Schools will develop all students to be agile and future-ready, regardless of their backgrounds and starting points in life.
     
-*   **PARENTS** will need to play an **active role** in **partnering** schools to help **prepare** their children for an increasingly complex, interconnected and technology-driven world.
+*   Parents will need to play an active role in partnering schools to help prepare their children for an increasingly complex, interconnected and technology-driven world.
   
 
 To help you in this journey, you can find some useful resources (in the link below) in helping your child use Personal Learning Devices (PLD) and navigating the cyberworld in safer and more responsible manner.
-
-***
 
 ###### [Resources for Parents](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld/resources-for-parents)
 
