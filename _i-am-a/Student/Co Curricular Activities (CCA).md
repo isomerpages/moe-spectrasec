@@ -39,7 +39,6 @@ By participating in a CCA, students will be able to:
 
 <table border="1" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; height: 100px; width: 856.333px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 197px; text-align: center; height: 24px; background-color: rgb(62, 0, 109);"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;"><strong style="box-sizing: inherit; font-weight: bold; color:#FFF;">Visual &amp; Performing Arts</strong></span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 198px; text-align: center; height: 24px; background-color: rgb(62, 0, 109);"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;"><strong style="box-sizing: inherit; font-weight: bold; color:#FFF;">Clubs and Societies</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 3px;"><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 197px; height: 3px; text-align: center;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Dance Club</span></td><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 198px; height: 3px; text-align: center;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Media Club (Video &amp; Broadcast)</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 32px;"><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 197px; text-align: center; height: 32px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Music Club</span></td><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 198px; text-align: center; height: 32px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Media Club (Photo &amp; AV Support)</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 32px;"><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 197px; text-align: center;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">&nbsp;</span></td><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 198px; text-align: center;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Urban Farmers</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 33px;"><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 197px; text-align: center; height: 33px;"></td><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 198px; text-align: center; height: 33px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Young Artists</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 32px;"><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 197px; text-align: center; height: 32px;"></td><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 198px; text-align: center; height: 32px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Young Chefs</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 31px;"><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 197px; text-align: center; height: 31px;"></td><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 198px; text-align: center; height: 31px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Young Creators</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 32px;"><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 197px; text-align: center;"></td><td style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(255, 255, 255); width: 198px; text-align: center;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">&nbsp;Young Engineers</span></td></tr></tbody></table>
 
-***
 
 
 ###### Transfer of CCA
@@ -48,21 +47,30 @@ All transfer requests must be submitted formally in writing to HOD PE and CCA fo
 
 ***
 
-##### **Awards**
-###### EAGLES Award
+###### Other subsidiary Awards (Given internally within each CCA)
+
+This is given out within each respective CCA. Awards are given at the discretion of the CCA teachers to recognize positive traits such as sportsmanship, creativity, diligence, commitment, etc.
+
+</p><h5>Awards</h5>
+<h6>EAGLES Award</h6>
 
 The aim is to award students who excel in the non-academic areas: 
-* Achievement/ Accomplishment in CCA
-* Outstanding Leadership
-* Community Service
 
-###### Other subsidiary Awards (Given internally within each CCA)
+<ul>
+  <li>Achievement/ Accomplishment in CCA</li>
+  <li>Outstanding Leadership</li>
+  <li>Community Service</li>
+</ul>  
+
+
+<h6>Other subsidiary Awards (Given internally within each CCA)</h6>
 
 This is given out within each respective CCA. Awards are given at the discretion of the CCA teachers to recognize positive traits such as sportsmanship, creativity, diligence, commitment, etc.
 
 ***
 
-##### CCA Orientation For New Students<br>
+<h5>CCA Orientation For New Students</h5>
 
-This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms).<br>
-Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.</p>
+This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms).
+
+Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
