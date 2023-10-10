@@ -14,15 +14,18 @@ third_nav_title: Prospective Student
 
 
 ***
+
 ##### **Spectra Open House 2023 (22nd to 25th November 2023)**
 
 <p> Find out more about Spectra by joining us at the Open House, where students can:
-
-* Take a tour around our school campus
-* Interact with our Spectrans as they share about their school life and the Spectra journey and
-* Experience our curriculum
 	
-</p>
+</p><ul>
+  <li>Take a tour around our school campus</li>
+  <li>Interact with our Spectrans as they share about their school life and the Spectra journey and</li>
+  <li>Experience our curriculum
+	</li>
+</ul>  
+<p></p>
 
 
 ***
