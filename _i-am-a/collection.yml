@@ -3,12 +3,12 @@ collections:
     output: true
     order:
       - Student/.keep
-      - Student/Useful Links.md
       - Student/Booklist.md
       - Student/Co–Curricular Activities.md
       - Student/Cyber Wellness Support.md
       - Student/Helpline Information.md
       - Student/Yearbooks.md
+      - Student/Useful Links.md
       - Parent/.keep
       - Parent/MOE FAS Information.md
       - Parent/Sexuality Education.md
