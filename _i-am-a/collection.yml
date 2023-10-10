@@ -2,9 +2,9 @@ collections:
   i-am-a:
     output: true
     order:
-      - Student/Co Curricular Activities (CCA).md
       - Student/.keep
       - Student/Booklist.md
+      - Student/Co Curricular Activities (CCA).md
       - Student/Co–Curricular Activities.md
       - Student/Cyber Wellness Support.md
       - Student/Helpline Information.md
