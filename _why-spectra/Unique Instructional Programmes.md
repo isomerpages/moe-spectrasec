@@ -9,7 +9,9 @@ description: ""
 
 </p><p align="justify">Sustainable Agriculture forms an integral part of our enriched curriculum, offering students an immersive learning experience in our Spectra Edible Learning Garden and Green Room. Through hands-on activities, they acquire knowledge and practical skills in sustainable agricultural practices, while actively participating in the conversion of organic food waste into nutrient-rich compost. This holistic approach not only fosters a deep understanding of environmental conservation and food sustainability, but also instills essential values such as responsibility and resilience within our students.</p>
 
-![Gbsl2022](/images/GBSL2022.png)
+![](/images/sustainable%20agriculture%202.png)
+
+***
 
 
 ##### **Learning Through Immersive Play and Technology**
