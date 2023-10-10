@@ -14,7 +14,7 @@ third_nav_title: Prospective Student
 
 
 ***
-##### **Spectra Open House 2023 (22nd to 24th November 2023)**
+##### **Spectra Open House 2023 (22nd to 25th November 2023)**
 
 <p> Find out more about Spectra by joining us at the Open House, where students can:
 
