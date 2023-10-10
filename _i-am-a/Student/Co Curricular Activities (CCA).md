@@ -41,15 +41,8 @@ By participating in a CCA, students will be able to:
 
 
 
-###### Transfer of CCA
-
-All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
-
 ***
 
-###### Other subsidiary Awards (Given internally within each CCA)
-
-This is given out within each respective CCA. Awards are given at the discretion of the CCA teachers to recognize positive traits such as sportsmanship, creativity, diligence, commitment, etc.
 
 </p><h5>Awards</h5>
 <h6>EAGLES Award</h6>
@@ -74,3 +67,9 @@ This is given out within each respective CCA. Awards are given at the discretion
 This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms).
 
 Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
+
+***
+
+##### Transfer of CCA
+
+All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
