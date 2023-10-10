@@ -18,9 +18,10 @@ third_nav_title: Prospective Student
 
 <p> Find out more about Spectra by joining us at the Open House, where students can:
 
-* Take a tour around our school campus;
-* Interact with our Spectrans as they share about their school life and the Spectra journey; and
+* Take a tour around our school campus
+* Interact with our Spectrans as they share about their school life and the Spectra journey and
 * Experience our curriculum
+	
 </p>
 
 
