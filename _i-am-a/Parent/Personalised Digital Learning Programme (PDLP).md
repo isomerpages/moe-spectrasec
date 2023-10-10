@@ -4,7 +4,7 @@ permalink: /i-am-a/parents/pdlp/
 description: ""
 third_nav_title: Parent
 ---
-Today, rapid technological advancements are changing the way we live, work and play.
+Rapid technological advancements are changing the way we live, work and play.
   
 
 *   Students will need to be equipped with the skills to handle changes and deal with challenges in the digital future.
