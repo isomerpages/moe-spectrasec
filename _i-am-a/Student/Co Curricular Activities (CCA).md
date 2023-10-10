@@ -41,8 +41,6 @@ By participating in a CCA, students will be able to:
 
 
 
-***
-
 
 </p><h5>Awards</h5>
 <h6>EAGLES Award</h6>
