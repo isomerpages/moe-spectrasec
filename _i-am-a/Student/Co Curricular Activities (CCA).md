@@ -43,7 +43,7 @@ By participating in a CCA, students will be able to:
 
 
 </p><h5>Awards</h5>
-<h6>EAGLES Award</h6>
+<h5>EAGLES Award</h5>
 
 The aim is to award students who excel in the non-academic areas: 
 
@@ -54,7 +54,7 @@ The aim is to award students who excel in the non-academic areas:
 </ul>  
 
 
-<h6>Other subsidiary Awards (Given internally within each CCA)</h6>
+<h5>Other subsidiary Awards (Given internally within each CCA)</h5>
 
 This is given out within each respective CCA. Awards are given at the discretion of the CCA teachers to recognize positive traits such as sportsmanship, creativity, diligence, commitment, etc.
 
