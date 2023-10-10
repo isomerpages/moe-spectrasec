@@ -22,7 +22,7 @@ By participating in a CCA, students will be able to:
 
 ***
 
-###### CCA Policy
+##### CCA Policy
 * It is mandatory for every student to participate in at least one CCA.
 * Students must attend all CCA activities.
 * Absence from CCA must be supported by medical certificates or parents’ letters, which must be submitted to the CCA teacher promptly.
@@ -61,7 +61,7 @@ This is given out within each respective CCA. Awards are given at the discretion
 
 ***
 
-##### **CCA Orientation For New Students**
+##### CCA Orientation For New Students<br>
 
-This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms). Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
-</p>
+This is held in January for new students to find out more about CCAs offered in Spectra. Students will have to complete the CCA Option Form (where they must indicate their choices of CCAs) and submit to their Form Teacher (For Hardcopy) or through Parent Gateway (For Online Forms).<br>
+Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.</p>
