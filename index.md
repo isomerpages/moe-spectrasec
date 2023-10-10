@@ -18,8 +18,6 @@ sections:
         - title: Sec 1 Admission
           description: ""
           url: /i-am-a/prospective-student/
-  - resources:
-      id: resources
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
