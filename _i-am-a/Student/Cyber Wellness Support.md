@@ -18,4 +18,4 @@ If you need help on Cyber Wellness issues, you can either:
 
 *   Consult your form teacher or ICT teachers
 *   Visit&nbsp;[https://www.betterinternet.sg/](https://www.betterinternet.sg/)
-*   Visit&nbsp;[https://www.facebook.com/MediaLiteracyCouncilSG/](https://www.facebook.com/MediaLiteracyCouncilSG/)<p></p>
+*   Visit&nbsp;[https://www.facebook.com/MediaLiteracyCouncilSG/](https://www.facebook.com/MediaLiteracyCouncilSG/)
