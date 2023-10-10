@@ -15,8 +15,9 @@ third_nav_title: School Information
 
 ###### **Financial Information**
 
-![](/images/financial%20info%201%202023%20-%2010%20oct.png)
+<img style="width:900px" src="/images/financial%20info%201%202023%20-%2010%20oct.png">
+
 
 ###### **Statement of Financial Position**
 
-![](/images/financial%20info%202%202023%20-%2010%20oct.png)
+<img style="width:900px" src="/images/financial%20info%202%202023%20-%2010%20oct.png">
