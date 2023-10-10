@@ -14,7 +14,7 @@ Today, rapid technological advancements are changing the way we live, work and p
 *   **PARENTS** will need to play an **active role** in **partnering** schools to help **prepare** their children for an increasingly complex, interconnected and technology-driven world.
   
 
-To help you in this journey, you can find some resources in the link below that you may find useful in helping your child to use the PLD devices and navigating the cyberworld in safer and more responsible manner.
+To help you in this journey, you can find some useful resources (in the link below) in helping your child use Personal Learning Devices (PLD) and navigating the cyberworld in safer and more responsible manner.
 
 ***
 
