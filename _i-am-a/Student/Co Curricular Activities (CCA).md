@@ -33,11 +33,13 @@ By participating in a CCA, students will be able to:
 ***
 ##### **CCA @ Spectra**
 
-</p><p></p><p align="justify">Spectra offers CCA from 4 different groups namely the Uniformed Groups (UG), Visual and Performing Arts (VPA) Groups, Physical Sports or Clubs and Societies (C&amp;S).
+</p><p></p><p align="justify">Spectra offers CCA from 4 different groups namely the Uniformed Groups (UG), Visual and Performing Arts (VPA) Groups, Physical Sports or Clubs and Societies.
+	
 	
 ![](/images/cca%20list%202023.png)
+	
 
-</p><h5>Awards</h5>
+</p><h4>Awards</h4>
 <h5>EAGLES Award</h5>
 
 The aim is to award students who excel in the non-academic areas: 
