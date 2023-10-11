@@ -3,7 +3,7 @@ title: Cohort Staff
 permalink: /our-people/cohort-staff/
 description: ""
 ---
-##### **Secondary 1 Cohort**
+<h5 align="middle">Secondary 1 Cohort</h5>
 
 <style>
 <!--
