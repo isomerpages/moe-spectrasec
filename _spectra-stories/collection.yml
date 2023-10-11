@@ -2,6 +2,6 @@ collections:
   spectra-stories:
     output: true
     order:
-      - Spectra Is 10.md
+      - 10th Anniversary.md
       - Spectra Videos.md
       - Spectra Brochure.md
