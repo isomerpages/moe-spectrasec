@@ -3,12 +3,12 @@ title: School Philosophy
 permalink: /about-spectra/school-philosophy/
 description: ""
 ---
-##### **General Philosophy in Learning**
+##### **General Philosophy In Learning**
 <img style="width:800px" src="/images/chart-1024x712.jpg">
 
 ***
 
-##### **Teaching Philosophy of Spectra**
+##### **Teaching Philosophy Of Spectra**
 
 Here in Spectra, we have&nbsp;two key beliefs that guide our teaching and learning.
 
@@ -17,7 +17,7 @@ Here in Spectra, we have&nbsp;two key beliefs that guide our teaching and learni
 
 ***
 
-##### **Every student wants to learn**
+##### **Every Student Wants To Learn**
 
 <p align="justify"> Every student wants to learn though they may vary in reasons for learning and in levels of motivation. We believe that if the school can give students purpose and relevance in their learning, make them feel competent and give them meaningful choice and autonomy, all students will learn.</p>
 
@@ -29,7 +29,7 @@ Here in Spectra, we have&nbsp;two key beliefs that guide our teaching and learni
 
 ***
 
-##### **Every student learns at a different pace**
+##### **Every Student Learns At A Different Pace**
 
 <p align="justify">Our students come from diverse background and have different academic readiness to acquire the next level of knowledge. We do not expect nor think it is necessary to try and teach the same knowledge to the every student at any one time. Instead, we focus on allowing students to exercise self-help in the absence of their teacher using technology and at the same time ensuring that differentiated instruction is taking place.</p>
 
@@ -39,6 +39,6 @@ Here in Spectra, we have&nbsp;two key beliefs that guide our teaching and learni
 
 ***
 
-##### **Joy of learning**
+##### **Joy Of Learning**
 
 <p align="justify">When students are motivated to learn and allowed to learn at a pace suitable for them, they will enjoy learning and will develop a desire to learn more (intrinsic motivation). With this newfound motivation, we believe they will develop many of the desired outcomes of education such as curiosity, self-directedness and the desire for conceptual understanding. All these will prepare them for a world where the ability to learn and apply new knowledge will be critical.</p>
