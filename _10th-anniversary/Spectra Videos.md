@@ -3,9 +3,7 @@ title: Spectra Videos
 permalink: /10th-anniversary/spectra-videos/
 description: ""
 ---
-##### **Virtual tour 2021**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/gnq578XoHjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ##### **Bike to Work**
 
@@ -17,6 +15,16 @@ description: ""
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFuGA2Pxohg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
+##### **Virtual tour 2021**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/gnq578XoHjw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+
+##### **Planting the Seeds of our Future**
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hN0UOhtebwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+
 ##### **Finding the Key to the Future**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/veHCX_rVowo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
@@ -25,10 +33,6 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/lXSTMngdOhA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-
-##### **Planting the Seeds of our Future**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/hN0UOhtebwQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 ##### **Chasing Dreams**
 
@@ -74,7 +78,3 @@ description: ""
 ##### **Learning by Doing**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/-89d2fFZEEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-
-
-With effect from 2021, Spectra offers a new ITE Skills Subject Certificate (ISSC) to further widen the exposure and educational experience of students. New subjects include the Internet of Things (IOTA) and Mobile Web Applications (MWA).
