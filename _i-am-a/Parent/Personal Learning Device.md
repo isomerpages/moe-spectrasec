@@ -24,7 +24,7 @@ third_nav_title: Parent
 *   For students on non-MOE-FAS, subsidies are available such that the maximum OOP will be $50.
 *   Financial assistance is also available for Permanent residents (PR) and International Students (IS) who need support.
 
-<b> More information will be shared in January 2021, when MOE provides schools with more details.</b>
+
 
 
 ##### **Supporting Parents to Support their Child**
