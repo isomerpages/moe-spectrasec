@@ -4,7 +4,7 @@ permalink: /i-am-a/student/cca/
 description: ""
 third_nav_title: Student
 ---
-<p align="justify">Co-Curricular Activities (CCA) is an important component of character education in Spectra Secondary School, and forms a part of the holistic, well-rounded education that we seek to provide our students.	
+Co-Curricular Activities (CCA) is an important component of character education in Spectra Secondary School, and forms a part of the holistic, well-rounded education that we seek to provide our students.	
 
 ##### **Objectives of CCA**
 
@@ -31,15 +31,16 @@ By participating in a CCA, students will be able to:
 
 
 ***
+	
 ##### **CCA @ Spectra**
 
-</p><p></p><p align="justify">Spectra offers CCA from 4 different groups namely the Uniformed Groups (UG), Visual and Performing Arts (VPA) Groups, Physical Sports or Clubs and Societies.
+Spectra offers CCA from 4 different groups namely the Uniformed Groups (UG), Visual and Performing Arts (VPA) Groups, Physical Sports or Clubs and Societies.
 	
 	
 ![](/images/cca%20list%202023.png)
 	
 
-</p><h4>Awards</h4>
+<p></p><h4>Awards</h4>
 <h5>EAGLES Award</h5>
 
 The aim is to award students who excel in the non-academic areas: 
@@ -54,14 +55,14 @@ The aim is to award students who excel in the non-academic areas:
 
 <h5>CCA Orientation For New Students</h5>
 
-<p align="justify">This is held in January for new students to find out more about CCAs offered in Spectra. Parents will have to to submit the online CCA Option Form (where they must indicate the choices of CCAs) for their child/ward.
+This is held in January for new students to find out more about CCAs offered in Spectra. Parents will have to to submit the online CCA Option Form (where they must indicate the choices of CCAs) for their child/ward.
 
-</p><p align="justify">The link for the Online CCA Option Form will be shared by the Form Teachers accordingly.
+The link for the Online CCA Option Form will be shared by the Form Teachers accordingly.
 
-</p><p align="justify">Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
+Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
 
 ***
 
 ##### Transfer of CCA
 
-All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.</p>
+All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
