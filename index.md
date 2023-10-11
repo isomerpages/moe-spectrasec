@@ -14,7 +14,7 @@ sections:
           url: https://www.instagram.com/spectrastories/
         - title: 10th Anniversary
           description: ""
-          url: /10th-anniversary/
+          url: /spectra-stories/10th-anniversary/
         - title: Sec 1 Admission
           description: ""
           url: /i-am-a/prospective-student/
