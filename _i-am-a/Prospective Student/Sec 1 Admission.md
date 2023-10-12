@@ -48,19 +48,19 @@ third_nav_title: Prospective Student
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
   font-weight:normal;overflow:hidden;padding:8px 8px;word-break:normal;}
 .tg .tg-o1y7{background-color:#3e006d;border-color:#000000;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;
-  font-size:13px;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-4osx{background-color:#efefef;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;
+  font-size:14px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-4osx{background-color:#efefef;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:14px;
   font-style:italic;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-e229{border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;text-align:left;
+.tg .tg-e229{border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:14px;text-align:left;
   vertical-align:middle}
-.tg .tg-azvr{border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;text-align:left;
+.tg .tg-azvr{border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:14px;text-align:left;
   vertical-align:top}
-.tg .tg-2s89{background-color:#efefef;border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;
+.tg .tg-2s89{background-color:#efefef;border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:14px;
   font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-iz2q{background-color:#efefef;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;font-style:italic;
+.tg .tg-iz2q{background-color:#efefef;font-family:Arial, Helvetica, sans-serif !important;font-size:14px;font-style:italic;
   font-weight:bold;text-align:left;vertical-align:top}
-.tg .tg-3xxw{font-family:Arial, Helvetica, sans-serif !important;font-size:13px;text-align:left;vertical-align:top}
-.tg .tg-s4p0{background-color:#3e006d;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;
+.tg .tg-3xxw{font-family:Arial, Helvetica, sans-serif !important;font-size:14px;text-align:left;vertical-align:top}
+.tg .tg-s4p0{background-color:#3e006d;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;font-size:14px;
   font-weight:bold;text-align:left;vertical-align:top}
 </style>
 <table style="undefined;table-layout: fixed; width: 800px" class="tg">
