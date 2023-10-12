@@ -4,8 +4,6 @@ permalink: /i-am-a/teacher/useful-links/
 description: ""
 third_nav_title: Staff
 ---
-**Below are some quick links to websites for easy access:**
-
 
 <table cellpadding="1" cellspacing="1" width="600" border="1">
 <tbody>
