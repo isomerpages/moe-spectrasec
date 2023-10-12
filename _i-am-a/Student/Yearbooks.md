@@ -4,7 +4,7 @@ permalink: /yearbook/yearbooks/
 description: ""
 third_nav_title: Student
 ---
-**No part of the publication may be reproduced in any form without the permission of the school.**
+**No part of the publications may be reproduced in any form without the permission of the school.**
 
 ##### **Yearbook 2022**
 
