@@ -17,7 +17,7 @@ description: ""
 
 ***
 
-##### **Our Motto**
+##### **School Motto**
 <img style="width:180px" src="/images/School-Motto.jpg">
 
 <p align="justify">The motto “<b>Together We Can</b>” is the School’s rallying call. It serves to remind every Spectran that with collective effort and steadfast faith, we can achieve success.</p>
