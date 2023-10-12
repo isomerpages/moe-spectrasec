@@ -63,9 +63,9 @@ third_nav_title: Prospective Student
 .tg .tg-s4p0{background-color:#3e006d;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;
   font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 600px" class="tg">
+<table style="undefined;table-layout: fixed; width: 800px" class="tg">
 <colgroup>
-<col style="width: 600px">
+<col style="width: 800px">
 </colgroup>
 <thead>
   <tr>
