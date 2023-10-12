@@ -10,6 +10,8 @@ description: ""
 <p align="justify">Beyond the classroom, we also have a team of counsellors in our Counselling Support Unit to follow up with our students together with our Year Heads and Form Teachers. After-school engagement activities are designed to provide students with opportunities to meet new friends, learn new skills and develop a sense of belonging to the school in a fun and safe environment. We also work closely with external agencies to expand our network of support for our students. Spectrans can also learn new skills and pursue their passion in cycling at
 our Spectra Bike Station.</p>
 
+![](/images/bike%20station.png)
+
 <p align="justify">The newly renovated Student Hub is now a more inviting space for students which will provide student services and comfortable zones for our students to relax and drop-in after school. Students can chat over drinks and snacks, exercise at the gym, meet with their friends and even play board games and electronic games together.</p>
 
 ![Dedicated Supprt](/images/SH2022.png)
