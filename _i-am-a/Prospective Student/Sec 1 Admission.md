@@ -42,12 +42,9 @@ third_nav_title: Prospective Student
 ##### **Frequently Asked Question (FAQ) on Direct Admission and Secondary 1 (S1) Posting**
 
 
-
-
-
 <div class="WordSection1">
 
-<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="708" style="width:531.35pt;border-collapse:collapse;border:none;mso-border-alt:
+<table class="MsoTableGrid" border="1" cellspacing="0" cellpadding="0" width="708" style="width:600pt;border-collapse:collapse;border:none;mso-border-alt:
  solid windowtext .5pt;mso-yfti-tbllook:1184;mso-padding-alt:0cm 5.4pt 0cm 5.4pt">
  <tbody><tr style="mso-yfti-irow:0;mso-yfti-firstrow:yes;height:27.6pt">
   <td width="255" style="width:191.15pt;border:solid windowtext 1.0pt;mso-border-alt:
