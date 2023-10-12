@@ -32,8 +32,8 @@ third_nav_title: Staff
 <tr>
 <td>
 <ol>
-<li><a rel="noopener noreferrer" target="_blank" href="https://schools.gov.sg/owa/auth/logon.aspx?replaceCurrent=1&amp;url=https%3a%2f%2fschools.gov.sg%2fowa">CES Mailbox</a> (requires VPN)</li>
-<li><a href="https://icon.moe.edu.sg/">iCON 2.0</a></li>
+
+<li><a href="https://icon.moe.edu.sg/">iCON (log in via MIMS)</a></li>
 <li><a href="https://pg.moe.edu.sg/">Parents Gateway</a></li>
 </ol>
 </td>
@@ -53,7 +53,7 @@ third_nav_title: Staff
 <li><a rel="noopener noreferrer" target="_blank" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">SSOE2 MIMS Login</a> (requires VPN)</li>
 <li><a rel="noopener noreferrer" target="_blank" href="https://www.hrp.gov.sg/">Human Resource Portal (HRP)</a></li>
 <li><a rel="noopener noreferrer" target="_blank" href="https://schoolcockpit.moe.gov.sg/">School Cockpit Plus</a> (use Internet Explorer) (requires VPN)</li>
-<li><a rel="noopener noreferrer" target="_blank" href="https://pacgov.agd.gov.sg/">Pac@Gov&nbsp;</a></li>
+
 <li><a href="http://intranet.moe.gov.sg/">MOE Intranet</a> (requires VPN)</li>
 </ol>
 </td>
@@ -80,7 +80,7 @@ third_nav_title: Staff
 <td>
 <ol>
 <li><a rel="noopener noreferrer" target="_blank" href="https://sites.google.com/moe.edu.sg/spectra-pd/home">Spectra Skilful Teacher</a></li>
-<li><a rel="noopener noreferrer" target="_blank" href="https://traisi.moe.gov.sg/">TRAISI&nbsp;</a></li>
+
 <li><a rel="noopener noreferrer" target="_blank" href="https://registry.opal.moe.edu.sg/cas/login?service=https%3A%2F%2Fopal.moe.edu.sg%2Fstp%2F">STP</a></li>
 <li><a rel="noopener noreferrer" target="_blank" href="http://intranet.moe.gov.sg/etd/Pages/sls.aspx">SLS Info for Teachers</a></li>
 <li><a href="https://www.opal2.moe.edu.sg/">OPAL 2.0</a></li>
@@ -100,7 +100,7 @@ third_nav_title: Staff
 <td>
 <ol>
 <li><a rel="noopener noreferrer" target="_blank" href="https://academyofsingaporeteachers-moe-edu-sg.cwp.sg/olive">OLive Staff Well-Being</a></li>
-<li><a rel="noopener noreferrer" target="_blank" href="https://academyofsingaporeteachers-moe-edu-sg.cwp.sg/olive/icare">iCare</a></li>
+<li><a rel="noopener noreferrer" target="_blank" href="https://olive.moe.edu.sg/olive/icare/">iCare</a></li>
 <li><a rel="noopener noreferrer" target="_blank" href="https://www.mesrc.net/">MESRC</a></li>
 </ol>
 </td>
