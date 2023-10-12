@@ -39,8 +39,6 @@ description: ""
 
 <p align="justify">With greater confidence an stronger literacy skills, students are more motivated to work towards their academic goals not just in the English Language but also in other subjects. The weekly programme supports students throughout the academic year, including end-of-year examinations preparation.</p>
 
-<p align="justify">We are very thankful for all the care and effort that our volunteers have put in to establish this programme and support our Secondary Three students this year. We hope to grow our team of volunteers and customise this programme further to meet the needs of our students.</p>
-
 ***
 
 ##### **Professional Development for Spectra Teachers**
