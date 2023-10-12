@@ -18,9 +18,9 @@ description: ""
 .tg .tg-qm8y{background-color:#efefef;border-color:#343434;color:#000000;font-size:13px;text-align:left;vertical-align:middle}
 .tg .tg-u99b{background-color:#ffffff;border-color:#343434;color:#000000;font-size:13px;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 648px" class="tg">
+<table style="undefined;table-layout: fixed; width: 630px" class="tg">
 <colgroup>
-<col style="width: 333px">
+<col style="width: 315px">
 <col style="width: 315px">
 </colgroup>
 <tbody>
@@ -74,7 +74,7 @@ description: ""
   </tr>
   <tr>
     <td class="tg-5rzm">HOD, PE &amp; CCA &amp; AES</td>
-    <td class="tg-qm8y">MrViknesvaran S/O Veeramuthu</td>
+    <td class="tg-qm8y">Mr Viknesvaran S/O Veeramuthu</td>
   </tr>
   <tr>
     <td class="tg-9ezz">HOD, STM</td>
