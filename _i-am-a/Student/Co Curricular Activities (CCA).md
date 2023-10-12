@@ -4,6 +4,8 @@ permalink: /i-am-a/student/cca/
 description: ""
 third_nav_title: Student
 ---
+![](/images/cca%20banner.png)
+
 Co-Curricular Activities (CCA) is an important component of character education in Spectra Secondary School, and forms a part of the holistic, well-rounded education that we seek to provide our students.	
 
 ##### **Objectives of CCA**
