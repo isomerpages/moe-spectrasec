@@ -16,8 +16,8 @@ description: ""
 </style>
 <table style="undefined;table-layout: fixed; width: 625px" class="tg">
 <colgroup>
-<col style="width: 323px">
-<col style="width: 302px">
+<col style="width: 315px">
+<col style="width: 315px">
 </colgroup>
 <thead>
   <tr>
