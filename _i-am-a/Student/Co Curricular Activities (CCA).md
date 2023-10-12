@@ -22,7 +22,7 @@ By participating in a CCA, students will be able to:
 
 ***
 
-##### CCA Policy
+##### **CCA Policy**
 * It is mandatory for every student to participate in at least one CCA.
 * Students must attend all CCA activities.
 * Absence from CCA must be supported by medical certificates or parents’ letters, which must be submitted to the CCA teacher promptly.
@@ -40,8 +40,8 @@ Spectra offers CCA from 4 different groups namely the Uniformed Groups (UG), Vis
 ![](/images/cca%20list%202023.png)
 	
 
-<p></p><h4>Awards</h4>
-<h5>EAGLES Award</h5>
+##### **Awards**
+###### **EAGLES Award**
 
 The aim is to award students who excel in the non-academic areas: 
 
@@ -53,7 +53,7 @@ The aim is to award students who excel in the non-academic areas:
 
 ***
 
-<h5>CCA Orientation For New Students</h5>
+#### **CCA Orientation For New Students**
 
 This is held in January for new students to find out more about CCAs offered in Spectra. Parents will have to to submit the online CCA Option Form (where they must indicate the choices of CCAs) for their child/ward.
 
@@ -63,6 +63,6 @@ Students are allocated to CCAs according to best fit based on student profile, s
 
 ***
 
-##### Transfer of CCA
+##### **Transfer of CCA**
 
 All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
