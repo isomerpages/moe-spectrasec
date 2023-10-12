@@ -8,7 +8,6 @@ third_nav_title: Student
 
 If you have these questions, we are here to help you. First let us understand what is Cyber Wellness.
 
-![Moe Cyber Wellness Framework](/images/moe-cyber-wellness-framework.png)
 
 ##### **What is Cyber Wellness?** 
 
@@ -19,3 +18,12 @@ If you need help on Cyber Wellness issues, you can either:
 *   Consult your form teacher or ICT teachers
 *   Visit&nbsp;[https://www.betterinternet.sg/](https://www.betterinternet.sg/)
 *   Visit&nbsp;[https://www.facebook.com/MediaLiteracyCouncilSG/](https://www.facebook.com/MediaLiteracyCouncilSG/)
+
+***
+
+#### **The 3 Cyber Wellness Key Messages**
+#### 
+
+* Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.
+* Be a safe and responsible user of technology and maintain a positive online presence.
+* Be responsible for personal well-being in the cyberspace.
