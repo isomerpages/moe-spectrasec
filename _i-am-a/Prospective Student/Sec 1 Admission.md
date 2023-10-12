@@ -36,6 +36,7 @@ third_nav_title: Prospective Student
 <p align="justify">To optimize your chances to join Spectra, you can apply directly at Spectra before participating in the Secondary 1 Posting Exercise to opt for other school choices. </p>
 
 <p align="justify">Alternatively, you can indicate Spectra as one of the choices during Secondary 1 Posting Exercise.  </p>
+
 ***
 
 ##### **Frequently Asked Question (FAQ) on Direct Admission and Secondary 1 (S1) Posting**
