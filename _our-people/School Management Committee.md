@@ -3,6 +3,54 @@ title: School Management Committee
 permalink: /our-people/school-management-committee/
 description: ""
 ---
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:12px 10px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:12px 10px;word-break:normal;}
+.tg .tg-odsq{background-color:#FFF;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:13px;text-align:left;vertical-align:middle}
+.tg .tg-49pb{background-color:#3E006D;border-color:#000000;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:13px;font-weight:bold;text-align:left;vertical-align:middle}
+.tg .tg-03b1{background-color:#3E006D;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;
+  font-weight:bold;text-align:left;vertical-align:middle}
+</style>
+<table style="undefined;table-layout: fixed; width: 534px" class="tg">
+<colgroup>
+<col style="width: 277.259259px">
+<col style="width: 256.259259px">
+</colgroup>
+<tbody>
+  <tr>
+    <td class="tg-03b1"><span style="color:white">Designation</span></td>
+    <td class="tg-49pb"><span style="background-color:#3E006D">Name</span></td>
+  </tr>
+  <tr>
+    <td class="tg-odsq">Principal</td>
+    <td class="tg-odsq">Mr Tan Teck Hock</td>
+  </tr>
+  <tr>
+    <td class="tg-odsq">Vice Principal, Administration</td>
+    <td class="tg-odsq">Mr Khou Beng Chew</td>
+  </tr>
+  <tr>
+    <td class="tg-odsq">Vice Principal, Instructional Programme</td>
+    <td class="tg-odsq">Mr How Pui Seng</td>
+  </tr>
+  <tr>
+    <td class="tg-odsq">Vice Principal, Student Development</td>
+    <td class="tg-odsq">Ms Guo Xinhui</td>
+  </tr>
+  <tr>
+    <td class="tg-odsq">Vice Principal, Vocational Education</td>
+    <td class="tg-odsq">Ms Grace Ho Chen Yee</td>
+  </tr>
+</tbody>
+</table>
+
+
+
 <style>
 <!--
  /* Font Definitions */
@@ -1055,6 +1103,3 @@ div.WordSection1
 <p class="MsoNormal"><span style="mso-fareast-font-family:&quot;Times New Roman&quot;">&nbsp;</span></p>
 
 </div>
-
-
-
