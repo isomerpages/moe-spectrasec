@@ -74,7 +74,7 @@ third_nav_title: Prospective Student
 </thead>
 <tbody>
   <tr>
-    <td class="tg-4osx">1. What is the difference between applying to SPECTRA via the direct admission and via S1 Posting?</td>
+    <td class="tg-4osx">1. What is the difference between applying to SPECTRA via the direct admission and via Sec 1 Posting?</td>
   </tr>
   <tr>
     <td class="tg-e229">Students who apply directly to SPECTRA will have their applications processed by the schools. Any remaining vacancies thereafter will be set aside for students to be posted to SPECTRA via S1 Posting.</td>
