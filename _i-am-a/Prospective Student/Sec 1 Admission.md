@@ -60,9 +60,9 @@ third_nav_title: Prospective Student
 .tg .tg-5zdd{background-color:#cbcefb;border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:15px;
   font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
 </style>
-<table style="undefined;table-layout: fixed; width: 848px" class="tg">
+<table style="undefined;table-layout: fixed; width: 830px" class="tg">
 <colgroup>
-<col style="width: 848.111111px">
+<col style="width: 830px">
 </colgroup>
 <thead>
   <tr>
