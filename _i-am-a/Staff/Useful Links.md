@@ -46,15 +46,16 @@ third_nav_title: Staff
 <tr>
 <td>
 <ol>
-<li><a rel="noopener noreferrer" target="_blank" href="https://scmobile.moe.edu.sg/login">SC Mobile</a></li>
+
 <li><a rel="noopener noreferrer" target="_blank" href="http://10.163.112.140/">SSIS (Spectra Student Information System)</a></li>
 <li><a href="https://rbs.avero-tech.com/">Room Booking System (RBS)</a> (log in via MIMS)</li>
 <li><a rel="noopener noreferrer" target="_blank" href="http://10.163.112.142/TimeSolution/SignIn.aspx">Spectra HR System</a></li>
-<li><a rel="noopener noreferrer" target="_blank" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">SSOE2 MIMS Login</a> (requires VPN)</li>
 <li><a rel="noopener noreferrer" target="_blank" href="https://www.hrp.gov.sg/">Human Resource Portal (HRP)</a></li>
-<li><a rel="noopener noreferrer" target="_blank" href="https://schoolcockpit.moe.gov.sg/">School Cockpit Plus</a> (use Internet Explorer) (requires VPN)</li>
+	<li><a href="http://intranet.moe.gov.sg/">MOE Intranet</a> (requires VPN)</li>
+	<li><a rel="noopener noreferrer" target="_blank" href="https://idp.mims.moe.gov.sg/nidp/saml2/sso">SSOE2 MIMS Login</a> (requires VPN)</li>
+<li><a rel="noopener noreferrer" target="_blank" href="https://schoolcockpit.moe.gov.sg/">School Cockpit Plus</a> (requires VPN)</li>
+	<li><a rel="noopener noreferrer" target="_blank" href="https://scmobile.moe.edu.sg/login">SC Mobile</a></li>
 
-<li><a href="http://intranet.moe.gov.sg/">MOE Intranet</a> (requires VPN)</li>
 </ol>
 </td>
 </tr>
