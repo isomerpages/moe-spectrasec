@@ -4,7 +4,6 @@ permalink: /i-am-a/teacher/useful-links/
 description: ""
 third_nav_title: Staff
 ---
-
 <table cellpadding="1" cellspacing="1" width="600" border="1">
 <tbody>
 <tr>
@@ -98,7 +97,7 @@ third_nav_title: Staff
 <tr>
 <td>
 <ol>
-<li><a rel="noopener noreferrer" target="_blank" href="https://academyofsingaporeteachers-moe-edu-sg.cwp.sg/olive">OLive Staff Well-Being</a></li>
+<li><a rel="noopener noreferrer" target="_blank" href="https://olive.moe.edu.sg/">OLive</a></li>
 <li><a rel="noopener noreferrer" target="_blank" href="https://olive.moe.edu.sg/olive/icare/">iCare</a></li>
 <li><a rel="noopener noreferrer" target="_blank" href="https://www.mesrc.net/">MESRC</a></li>
 </ol>
