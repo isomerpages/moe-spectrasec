@@ -4,7 +4,9 @@ permalink: /i-am-a/student/cyber-wellness-support-student/
 description: ""
 third_nav_title: Student
 ---
-##### **Am I being cyber bullied? How do I deal with fake news is? Am I a social media addict?**  
+![](/images/cyberwellness.png)
+
+#### **Am I being cyber bullied? How do I deal with fake news is? Am I a social media addict?**  
 
 If you have these questions, we are here to help you. First let us understand what is Cyber Wellness.
 
