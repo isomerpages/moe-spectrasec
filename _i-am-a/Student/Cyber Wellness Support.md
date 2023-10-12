@@ -24,7 +24,6 @@ If you need help on Cyber Wellness issues, you can either:
 ***
 
 #### **The 3 Cyber Wellness Key Messages**
-#### 
 
 * Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.
 * Be a safe and responsible user of technology and maintain a positive online presence.
