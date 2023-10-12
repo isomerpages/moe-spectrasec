@@ -6,45 +6,47 @@ description: ""
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
 .tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:12px 10px;word-break:normal;}
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:13px 10px;word-break:normal;}
 .tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
-  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:12px 10px;word-break:normal;}
-.tg .tg-odsq{background-color:#FFF;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
-  font-size:13px;text-align:left;vertical-align:middle}
-.tg .tg-49pb{background-color:#3E006D;border-color:#000000;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;
-  font-size:13px;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-03b1{background-color:#3E006D;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;
-  font-weight:bold;text-align:left;vertical-align:middle}
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:13px 10px;word-break:normal;}
+.tg .tg-n6hd{background-color:#3E006D;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:13px;
+  font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-7s7n{background-color:#3E006D;border-color:#000000;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:13px;font-weight:bold;text-align:center;vertical-align:middle}
+.tg .tg-xtaw{background-color:#FFF;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:13px;text-align:center;vertical-align:middle}
+.tg .tg-ar5z{background-color:#efefef;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:13px;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 534px" class="tg">
+<table style="undefined;table-layout: fixed; width: 579px" class="tg">
 <colgroup>
-<col style="width: 277.259259px">
-<col style="width: 256.259259px">
+<col style="width: 288.259259px">
+<col style="width: 290.259259px">
 </colgroup>
 <tbody>
   <tr>
-    <td class="tg-03b1"><span style="color:white">Designation</span></td>
-    <td class="tg-49pb"><span style="background-color:#3E006D">Name</span></td>
+    <td class="tg-n6hd"><span style="color:white">Designation</span></td>
+    <td class="tg-7s7n"><span style="background-color:#3E006D">Name</span></td>
   </tr>
   <tr>
-    <td class="tg-odsq">Principal</td>
-    <td class="tg-odsq">Mr Tan Teck Hock</td>
+    <td class="tg-xtaw">Principal</td>
+    <td class="tg-xtaw">Mr Tan Teck Hock</td>
   </tr>
   <tr>
-    <td class="tg-odsq">Vice Principal, Administration</td>
-    <td class="tg-odsq">Mr Khou Beng Chew</td>
+    <td class="tg-ar5z">Vice Principal, Administration</td>
+    <td class="tg-ar5z">Mr Khou Beng Chew</td>
   </tr>
   <tr>
-    <td class="tg-odsq">Vice Principal, Instructional Programme</td>
-    <td class="tg-odsq">Mr How Pui Seng</td>
+    <td class="tg-xtaw">Vice Principal, Instructional Programme</td>
+    <td class="tg-xtaw">Mr How Pui Seng</td>
   </tr>
   <tr>
-    <td class="tg-odsq">Vice Principal, Student Development</td>
-    <td class="tg-odsq">Ms Guo Xinhui</td>
+    <td class="tg-ar5z">Vice Principal, Student Development</td>
+    <td class="tg-ar5z">Ms Guo Xinhui</td>
   </tr>
   <tr>
-    <td class="tg-odsq">Vice Principal, Vocational Education</td>
-    <td class="tg-odsq">Ms Grace Ho Chen Yee</td>
+    <td class="tg-xtaw">Vice Principal, Vocational Education</td>
+    <td class="tg-xtaw">Ms Grace Ho Chen Yee</td>
   </tr>
 </tbody>
 </table>
