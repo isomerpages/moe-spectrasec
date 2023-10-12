@@ -15,7 +15,7 @@ third_nav_title: Prospective Student
 
 ***
 
-##### **Spectra Open House 2023 (22nd to 25th November 2023)**
+##### **Spectra Open House 2023**
 
 <p> Find out more about Spectra by joining us at the Open House, where students can:
 	
@@ -27,7 +27,15 @@ third_nav_title: Prospective Student
 </ul>  
 <p></p>
 
+***
 
+##### **Application Process**
+
+<p align="justify">Spectra is a secondary school for students who are eligible for Posting Group 1. You are welcome to visit us at our upcoming Open House after the release of the PSLE results. </p>
+
+<p align="justify">To optimize your chances to join Spectra, you can apply directly at Spectra before participating in the Secondary 1 Posting Exercise to opt for other school choices. </p>
+
+<p align="justify">Alternatively, you can indicate Spectra as one of the choices during Secondary 1 Posting Exercise.  </p>
 ***
 
 ##### **Frequently Asked Question (FAQ) on Direct Admission and Secondary 1 (S1) Posting**
