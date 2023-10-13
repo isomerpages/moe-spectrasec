@@ -22,10 +22,10 @@ description: ""
 .tg .tg-nmo1{background-color:#efefef;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
   font-size:14px;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 550px" class="tg">
+<table style="undefined;table-layout: fixed; width: 520px" class="tg">
 <colgroup>
-<col style="width: 170px">
-<col style="width: 380px">
+<col style="width: 120px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
@@ -143,10 +143,10 @@ description: ""
 .tg .tg-nmo1{background-color:#efefef;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
   font-size:14px;text-align:center;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 550px" class="tg">
+<table style="undefined;table-layout: fixed; width: 520px" class="tg">
 <colgroup>
-<col style="width: 170px">
-<col style="width: 380px">
+<col style="width: 120px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
@@ -264,10 +264,10 @@ description: ""
 .tg .tg-8t1g{border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:14px;text-align:center;
   vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 550px" class="tg">
+<table style="undefined;table-layout: fixed; width: 520px" class="tg">
 <colgroup>
-<col style="width: 170px">
-<col style="width: 380px">
+<col style="width: 120px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
@@ -405,10 +405,10 @@ description: ""
 .tg .tg-8t1g{border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:14px;text-align:center;
   vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 550px" class="tg">
+<table style="undefined;table-layout: fixed; width: 520px" class="tg">
 <colgroup>
-<col style="width: 170px">
-<col style="width: 380px">
+<col style="width: 120px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>
