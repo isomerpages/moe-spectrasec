@@ -16,4 +16,6 @@ To apply for the MOE FAS for your child/ward, please download the application fo
 
 **If you have any enquiries, please contact the General Office at 64660775.**
 
+***
+
 ![MOE FAS 2023](/images/MOE-FAS-2023.png)
