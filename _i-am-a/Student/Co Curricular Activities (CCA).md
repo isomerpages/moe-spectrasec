@@ -41,10 +41,10 @@ By participating in a CCA, students will be able to:
 .tg .tg-ohuv{color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:14px;text-align:center;
   vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 600px" class="tg">
+<table style="undefined;table-layout: fixed; width: 510px" class="tg">
 <colgroup>
-<col style="width: 285px">
-<col style="width: 285px">
+<col style="width: 200px">
+<col style="width: 200px">
 </colgroup>
 <thead>
   <tr>

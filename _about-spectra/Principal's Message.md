@@ -11,7 +11,7 @@ description: ""
 
 <p align="justify">Over the years, Spectra has enjoyed close partnerships with parents and industries to organise enrichment programmes and work attachments for our students. These collaborative partnerships have left an indelible impact in our students, and broadened their understanding of work and life. From industry giants to local champions, their invaluable support has transformed our students’ mindsets, turning barren grounds into fertile landscapes.</p>
 
-<p align="justify">Our rooftop garden, once an empty canvas, now flourishes with life – akin to the countless hours of back-breaking work put in by staff to enable our students to bloom. Resilience is a hallmark of Spectra, and our staff, students and alumni exemplify this spirit. They have embraced adversity and turned it into a driving force for their success. Their stories, beautifully captured in this book, inspire us to keep pushing forward and upward.</p>
+<p align="justify">Our rooftop garden, once an empty canvas, now flourishes with life – akin to the countless hours of back-breaking work put in by staff to enable our students to bloom. Resilience is a hallmark of Spectra, and our staff, students and alumni exemplify this spirit. They have embraced adversity and turned it into a driving force for their success.</p>
 
 <p align="justify">十年树木，百年树人 – It takes ten years to grow a tree, but a hundred years to bring up a generation of good men. Our commitment to shaping lives, nurturing curious minds, fostering creativity, and achieving excellence remains steadfast. Spectra remains a beacon of hope and cocoon for transformation, preparing our students for a skills and values-based future. </p>
 

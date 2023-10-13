@@ -14,10 +14,10 @@ description: ""
 .tg .tg-c76s{background-color:#f9f9f9;border-color:#343434;color:#000000;font-size:14px;text-align:left;vertical-align:middle}
 .tg .tg-6kpt{background-color:#efefef;border-color:#343434;color:#000000;font-size:14px;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 625px" class="tg">
+<table style="undefined;table-layout: fixed; width: 520px" class="tg">
 <colgroup>
-<col style="width: 325px">
-<col style="width: 325px">
+<col style="width: 280px">
+<col style="width: 280px">
 </colgroup>
 <thead>
   <tr>
