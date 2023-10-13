@@ -3,12 +3,12 @@ title: Spectra Videos
 permalink: /spectra-stories/spectra-videos/
 description: ""
 ---
-##### **Bike to Work (2023)**
+##### **Bike to Work (2022)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9wVlV_81FPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
-##### **Farm to Table (2023)**
+##### **Farm to Table (2022)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kFuGA2Pxohg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
@@ -58,21 +58,19 @@ description: ""
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/4D-uk2WhJnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
+##### **Learning by Doing: Spectra Secondary (2019)**
 
-##### **It takes a Village (2020)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-89d2fFZEEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8IneIoHZ_n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+##### **MOE Cool Kids Beatbox (2018)** 
 
-##### **Spectra and Maki-san (2020)**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/bIwBWMgNYqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+
+##### **Spectra and Maki-san (2017)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/aWHpgrH-Jlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
 
 
-##### **MOE Cool Kids Beatbox (2020)** 
+##### **It takes a Village (2015)**
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bIwBWMgNYqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-
-##### **Learning by Doing: Spectra Secondary (2017)**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-89d2fFZEEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8IneIoHZ_n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
