@@ -30,7 +30,7 @@ third_nav_title: Prospective Student
 
 ##### **Application Process**
 
-<p align="justify">Spectra is a secondary school for students who are eligible for <b>Posting Group 1</b>. You are welcome to visit us at our upcoming Open House after the release of the PSLE results. </p>
+<p align="justify">Spectra is a secondary school for students who are eligible for <b>Posting Group 1 </b>and <b>2</b>. You are welcome to visit us at our upcoming Open House after the release of the PSLE results. </p>
 
 <img style="width:800px" src="/images/full%20subject%20based%20banding.png">
 
