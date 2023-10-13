@@ -3,6 +3,8 @@ title: School Logo & Motto
 permalink: /about-spectra/school-logo-motto/
 description: ""
 ---
+##### **School Logo**
+
 <img style="width:250px" src="/images/logo_full.png">
 
 <p></p><p align="justify">Spectra in Latin means Spectrum and it encapsulates our philosophy of recognising the different strengths and talents of our students.
