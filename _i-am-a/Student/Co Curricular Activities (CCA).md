@@ -28,7 +28,7 @@ By participating in a CCA, students will be able to:
 
 ##### **CCA @ Spectra**
 
-<p align="justify">Spectra offers CCAs from 4 different groups namely the Sports, Uniformed Group, Performing Arts and Clubs &amp; Societies.</p>
+<p align="justify">Spectra offers CCAs from 4 different groups namely the Sports, Uniformed Groups, Performing Arts and Clubs &amp; Societies.</p>
 	
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
@@ -49,7 +49,7 @@ By participating in a CCA, students will be able to:
 <thead>
   <tr>
     <th class="tg-y7gx">SPORTS</th>
-    <th class="tg-y7gx">UNIFORMED GROUP</th>
+    <th class="tg-y7gx">UNIFORMED GROUPS</th>
   </tr>
 </thead>
 <tbody>
