@@ -123,7 +123,6 @@ description: ""
 
 ***
 <br>
-<br>
 
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -240,7 +239,6 @@ description: ""
 </table>
 
 ***
-<br>
 <br>
 
 <style type="text/css">
@@ -382,7 +380,6 @@ description: ""
 </table>
 
 ***
-<br>
 <br>
 
 <style type="text/css">
