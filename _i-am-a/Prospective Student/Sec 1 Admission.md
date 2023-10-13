@@ -30,9 +30,11 @@ third_nav_title: Prospective Student
 
 ##### **Application Process**
 
-<p align="justify">Spectra is a secondary school for students who are eligible for <b>Posting Group 1 </b>and <b>2</b>. You are welcome to visit us at our upcoming Open House after the release of the PSLE results. </p>
+<p align="justify">Spectra is a secondary school for students who are eligible for <b>Posting Group 1 </b>and <b>Group 1 / 2</b>. Admission to Spectra can be by Direct Admission or Secondary 1 posting process.  </p>
 
 <img style="width:800px" src="/images/full%20subject%20based%20banding.png">
+
+<p align="justify"> Students are strongly encouraged to visit and apply directly at Spectra to better understand the subjects offered and the progression pathways after graduation from Primary School. You are welcome to visit us at our upcoming Open House after the release of the PSLE results. </p>
 
 <p align="justify">To optimize your chances to join Spectra, you can apply directly at Spectra before participating in the Secondary 1 Posting Exercise to opt for other school choices. </p>
 
