@@ -2,20 +2,18 @@ collections:
   i-am-a:
     output: true
     order:
-      - Student/Student Information Hub (SIH).md
       - Student/.keep
-      - Student/Student Learning Space.md
-      - Student/Personal Learning Device.md
-      - Student/Booklist.md
-      - Student/Co–Curricular Activities.md
+      - Student/Co Curricular Activities (CCA).md
       - Student/Cyber Wellness Support.md
-      - Student/Singpass Registration.md
+      - Student/Yearbooks.md
+      - Student/Useful Links.md
+      - Student/Helpline Information.md
       - Parent/.keep
-      - Parent/Parent Support Group.md
-      - Parent/PDLP.md
-      - Parent/Cyber Wellness Support (Parents).md
-      - Teacher/.keep
-      - Teacher/Useful Links.md
-      - Teacher/Cyber Wellness Support (Teachers).md
-      - Prospective Student.md
+      - Parent/MOE FAS Information.md
+      - Parent/Sexuality Education.md
+      - Parent/Personal Learning Device.md
+      - Staff/.keep
+      - Staff/Useful Links.md
+      - Prospective Student/.keep
+      - Prospective Student/Sec 1 Admission.md
       - Prospective Staff.md

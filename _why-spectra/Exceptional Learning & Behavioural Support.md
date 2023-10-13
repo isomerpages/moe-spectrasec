@@ -34,11 +34,10 @@ description: ""
 
 ##### **Volunteer Reading Programme**
 
-<p align="justify">Besides Literacy coaches who work with our lower secondary students, we also have experienced volunteers who are retired English language teachers, literacy coaches or parents to support our Secondary Three students in small groups via face-to-face or online platforms. Our volunteers engage students in various reading and speaking activities to pique and further develop their confidence and interest in literacy.</p>
+<p align="justify">Besides Literacy coaches who work with our lower secondary students, we also have experienced volunteers who are retired English Language teachers or parents to support our Secondary Three and Four students in small groups face-to-face. Our volunteers engage students in various reading and speaking activities to pique and further develop their confidence and interest in literacy.
+</p>
 
-<p align="justify">With greater confidence and stronger literacy skills, students are more motivated to work towards their academic goals not just in the English Language but also in other subjects. The weekly programme supports students throughout the academic year including end-of-year examinations preparation and engagement during the holidays.&nbsp;</p>
-
-<p align="justify">We are very thankful for all the care and effort that our volunteers have put in to establish this programme and support our Secondary Three students this year. We hope to grow our team of volunteers and customise this programme further to meet the needs of our students.</p>
+<p align="justify">With greater confidence an stronger literacy skills, students are more motivated to work towards their academic goals not just in the English Language but also in other subjects. The weekly programme supports students throughout the academic year, including end-of-year examinations preparation.</p>
 
 ***
 
@@ -50,4 +49,4 @@ description: ""
 
 <p align="justify">Therefore, our teachers are able to foster stronger teacher-student relationships, and design and differentiate lessons through the use of digital technology and tiered approaches to tailor programmes for students with different learning needs.</p>
 
-![Training](/images/Training.png)
+![](/images/pd%20for%20teachers.png)

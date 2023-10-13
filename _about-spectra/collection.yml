@@ -4,13 +4,10 @@ collections:
     order:
       - Principal's Message.md
       - School Philosophy.md
-      - School Info.md
-      - Mission & Values.md
-      - School Values.md
-      - School Logo.md
-      - Spectra Brochure.md
-      - Spectra Videos.md
-      - Facilities.md
-      - Careers.md
-      - Facebook.md
+      - Vision, Mission & Values.md
+      - School Logo & Motto.md
+      - School Information/.keep
+      - School Information/Key Information.md
+      - School Information/Policies.md
+      - School Facilities.md
       - Contact Us.md

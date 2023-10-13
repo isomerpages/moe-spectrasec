@@ -7,14 +7,19 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/26 sep hero background image.gif
-  - infobar:
-      subtitle: ANNOUNCEMENTS
-      description: Spectra Yearbook 2022
-      button: Click here
-      url: https://drive.google.com/file/d/1TklGHik6N5FFafEHpfGQiobItfrI8pc7/view?usp=sharing
+      background: /images/homepage hero image 9 oct.gif
+      key_highlights:
+        - title: Instagram
+          description: "#SpectraStories"
+          url: https://www.instagram.com/spectrastories/
+        - title: 10th Anniversary
+          description: ""
+          url: /spectra-stories/10th-anniversary/
+        - title: Sec 1 Admission
+          description: ""
+          url: /i-am-a/prospective-student/sec-1-admission/
   - infobar:
       subtitle: Location & Contact Information
-      description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | Alt
-        Tel: 6805 8184  | Email: spectra@schools.gov.sg"
+      description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
+        8184  | Email: spectra@schools.gov.sg"
 ---

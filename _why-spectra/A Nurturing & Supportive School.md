@@ -5,13 +5,17 @@ description: ""
 ---
 ##### **Dedicated Support for Students**
 
-<p align="justify">At Spectra, class sizes are kept comparatively small with only about 20 students per class. At the lower secondary level, there are two Form Teachers taking care of each class. This enables teachers to get to know our students and their families well to provide customised care and support.</p>
+<p align="justify">At Spectra, class sizes are kept comparatively small with only about 20 students per class. Our Form Teachers are dedicated and committed to customise care and support through fostering partnerships with parents and getting to know our students well.</p>
 
-<p align="justify">Beyond the classroom, we also have a team of counsellors and Student Welfare Officer in our Counselling Support Unit to follow up with our students together with our year heads and form teachers. After-school engagement activities are designed to provide students with opportunities to meet new friends, learn new skills and develop a sense of belonging to the school in a fun and safe environment. We also work closely with external agencies to expand our network of support for our students.</p>
+<p align="justify">Beyond the classroom, we also have a team of counsellors in our Counselling Support Unit to follow up with our students together with our Year Heads and Form Teachers. After-school engagement activities are designed to provide students with opportunities to meet new friends, learn new skills and develop a sense of belonging to the school in a fun and safe environment. We also work closely with external agencies to expand our network of support for our students. Spectrans can also learn new skills and pursue their passion in cycling at
+our Spectra Bike Station.</p>
 
-<p align="justify">We are also in the process of re-envisioning and renovating our Student Activity Centre into a more inviting space for students. The new Student Hub will provide student services and comfortable zones for our students to relax and hang out after school. Students can chat over drinks and snacks, exercise at the gym, meet with their friends and even play electronic games together.</p>
+![](/images/bike%20station.png)
+
+<p align="justify">The newly renovated Student Hub is now a more inviting space for students which will provide student services and comfortable zones for our students to relax and drop-in after school. Students can chat over drinks and snacks, exercise at the gym, meet with their friends and even play board games and electronic games together.</p>
 
 ![Dedicated Supprt](/images/SH2022.png)
+
 
 ***
 
@@ -23,7 +27,7 @@ description: ""
 
 <p align="justify">This year, our student leaders took the lead in welcoming the Secondary One students by organising the Ice Breaker Games and the Amazing Race components. These activities meaningfully engaged our new Spectrans and gave them a warm welcome to the Spectra family. Our student leaders also took part in the North West Community Development Council Service week. They devoted time after school to packing special commemorative festive bags that were distributed to the residents living in the rental blocks around the school. Through these experiences, our student leaders learnt first-hand that our actions can indeed make a world of difference to those around us.</p>
 
-![Leadership](/images/Leadership.png)
+![](/images/leadership%203.png)
 
 
 ***

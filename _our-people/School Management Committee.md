@@ -3,4 +3,204 @@ title: School Management Committee
 permalink: /our-people/school-management-committee/
 description: ""
 ---
-<table border="1" width="600" style="box-sizing: inherit; border-collapse: collapse; border-spacing: 0px; max-width: 100%; width: 604.344px; height: 1027px;"><tbody style="box-sizing: inherit;"><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 25px;"><td width="386" style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(250, 250, 47); width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 12pt;"><strong style="box-sizing: inherit; font-weight: bold;">Designation</strong></span></td><td width="355" style="box-sizing: inherit; padding: 5px 10px; background-color: rgb(250, 250, 47); width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 12pt;"><strong style="box-sizing: inherit; font-weight: bold;">Name</strong></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td width="386" style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Principal</span></td><td width="355" style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Tan Teck Hock</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Vice Principal, Administration</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Khou Beng Chew</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td width="386" style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Vice Principal, Instructional Programme</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">How Pui Seng</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Vice Principal, Student Development</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Guo Xinhui</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Vice Principal, Vocational Education</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Grace Ho Chen Yee</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">HOD, CCE</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Liu Lijun</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">HOD, EL</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Siti Zaleha Bte Sharip</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">HOD, ICT &amp; ITS</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Teng Lip Koon</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">HOD, LSU</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Ong Yit Sin Elijah</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">HOD, MA &amp; SC</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Lee Wee Siong Donny</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">HOD, MTL (covering) / SSD</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Wang Huiwen</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">HOD, PE &amp; AES</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Viknesvaran S/O Veeramuthu</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">HOD, STM</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Zhang Zhiyang, Don</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">HOD, VE</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Tan Lay Hiok (Faye)</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, CCE (Acting)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Tok Wei Sze Audrey</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, CL</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Tay Sze Ing Chivelle</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, CRO</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Wendy Lim Soo Ling</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, EL (Acting)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Ong Hui Mei Sharon Rebekah</span><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;"><br style="box-sizing: inherit;"></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, ICT (Acting)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Mohd Yusri Bin Mohamed Noor</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, IOTA &amp; MWA</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Raymond Ng Kok Hui</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230);"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, IOTA &amp; MWA</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Goh Shuo Yi (Joyce)</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, MA</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Koh Siew Khim Doreen</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, MA</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Ng Tyan Miin</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, MDA</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Chuminah Bte Abdul Rahman</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, MTL (Acting) ML</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Syahirah Binte Mohamad Azib</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, PE &amp; CCA</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Muhammad Aliffy Bin Haris</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, REC</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Tan Ling Ling Angeline</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, SM</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Naharudin Bin Shariff</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">SH, SM</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">R Mano Haran</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">YH 1 (S1)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Muhammad Haekal Bin Mohamed Taib</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">YH 1 (S2)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Rahmat Bte Saion</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">YH 2 (S2) (Acting)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Yoong Kang Chien</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">YH 1 (S3)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Goh Teck Heong (Peter)</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">YH 2 (S3)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Farrah Bte Mohamed Ghazali</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">YH 1 (S4)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Mohamed Haniff Bin Mohamed Said</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">YH 2 (S4)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Geeta Rani d/o Primdas</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Programme Head, Spectra Academy</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Abu Sufyan Bin Bedin</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Senior Manager (ADM &amp; PROC)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Tan Hwee Ling (Jocelyn)</span><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;"><br style="box-sizing: inherit;"></span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Manager (FIN)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Louise Ang Sue Kuan</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 25px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Senior Manager (HRM &amp; STA)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 25px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Goh Poh Gek</span></td></tr><tr style="box-sizing: inherit; background: rgb(230, 230, 230); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Manager (IT)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Ardines Reymund Gerona</span></td></tr><tr style="box-sizing: inherit; background: rgb(255, 255, 255); height: 24px;"><td style="box-sizing: inherit; padding: 5px 10px; width: 360px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Manager (OPS)</span></td><td style="box-sizing: inherit; padding: 5px 10px; width: 320px; height: 24px;"><span style="box-sizing: inherit; font-family: &quot;trebuchet ms&quot;, geneva, sans-serif; font-size: 10pt;">Cheong Kok Hon (Bryan)</span></td></tr></tbody></table>
+<style type="text/css">
+.tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
+.tg td{background-color:#fff;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;overflow:hidden;padding:14px 10px;word-break:normal;}
+.tg th{background-color:#f0f0f0;border-color:#ccc;border-style:solid;border-width:1px;color:#333;
+  font-family:Arial, sans-serif;font-size:14px;font-weight:normal;overflow:hidden;padding:14px 10px;word-break:normal;}
+.tg .tg-oa1f{background-color:#3e006d;border-color:#343434;color:#ffffff;font-size:14px;font-weight:bold;text-align:left;
+  vertical-align:middle}
+.tg .tg-c76s{background-color:#f9f9f9;border-color:#343434;color:#000000;font-size:14px;text-align:left;vertical-align:middle}
+.tg .tg-6kpt{background-color:#efefef;border-color:#343434;color:#000000;font-size:14px;text-align:left;vertical-align:middle}
+</style>
+<table style="undefined;table-layout: fixed; width: 625px" class="tg">
+<colgroup>
+<col style="width: 325px">
+<col style="width: 325px">
+</colgroup>
+<thead>
+  <tr>
+    <th class="tg-oa1f">Designation</th>
+    <th class="tg-oa1f">Name</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td class="tg-c76s">Principal</td>
+    <td class="tg-c76s">Mr Tan Teck Hock</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Vice Principal, Administration</td>
+    <td class="tg-6kpt">Mr Khou Beng Chew</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Vice Principal, Instructional Programme</td>
+    <td class="tg-c76s">Mr How Pui Seng</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Vice Principal, Student Development</td>
+    <td class="tg-6kpt">Ms Guo Xinhui</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Vice Principal, Vocational Education</td>
+    <td class="tg-c76s">Ms Grace Ho Chen Yee</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Director, Special Projects</td>
+    <td class="tg-6kpt">Ms Low Ying Xiu</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">HOD, CCE</td>
+    <td class="tg-c76s">Ms Liu Lijun</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">HOD, EL</td>
+    <td class="tg-6kpt">Ms Siti Zaleha Bte Sharip</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">HOD, ICT &amp; ITS</td>
+    <td class="tg-c76s">Mr Teng Lip Koon</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">HOD, LSU</td>
+    <td class="tg-6kpt">Mr Ong Yit Sin Elijah</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">HOD, MA &amp; SC</td>
+    <td class="tg-c76s">Mr Lee Wee Siong Donny</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">HOD, PE &amp; CCA &amp; AES</td>
+    <td class="tg-6kpt">Mr Viknesvaran S/O Veeramuthu</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">HOD, STM</td>
+    <td class="tg-c76s">Mr Zhang Zhiyang, Don</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">HOD, VE 1</td>
+    <td class="tg-6kpt">Ms Tan Lay Hiok (Faye)</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">HOD, VE 2</td>
+    <td class="tg-c76s">Ms Wendy Lim Soo Ling</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Programme Head, Spectra Academy</td>
+    <td class="tg-6kpt">Mr Abu Sufyan Bin Bedin</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">SSD</td>
+    <td class="tg-c76s">Ms Wang Huiwen</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Year Head 1 (Sec 1)</td>
+    <td class="tg-6kpt">Mr Muhammad Haekal Bin Mohamed Taib</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Year Head 2 (Sec 1)</td>
+    <td class="tg-c76s">Mr Poh Eng Hua Terence</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Year Head 1 (Sec 2)</td>
+    <td class="tg-6kpt">Mrs Rahmat Bte Saion</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Year Head 2 (Sec 2 - Acting)</td>
+    <td class="tg-c76s">Mr Yoong Kang Chien</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Year Head 1 (Sec 3)</td>
+    <td class="tg-6kpt">Mr Goh Teck Heong (Peter)</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Year Head 2 (Sec 3)</td>
+    <td class="tg-c76s">Ms Farrah Bte Mohamed Ghazali</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Year Head 1 (Sec 4)</td>
+    <td class="tg-6kpt">Mr Mohamed Haniff Bin Mohamed Said</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Year Head 2 (Sec 4)</td>
+    <td class="tg-c76s">Ms Geeta Rani d/o Primdas</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Subject Head, CCE (Acting)</td>
+    <td class="tg-6kpt">Ms Tok Wei Sze Audrey</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Subject Head, CCE (Acting)</td>
+    <td class="tg-c76s">Ms Sharifah Yasmine Binte Syed Taher</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Subject Head, EL (Acting)</td>
+    <td class="tg-6kpt">Ms Ong Hui Mei Sharon Rebekah</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Subject Head, ICT (Acting)</td>
+    <td class="tg-c76s">Mr Mohd Yusri Bin Mohamed Noor</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Subject Head, IOTA</td>
+    <td class="tg-6kpt">Mr Raymond Ng Kok Hui</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Subject Head, MWA (Acting)</td>
+    <td class="tg-c76s">Ms Goh Shuo Yi (Joyce)</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Subject Head, MA</td>
+    <td class="tg-6kpt">Ms Koh Siew Khim Doreen</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Subject Head, MA</td>
+    <td class="tg-c76s">Ms Ng Tyan Miin</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Subject Head, MDA</td>
+    <td class="tg-6kpt">Ms Chuminah Bte Abdul Rahman</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Subject Head, ML (Acting)</td>
+    <td class="tg-c76s">Ms Syahirah Binte Mohamad Azib</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Subject Head, PE &amp; CCA</td>
+    <td class="tg-6kpt">Mr Muhammad Aliffy Bin Haris</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Subject Head, REC</td>
+    <td class="tg-c76s">Ms Tan Ling Ling Angeline</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Subject Head, STM</td>
+    <td class="tg-6kpt">Mr Naharudin Bin Shariff</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Subject Head, STM</td>
+    <td class="tg-c76s">Mr R Mano Haran</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Senior Manager (Administration &amp; Procurement)</td>
+    <td class="tg-6kpt">Ms Tan Hwee Ling (Jocelyn)</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Senior Manager (Finance)</td>
+    <td class="tg-c76s">Ms Louise Ang Sue Kuan</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Senior Manager (HR &amp; STA)</td>
+    <td class="tg-6kpt">Ms Goh Poh Gek</td>
+  </tr>
+  <tr>
+    <td class="tg-c76s">Manager (ITS)</td>
+    <td class="tg-c76s">Mr Ardines Reymund Gerona</td>
+  </tr>
+  <tr>
+    <td class="tg-6kpt">Manager (OPS)</td>
+    <td class="tg-6kpt">Mr Cheong Kok Hon (Bryan)</td>
+  </tr>
+</tbody>
+</table>
