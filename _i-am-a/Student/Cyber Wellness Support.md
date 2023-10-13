@@ -6,7 +6,7 @@ third_nav_title: Student
 ---
 ![](/images/cyberwellness.png)
 
-#### **Am I being cyber bullied? How do I deal with fake news is? Am I a social media addict?**  
+##### **Am I being cyber bullied? How do I deal with fake news is? Am I a social media addict?**  
 
 If you have these questions, we are here to help you. First let us understand what is Cyber Wellness.
 
@@ -23,8 +23,10 @@ If you need help on Cyber Wellness issues, you can either:
 
 ***
 
-#### **The 3 Cyber Wellness Key Messages**
+##### **The 3 Cyber Wellness Key Messages**
 
 * Embrace the affordances of technology while maintaining a balanced lifestyle between offline and online activities.
+
 * Be a safe and responsible user of technology and maintain a positive online presence.
+
 * Be responsible for personal well-being in the cyberspace.
