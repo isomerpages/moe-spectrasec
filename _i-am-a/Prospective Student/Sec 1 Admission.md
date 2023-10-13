@@ -12,7 +12,6 @@ third_nav_title: Prospective Student
 
 <img style="width:800px" src="/images/twin%20certification.png">
 
-
 ***
 
 ##### **Spectra Open House 2023**
@@ -32,6 +31,8 @@ third_nav_title: Prospective Student
 ##### **Application Process**
 
 <p align="justify">Spectra is a secondary school for students who are eligible for Posting Group 1. You are welcome to visit us at our upcoming Open House after the release of the PSLE results. </p>
+
+<img style="width:800px" src="/images/full%20subject%20based%20banding.png">
 
 <p align="justify">To optimize your chances to join Spectra, you can apply directly at Spectra before participating in the Secondary 1 Posting Exercise to opt for other school choices. </p>
 
