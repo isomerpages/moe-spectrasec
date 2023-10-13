@@ -49,4 +49,6 @@ description: ""
 
 <p align="justify">Therefore, our teachers are able to foster stronger teacher-student relationships, and design and differentiate lessons through the use of digital technology and tiered approaches to tailor programmes for students with different learning needs.</p>
 
-![](/images/pd%20for%20teachers.png)
+<img style="width:1000px" src="/images/pd%20for%20teachers.png">
+
+***
