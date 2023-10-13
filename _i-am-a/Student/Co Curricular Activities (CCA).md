@@ -101,10 +101,3 @@ By participating in a CCA, students will be able to:
 </table>
 
 ***
-
-##### **CCA Policy**
-* It is mandatory for every student to participate in at least one CCA.
-* Students must attend all CCA activities.
-* Absence from CCA must be supported by medical certificates or parents’ letters, which must be submitted to the CCA teacher promptly.
-* Every student is expected to be committed and contribute actively to his/ her CCA that he/ she has chosen.
-* Students may seek approval from HOD PE and CCA to take up a second CCA in school.
