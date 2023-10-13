@@ -4,7 +4,7 @@ permalink: /about-spectra/school-information/key-information/
 description: ""
 third_nav_title: School Information
 ---
-#### **Key Information**
+##### **Key Information**
 
 
 **Non-Financial Information**
