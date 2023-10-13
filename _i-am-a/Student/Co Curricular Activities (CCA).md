@@ -4,7 +4,7 @@ permalink: /i-am-a/student/cca/
 description: ""
 third_nav_title: Student
 ---
-![](/images/cca%20banner.png)
+![](/images/cca%202023.png)
 
 Co-Curricular Activities (CCA) is an important component of character education in Spectra Secondary School, and forms a part of the holistic, well-rounded education that we seek to provide our students.	
 
@@ -24,6 +24,15 @@ By participating in a CCA, students will be able to:
 
 ***
 
+##### **CCA @ Spectra**
+
+Spectra offers CCAs from 4 different groups namely the Sports, Uniformed Group, Performing Arts and Clubs & Societies.
+	
+	
+![](/images/cca%20list%202023.png)
+
+***
+
 ##### **CCA Policy**
 * It is mandatory for every student to participate in at least one CCA.
 * Students must attend all CCA activities.
@@ -31,40 +40,3 @@ By participating in a CCA, students will be able to:
 * Every student is expected to be committed and contribute actively to his/ her CCA that he/ she has chosen.
 * Students may seek approval from HOD PE and CCA to take up a second CCA in school.
 
-
-***
-	
-##### **CCA @ Spectra**
-
-Spectra offers CCA from 4 different groups namely the Uniformed Groups (UG), Visual and Performing Arts (VPA) Groups, Physical Sports or Clubs and Societies.
-	
-	
-![](/images/cca%20list%202023.png)
-	
-
-##### **Awards**
-###### **EAGLES Award**
-
-The aim is to award students who excel in the non-academic areas: 
-
-<ul>
-  <li>Achievement/ Accomplishment in CCA</li>
-  <li>Outstanding Leadership</li>
-  <li>Community Service</li>
-</ul>  
-
-***
-
-#### **CCA Orientation For New Students**
-
-This is held in January for new students to find out more about CCAs offered in Spectra. Parents will have to to submit the online CCA Option Form (where they must indicate the choices of CCAs) for their child/ward.
-
-The link for the Online CCA Option Form will be shared by the Form Teachers accordingly.
-
-Students are allocated to CCAs according to best fit based on student profile, student’s choice (subject to availability) and school needs.
-
-***
-
-##### **Transfer of CCA**
-
-All transfer requests must be submitted formally in writing to HOD PE and CCA for consideration and approval.
