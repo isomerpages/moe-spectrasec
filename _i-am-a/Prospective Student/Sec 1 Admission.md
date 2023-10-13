@@ -45,25 +45,25 @@ third_nav_title: Prospective Student
 <style type="text/css">
 .tg  {border-collapse:collapse;border-spacing:0;}
 .tg td{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  overflow:hidden;padding:8px 8px;word-break:normal;}
+  overflow:hidden;padding:9px 10px;word-break:normal;}
 .tg th{border-color:black;border-style:solid;border-width:1px;font-family:Arial, sans-serif;font-size:14px;
-  font-weight:normal;overflow:hidden;padding:8px 8px;word-break:normal;}
-.tg .tg-wfrb{background-color:#3e006d;border-color:inherit;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;
+  font-weight:normal;overflow:hidden;padding:9px 10px;word-break:normal;}
+.tg .tg-ihuu{background-color:#c0c0c0;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
   font-size:15px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-q1nj{background-color:#3e006d;border-color:#000000;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:15px;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-fyw9{border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:15px;text-align:left;
+  vertical-align:middle}
+.tg .tg-8a1j{border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:15px;text-align:left;
+  vertical-align:top}
 .tg .tg-6o4f{background-color:#3e006d;border-color:#000000;color:#ffffff;font-family:Arial, Helvetica, sans-serif !important;
   font-size:15px;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-nyiv{background-color:#cbcefb;border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:15px;
-  font-style:italic;font-weight:bold;text-align:left;vertical-align:middle}
-.tg .tg-fnlf{border-color:#000000;font-family:Arial, Helvetica, sans-serif !important;font-size:15px;text-align:left;
-  vertical-align:middle}
-.tg .tg-r1gl{border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:15px;text-align:left;
-  vertical-align:top}
-.tg .tg-5zdd{background-color:#cbcefb;border-color:inherit;font-family:Arial, Helvetica, sans-serif !important;font-size:15px;
-  font-style:italic;font-weight:bold;text-align:left;vertical-align:top}
+.tg .tg-pczq{background-color:#c0c0c0;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
+  font-size:15px;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 830px" class="tg">
+<table style="undefined;table-layout: fixed; width: 850px" class="tg">
 <colgroup>
-<col style="width: 830px">
+<col style="width: 850px">
 </colgroup>
 <thead>
   <tr>
@@ -72,52 +72,52 @@ third_nav_title: Prospective Student
 </thead>
 <tbody>
   <tr>
-    <td class="tg-nyiv">1. What is the difference between applying to SPECTRA via the direct admission and via S1 Posting?</td>
+    <td class="tg-pczq">1. What is the difference between applying to SPECTRA via the direct admission and via S1 Posting?</td>
   </tr>
   <tr>
-    <td class="tg-fnlf">Students who apply directly to SPECTRA will have their applications processed by the schools. Any remaining vacancies thereafter will be set aside for students to be posted to SPECTRA via S1 Posting.</td>
+    <td class="tg-fyw9">Students who apply directly to SPECTRA will have their applications processed by the schools. Any remaining vacancies thereafter will be set aside for students to be posted to SPECTRA via S1 Posting.</td>
   </tr>
   <tr>
-    <td class="tg-fnlf">Students who take part in S1 Posting will be posted by merit, followed by choice order of schools and available vacancies.</td>
+    <td class="tg-fyw9">Students who take part in S1 Posting will be posted by merit, followed by choice order of schools and available vacancies.</td>
   </tr>
   <tr>
-    <td class="tg-nyiv">2)	Why is there a need to have 2 different types of admissions (direct admission and Sec 1 Posting)? Which one should I apply under?</td>
+    <td class="tg-pczq">2. Why is there a need to have 2 different types of admissions (direct admission and Sec 1 Posting)? Which one should I apply under?</td>
   </tr>
   <tr>
-    <td class="tg-r1gl">Previously, SPECTRA only admits students via direct admission. This year, SPECTRA will be able to take in additional students who are eligible for Posting Group 1 and applied via S1 Posting. This allows SPECTRA to take in more students, e.g., those who have missed the direct application.</td>
+    <td class="tg-8a1j">Previously, SPECTRA only admits students via direct admission. This year, SPECTRA will be able to take in additional students who are eligible for Posting Group 1 and applied via S1 Posting. This allows SPECTRA to take in more students, e.g., those who have missed the direct application.</td>
   </tr>
   <tr>
-    <td class="tg-r1gl">We would strongly encourage students to visit SPECTRA to better understand the curriculum offered and the progression pathways after graduation. Students who are keen to be admitted into SPECTRA are encouraged to apply to the school(s) directly.</td>
+    <td class="tg-8a1j">We would strongly encourage students to visit SPECTRA to better understand the curriculum offered and the progression pathways after graduation. Students who are keen to be admitted into SPECTRA are encouraged to apply to the school(s) directly.</td>
   </tr>
   <tr>
-    <td class="tg-5zdd">3)	How come there is no PSLE score range for SPECTRA? How do I decide whether to choose the school when there is no score range?</td>
+    <td class="tg-ihuu">3. How come there is no PSLE score range for SPECTRA? How do I decide whether to choose the school when there is no score range?</td>
   </tr>
   <tr>
-    <td class="tg-r1gl">As SPECTRA processed the applications via direct admission in 2022 and will continue to admit students via hybrid application modes from 2023 onwards, it would not be meaningful to display the PSLE score range like other secondary schools where the PSLE score range is derived solely based on Sec 1 Posting.</td>
+    <td class="tg-8a1j">As SPECTRA processed the applications via direct admission in 2022 and will continue to admit students via hybrid application modes from 2023 onwards, it would not be meaningful to display the PSLE score range like other secondary schools where the PSLE score range is derived solely based on Sec 1 Posting.</td>
   </tr>
   <tr>
-    <td class="tg-5zdd">4)	I have applied directly to SPECTRA. Do I still need to take part in Sec 1 Posting to select other schools?</td>
+    <td class="tg-ihuu">4. I have applied directly to SPECTRA. Do I still need to take part in Sec 1 Posting to select other schools?</td>
   </tr>
   <tr>
-    <td class="tg-r1gl">Students who apply directly to SPECTRA must still participate in Sec 1 Posting to indicate other school choices. This is to ensure that they are posted to a secondary school in case their application to SPECTRA is unsuccessful.</td>
+    <td class="tg-8a1j">Students who apply directly to SPECTRA must still participate in Sec 1 Posting to indicate other school choices. This is to ensure that they are posted to a secondary school in case their application to SPECTRA is unsuccessful.</td>
   </tr>
   <tr>
-    <td class="tg-r1gl">Students whose SPECTRA application is successful will be informed by the respective school. The school choices that they have submitted during Sec 1 posting will be automatically voided.</td>
+    <td class="tg-8a1j">Students whose SPECTRA application is successful will be informed by the respective school. The school choices that they have submitted during Sec 1 posting will be automatically voided.</td>
   </tr>
   <tr>
-    <td class="tg-5zdd">5)	I have applied to SPECTRA directly. Do I need to indicate SPECTRA in my 6 choices during S1 Posting?</td>
+    <td class="tg-ihuu">5. I have applied to SPECTRA directly. Do I need to indicate SPECTRA in my 6 choices during S1 Posting?</td>
   </tr>
   <tr>
-    <td class="tg-r1gl">Students who are keen to be admitted into SPECTRA are encouraged to apply to the school directly. If students had applied directly to the school, there is no need to indicate SPECTRA as one of the school choices during Sec 1 Posting</td>
+    <td class="tg-8a1j">Students who are keen to be admitted into SPECTRA are encouraged to apply to the school directly. If students had applied directly to the school, there is no need to indicate SPECTRA as one of the school choices during Sec 1 Posting</td>
   </tr>
   <tr>
-    <td class="tg-wfrb">Posting Results Release</td>
+    <td class="tg-q1nj">Posting Results Release</td>
   </tr>
   <tr>
-    <td class="tg-5zdd">6)	When will I receive the posting outcome?</td>
+    <td class="tg-ihuu">6. When will I receive the posting outcome?</td>
   </tr>
   <tr>
-    <td class="tg-r1gl">Direct admission applicants will be informed of their application outcome in mid-December, while those who applied via S1 Posting will receive the posting results on 20-22 December 2023 (tentatively), together with the main cohort.</td>
+    <td class="tg-8a1j">Direct admission applicants will be informed of their application outcome in mid-December, while those who applied via S1 Posting will receive the posting results on 20-22 December 2023 (tentatively), together with the main cohort.</td>
   </tr>
 </tbody>
 </table>
