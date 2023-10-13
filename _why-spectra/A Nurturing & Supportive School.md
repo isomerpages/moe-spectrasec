@@ -27,7 +27,7 @@ our Spectra Bike Station.</p>
 
 <p align="justify">This year, our student leaders took the lead in welcoming the Secondary One students by organising the Ice Breaker Games and the Amazing Race components. These activities meaningfully engaged our new Spectrans and gave them a warm welcome to the Spectra family. Our student leaders also took part in the North West Community Development Council Service week. They devoted time after school to packing special commemorative festive bags that were distributed to the residents living in the rental blocks around the school. Through these experiences, our student leaders learnt first-hand that our actions can indeed make a world of difference to those around us.</p>
 
-![Leadership](/images/Leadership.png)
+![](/images/leadership%203.png)
 
 
 ***
