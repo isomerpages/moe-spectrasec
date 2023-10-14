@@ -6,7 +6,7 @@ third_nav_title: Prospective Student
 ---
 ##### **What Spectra Offers**
 
-<p align="justify">Spectra Secondary School is a skills-focused specialized school. We admitted&nbsp;our first batch of Secondary One students&nbsp;in January 2014. We will provide a customized and practice-oriented curriculum to suit the learning needs of our students. We will also work closely with the Institute of Technical Education (ITE) and industry partners to develop programmes and attachment opportunities for our students. ’Spectra’ represents the school’s philosophy of recognizing the different spectrum of talents and strengths of our students. The school aims to embrace and nurture our young in developing their strengths and instilling self-confidence in all.</p>
+<p align="justify">Spectra Secondary School is a skills-focused specialized school. We admitted&nbsp;our first batch of Secondary One students&nbsp;in January 2014. We provide a customized and practice-oriented curriculum to suit the learning needs of our students. We also work closely with the Institute of Technical Education (ITE) and industry partners to develop programmes and attachment opportunities for our students. ’Spectra’ represents the school’s philosophy of recognizing the different spectrum of talents and strengths of our students. The School aims to embrace and nurture our young in developing their strengths and instilling self-confidence in all.</p>
 
 <img style="width:800px" src="/images/customised%20pathway.png">
 
@@ -30,7 +30,7 @@ third_nav_title: Prospective Student
 
 ##### **Application Process**
 
-<p align="justify">Spectra is a secondary school for students who are eligible for <b>Posting Group 1 </b>and <b>Group 1 / 2</b>. Admission to Spectra can be by Direct Admission or Secondary 1 posting process.  </p>
+<p align="justify">Spectra admits students who are eligible for <b>Posting Group 1 </b>and <b>Group 1 / 2</b>. Admission to Spectra can be by Direct Admission or Secondary 1 posting process.  </p>
 
 <img style="width:800px" src="/images/full%20subject%20based%20banding.png">
 
