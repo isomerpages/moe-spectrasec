@@ -5,7 +5,7 @@ description: ""
 ---
 <img style="width:1000px" src="/images/mr%20tan%20teck%20hock%202023.jpg">
 
-<p align="justify"> Welcome to the pages of history as we celebrate Spectra Secondary School’s 10th Anniversary. </p>
+<p align="justify"> On 28 October 2023, we will celebrate Spectra's 10th Anniversary. </p>
 
 <p align="justify">In 2013, a team of enthusiastic staff led by Principal Krishnan Aravinthan embarked on a pioneering mission with a vision to innovate, redefine education, and provide an inclusive learning environment for technically inclined students from diverse backgrounds. Ten years on, we continue to build upon the strong foundations laid by the pioneers with unwavering commitment.</p>
 
