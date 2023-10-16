@@ -4,6 +4,11 @@ permalink: /i-am-a/prospective-student/sec-1-admission/
 description: ""
 third_nav_title: Prospective Student
 ---
+###### [View Our Spectra Spectacular Brochure](https://drive.google.com/file/d/1302QEQDUCi0dL798P3iLRwtt574yi7a_/view?usp=sharing)
+<a target="new"><img style="width:600px" src="/images/spectra brochure 2023 cover.png"></a>
+
+***
+
 ##### **What Spectra Offers**
 
 <p align="justify">Spectra Secondary School is a skills-focused specialized school. We admitted&nbsp;our first batch of Secondary One students&nbsp;in January 2014. We provide a customized and practice-oriented curriculum to suit the learning needs of our students. We also work closely with the Institute of Technical Education (ITE) and industry partners to develop programmes and attachment opportunities for our students. ’Spectra’ represents the school’s philosophy of recognizing the different spectrum of talents and strengths of our students. The School aims to embrace and nurture our young in developing their strengths and instilling self-confidence in all.</p>
@@ -123,11 +128,5 @@ third_nav_title: Prospective Student
   </tr>
 </tbody>
 </table>
-
-***
-
-###### [View Our Spectra Spectacular Brochure](https://drive.google.com/file/d/1302QEQDUCi0dL798P3iLRwtt574yi7a_/view?usp=sharing)
-<a target="new"><img style="width:600px" src="/images/spectra brochure 2023 cover.png"></a>
-
 
 ***
