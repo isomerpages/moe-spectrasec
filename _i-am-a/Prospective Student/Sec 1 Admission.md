@@ -68,7 +68,7 @@ third_nav_title: Prospective Student
 .tg .tg-pczq{background-color:#c0c0c0;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
   font-size:15px;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: fixed; width: 530px" class="tg">
+<table style="undefined;table-layout: auto; width: 530px" class="tg">
 <colgroup>
 <col style="width: 530px">
 </colgroup>
