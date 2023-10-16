@@ -2,10 +2,10 @@ collections:
   why-spectra:
     output: true
     order:
-      - Spectra Stories.md
       - An Excellent Skills–based Education.md
       - Exceptional Learning & Behavioural Support.md
       - Unique Instructional Programmes.md
       - A Nurturing & Supportive School.md
       - Spectra Academy.md
       - Admission.md
+      - Spectra Stories.md
