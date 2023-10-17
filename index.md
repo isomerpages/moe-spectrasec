@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/homepage hero image 9 oct.gif
+      background: /images/hero 5 images - 16 oct.gif
       key_highlights:
         - title: Instagram
           description: "#SpectraStories"

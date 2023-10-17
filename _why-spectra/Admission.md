@@ -1,21 +1,10 @@
 ---
-title: Sec 1 Admission
-permalink: /i-am-a/prospective-student/sec-1-admission/
+title: Admission
+permalink: /why-spectra/admission/
 description: ""
-third_nav_title: Prospective Student
 ---
 ###### [View Our Spectra Spectacular Brochure](https://drive.google.com/file/d/1302QEQDUCi0dL798P3iLRwtt574yi7a_/view?usp=sharing)
 <a target="new"><img style="width:600px" src="/images/spectra brochure 2023 cover.png"></a>
-
-***
-
-##### **What Spectra Offers**
-
-<p align="justify">Spectra Secondary School is a skills-focused specialized school. We admitted&nbsp;our first batch of Secondary One students&nbsp;in January 2014. We provide a customized and practice-oriented curriculum to suit the learning needs of our students. We also work closely with the Institute of Technical Education (ITE) and industry partners to develop programmes and attachment opportunities for our students. ’Spectra’ represents the school’s philosophy of recognizing the different spectrum of talents and strengths of our students. The School aims to embrace and nurture our young in developing their strengths and instilling self-confidence in all.</p>
-
-<img style="width:800px" src="/images/customised%20pathway.png">
-
-<img style="width:800px" src="/images/twin%20certification.png">
 
 ***
 
@@ -68,9 +57,9 @@ third_nav_title: Prospective Student
 .tg .tg-pczq{background-color:#c0c0c0;border-color:#000000;color:#000000;font-family:Arial, Helvetica, sans-serif !important;
   font-size:15px;font-weight:bold;text-align:left;vertical-align:middle}
 </style>
-<table style="undefined;table-layout: auto; width: 700px" class="tg">
+<table style="undefined;table-layout: fixed; width: 600px" class="tg">
 <colgroup>
-<col style="width: 530px">
+<col style="width: 600px">
 </colgroup>
 <thead>
   <tr>
