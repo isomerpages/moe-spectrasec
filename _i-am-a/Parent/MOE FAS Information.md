@@ -12,7 +12,7 @@ third_nav_title: Parent
 
 <p align="justify">The MOE FAS will provide a full waiver of school fees and miscellaneous fees.  It will also provide free textbooks, free school attire, transport subsidy and meal subsidy.</p>
 
-To apply for the MOE FAS for your child/ward, please download the application form via this link &gt;&nbsp;[MOE FAS Application Form](/files/SS_FAS-Application-Form-2023.pdf) &nbsp;or obtain a copy from the General Office. Please complete the application form and return it with supporting documents to the school.
+To apply for the MOE FAS for your child/ward, please download the application form via this link &gt;&nbsp;[FAS Application Form 2024](/files/moe%20fas%20application%20form%20for%20specialised%20schools%202024.pdf) &nbsp;or obtain a copy from the General Office. Please complete the application form and return it with supporting documents to the school.
 
 <p align="justify">The school will review your application and inform you of the outcome. 
 
