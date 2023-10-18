@@ -14,11 +14,10 @@ third_nav_title: Parent
 
 To apply for the MOE FAS for your child/ward, please download the application form via this link &gt;&nbsp;[FAS Application Form 2024](/files/moe%20fas%20application%20form%20for%20specialised%20schools%202024.pdf) &nbsp;or obtain a copy from the General Office. Please complete the application form and return it with supporting documents to the school.
 
-<p align="justify">The school will review your application and inform you of the outcome. 
+The school will review your application and inform you of the outcome. 
 
-**If you have any enquiries, please contact the General Office at 64660775 or 68058184.**
-
+<b>If you have any enquiries, please contact the General Office at 64660775 or 68058184.</b>
 
 ***
 
-![](/images/moe%20fas%202024.png)</p>
+![](/images/moe%20fas%202024.png)
