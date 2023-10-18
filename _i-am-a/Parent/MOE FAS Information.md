@@ -16,7 +16,7 @@ To apply for the MOE FAS for your child/ward, please download the application fo
 
 The school will review your application and inform you of the outcome. 
 
-<b>If you have any enquiries, please contact the General Office at 64660775 or 68058184.</b>
+<b>If you have any enquiries, please contact the General Office at 6466 0775 or 6805 8184.</b>
 
 
 ![](/images/moe%20fas%202024%201.png)
