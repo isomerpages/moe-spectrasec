@@ -18,6 +18,5 @@ The school will review your application and inform you of the outcome.
 
 <b>If you have any enquiries, please contact the General Office at 64660775 or 68058184.</b>
 
-***
 
-![](/images/moe%20fas%202024.png)
+![](/images/moe%20fas%202024%201.png)
