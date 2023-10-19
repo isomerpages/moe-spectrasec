@@ -37,10 +37,3 @@ third_nav_title: Student
 <a target="new" href="https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld?pli=1"><img style="width:400px" src="/images/2023%20ict%20banner%201.png"></a>
 
 ***
-
-
-[Sec 2 Booklist 2023](/files/Sec-2-Booklist-2023.pdf)
-
-[Sec 3 Booklist 2023](/files/Sec-3-Booklist-2023.pdf)
-
-[Sec 4 Booklist 2023](/files/Sec-4-Booklist-2023.pdf)
