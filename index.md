@@ -15,9 +15,9 @@ sections:
         - title: 10th Anniversary
           description: ""
           url: /spectra-stories/10th-anniversary/
-        - title: Sec 1 Admission
+        - title: Spectra Coffee Table Book
           description: ""
-          url: /i-am-a/prospective-student/sec-1-admission/
+          url: https://drive.google.com/file/d/1Qwz7DhxwpbniK1vI9nacwoIgkRalA3fP/view?usp=drive_link
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
