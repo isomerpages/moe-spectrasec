@@ -15,9 +15,6 @@ sections:
         - title: 10th Anniversary
           description: ""
           url: /spectra-stories/10th-anniversary/
-        - title: Spectra Coffee Table Book
-          description: ""
-          url: https://drive.google.com/file/d/1Qwz7DhxwpbniK1vI9nacwoIgkRalA3fP/view?usp=drive_link
         - title: Sec 1 Admission
           description: ""
           url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
