@@ -17,7 +17,7 @@ sections:
           url: /spectra-stories/10th-anniversary/
         - title: Sec 1 Admission
           description: ""
-          url: /i-am-a/prospective-student/sec-1-admission/
+          url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
