@@ -2,6 +2,7 @@ collections:
   spectra-stories:
     output: true
     order:
+      - Spectra Coffee Table Book 2023.md
       - 10th Anniversary.md
       - Spectra Videos.md
       - Spectra Brochure.md
