@@ -3,9 +3,9 @@ title: 10th Anniversary
 permalink: /spectra-stories/10th-anniversary/
 description: ""
 ---
-<img style="width:1000px" src="/images/spectra%20is%2010.png">
+<img style="width:800px" src="/images/spectra%20is%2010.png">
 
-Spectra is 10! You are invited to join us on 28 Oct 2023 for our 10th Anniversary Celebrations.
-Please register your interest by filling up this form **by 16 Oct 2023** via the link below. We will confirm your attendance closer to the date of the event. <br>**[https://go.gov.sg/together-we-can](https://go.gov.sg/together-we-can)**
+***
 
-Thank you!
+###### [Click on the image below to view](https://drive.google.com/file/d/1Qwz7DhxwpbniK1vI9nacwoIgkRalA3fP/view?usp=drive_link)
+<a target="new" href="https://drive.google.com/file/d/1Qwz7DhxwpbniK1vI9nacwoIgkRalA3fP/view?usp=drive_link"><img style="width:800px" src="/images/spectra%20coffee%20table%20book%202023.png"></a>
