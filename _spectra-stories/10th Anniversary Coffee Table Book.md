@@ -16,15 +16,15 @@ our enduring mission to provide an engaged learning experience that prepares eve
 
 ##### **Together (2023)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY" height="315" width="700"></iframe>
 
 
 
 ##### **Stronger (2023)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7dlJm9-vasw?si=B2iVP7hcBZNk_0jx" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7dlJm9-vasw?si=B2iVP7hcBZNk_0jx" height="315" width="700"></iframe>
 
 
 ##### **Bolder (2023)**
 
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vW91uFGKErg?si=DMHZCkfdI7P_QKrA" height="315" width="560"></iframe>
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vW91uFGKErg?si=DMHZCkfdI7P_QKrA" height="315" width="700"></iframe>
