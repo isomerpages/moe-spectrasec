@@ -13,3 +13,18 @@ our enduring mission to provide an engaged learning experience that prepares eve
 <a target="new" href="https://drive.google.com/file/d/1Qwz7DhxwpbniK1vI9nacwoIgkRalA3fP/view?usp=drive_link"><img style="width:800px" src="/images/spectra%20coffee%20table%20book%202023.png"></a>
 
 ***
+
+##### **Together (2023)**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY" height="315" width="560"></iframe>
+
+
+
+##### **Stronger (2023)**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/7dlJm9-vasw?si=B2iVP7hcBZNk_0jx" height="315" width="560"></iframe>
+
+
+##### **Bolder (2023)**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vW91uFGKErg?si=DMHZCkfdI7P_QKrA" height="315" width="560"></iframe>
