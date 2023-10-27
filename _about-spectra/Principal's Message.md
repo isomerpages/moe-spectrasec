@@ -5,7 +5,7 @@ description: ""
 ---
 <img style="width:1000px" src="/images/mr%20tan%20teck%20hock%202023.jpg">
 
-Welcome to the [Pages of History](https://drive.google.com/file/d/1Qwz7DhxwpbniK1vI9nacwoIgkRalA3fP/view?usp=drive_link) as we celebrate Spectra Secondary School’s 10th Anniversary.
+Welcome to the [Pages of History](https://drive.google.com/file/d/1nhzBStoVA52u9rapzk2uleOxfsC6wRvo/view?usp=drive_link) as we celebrate Spectra Secondary School’s 10th Anniversary.
 
 <p align="justify">In 2013, a team of enthusiastic staff led by Principal Krishnan Aravinthan embarked on a pioneering mission with a vision to innovate, redefine education, and provide an inclusive learning environment for technically inclined students from diverse backgrounds. Ten years on, we continue to build upon the strong foundations laid by the pioneers with unwavering commitment.</p>
 
