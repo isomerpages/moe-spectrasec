@@ -9,7 +9,12 @@ description: ""
 ensure that every Spectran is equipped to lead a fulfilling life. These milestones, captured in the pages of the book, remind us of
 our enduring mission to provide an engaged learning experience that prepares every Spectran for work and life.</p>
 
-##### [Click HERE to view](https://heyzine.com/flip-book/ad7fc233b3.html)
+***
+
+<h6 style="color:#3e006d;">No part of the publications may be reproduced in any form without the permission of the school.</h6>
+
+**[Click HERE to view](https://heyzine.com/flip-book/ad7fc233b3.html)**
+
 <a target="new" href="https://heyzine.com/flip-book/ad7fc233b3.html"><img style="width:700px" src="/images/spectra%20coffee%20table%20book%202023.png"></a>
 
 
