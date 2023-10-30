@@ -9,7 +9,7 @@ description: ""
 ensure that every Spectran is equipped to lead a fulfilling life. These milestones, captured in the pages of the book, remind us of
 our enduring mission to provide an engaged learning experience that prepares every Spectran for work and life.</p>
 
-##### [Click here to view](https://heyzine.com/flip-book/ad7fc233b3.html)
+##### [Click HERE to view](https://heyzine.com/flip-book/ad7fc233b3.html)
 <img style="width:700px" src="/images/spectra%20coffee%20table%20book%202023.png">
 
 
