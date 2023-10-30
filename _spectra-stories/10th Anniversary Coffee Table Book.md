@@ -10,7 +10,7 @@ ensure that every Spectran is equipped to lead a fulfilling life. These mileston
 our enduring mission to provide an engaged learning experience that prepares every Spectran for work and life.</p>
 
 ##### [Click HERE to view](https://heyzine.com/flip-book/ad7fc233b3.html)
-<img style="width:700px" src="/images/spectra%20coffee%20table%20book%202023.png">
+<a target="new" href="https://heyzine.com/flip-book/ad7fc233b3.html"><img style="width:700px" src="/images/spectra%20coffee%20table%20book%202023.png"></a>
 
 
 ***
