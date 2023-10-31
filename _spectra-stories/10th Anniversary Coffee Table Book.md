@@ -13,9 +13,9 @@ our enduring mission to provide an engaged learning experience that prepares eve
 
 <h6 style="color:#3e006d;">No part of the publications may be reproduced in any form without the permission of the school.</h6>
 
-**[Click HERE to view](https://heyzine.com/flip-book/ad7fc233b3.html)**
+**[Click HERE to view](https://heyzine.com/flip-book/e6ea06d97d.html)**
 
-<a target="new" href="https://heyzine.com/flip-book/ad7fc233b3.html"><img style="width:700px" src="/images/spectra%20coffee%20table%20book%202023.png"></a>
+<a target="new" href="https://heyzine.com/flip-book/e6ea06d97d.html"><img style="width:700px" src="/images/spectra%20coffee%20table%20book%202023.png"></a>
 
 
 ***
