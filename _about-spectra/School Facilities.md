@@ -16,7 +16,7 @@ description: ""
 ![](/images/eCommerce.jpg)
 
 ##### **Edible Learning Garden**  
-![](/images/ELG.jpg)
+![](/images/edible%20garden%202023.png)
 
 ##### **Escape Room**  
 ![](/images/EscapeRoom.jpg)
