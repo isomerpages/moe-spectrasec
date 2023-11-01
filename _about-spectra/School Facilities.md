@@ -33,13 +33,11 @@ description: ""
 ##### **Pneumatic Studios**  
 ![](/images/PneumaticStudio.jpg)
 
-
-
 ##### **Student Hub**  
 ![](/images/StudentHub.jpg)
 
 ##### **Amphitheatre**  
-![](/images/Amphitheatre.jpg)
+![](/images/amphitheatre%202023.jpg)
 
 ##### **Chill Pods**  
 ![](/images/ChillPods.jpg)
