@@ -39,6 +39,7 @@ our Spectra Bike Station.</p>
 
 <p align="justify">Our students also reach out to migrant workers in the community during Racial Harmony Day and National Day through care packs and little notes of appreciation. In serving the needs of various community partners and their beneficiaries, our students develop a stronger sense of empathy and compassion. They also gain a better understanding of the community’s needs.</p>
 
-<img style="width:1000px" src="/images/Serving-The-Community-2.png">
+<img style="width:1000px" src="/images/serving%20community%202023.png">
+
 
 ***
