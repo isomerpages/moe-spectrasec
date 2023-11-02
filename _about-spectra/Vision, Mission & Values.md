@@ -28,3 +28,5 @@ description: ""
 <p align="justify">The value of Resilience enables our students to overcome the challenges that they face now and in the future.</p>
 
 ***
+
+<img style="width:800px" src="/images/vmv%202023.JPG">

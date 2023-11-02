@@ -3,7 +3,7 @@ title: Principal's Message
 permalink: /about-spectra/principals-message/
 description: ""
 ---
-<img style="width:1000px" src="/images/mr%20tan%20teck%20hock%202023.jpg">
+<img style="width:800px" src="/images/mr%20tan%20teck%20hock%202023.jpg">
 
 Welcome to the [Pages of History](https://heyzine.com/flip-book/e6ea06d97d.html) as we celebrate Spectra Secondary School’s 10th Anniversary.
 

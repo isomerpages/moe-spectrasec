@@ -10,13 +10,13 @@ description: ""
 ![](/images/Booktique.jpg)
 
 ##### **Bready Beans**  
-![](/images/BreadyBeans.jpg)
+![](/images/bready%20beans%20new.jpg)
 
 ##### **eCommerce**  
 ![](/images/eCommerce.jpg)
 
 ##### **Edible Learning Garden**  
-![](/images/ELG.jpg)
+![](/images/edible%20garden%202023.png)
 
 ##### **Escape Room**  
 ![](/images/EscapeRoom.jpg)
@@ -33,13 +33,11 @@ description: ""
 ##### **Pneumatic Studios**  
 ![](/images/PneumaticStudio.jpg)
 
-
-
 ##### **Student Hub**  
 ![](/images/StudentHub.jpg)
 
 ##### **Amphitheatre**  
-![](/images/Amphitheatre.jpg)
+![](/images/amphitheatre%202023.jpg)
 
 ##### **Chill Pods**  
 ![](/images/ChillPods.jpg)

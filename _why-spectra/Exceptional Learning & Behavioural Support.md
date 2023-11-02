@@ -15,7 +15,7 @@ description: ""
 
 <p></p><p align="justify"><b>Our Learning Behaviour Support coaches</b>&nbsp;support students in achieving better social, emotional, and academic outcomes through the Positive Behavioural Intervention Support (PBIS) approach and individualised behaviour intervention plans.</p>
 
-![](/images/CSULSU2022.png)
+![](/images/csulsu2023.png)
 	
 ***
 	
@@ -27,8 +27,6 @@ description: ""
 <p align="justify">This whole-school approach towards reading supports students in developing positive reading habits and discovering books that are of interest to them based on their respective reading levels. Students have access to the&nbsp;Spectra Reading List&nbsp;as well as&nbsp;NLB Overdrive&nbsp;for an extensive collection of reading materials.</p>
 
 <p align="justify">Our English Language department also actively promotes reading among the students through monthly reading engagement sessions where the students have opportunities to hear from their fellow schoolmates as well as their teachers on recommended reads.</p>
-
-![Reading Wednesdays](/images/Reading-Wednesdays-1.png)
 
 ***
 
@@ -43,12 +41,12 @@ description: ""
 
 ##### **Professional Development for Spectra Teachers**
 
+<img style="width:1000px" src="/images/pd%20for%20teachers.png">
+
 <p align="justify">At Spectra, we believe that caring and skilful teachers are key in enabling students to build strong foundations in literacy and numeracy, sharpening their skills in vocational training and digital technology as well as nurturing independent and responsible citizens of good character.</p>
 
 <p align="justify">We are committed to supporting our teachers in the continual development of competencies to respond to the changing and varied needs of our students.&nbsp;Professional development at Spectra focuses on three key domains: The Skillful Teacher, Certification Training in Special Needs, and e-Pedagogy.</p>
 
 <p align="justify">Therefore, our teachers are able to foster stronger teacher-student relationships, and design and differentiate lessons through the use of digital technology and tiered approaches to tailor programmes for students with different learning needs.</p>
-
-<img style="width:1000px" src="/images/pd%20for%20teachers.png">
 
 ***

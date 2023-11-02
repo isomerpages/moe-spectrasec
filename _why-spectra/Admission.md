@@ -3,8 +3,11 @@ title: Admission
 permalink: /why-spectra/admission/
 description: ""
 ---
-###### [View Our Spectra Spectacular Brochure](https://drive.google.com/file/d/1302QEQDUCi0dL798P3iLRwtt574yi7a_/view?usp=sharing)
-<a target="new"><img style="width:600px" src="/images/spectra brochure 2023 cover.png"></a>
+<h6 style="color:#3e006d;">No part of the publications may be reproduced in any form without the permission of the school.</h6>
+
+###### [Click HERE to view the brochure.](https://drive.google.com/file/d/10dP9AuD24s8DNoIumaCM_JfdBxA9_s_S/view?usp=sharing) 
+
+<a target="new" href="https://drive.google.com/file/d/10dP9AuD24s8DNoIumaCM_JfdBxA9_s_S/view?usp=sharingf"><img style="width:600px" src="/images/spectra brochure 2023 cover.png"></a>
 
 ***
 
@@ -24,7 +27,7 @@ description: ""
 
 ##### **Application Process**
 
-<p align="justify">Spectra admits students who are eligible for <b>Posting Group 1 </b>and <b>Group 1 / 2</b>. Admission to Spectra can be by Direct Admission or Secondary 1 posting process.  </p>
+<p align="justify">Spectra admits students who are eligible for <b>Posting Group 1 </b>and <b>Group 1/2</b>. Admission to Spectra can be by Direct Admission or Secondary 1 posting process.  </p>
 
 <img style="width:800px" src="/images/full%20subject%20based%20banding.png">
 

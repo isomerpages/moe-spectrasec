@@ -15,7 +15,7 @@ our Spectra Bike Station.</p>
 
 <p align="justify">The newly renovated Student Hub is now a more inviting space for students which will provide student services and comfortable zones for our students to relax and drop-in after school. Students can chat over drinks and snacks, exercise at the gym, meet with their friends and even play board games and electronic games together.</p>
 
-<img style="width:1000px" src="/images/SH2022.png">
+<img style="width:1000px" src="/images/student%20hub%202023.png">
 
 ***
 
@@ -39,6 +39,7 @@ our Spectra Bike Station.</p>
 
 <p align="justify">Our students also reach out to migrant workers in the community during Racial Harmony Day and National Day through care packs and little notes of appreciation. In serving the needs of various community partners and their beneficiaries, our students develop a stronger sense of empathy and compassion. They also gain a better understanding of the community’s needs.</p>
 
-<img style="width:1000px" src="/images/Serving-The-Community-2.png">
+<img style="width:1000px" src="/images/serving%20community%202023.png">
+
 
 ***
