@@ -25,7 +25,7 @@ variant: markdown
 
 ##### **Spectra Open House 2023**
 
-<p> Find out more about Spectra by joining us at our Open House from <b>22 Nov 2023 (10.30am-4.00pm and 23 Nov to 25 Nov 2023 (8.30am-4.30pm)</b>, where students can:
+<p> Find out more about Spectra by joining us at our Open House from <b>22 Nov 2023 (10.30am-4.00pm) and 23 Nov to 25 Nov 2023 (8.30am-4.30pm)</b>, where students can:
 	
 </p><ul>
   <li>Take a tour around our school campus</li>
