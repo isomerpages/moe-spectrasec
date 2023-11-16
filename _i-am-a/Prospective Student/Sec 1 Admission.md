@@ -35,11 +35,14 @@ variant: markdown
 
 ###### Hurry! Pre-register your interest [here](https://forms.moe.edu.sg/forms/JmblQo)! 
 
+<img style="width:180px" src="/images/1_Spectra_Open_House_2023_QR.png">
+
+
 ***
 
 ##### **Application Process**
 
-<p align="justify">Spectra admits students who are eligible for <b>Posting Group 1 </b>and <b>Group 1 / 2</b>. Admission to Spectra can be by Direct Admission or Secondary 1 posting process.  </p>
+<p align="justify">Spectra admits students who are eligible for <b>Posting Group 1 </b>and <b>Group 1/2</b>. Admission to Spectra can be by Direct Admission or Secondary 1 posting process.  </p>
 
 <img style="width:800px" src="/images/full%20subject%20based%20banding.png">
 
