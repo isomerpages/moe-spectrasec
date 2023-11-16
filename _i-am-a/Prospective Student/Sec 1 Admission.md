@@ -33,9 +33,9 @@ variant: markdown
   <li>Experience our curriculum</li>
 </ul> <p></p>
 
-###### Hurry! Pre-register your interest [here](https://forms.moe.edu.sg/forms/JmblQo)! 
+##### Hurry! Pre-register your interest [here](https://forms.moe.edu.sg/forms/JmblQo)! 
 
-<img style="width:180px" src="/images/1_Spectra_Open_House_2023_QR.png">
+<img style="width:200px" src="/images/1_Spectra_Open_House_2023_QR.png">
 
 
 ***
