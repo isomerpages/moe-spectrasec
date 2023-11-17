@@ -3,6 +3,7 @@ title: Sec 1 Admission
 permalink: /i-am-a/prospective-student/sec-1-admission/
 description: ""
 third_nav_title: Prospective Student
+variant: markdown
 ---
 <h6 style="color:#3e006d;">No part of the publications may be reproduced in any form without the permission of the school.</h6>
 
@@ -22,23 +23,26 @@ third_nav_title: Prospective Student
 
 ***
 
-##### **Spectra Open House Nov 2023**
+##### **Spectra Open House 2023**
 
-<p> Find out more about Spectra by joining us at the Open House, where students can:
+<p> Find out more about Spectra by joining us at our Open House from <b>22 Nov 2023 (10.30am-4.00pm) and 23 Nov to 25 Nov 2023 (8.30am-4.30pm)</b>, where students can:
 	
 </p><ul>
   <li>Take a tour around our school campus</li>
   <li>Interact with our Spectrans as they share about their school life and the Spectra journey and</li>
-  <li>Experience our curriculum
-	</li>
-</ul>  
-<p></p>
+  <li>Experience our curriculum</li>
+</ul> <p></p>
+
+##### Hurry! Pre-register your interest [here](https://forms.moe.edu.sg/forms/JmblQo)! 
+
+<img style="width:200px" src="/images/1_Spectra_Open_House_2023_QR.png">
+
 
 ***
 
 ##### **Application Process**
 
-<p align="justify">Spectra admits students who are eligible for <b>Posting Group 1 </b>and <b>Group 1 / 2</b>. Admission to Spectra can be by Direct Admission or Secondary 1 posting process.  </p>
+<p align="justify">Spectra admits students who are eligible for <b>Posting Group 1 </b>and <b>Group 1/2</b>. Admission to Spectra can be by Direct Admission or Secondary 1 posting process.  </p>
 
 <img style="width:800px" src="/images/full%20subject%20based%20banding.png">
 
