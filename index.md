@@ -15,9 +15,12 @@ sections:
         - title: 10th Anniversary
           description: ""
           url: /spectra-stories/10th-anniversary/
-        - title: Sec 1 Admission & OPEN HOUSE
+        - title: Sec 1 Admission & Open House
           description: ""
           url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
+        - title: Yearbook 2023
+          description: ""
+          url: https://heyzine.com/flip-book/0deacfcc0c.html
       variant: center
   - infobar:
       subtitle: Location & Contact Information
