@@ -15,7 +15,7 @@ sections:
         - title: 10th Anniversary
           description: ""
           url: /spectra-stories/10th-anniversary/
-        - title: Sec 1 Admission & Open House
+        - title: Sec 1 Admission
           description: ""
           url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
         - title: Yearbook 2023
