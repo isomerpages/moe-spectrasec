@@ -22,6 +22,14 @@ sections:
           description: ""
           url: https://heyzine.com/flip-book/0deacfcc0c.html
       variant: center
+  - infopic:
+      title: Open House
+      id: infopic
+      description: 22 Nov to 25 Nov 2023
+      button: Find out more
+      url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
+      image: /images/Open_House_2023.jpg
+      alt: Image alt text
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
