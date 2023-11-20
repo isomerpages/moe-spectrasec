@@ -15,13 +15,20 @@ sections:
         - title: 10th Anniversary
           description: ""
           url: /spectra-stories/10th-anniversary/
-        - title: Sec 1 Admission & Open House
+        - title: Sec 1 Admission
           description: ""
           url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
         - title: Yearbook 2023
           description: ""
           url: https://heyzine.com/flip-book/0deacfcc0c.html
       variant: center
+  - infopic:
+      title: OPEN HOUSE
+      id: infopic
+      button: Find out more
+      url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
+      image: /images/Open_House_2023.jpg
+      alt: Image alt text
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
