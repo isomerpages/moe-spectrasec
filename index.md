@@ -9,15 +9,15 @@ sections:
   - hero:
       background: /images/hero 5 images - 16 oct.gif
       key_highlights:
+        - title: Sec 1 Admission
+          description: ""
+          url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
         - title: Instagram
           description: "#SpectraStories"
           url: https://www.instagram.com/spectrastories/
         - title: 10th Anniversary
           description: ""
           url: /spectra-stories/10th-anniversary/
-        - title: Sec 1 Admission
-          description: ""
-          url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
         - title: Yearbook 2023
           description: ""
           url: https://heyzine.com/flip-book/0deacfcc0c.html
