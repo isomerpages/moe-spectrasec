@@ -2,6 +2,7 @@
 title: Prospective Staff
 permalink: /i-am-a/permalink/
 description: ""
+variant: markdown
 ---
 #### **Prospective Staff**
 
@@ -11,6 +12,7 @@ description: ""
 
 * Teacher – Various Disciplines
 * Executive – School Administration
+* School Counsellor *
 
 **HOW TO APPLY**
 
