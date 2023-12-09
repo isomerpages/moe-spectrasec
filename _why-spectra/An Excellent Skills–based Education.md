@@ -2,6 +2,7 @@
 title: An Excellent Skills–based Education
 permalink: /why-spectra/an-excellent-skills-based-education/
 description: ""
+variant: markdown
 ---
 ##### **A Seamless Vocational Education Pathway**
 
@@ -34,4 +35,6 @@ Spectra offers the following&nbsp;**5 ITE Skills Subjects (ISS)**:
 
 <p align="justify">Through a diverse range of unique CCAs, we empower students to aspire toward their dreams. Our students discover new interests, develop their talents and build on their strengths. Our dedicated teachers encourage students to experiment, learn new skills and pursue their passion in the following CCAs:&nbsp;<b>Young Chefs, Young Creators, Young Engineers, and Urban Farmers.</b></p>
 
-![](/images/unique%20ccas%202023.png)
+![](/images/Unique_VE_CCA_2023.png)
+
+***
