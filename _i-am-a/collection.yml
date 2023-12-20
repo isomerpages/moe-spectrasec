@@ -2,6 +2,7 @@ collections:
   i-am-a:
     output: true
     order:
+      - Student/2024 Secondary 1 Registration.md
       - Student/.keep
       - Student/Yearbooks.md
       - Student/Co Curricular Activities (CCA).md

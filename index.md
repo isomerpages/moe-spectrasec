@@ -23,11 +23,11 @@ sections:
           url: https://heyzine.com/flip-book/0deacfcc0c.html
       variant: center
   - infopic:
-      title: OPEN HOUSE
+      title: 2024 Secondary 1 Registration
       id: infopic
       button: Find out more
-      url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
-      image: /images/Open_House_2023.jpg
+      url: https://www.spectra.edu.sg/i-am-a/student/2024-secondary-1-registration
+      image: /images/Register.PNG
       alt: Image alt text
   - infobar:
       subtitle: Location & Contact Information
