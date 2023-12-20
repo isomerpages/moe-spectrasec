@@ -2,6 +2,7 @@
 title: School Management Committee
 permalink: /our-people/school-management-committee/
 description: ""
+variant: markdown
 ---
 <style type="text/css">
 .tg  {border-collapse:collapse;border-color:#ccc;border-spacing:0;}
@@ -31,14 +32,6 @@ description: ""
     <td class="tg-c76s">Mr Tan Teck Hock</td>
   </tr>
   <tr>
-    <td class="tg-6kpt">Vice Principal, Administration</td>
-    <td class="tg-6kpt">Mr Khou Beng Chew</td>
-  </tr>
-  <tr>
-    <td class="tg-c76s">Vice Principal, Instructional Programme</td>
-    <td class="tg-c76s">Mr How Pui Seng</td>
-  </tr>
-  <tr>
     <td class="tg-6kpt">Vice Principal, Student Development</td>
     <td class="tg-6kpt">Ms Guo Xinhui</td>
   </tr>
@@ -47,7 +40,7 @@ description: ""
     <td class="tg-c76s">Ms Grace Ho Chen Yee</td>
   </tr>
   <tr>
-    <td class="tg-6kpt">Director, Special Projects</td>
+    <td class="tg-6kpt">Vice Principal, Administration</td>
     <td class="tg-6kpt">Ms Low Ying Xiu</td>
   </tr>
   <tr>
@@ -70,29 +63,21 @@ description: ""
     <td class="tg-c76s">HOD, MA &amp; SC</td>
     <td class="tg-c76s">Mr Lee Wee Siong Donny</td>
   </tr>
-  <tr>
-    <td class="tg-6kpt">HOD, PE &amp; CCA &amp; AES</td>
-    <td class="tg-6kpt">Mr Viknesvaran S/O Veeramuthu</td>
+   <tr>
+    <td class="tg-6kpt">HOD, STM</td>
+    <td class="tg-6kpt">Mr Zhang Zhiyang, Don</td>
   </tr>
   <tr>
-    <td class="tg-c76s">HOD, STM</td>
-    <td class="tg-c76s">Mr Zhang Zhiyang, Don</td>
+    <td class="tg-c76s">HOD, VE 1</td>
+    <td class="tg-c76s">Ms Tan Lay Hiok (Faye)</td>
   </tr>
   <tr>
-    <td class="tg-6kpt">HOD, VE 1</td>
-    <td class="tg-6kpt">Ms Tan Lay Hiok (Faye)</td>
+    <td class="tg-6kpt">HOD, VE 2</td>
+    <td class="tg-6kpt">Ms Wendy Lim Soo Ling</td>
   </tr>
   <tr>
-    <td class="tg-c76s">HOD, VE 2</td>
-    <td class="tg-c76s">Ms Wendy Lim Soo Ling</td>
-  </tr>
-  <tr>
-    <td class="tg-6kpt">Programme Head, Spectra Academy</td>
-    <td class="tg-6kpt">Mr Abu Sufyan Bin Bedin</td>
-  </tr>
-  <tr>
-    <td class="tg-c76s">SSD</td>
-    <td class="tg-c76s">Ms Wang Huiwen</td>
+    <td class="tg-c76s">Programme Head, Spectra Academy</td>
+    <td class="tg-c76s">Mr Abu Sufyan Bin Bedin</td>
   </tr>
   <tr>
     <td class="tg-6kpt">Year Head 1 (Sec 1)</td>
@@ -107,7 +92,7 @@ description: ""
     <td class="tg-6kpt">Mrs Rahmat Bte Saion</td>
   </tr>
   <tr>
-    <td class="tg-c76s">Year Head 2 (Sec 2 - Acting)</td>
+    <td class="tg-c76s">Year Head 2 (Sec 2)</td>
     <td class="tg-c76s">Mr Yoong Kang Chien</td>
   </tr>
   <tr>
@@ -127,19 +112,19 @@ description: ""
     <td class="tg-c76s">Ms Geeta Rani d/o Primdas</td>
   </tr>
   <tr>
-    <td class="tg-6kpt">Subject Head, CCE (Acting)</td>
+    <td class="tg-6kpt">Subject Head, CCE</td>
     <td class="tg-6kpt">Ms Tok Wei Sze Audrey</td>
   </tr>
   <tr>
-    <td class="tg-c76s">Subject Head, CCE (Acting)</td>
+    <td class="tg-c76s">Subject Head, CCE</td>
     <td class="tg-c76s">Ms Sharifah Yasmine Binte Syed Taher</td>
   </tr>
   <tr>
-    <td class="tg-6kpt">Subject Head, EL (Acting)</td>
+    <td class="tg-6kpt">Subject Head, EL</td>
     <td class="tg-6kpt">Ms Ong Hui Mei Sharon Rebekah</td>
   </tr>
   <tr>
-    <td class="tg-c76s">Subject Head, ICT (Acting)</td>
+    <td class="tg-c76s">Subject Head, ICT</td>
     <td class="tg-c76s">Mr Mohd Yusri Bin Mohamed Noor</td>
   </tr>
   <tr>
@@ -147,7 +132,7 @@ description: ""
     <td class="tg-6kpt">Mr Raymond Ng Kok Hui</td>
   </tr>
   <tr>
-    <td class="tg-c76s">Subject Head, MWA (Acting)</td>
+    <td class="tg-c76s">Subject Head, MWA</td>
     <td class="tg-c76s">Ms Goh Shuo Yi (Joyce)</td>
   </tr>
   <tr>
@@ -163,7 +148,7 @@ description: ""
     <td class="tg-6kpt">Ms Chuminah Bte Abdul Rahman</td>
   </tr>
   <tr>
-    <td class="tg-c76s">Subject Head, ML (Acting)</td>
+    <td class="tg-c76s">Subject Head, ML</td>
     <td class="tg-c76s">Ms Syahirah Binte Mohamad Azib</td>
   </tr>
   <tr>
