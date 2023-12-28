@@ -56,13 +56,14 @@ variant: markdown
     <td class="tg-c76s">Mr Teng Lip Koon</td>
   </tr>
   <tr>
-    <td class="tg-6kpt">HOD, LSU</td>
+    <td class="tg-6kpt">HOD, CSU &amp; LSU</td>
     <td class="tg-6kpt">Mr Ong Yit Sin Elijah</td>
   </tr>
   <tr>
     <td class="tg-c76s">HOD, MA &amp; SC</td>
     <td class="tg-c76s">Mr Lee Wee Siong Donny</td>
   </tr>
+	
    <tr>
     <td class="tg-6kpt">HOD, STM</td>
     <td class="tg-6kpt">Mr Zhang Zhiyang, Don</td>
@@ -89,11 +90,11 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-6kpt">Year Head 1 (Sec 2)</td>
-    <td class="tg-6kpt">Mrs Rahmat Bte Saion</td>
+    <td class="tg-6kpt">Mr Muhammad Haekal Bin Mohamed Taib</td>
   </tr>
   <tr>
     <td class="tg-c76s">Year Head 2 (Sec 2)</td>
-    <td class="tg-c76s">Mr Yoong Kang Chien</td>
+    <td class="tg-c76s">Ms Ong Hui Mei Sharon Rebekah</td>
   </tr>
   <tr>
     <td class="tg-6kpt">Year Head 1 (Sec 3)</td>
@@ -101,7 +102,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-c76s">Year Head 2 (Sec 3)</td>
-    <td class="tg-c76s">Ms Farrah Bte Mohamed Ghazali</td>
+    <td class="tg-c76s">Ms Geeta Rani D/O Primdas</td>
   </tr>
   <tr>
     <td class="tg-6kpt">Year Head 1 (Sec 4)</td>
@@ -121,7 +122,7 @@ variant: markdown
   </tr>
   <tr>
     <td class="tg-6kpt">Subject Head, EL</td>
-    <td class="tg-6kpt">Ms Ong Hui Mei Sharon Rebekah</td>
+    <td class="tg-6kpt">Ms Naomi Nesam Abraham</td>
   </tr>
   <tr>
     <td class="tg-c76s">Subject Head, ICT</td>
@@ -140,7 +141,7 @@ variant: markdown
     <td class="tg-6kpt">Ms Koh Siew Khim Doreen</td>
   </tr>
   <tr>
-    <td class="tg-c76s">Subject Head, MA</td>
+    <td class="tg-c76s">Subject Head, LSU</td>
     <td class="tg-c76s">Ms Ng Tyan Miin</td>
   </tr>
   <tr>
