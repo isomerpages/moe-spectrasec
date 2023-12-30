@@ -23,11 +23,11 @@ sections:
           url: https://heyzine.com/flip-book/0deacfcc0c.html
       variant: center
   - infopic:
-      title: 2024 Secondary 1 Registration
+      title: 2024 Timetable
       id: infopic
-      button: Find out more
-      url: https://www.spectra.edu.sg/i-am-a/student/2024-secondary-1-registration
-      image: /images/Register.PNG
+      button: View Now
+      url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/timetable?authuser=0
+      image: /images/2024_Timetable.png
       alt: Image alt text
   - infobar:
       subtitle: Location & Contact Information
