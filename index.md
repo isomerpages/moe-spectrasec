@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/hero 5 images - 16 oct.gif
+      background: /images/2_Jan_2024___Hero_Image.gif
       key_highlights:
         - title: Sec 1 Admission
           description: ""

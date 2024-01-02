@@ -3,6 +3,7 @@ title: Useful Links
 permalink: /i-am-a/teacher/useful-links/
 description: ""
 third_nav_title: Staff
+variant: markdown
 ---
 <table cellpadding="1" cellspacing="1" width="600" border="1">
 <tbody>
@@ -44,7 +45,7 @@ third_nav_title: Staff
 <td>
 <ol>
 
-<li><a rel="noopener noreferrer" target="_blank" href="http://10.163.112.140/">SSIS (Spectra Student Information System)</a></li>
+<li><a rel="noopener noreferrer" target="_blank" href="http://10.163.112.149/">SSIS (Spectra Student Information System)</a></li>
 <li><a href="https://rbs.avero-tech.com/">Room Booking System (RBS)</a> (log in via MIMS)</li>
 	<li><a href="https://www.tenderboard.biz/login?destination=purchase">Tenderboard</a></li><a href="https://www.tenderboard.biz/login?destination=purchase">
 </a><li><a href="https://www.tenderboard.biz/login?destination=purchase"></a><a rel="noopener noreferrer" target="_blank" href="http://10.163.112.142/TimeSolution/SignIn.aspx">Spectra HR System</a></li>
