@@ -2,6 +2,7 @@
 title: Vision, Mission & Values
 permalink: /about-spectra/vision-mission-values/
 description: ""
+variant: markdown
 ---
 ##### **Our Vision**
 
@@ -17,7 +18,7 @@ description: ""
 
 ##### **Our Values**
 
-**Respect is our Foundation.**
+**Respect** is our Foundation.
 <p align="justify">The value of Respect undergirds our students’ attitude, belief and conduct.</p>
 
 **Responsibility**&nbsp;is our Spirit.
