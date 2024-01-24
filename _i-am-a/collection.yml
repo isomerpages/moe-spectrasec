@@ -1,0 +1,20 @@
+collections:
+  i-am-a:
+    output: true
+    order:
+      - Student/2024 Secondary 1 Registration.md
+      - Student/.keep
+      - Student/Yearbooks.md
+      - Student/Co Curricular Activities (CCA).md
+      - Student/Useful Links.md
+      - Student/Cyber Wellness Support.md
+      - Student/Helpline Information.md
+      - Parent/.keep
+      - Parent/MOE FAS Information.md
+      - Parent/Sexuality Education.md
+      - Parent/Personal Learning Device.md
+      - Staff/.keep
+      - Staff/Useful Links.md
+      - Prospective Student/.keep
+      - Prospective Student/Sec 1 Admission.md
+      - Prospective Staff.md

@@ -1,0 +1,12 @@
+logo: /images/logo_full.png
+links:
+  - title: ABOUT SPECTRA
+    collection: about-spectra
+  - title: WHY SPECTRA
+    collection: why-spectra
+  - title: OUR PEOPLE
+    collection: our-people
+  - title: I AM A ...
+    collection: i-am-a
+  - title: Spectra Stories
+    collection: spectra-stories

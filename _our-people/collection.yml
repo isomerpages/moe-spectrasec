@@ -1,0 +1,8 @@
+collections:
+  our-people:
+    output: true
+    order:
+      - School Board of Directors.md
+      - School Leaders and Key Personnel.md
+      - Cohort Staff.md
+      - Parent Support Group.md

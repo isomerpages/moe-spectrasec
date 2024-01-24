@@ -1,0 +1,7 @@
+collections:
+  spectra-stories:
+    output: true
+    order:
+      - 10th Anniversary Coffee Table Book.md
+      - Spectra Videos.md
+      - Spectra Brochure.md
