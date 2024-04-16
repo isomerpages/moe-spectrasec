@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG-2022-28-July-02-1024x682.png">
+<img style="width: 100%" height="auto" width="100%" alt="2024 PSG" src="/images/IMG_20240415_WA0014.jpg">
 </div>
 <h5><strong>Our PSG</strong></h5>
 <p>Parents are a very important part of the SPECTRA family. The SPECTRA <strong>Parents Support Group (PSG)</strong> was
