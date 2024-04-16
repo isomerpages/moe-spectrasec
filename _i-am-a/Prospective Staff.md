@@ -18,7 +18,11 @@ of students, please write to us. &nbsp;</p>
 <li>
 <p>School Counsellor *</p>
 </li>
+<li>
+<p>Learning &amp; Behavioural Support Officer **</p>
+</li>
 </ul>
+<hr>
 <p><strong>Job Description for School Counsellor *</strong>
 </p>
 <p>Your main job responsibilities will comprise the following:</p>
@@ -65,7 +69,7 @@ by critical incidents.</p>
 being seen for counselling.</p>
 </li>
 </ul>
-<p><strong>Requirements for School Counsellor</strong>
+<p><strong>Requirements for School Counsellor *</strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
@@ -90,6 +94,70 @@ working or volunteering with children or youths would be an advantage.</p>
 <li>
 <p>Applicants should possess a relevant counselling qualification, such as
 those recognised by the Singapore Association for Counselling (SAC).</p>
+</li>
+</ul>
+<hr>
+<p><strong>Job Description for Learning &amp; Behavioural Support Officer **</strong>
+</p>
+<p>Your main responsibility is to ensure that students with special educational
+needs (SEN) or learning difficulties receive appropriate, timely and effective
+learning, behavioural and emotional support. Duties will include, but are
+not limited to, the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Identify students with various SEN (including autism spectrum disorder,
+dyslexia and attention deficit/ hyperactivity disorder) and match them
+to appropriate interventions</p>
+</li>
+<li>
+<p>Plan, conduct and monitor effectiveness of individualised and/or small-group
+intervention programmes for students with SEN</p>
+</li>
+<li>
+<p>Work with teachers to design, curate and manage teaching and learning
+resources for students with SEN or learning difficulties</p>
+</li>
+<li>
+<p>Provide case consultation and termly progress updates on students to teachers
+and school management</p>
+</li>
+<li>
+<p>Upkeep documentation on records, access arrangements and case management
+of students with SEN</p>
+</li>
+<li>
+<p>Contribute to school activities and staff training, especially in areas
+of educational development of students with SEN</p>
+</li>
+<li>
+<p>Provide support to families of students with special needs and conduct
+home visits where necessary</p>
+</li>
+<li>
+<p>Establish network with professional social service agencies for referral
+and access to community resources for specialised assistance/consultations</p>
+</li>
+</ul>
+<p><strong>Requirements for Learning &amp; Behavioural Support Officer **</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>University degree or Local polytechnic diploma in the any discipline,
+with qualification in special needs education, psychology or counselling
+preferred</p>
+</li>
+<li>
+<p>Preferably with 3 years of relevant working experience in school or social
+service setting, working with children and/or youth</p>
+</li>
+<li>
+<p>Resourceful and resilient, with good analytical and problem-solving skills
+and the ability to multi-task effectively within tight deadlines</p>
+</li>
+<li>
+<p>Self-driven and service-oriented, with strong communication skills, interpersonal
+skills and the ability to build good working relationships with multiple
+stakeholders</p>
 </li>
 </ul>
 <hr>
