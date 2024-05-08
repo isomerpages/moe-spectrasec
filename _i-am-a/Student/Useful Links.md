@@ -33,14 +33,13 @@ variant: markdown
 
 ***
 
-###### **[Singpass Registration](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/singpass-registration?pli=1)**
-
-<a target="new" href="https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/singpass-registration?pli=1"><img style="width:400px" src="/images/singpass-logo-new.png"></a>
-
-***
-
 ###### **[Personal Learning Device (PLD)](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld)**
 
 <a target="new" href="https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld?pli=1"><img style="width:400px" src="/images/2023%20ict%20banner%201.png"></a>
+
+***
+
+###### **[Spectra Fault Reporting](https://go.gov.sg/sssfaultreporting)**
+<a target="new" href="https://go.gov.sg/sssfaultreporting"><img style="width:300px" src="/images/Fault_Reporting.png"></a>
 
 ***
