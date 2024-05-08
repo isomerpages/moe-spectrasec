@@ -3,9 +3,9 @@ collections:
     output: true
     order:
       - Student/.keep
+      - Student/Useful Links.md
       - Student/Yearbooks.md
       - Student/Co Curricular Activities (CCA).md
-      - Student/Useful Links.md
       - Student/Cyber Wellness Support.md
       - Student/Helpline Information.md
       - Parent/.keep
