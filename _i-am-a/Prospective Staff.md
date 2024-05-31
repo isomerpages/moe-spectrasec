@@ -16,86 +16,104 @@ of students, please write to us. &nbsp;</p>
 <p>Teacher – Various Disciplines</p>
 </li>
 <li>
-<p>School Counsellor *</p>
+<p>Executive / Senior Executive, Administration *</p>
 </li>
 <li>
 <p>Learning &amp; Behavioural Support Officer **</p>
 </li>
 </ul>
 <hr>
-<p><strong>Job Description for School Counsellor *</strong>
+<p><strong>Job Description for Executive / Senior Executive, Administration *</strong>
 </p>
 <p>Your main job responsibilities will comprise the following:</p>
-<ul data-tight="true" class="tight">
+<ol data-tight="true" class="tight">
 <li>
-<p>Develop suitable school counselling programme including a system for needs
-analysis, early identification and referral of students with mental health
-issues and social, emotional and behavioural problems.</p>
+<p>Review and implement school and student admin policies in compliance with
+statutory legislations.</p>
+<p></p>
 </li>
 <li>
-<p>Provide consultation as well as planning and conducting training for staff
-and parents on pertinent mental health issues and skills for first-line
-intervention and support.</p>
+<p>Maintain integrity of data in MOE, ITE and school systems and applications,
+prepare and maintain students’ files and ensure accuracy, compliance and
+confidentiality.</p>
+<p></p>
 </li>
 <li>
-<p>Evaluate and report to the school management on the state of student mental
-health in the school, and the effectiveness of the school counselling programme.</p>
+<p>Administer student admission processes from enquiry management to application.</p>
+<p></p>
 </li>
 <li>
-<p>Develop and conduct small and large group psycho-educational sessions
-for students on mental health issues and healthy coping strategies.</p>
+<p>Administer activities related to student management, such as financial
+assistance, preparation of class registers, photo charts, TransitLink School
+Smart cards, attendance lists, transfer requests, renewal of student pass
+etc.</p>
+<p></p>
 </li>
 <li>
-<p>Develop and make mental health resources available for students, parents
-and staff.</p>
+<p>Support school management by collating and preparing student reports on
+school attendance, administering surveys, entrance tests and interviews.</p>
+<p></p>
 </li>
 <li>
-<p>Provide individual and group counselling to students.</p>
+<p>Provide secretariat support involving student results processing and progression,
+such as generating and printing progress reports, School’s Graduation Certificate,
+ITE Statement of Results etc.</p>
+<p></p>
 </li>
 <li>
-<p>Conference with staff, parents and external professionals and agencies
-on students being counselled, and conduct home visits where necessary.</p>
+<p>Coordinate with external organizations/agencies to provide annual students’
+health and dental checks, NRIC registration, food catering etc.</p>
+<p></p>
 </li>
 <li>
-<p>Look into the referral of students and their families to community resources
-or external professionals, where needed.</p>
+<p>Use appropriate e-transaction portals to perform different e-transactions
+competently.</p>
+<p></p>
 </li>
 <li>
-<p>Provide direct crisis intervention and follow-up to students affected
-by critical incidents.</p>
+<p>Provide support to help ensure student’s wellbeing, such as administering
+first aid and chaperoning students to clinics/hospital.</p>
+<p></p>
 </li>
 <li>
-<p>Provide regular updates to school management on the progress of students
-being seen for counselling.</p>
+<p>Perform front counter services, including attending to walk-ins and phone
+calls, as well as managing lost &amp; found items.</p>
+<p></p>
 </li>
-</ul>
-<p><strong>Requirements for School Counsellor *</strong>
+<li>
+<p>Provide administrative and logistical support for meetings, school activities
+and events.</p>
+<p></p>
+</li>
+<li>
+<p>Support in Admin-related purchases, including preparation of purchase
+requests and evaluation of bids.</p>
+<p></p>
+</li>
+<li>
+<p>Demonstrate an understanding of the needs of the students and act as role
+model to shape their values and behaviours positively through daily interactions.</p>
+<p></p>
+</li>
+<li>
+<p>Any other duties assigned by the supervisor to provide administrative
+support to the General Office.</p>
+<p></p>
+</li>
+</ol>
+<p><strong>Requirements for Executive / Senior Executive, Administration *</strong>
 </p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Passion and disposition to work with students-at-risk.</p>
-</li>
-<li>
-<p>Empathy for students with social, emotional and mental health difficulties.</p>
-</li>
-<li>
-<p>Strong interpersonal and communication skills.</p>
-</li>
-<li>
-<p>Aware of and sensitive to multicultural issues.</p>
-</li>
-<li>
-<p>Resourceful and resilient.</p>
-</li>
-<li>
-<p>Preferably with at least 3 years of relevant working experience. Experience
-working or volunteering with children or youths would be an advantage.</p>
-</li>
-<li>
-<p>Applicants should possess a relevant counselling qualification, such as
-those recognised by the Singapore Association for Counselling (SAC).</p>
-</li>
-</ul>
+<p>1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Preferably with 3 years of relevant
+working experience in MOE schools.</p>
+<p>2.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Proficient in Microsoft® Office
+applications.</p>
+<p>3.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Fluent in spoken and written English.</p>
+<p>4.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Diploma in any discipline.</p>
+<p>&nbsp;</p>
+<p>If you are a highly motivated and engaging individual who wants to contribute
+to the holistic development of students, please write to us. Only shortlisted
+candidates will be notified.</p>
+<p></p>
 <hr>
 <p><strong>Job Description for Learning &amp; Behavioural Support Officer **</strong>
 </p>
@@ -107,27 +125,27 @@ not limited to, the following:</p>
 <li>
 <p>Identify students with various SEN (including autism spectrum disorder,
 dyslexia and attention deficit/ hyperactivity disorder) and match them
-to appropriate interventions</p>
+to appropriate interventions.</p>
 </li>
 <li>
 <p>Plan, conduct and monitor effectiveness of individualised and/or small-group
-intervention programmes for students with SEN</p>
+intervention programmes for students with SEN.</p>
 </li>
 <li>
 <p>Work with teachers to design, curate and manage teaching and learning
-resources for students with SEN or learning difficulties</p>
+resources for students with SEN or learning difficulties.</p>
 </li>
 <li>
 <p>Provide case consultation and termly progress updates on students to teachers
-and school management</p>
+and school management.</p>
 </li>
 <li>
 <p>Upkeep documentation on records, access arrangements and case management
-of students with SEN</p>
+of students with SEN.</p>
 </li>
 <li>
 <p>Contribute to school activities and staff training, especially in areas
-of educational development of students with SEN</p>
+of educational development of students with SEN.</p>
 </li>
 <li>
 <p>Provide support to families of students with special needs and conduct
@@ -135,7 +153,7 @@ home visits where necessary</p>
 </li>
 <li>
 <p>Establish network with professional social service agencies for referral
-and access to community resources for specialised assistance/consultations</p>
+and access to community resources for specialised assistance/consultations.</p>
 </li>
 </ul>
 <p><strong>Requirements for Learning &amp; Behavioural Support Officer **</strong>
@@ -144,20 +162,20 @@ and access to community resources for specialised assistance/consultations</p>
 <li>
 <p>University degree or Local polytechnic diploma in the any discipline,
 with qualification in special needs education, psychology or counselling
-preferred</p>
+preferred.</p>
 </li>
 <li>
 <p>Preferably with 3 years of relevant working experience in school or social
-service setting, working with children and/or youth</p>
+service setting, working with children and/or youth.</p>
 </li>
 <li>
 <p>Resourceful and resilient, with good analytical and problem-solving skills
-and the ability to multi-task effectively within tight deadlines</p>
+and the ability to multi-task effectively within tight deadlines.</p>
 </li>
 <li>
 <p>Self-driven and service-oriented, with strong communication skills, interpersonal
 skills and the ability to build good working relationships with multiple
-stakeholders</p>
+stakeholders.</p>
 </li>
 </ul>
 <hr>
