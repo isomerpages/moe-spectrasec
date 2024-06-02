@@ -23,7 +23,7 @@ sections:
           url: https://heyzine.com/flip-book/0deacfcc0c.html
       variant: center
   - infopic:
-      title: 2024 Timetable
+      title: 2024 Semester 1 Timetable
       id: infopic
       button: View Now
       url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/timetable?authuser=0
