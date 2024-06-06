@@ -22,13 +22,22 @@ sections:
           description: ""
           url: https://heyzine.com/flip-book/0deacfcc0c.html
       variant: center
-  - infopic:
-      title: 2024 Semester 1 Timetable
-      id: infopic
-      button: View Now
-      url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/timetable?authuser=0
-      image: /images/2024_Timetable.png
-      alt: Image alt text
+  - textcards:
+      title: Updates
+      id: textcards
+      cards:
+        - title: Sale of School Uniform
+          description: ""
+          linktext: Find Out
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
+        - title: 2024 Semester 1 Timetable
+          description: ""
+          linktext: View Now
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/timetable?authuser=0
+        - title: Student Infomation Hub (SIH)
+          description: ""
+          linktext: Find out
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home?authuser=0
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
