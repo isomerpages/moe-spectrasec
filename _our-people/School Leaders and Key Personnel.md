@@ -97,7 +97,7 @@ variant: tiptap
 <p>HOD/ICT</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Teng Lip Koon</p>
+<p>Ms Tan Lay Hiok (Faye)</p>
 </td>
 </tr>
 <tr>
@@ -118,15 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/VE1</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Lay Hiok (Faye)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>HOD/VE2</p>
+<p>HOD/VE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wendy Lim Soo Ling</p>
@@ -314,14 +306,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Chua Wei Lun Kayson</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Senior Manager (HR &amp; Student Administration)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Goh Poh Gek</p>
 </td>
 </tr>
 <tr>
