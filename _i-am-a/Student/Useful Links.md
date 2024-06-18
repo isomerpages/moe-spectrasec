@@ -40,6 +40,6 @@ variant: markdown
 ***
 
 ###### **[Spectra Fault Reporting](https://go.gov.sg/sssfaultreporting)**
-<a target="new" href="https://go.gov.sg/sssfaultreporting"><img style="width:300px" src="/images/Fault_Reporting.png"></a>
+<a target="new" href="https://go.gov.sg/sssfaultreporting"><img style="width:400px" src="/images/SSSFaultReporting2024.png"></a>
 
 ***
