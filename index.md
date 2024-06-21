@@ -30,7 +30,7 @@ sections:
           description: ""
           linktext: Find Out
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: 2024 Semester 1 Timetable
+        - title: 2024 Semester 2 Timetable
           description: ""
           linktext: View Now
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/timetable?authuser=0
