@@ -105,7 +105,7 @@ variant: tiptap
 <p>HOD/MA &amp; SC</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Lee Wee Siong Donny</p>
+<p>Ms Yeo Puay Joo</p>
 </td>
 </tr>
 <tr>
