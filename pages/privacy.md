@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>PRIVACY STATEMENT</strong></h4>
-<p><strong>SPECTRA SECONDARY SCHOOL PRIVACY STATEMENT </strong>
+<p><strong>SPECTRA SECONDARY SCHOOL PRIVACY STATEMENT</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
