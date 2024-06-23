@@ -3,14 +3,12 @@ title: Policies
 permalink: /about-spectra/school-information/policies/
 description: ""
 third_nav_title: School Information
-variant: markdown
+variant: tiptap
 ---
-##### **Data Protection Guidelines**
-
-Please refer to document for details: [Data Protection Guidelines](/files/personal_data_protection_guidelines__Spectra_2024_.pdf)
-
-***
-
-##### **Whistleblowing Policy**
-
-Please refer to document for details: [Whistleblowing Policy](/files/whistleblowing-policy-ver-3%20(spectra).pdf)
+<h5><strong>Data Protection Guidelines</strong></h5>
+<p>Please refer to the document for details: <a href="/files/data_protection_guidelines__updated_23_june_2024.pdf" rel="noopener noreferrer nofollow" target="_blank">Data Protection Guidelines</a>
+</p>
+<hr>
+<h5><strong>Whistleblowing Policy</strong></h5>
+<p>Please refer to the document for details: <a href="/files/whistleblowing-policy-ver-3%20(spectra).pdf" rel="noopener noreferrer nofollow" target="_blank">Whistleblowing Policy</a>
+</p>
