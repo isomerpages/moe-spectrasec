@@ -10,5 +10,5 @@ variant: tiptap
 </p>
 <hr>
 <h5><strong>Whistleblowing Policy</strong></h5>
-<p>Please refer to the document for details: <a href="/files/whistleblowing-policy-ver-3%20(spectra).pdf" rel="noopener noreferrer nofollow" target="_blank">Whistleblowing Policy</a>
+<p>Please refer to the document for details: <a href="/files/whistleblowing_policy_ver_4__spectra_.pdf" rel="noopener noreferrer nofollow" target="_blank">Whistleblowing Policy</a>
 </p>
