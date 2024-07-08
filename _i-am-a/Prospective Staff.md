@@ -127,7 +127,7 @@ model to shape their values and behaviours positively through daily interactions
 support to the General Office.</p>
 </li>
 </ol>
-<p><strong>Requirements for Executive / Senior Executive, Administration *</strong>
+<p><strong>Requirements for Executive / Senior Executive, Administration **</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
