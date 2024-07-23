@@ -678,7 +678,7 @@ variant: tiptap
 <p>S4-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hamasavallii</p>
+<p>Ms Hamsavallii</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Angeline Tan Ling Ling</p>
