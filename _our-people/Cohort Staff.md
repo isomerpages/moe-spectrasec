@@ -181,10 +181,10 @@ variant: tiptap
 <p>S1-10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Durga Gayathri D/O Manogar</p>
+<p>Ms Durga Gayathri</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Ms Wang Hui Wen</p>
+<p>Ms Wang Hui Wen</p>
 </td>
 </tr>
 <tr>
@@ -497,7 +497,7 @@ variant: tiptap
 <p>Ms Norisha Binte Ridzwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ching Kian Leng (James)</p>
+<p>Mr Ching Kian Leng (James)</p>
 </td>
 </tr>
 <tr>
