@@ -120,11 +120,10 @@ to choose the school when there is no score range?</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>As Spectra processed the applications via direct admission in 2022 and
-will continue to admit students via hybrid application modes from 2023
-onwards, it would not be meaningful to display the PSLE score range like
-other secondary schools where the PSLE score range is derived solely based
-on Sec 1 Posting.</p>
+<p>As Spectra processed the applications to admit students via hybrid application
+modes from 2023, it would not be meaningful to display the PSLE score range
+like other secondary schools where the PSLE score range is derived solely
+based on Sec 1 Posting.</p>
 </td>
 </tr>
 <tr>
@@ -175,7 +174,7 @@ Sec 1 Posting</p>
 <td rowspan="1" colspan="1">
 <p>Direct admission applicants will be informed of their application outcome
 in mid-December, while those who applied via Sec 1 Posting will receive
-the posting results on 20 Dec -22 Dec 2023 (tentatively), together with
+the posting results on 18 Dec -20 Dec 2024 (tentatively), together with
 the main cohort.</p>
 </td>
 </tr>
