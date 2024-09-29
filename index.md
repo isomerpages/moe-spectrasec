@@ -21,7 +21,7 @@ sections:
         - title: Yearbook 2023
           description: ""
           url: https://heyzine.com/flip-book/0deacfcc0c.html
-      variant: center
+      variant: image
   - textcards:
       title: Updates
       id: textcards
