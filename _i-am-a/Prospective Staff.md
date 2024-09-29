@@ -13,53 +13,80 @@ of students, please write to us. &nbsp;</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teacher, Science *</p>
+<p><strong>Learning &amp; Behavioural Support Officer *</strong>
+</p>
 </li>
 <li>
-<p>Executive / Senior Executive, Administration **</p>
+<p><strong>Executive / Senior Executive, Administration **</strong>
+</p>
 </li>
 </ul>
 <hr>
-<p><strong>Teacher, Science *</strong>
+<p><strong>Learning &amp; Behavioural Support Officer *</strong>
 </p>
 <p>Spectra Secondary School is a Specialised School for students mainly from
 G1.</p>
-<p><strong>Job Description for Teacher, Science *</strong>
+<p><strong>Job Description</strong>
 </p>
-<p>Your main job responsibilities will comprise the following:</p>
+<p>Your main responsibility is to ensure that students with special educational
+needs (SEN) or learning difficulties receive appropriate, timely and effective
+learning, behavioural and emotional support. Duties will include, but are
+not limited to, the following:</p>
 <ol data-tight="true" class="tight">
 <li>
-<p>Teach Lower Secondary Science</p>
+<p>Identify students with various SEN (including autism spectrum disorder,
+dyslexia and attention deficit/ hyperactivity disorder) and match them
+to appropriate interventions.</p>
 </li>
 <li>
-<p>Student management &amp; counselling responsibilities as Form Teacher</p>
+<p>Plan, conduct and monitor effectiveness of individualised and/or small-group
+intervention programmes for students with SEN.</p>
 </li>
 <li>
-<p>Organise CCA activities for students</p>
+<p>Work with teachers to design, curate and manage teaching and learning
+resources for students with SEN or learning difficulties.</p>
 </li>
 <li>
-<p>Participate in department and school committees</p>
+<p>Provide case consultation and termly progress updates on students to teachers
+and school management.</p>
 </li>
 <li>
-<p>Parent and stakeholder engagement</p>
-<p></p>
+<p>Upkeep documentation on records, access arrangements and case management
+of students with SEN.</p>
+</li>
+<li>
+<p>Contribute to school activities and staff training, especially in areas
+of educational development of students with SEN.</p>
+</li>
+<li>
+<p>Provide support to families of students with special needs and conduct
+home visits where necessary.</p>
+</li>
+<li>
+<p>Establish network with professional social service agencies for referral
+and access to community resources for specialised assistance/consultations.</p>
 </li>
 </ol>
-<p><strong>Requirements for Teacher, Science *</strong>
+<p><strong>Requirements</strong>
 </p>
 <ol data-tight="true" class="tight">
 <li>
-<p>At least 3 years of relevant working experience in a MOE secondary school;</p>
+<p>University degree or Local polytechnic diploma in the any discipline,
+with qualification in special needs education, psychology or counselling
+preferred.</p>
 </li>
 <li>
-<p>Possess a strong sense of mission to help and nurture students;</p>
+<p>Preferably with 3 years of relevant working experience in school or social
+service setting, working with children and/or youth.</p>
 </li>
 <li>
-<p>Resourceful, self-driven, meticulous and socially adept; and</p>
+<p>Resourceful and resilient, with good analytical and problem-solving skills
+and the ability to multi-task effectively within tight deadlines.</p>
 </li>
 <li>
-<p>Possess a Postgraduate Diploma in Education or Diploma in Education from
-NIE.</p>
+<p>Self-driven and service-oriented, with strong communication skills, interpersonal
+skills and the ability to build good working relationships with multiple
+stakeholders.</p>
 </li>
 </ol>
 <hr>
