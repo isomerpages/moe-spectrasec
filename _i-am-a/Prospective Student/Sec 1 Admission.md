@@ -73,8 +73,8 @@ school choices.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>1. What is the difference between applying to SPECTRA via the direct admission
-and via S1 Posting?</p>
+<p><strong><em>1. What is the difference between applying to SPECTRA via the direct admission and via S1 Posting?</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -88,20 +88,22 @@ students to be posted to Spectra via Sec 1 Posting.</p>
 <td rowspan="1" colspan="1">
 <p>Students who take part in Sec 1 Posting will be posted by merit, followed
 by choice order of schools and available vacancies.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2. Why is there a need to have 2 different types of admissions (direct
-admission and Sec 1 Posting)? Which one should I apply under?</p>
+<p></p>
+<p><strong><em>2. Why is there a need to have 2 different types of admissions (direct admission and Sec 1 Posting)? Which one should I apply under?</em></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Previously, Spectra only admits students via direct admission. This year,
-Spectra will be able to take in additional students who are eligible for
-Posting Group 1 and applied via S1 Posting. This allows Spectra to take
-in more students, e.g., those who have missed the direct application.</p>
+<p>Previously, Spectra only admits students via direct admission. From 2023,
+Spectra will take in additional students who are eligible for Posting Group
+1 and applied via S1 Posting. This allows Spectra to take in more students,
+e.g., those who have missed the direct application.</p>
 </td>
 </tr>
 <tr>
@@ -110,12 +112,14 @@ in more students, e.g., those who have missed the direct application.</p>
 the curriculum offered and the progression pathways after graduation. Students
 who are keen to be admitted into Spectra are encouraged to apply to the
 school(s) directly.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3. How come there is no PSLE score range for Spectra How do I decide whether
-to choose the school when there is no score range?</p>
+<p></p>
+<p><strong><em>3. How come there is no PSLE score range for Spectra How do I decide whether to choose the school when there is no score range?</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -124,12 +128,14 @@ to choose the school when there is no score range?</p>
 modes from 2023, it would not be meaningful to display the PSLE score range
 like other secondary schools where the PSLE score range is derived solely
 based on Sec 1 Posting.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>4. I have applied directly to Spectra. Do I still need to take part in
-Sec 1 Posting to select other schools?</p>
+<p></p>
+<p><strong><em>4. I have applied directly to Spectra. Do I still need to take part in Sec 1 Posting to select other schools?</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -144,12 +150,14 @@ posted to a secondary school in case their application to Spectra is unsuccessfu
 <p>Students whose Spectra application is successful will be informed by Spectra.
 The school choices that they have submitted during Sec 1 posting will be
 automatically voided.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>5. I have applied to Spectra directly. Do I need to indicate Spectra in
-my 6 choices during Sec 1 Posting?</p>
+<p></p>
+<p><strong><em>5. I have applied to Spectra directly. Do I need to indicate Spectra in my 6 choices during Sec 1 Posting?</em></strong>
+</p>
 </td>
 </tr>
 <tr>
@@ -157,25 +165,29 @@ my 6 choices during Sec 1 Posting?</p>
 <p>Students who are keen to be admitted into Spectra are encouraged to apply
 to the school directly. If students had applied directly to the school,
 there is no need to indicate Spectra as one of the school choices during
-Sec 1 Posting</p>
+Sec 1 Posting.</p>
+<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Posting Results Release</p>
+<p><strong>Posting Results Release</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>6. When will I receive the posting outcome?</p>
+<p></p>
+<p><strong><em>6. When will I receive the posting outcome?</em></strong>
+</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
 <p>Direct admission applicants will be informed of their application outcome
 in mid-December, while those who applied via Sec 1 Posting will receive
-the posting results on 18 Dec -20 Dec 2024 (tentatively), together with
-the main cohort.</p>
+the posting results together with the main cohort.</p>
+<p></p>
 </td>
 </tr>
 </tbody>
