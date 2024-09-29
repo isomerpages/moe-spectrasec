@@ -88,7 +88,6 @@ students to be posted to Spectra via Sec 1 Posting.</p>
 <td rowspan="1" colspan="1">
 <p>Students who take part in Sec 1 Posting will be posted by merit, followed
 by choice order of schools and available vacancies.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -112,7 +111,6 @@ e.g., those who have missed the direct application.</p>
 the curriculum offered and the progression pathways after graduation. Students
 who are keen to be admitted into Spectra are encouraged to apply to the
 school(s) directly.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -128,7 +126,6 @@ school(s) directly.</p>
 modes from 2023, it would not be meaningful to display the PSLE score range
 like other secondary schools where the PSLE score range is derived solely
 based on Sec 1 Posting.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -150,7 +147,6 @@ posted to a secondary school in case their application to Spectra is unsuccessfu
 <p>Students whose Spectra application is successful will be informed by Spectra.
 The school choices that they have submitted during Sec 1 posting will be
 automatically voided.</p>
-<p></p>
 </td>
 </tr>
 <tr>
@@ -166,11 +162,11 @@ automatically voided.</p>
 to the school directly. If students had applied directly to the school,
 there is no need to indicate Spectra as one of the school choices during
 Sec 1 Posting.</p>
-<p></p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
 <p><strong>Posting Results Release</strong>
 </p>
 </td>
