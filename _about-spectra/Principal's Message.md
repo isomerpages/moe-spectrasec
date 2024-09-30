@@ -2,24 +2,31 @@
 title: Principal's Message
 permalink: /about-spectra/principals-message/
 description: ""
+variant: markdown
 ---
-<img style="width:800px" src="/images/mr%20tan%20teck%20hock%202023.jpg">
+<p></p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/P_s_Cover_Photo.jpg">
+</div>
+<p>Welcome to Spectra Secondary School!</p>
+<p style="text-align:justify;">Spectra was established with a bold vision: to innovate, redefine education, and provide an inclusive learning environment for technically inclined students from diverse backgrounds. We believe that every student has unique potential, and through our holistic, hands-on approach, we empower them
+to thrive in a vocational education setting and excel in their own way.</p>
 
-Welcome to the [Pages of History](https://heyzine.com/flip-book/e6ea06d97d.html) as we celebrate Spectra Secondary School’s 10th Anniversary.
+<p style="text-align:justify;">Our students don’t just learn skills for their future careers – they learn the importance of giving back. At Spectra, we are deeply committed to fostering a culture of gratitude and service. Through initiatives like <em>Spectra Spreads Good</em>, our students actively engage in meaningful service, making a positive impact on the lives of others.</p>
 
-<p align="justify">In 2013, a team of enthusiastic staff led by Principal Krishnan Aravinthan embarked on a pioneering mission with a vision to innovate, redefine education, and provide an inclusive learning environment for technically inclined students from diverse backgrounds. Ten years on, we continue to build upon the strong foundations laid by the pioneers with unwavering commitment.</p>
+<p style="text-align:justify;">Over the years, Spectra has built strong partnerships with parents and industry leaders to offer enriching programmes and work attachments. These collaborations have been essential in shaping our students’ growth, broadening their horizons, and preparing them for life beyond school. Our caring and dedicated staff work tirelessly to provide each student with the support
+they need to succeed, delivering diverse learning experiences that build their skills, confidence, and resilience.</p>
 
-<p align="justify">Over the years, Spectra has enjoyed close partnerships with parents and industries to organise enrichment programmes and work attachments for our students. These collaborative partnerships have left an indelible impact in our students, and broadened their understanding of work and life. From industry giants to local champions, their invaluable support has transformed our students’ mindsets, turning barren grounds into fertile landscapes.</p>
+<p style="text-align:justify;">As part of our commitment to the future of learning, we continue to invest in our resources and upgrade our school facilities. These enhancements are designed to enrich our students’ learning experiences and equip them with the skills they need to thrive in an ever-evolving world.</p>
 
-<p align="justify">Our rooftop garden, once an empty canvas, now flourishes with life – akin to the countless hours of back-breaking work put in by staff to enable our students to bloom. Resilience is a hallmark of Spectra, and our staff, students and alumni exemplify this spirit. They have embraced adversity and turned it into a driving force for their success.</p>
+<p style="text-align:justify;">We are proud of our achievements, which reflect the hard work and dedication of our entire school community. From our alumnus receiving the prestigious Lee Kuan Yew All-Round Excellence Award, to the Community in Bloom Award for four years for our Edible Learning Garden, to securing overall championships in the ignITE Challenge organized by the Institute of Technical
+Education for two consecutive years, Spectra continues to shine. These
+accomplishments are a testament to the enduring spirit of our staff and
+students.</p>
 
-<p align="justify">十年树木，百年树人 – It takes ten years to grow a tree, but a hundred years to bring up a generation of good men. Our commitment to shaping lives, nurturing curious minds, fostering creativity, and achieving excellence remains steadfast. Spectra remains a beacon of hope and cocoon for transformation, preparing our students for a skills and values-based future. </p>
-
-<p align="justify">This year, Spectra won the overall champions for the ignITE Skills Challenge for the first time. In another first for Spectra, Derinda Lim, Valedictorian and Spectran of the Year 2022, received the prestigious Lee Kuan Yew Award for All Round Excellence. While the glittering awards certainly added glamour to the School’s ten-year  achievements, there are also many other unsung student heroes that have blossomed under the watch and support of our most caring staff. To this end, we must thank every staff, past &amp; present, for making Spectra’s 10th Anniversary Celebrations especially meaningful.</p>
-
-<p align="justify">As we mark this significant milestone, ‘Forward Singapore, Upward Spectra’ reminds us of our raison d’etre. Together, we will always strive to enrich and uplift more lives. Thank you to all who have contributed to the School’s incredible growth over the last ten years. As we embark on the journey into the next decade, we recommit ourselves to the vow to provide every Spectran with an engaged learning experience that will enable them to lead a most fulfilling life. Happy 10th Anniversary, Spectra!</p>
-
-_Together We Can!_
-
-Tan Teck Hock  
-Principal
+<p style="text-align:justify;">As we move forward, we are excited to reach even greater heights, united as a community. Together, with the strong support of our teachers, parents, and partners, we are confident that Spectra will continue to be a place where every student can achieve their fullest potential.</p>
+<p></p>
+<p><em>Together We Can!</em>
+</p>
+<p>Tan Teck Hock
+<br>Principal</p>
