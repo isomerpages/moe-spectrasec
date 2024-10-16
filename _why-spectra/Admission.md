@@ -4,10 +4,9 @@ permalink: /why-spectra/admission/
 description: ""
 variant: tiptap
 ---
-<p><em>No part of the publications may be reproduced in any form without the school's permission.</em>
+<p><em>No part of the publications may be reproduced without the school's permission.</em>
 </p>
-<h6><a href="https://drive.google.com/file/d/10dP9AuD24s8DNoIumaCM_JfdBxA9_s_S/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click HERE to view the brochure.</a></h6>
-<p></p>
+<h6><a href="https://drive.google.com/file/d/14F_o4_yuPoGItHc_mdxq72aiHrvvLCED/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click HERE to view the brochure</a></h6><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/14F_o4_yuPoGItHc_mdxq72aiHrvvLCED/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spectra_Spectacular_Brochure_2024.jpg"></a>
 <hr>
 <h5><strong>Spectra Open House 2024</strong></h5>
 <p>Find out more about Spectra by joining us at our Open House from <strong>20 Nov 2024 (11.00am - 5.00pm), 21 Nov to 22 Nov 2024 (9.00am - 5.00pm) and 23 Nov 2024 (9.00am - 3.00pm)</strong>,
