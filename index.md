@@ -31,7 +31,7 @@ sections:
       image: /images/Spectra_Open_House_2024.png
       alt: Image alt text
   - textcards:
-      title: Updates
+      title: Useful Links
       id: textcards
       cards:
         - title: Sale of School Uniform
@@ -40,8 +40,16 @@ sections:
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
         - title: Student Infomation Hub (SIH)
           description: ""
-          linktext: Find out
+          linktext: More Info
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home?authuser=0
+        - title: MOE iCON
+          description: ""
+          linktext: Log In
+          url: https://icon.moe.edu.sg/
+        - title: Code of Conduct
+          description: ""
+          linktext: Learn more
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/code-of-conduct?authuser=0
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
