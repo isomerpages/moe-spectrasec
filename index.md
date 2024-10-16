@@ -22,6 +22,14 @@ sections:
           description: ""
           url: https://heyzine.com/flip-book/0deacfcc0c.html
       variant: image
+  - infopic:
+      title: Open House 2024
+      subtitle: Spectra Spectacular
+      id: infopic
+      button: MORE INFO
+      url: https://www.spectra.edu.sg/why-spectra/admission/
+      image: /images/Spectra_Open_House_2024.png
+      alt: Image alt text
   - textcards:
       title: Updates
       id: textcards
@@ -30,10 +38,6 @@ sections:
           description: ""
           linktext: Find Out
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: 2024 Semester 2 Timetable
-          description: ""
-          linktext: View Now
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/timetable?authuser=0
         - title: Student Infomation Hub (SIH)
           description: ""
           linktext: Find out
