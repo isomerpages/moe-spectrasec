@@ -27,7 +27,7 @@ sections:
       subtitle: Spectra Spectacular
       id: infopic
       button: FIND OUT MORE
-      url: https://www.spectra.edu.sg/why-spectra/admission/
+      url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
       image: /images/Spectra_Open_House_2024.png
       alt: Image alt text
   - textcards:
