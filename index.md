@@ -26,7 +26,7 @@ sections:
       title: Open House 2024
       subtitle: Spectra Spectacular
       id: infopic
-      button: MORE INFO
+      button: FIND OUT MORE
       url: https://www.spectra.edu.sg/why-spectra/admission/
       image: /images/Spectra_Open_House_2024.png
       alt: Image alt text
