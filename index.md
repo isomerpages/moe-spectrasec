@@ -42,10 +42,6 @@ sections:
           description: ""
           linktext: More Info
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home?authuser=0
-        - title: MOE iCON
-          description: ""
-          linktext: Log In
-          url: https://icon.moe.edu.sg/
         - title: Code of Conduct
           description: ""
           linktext: Learn more
