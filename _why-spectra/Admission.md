@@ -75,6 +75,11 @@ by choice order of schools and available vacancies.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>2. Why is there a need to have 2 different types of admissions (direct admission and Sec 1 Posting)? Which one should I apply under?</strong>
 </p>
 </td>
@@ -97,6 +102,11 @@ school(s) directly.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>3. How come there is no PSLE score range for SPECTRA? How do I decide whether to choose the school when there is no score range?</strong>
 </p>
 </td>
@@ -108,6 +118,11 @@ will continue to admit students via hybrid application modes from 2023
 onwards, it would not be meaningful to display the PSLE score range like
 other secondary schools where the PSLE score range is derived solely based
 on Sec 1 Posting.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
@@ -132,6 +147,11 @@ respective school. The school choices that they have submitted during Sec
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>5. I have applied to SPECTRA directly. Do I need to indicate SPECTRA in my 6 choices during S1 Posting?</strong>
 </p>
 </td>
@@ -142,6 +162,11 @@ respective school. The school choices that they have submitted during Sec
 to the school directly. If students had applied directly to the school,
 there is no need to indicate SPECTRA as one of the school choices during
 Sec 1 Posting</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 </tr>
 <tr>
