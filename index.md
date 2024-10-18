@@ -9,6 +9,9 @@ sections:
   - hero:
       background: /images/2_Jan_2024___Hero_Image.gif
       key_highlights:
+        - title: Yearbook 2024
+          description: ""
+          url: https://heyzine.com/flip-book/959bac7747.html
         - title: Sec 1 Admission
           description: ""
           url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
@@ -18,9 +21,6 @@ sections:
         - title: 10th Anniversary
           description: ""
           url: /spectra-stories/10th-anniversary/
-        - title: Yearbook 2023
-          description: ""
-          url: https://heyzine.com/flip-book/0deacfcc0c.html
       variant: image
   - infopic:
       title: Open House 2024
@@ -50,10 +50,10 @@ sections:
           description: ""
           linktext: More Info
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home?authuser=0
-        - title: Code of Conduct
+        - title: Yearbook 2024
           description: ""
-          linktext: Learn more
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/code-of-conduct?authuser=0
+          linktext: View Now
+          url: https://heyzine.com/flip-book/959bac7747.html
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
