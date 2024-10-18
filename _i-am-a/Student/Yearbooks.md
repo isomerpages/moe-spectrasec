@@ -8,6 +8,12 @@ variant: markdown
 <h6 style="color:#3e006d;">No part of the publications may be reproduced in any form without the permission of the school.</h6>
 
 ***
+##### **Yearbook 2024**
+
+<a target="new" href="https://heyzine.com/flip-book/959bac7747.html"><img style="width:500px" src="/images/Spectra_Yearbook_2024.png"></a>
+###### [Click here to access the digital version of the Yearbook 2024](https://heyzine.com/flip-book/959bac7747.html)
+
+***
 ##### **Yearbook 2023**
 
 <a target="new" href="https://heyzine.com/flip-book/0deacfcc0c.html"><img style="width:500px" src="/images/yearbook_2023.png"></a>
