@@ -2,9 +2,12 @@
 title: Spectra Brochure
 permalink: /spectra-stories/spectra-brochure/
 description: ""
+variant: markdown
 ---
-<h6 style="color:#3e006d;">No part of the publications may be reproduced in any form without the permission of the school.</h6>
+_No part of the publications may be reproduced without the school's permission._
 
-###### [Click HERE to view the brochure.](https://drive.google.com/file/d/10dP9AuD24s8DNoIumaCM_JfdBxA9_s_S/view?usp=sharing) 
+###### [Click HERE to view the brochure](https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing)
 
-<a target="new" href="https://drive.google.com/file/d/10dP9AuD24s8DNoIumaCM_JfdBxA9_s_S/view?usp=sharingf"><img style="width:600px" src="/images/spectra brochure 2023 cover.png"></a>
+[![](/images/Spectra_Spectacular_Brochure_2024.jpg)](https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing)
+
+* * *
