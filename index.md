@@ -7,7 +7,7 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      background: /images/2_Jan_2024___Hero_Image.gif
+      background: /images/Homepage_Hero_28_Oct_2024.apng
       key_highlights:
         - title: Yearbook 2024
           description: ""
