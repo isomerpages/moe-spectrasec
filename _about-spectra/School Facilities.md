@@ -26,7 +26,7 @@ variant: tiptap
 </div>
 <h5><strong>Escape Room</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/EscapeRoom.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Escape_Room_2024.png">
 </div>
 <h5><strong>Green Room</strong></h5>
 <div class="isomer-image-wrapper">
@@ -42,7 +42,7 @@ variant: tiptap
 </div>
 <h5><strong>Pneumatic Studios</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PneumaticStudio.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pneumatic_Studio_2024.jpg">
 </div>
 <h5><strong>Student Hub</strong></h5>
 <div class="isomer-image-wrapper">
