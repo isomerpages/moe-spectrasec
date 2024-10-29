@@ -27,7 +27,7 @@ instilling self-confidence in all.</p>
 </div>
 <hr>
 <h5><strong>Spectra Open House 2024</strong></h5>
-<p>Sign up for our Open House at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/2024-spectra-open-house</a> from <strong>20 Nov 2024 (11.00am - 5.00pm), 21 Nov to 22 Nov 2024 (9.00am - 5.00pm) and 23 Nov 2024 (9.00am - 3.00pm)</strong>,
+<p>Sign up for our Open House at <strong><a href="https://go.gov.sg/2024-spectra-open-house" rel="noopener nofollow" target="_blank">https://go.gov.sg/2024-spectra-open-house</a></strong> from <strong>20 Nov 2024 (11.00am - 5.00pm), 21 Nov to 22 Nov 2024 (9.00am - 5.00pm) and 23 Nov 2024 (9.00am - 3.00pm)</strong>,
 where students can:</p>
 <ul data-tight="true" class="tight">
 <li>
