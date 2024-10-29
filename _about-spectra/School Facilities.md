@@ -32,11 +32,11 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GreenRoom.jpg">
 </div>
-<h5><strong>IoTA Studios</strong></h5>
+<h5><strong>IoTA Studio</strong></h5>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IoTA.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/IOTA_Studio_2024.jpg">
 </div>
-<h5><strong>MWA Studios</strong></h5>
+<h5><strong>MWA Studio</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/MWAStudios.jpg">
 </div>
