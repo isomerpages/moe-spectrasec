@@ -2,6 +2,7 @@
 title: 10th Anniversary Coffee Table Book
 permalink: /spectra-stories/10th-anniversary/
 description: ""
+variant: markdown
 ---
 <img style="width:800px" src="/images/spectra%20is%2010.png">
 
@@ -19,17 +20,3 @@ our enduring mission to provide an engaged learning experience that prepares eve
 
 
 ***
-
-##### **Together (2023)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY" height="315" width="560"></iframe>
-
-
-
-##### **Stronger (2023)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dqOz9TQrk04?si=pM9sue8MHiwd_lPQ" height="315" width="560"></iframe>
-
-##### **Bolder (2023)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pkwgDgfcWyY?si=Fhl-OozfqvV3aY-b" height="315" width="560"></iframe>
