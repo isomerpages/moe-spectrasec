@@ -42,6 +42,10 @@ sections:
       title: Useful Links
       id: textcards
       cards:
+        - title: Yearbook 2024
+          description: ""
+          linktext: View Now
+          url: https://heyzine.com/flip-book/959bac7747.html
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
@@ -50,10 +54,6 @@ sections:
           description: ""
           linktext: Download
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklist
-        - title: Yearbook 2024
-          description: ""
-          linktext: View Now
-          url: https://heyzine.com/flip-book/959bac7747.html
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
