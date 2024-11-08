@@ -46,10 +46,10 @@ sections:
           description: ""
           linktext: Find Out
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: Student Infomation Hub (SIH)
+        - title: Booklists 2025
           description: ""
-          linktext: More Info
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home?authuser=0
+          linktext: Download
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklist
         - title: Yearbook 2024
           description: ""
           linktext: View Now
