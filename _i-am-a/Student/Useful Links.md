@@ -11,7 +11,7 @@ variant: markdown
 
 ***
 
-###### **[Booklist 2024](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklist)**
+###### **[Booklist &amp; Uniform 2025](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklist)**
 
 <a target="new" href="https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklist"><img style="width:400px" src="/images/Booklist.png"></a>
 
