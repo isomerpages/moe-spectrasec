@@ -18,9 +18,9 @@ sections:
         - title: Instagram
           description: "#SpectraStories"
           url: https://www.instagram.com/spectrastories/
-        - title: 10th Anniversary
+        - title: Booklists 2025
           description: ""
-          url: /spectra-stories/10th-anniversary/
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklist
       variant: image
   - infopic:
       title: Open House 2024
