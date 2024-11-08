@@ -20,7 +20,7 @@ sections:
           url: https://www.instagram.com/spectrastories/
         - title: Booklists 2025
           description: ""
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklist
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
       variant: image
   - infopic:
       title: Open House 2024
@@ -53,7 +53,7 @@ sections:
         - title: Booklists 2025
           description: ""
           linktext: Download
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklist
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
