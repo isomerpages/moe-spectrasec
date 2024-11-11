@@ -1,5 +1,5 @@
 ---
-title: Admission
+title: Sec 1 Admission
 permalink: /why-spectra/admission/
 description: ""
 variant: tiptap
