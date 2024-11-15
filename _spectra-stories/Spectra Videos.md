@@ -4,6 +4,9 @@ permalink: /spectra-stories/spectra-videos/
 description: ""
 variant: markdown
 ---
+##### **Silver Wheels Project (2023)**
+[![](/images/silverwheelsproject2024.png)](https://drive.google.com/file/d/149neZSadbpDP5i_RjDd5XkO54oxphPYg/view?usp=drive_link)
+
 ##### **Together (2023) - 10th Anniversary Special**
 
 <iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY" height="315" width="560"></iframe>
