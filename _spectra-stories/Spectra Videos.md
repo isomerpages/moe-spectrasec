@@ -4,6 +4,10 @@ permalink: /spectra-stories/spectra-videos/
 description: ""
 variant: markdown
 ---
+##### **Passion. Skills, Attitude. Our Spectran (2024)**
+[![](/images/Our_Spectran.png)](https://drive.google.com/file/d/17heq9WUFc_1IE3hp6V8BgWSrKR-P11TG/view?usp=sharing)
+
+
 ##### **Silver Wheels Project (2024)**
 [![](/images/silverwheelsproject2024.png)](https://drive.google.com/file/d/149neZSadbpDP5i_RjDd5XkO54oxphPYg/view?usp=drive_link)
 
