@@ -2,7 +2,23 @@
 title: Spectra Stories
 permalink: /why-spectra/spectra-stories/
 description: ""
+variant: markdown
 ---
+##### **Silver Wheels Project (2024)**
+[![](/images/silverwheelsproject2024.png)](https://drive.google.com/file/d/149neZSadbpDP5i_RjDd5XkO54oxphPYg/view?usp=drive_link)
+
+##### **Together (2023) - 10th Anniversary Special**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY" height="315" width="560"></iframe>
+
+##### **Stronger (2023) - 10th Anniversary Special**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dqOz9TQrk04?si=pM9sue8MHiwd_lPQ" height="315" width="560"></iframe>
+
+##### **Bolder (2023) - 10th Anniversary Special**
+
+<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pkwgDgfcWyY?si=Fhl-OozfqvV3aY-b" height="315" width="560"></iframe>
+
 ##### **Bike to Work (2022)**
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/9wVlV_81FPA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
