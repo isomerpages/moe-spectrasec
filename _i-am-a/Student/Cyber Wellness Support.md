@@ -19,9 +19,9 @@ variant: markdown
 If you need help on Cyber Wellness issues, you can either:
 
 *   Consult your Form Teachers, ICT Teachers, School Counsellor or Year Heads
-*   Visit &gt; https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness
-*   Visit &gt; https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/learning-about-cyber-wellness-youths
-*   Visit &gt; https://www.nlb.gov.sg/main/site/sure-elevated
+*   Visit [MOE Cyber Wellness Programme](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+*   Visit [Health Hub MindSG](https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/learning-about-cyber-wellness-youths)
+*   Visit [NLB S.U.R.E](https://www.nlb.gov.sg/main/site/sure-elevated)
 
 ***
 
