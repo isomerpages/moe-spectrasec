@@ -15,7 +15,7 @@ fees. It will also provide free textbooks, free school attire, transport
 subsidy and meal subsidy.</p>
 <hr>
 <p>To apply for the MOE FAS for your child/ward, please download the application
-form via this link &gt;&nbsp;<a href="/files/moe%20fas%20application%20form%20for%20specialised%20schools%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form 2024</a> &nbsp;or
+form via this link &gt;&nbsp;<a href="/files/moe%20fas%20application%20form%20for%20specialised%20schools%202024.pdf" rel="noopener noreferrer nofollow" target="_blank">FAS Application Form</a> &nbsp;or
 obtain a copy from the General Office. Please complete the application
 form and return it with supporting documents to the school.</p>
 <p>The school will review your application and inform you of the outcome.</p>
