@@ -3,6 +3,7 @@ title: Personal Learning Device
 permalink: /why-spectra/pld/
 description: ""
 third_nav_title: Parent
+variant: markdown
 ---
 ![](/images/2023%20ict%20banner%201.png)
 <p align="justify">In March 2020, MOE announced that all Secondary School Students will embark on the&nbsp;<b>NDLP</b>&nbsp;(<b>National Digital Literacy Programme</b>). The NDLP will enable all students to own a digital learning device that enables them to be self-directed in their learning and explore their interests during HBL (home-based learning). In June 2020, then Minister of Education, Mr Ong Ye Kung announced that the NDLP will be brought forward to 2021. Hence all Secondary School students will own a personalised device for personalised learning by the end of 2021.</p>
@@ -38,12 +39,11 @@ third_nav_title: Parent
 
 <p align="justify">To support you in keeping your child safe online, you may refer to these resources:</p>
 
-* [MOE Handbook for 1-to-1 Learning](/files/Parent-Handbook-I-on-1_1-Learning.pdf)
-* [MOE Cyber Wellness site](http://go.gov.sg/moe-cyber-wellness)
-* [MOE Cyber Wellness Programme](http://go.gov.sg/beta.moe.gov.sg/programmes/cyber-wellness/)
-* [Better Internet Singapore](http://go.gov.sg/better-internet-sg)
-* [NLB SURE site (identifying fake news)](http://sure.nlb.gov.sg/)
-* [help123.sg](http://help123.sg/)
+* [Parent Handbook (1) for 1-to-1 Learning](https://drive.google.com/file/d/1pQOxez2wNx4NLT8uvqY7xbzmRTt58CCm/view)
+* [Parent Handbook (2) On Learning With PLD](https://drive.google.com/file/d/13YVTv2XJHKNncD7Ew-sHTQBGavFl5beP/view)
+* [How do I support my child on regular HBL Day?](https://drive.google.com/file/d/1HsraoGz_jiDM3-K_N1bJisNFQPabrZ-K/view)
+* [MOE Cyber Wellness Programme](https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness)
+* [Health Hub Cyber Wellness](https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/learning-about-cyber-wellness-youths)
 
 ***
 
