@@ -49,15 +49,18 @@ variant: markdown
 
 ##### **Minimum Laptop Specifications**
 
-*   Intel® Core™ i5-10210U Processor 1.6GHz
-*   Windows 10 Home (64 Bit) Operating System
-*   8GB RAM DDR4
-*   256GB SSD (Hard Disk Space)
-*   13.0″ – 14.0” Full HD Anti-Glare Display Screen
-*   Intel UHD Graphics
-*   Max Total Weight: 1.40kg (including battery)
-*   Wi-Fi 5.0GHz (802.11ac)+Bluetooth 4.2 (Dual band)
-*   HD Web Camera
-*   Carry Bag &amp; Optical Mouse
+* Intel N200 Processor
+* 12” or larger Display
+* 1366 x 768 HD Multi-touch
+* 8GB RAM
+* 128GB SSD Storage
+* Built-in 720P HD Webcam &amp; Microphone
+* 1x USB-C 3.2 Gen 2
+* 2x USB 3.2 Gen 1
+* 1x 3.5mm Headphone Combo Jack
+* 1x HDMI 2.1 port
+* Intel WiFi 6 AX201
+* Windows 11 OS Professional or Education
+* Not more than 1.5kg
 
 ![Computer Device Icons Motherboard Cpu 260nw 1571763217](/images/computer-device-icons-motherboard-cpu-260nw-1571763217.jpg)
