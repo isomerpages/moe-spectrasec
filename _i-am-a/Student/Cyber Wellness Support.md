@@ -3,6 +3,7 @@ title: Cyber Wellness Support
 permalink: /i-am-a/student/cyber-wellness-support-student/
 description: ""
 third_nav_title: Student
+variant: markdown
 ---
 ![](/images/cyberwellness.png)
 
@@ -17,9 +18,10 @@ third_nav_title: Student
 
 If you need help on Cyber Wellness issues, you can either:
 
-*   Consult your form teacher or ICT teachers
-*   Visit&nbsp;[https://www.betterinternet.sg/](https://www.betterinternet.sg/)
-*   Visit&nbsp;[https://www.facebook.com/MediaLiteracyCouncilSG/](https://www.facebook.com/MediaLiteracyCouncilSG/)
+*   Consult your Form Teachers, ICT Teachers, School Counsellor or Year Heads
+*   Visit &gt; https://www.moe.gov.sg/education-in-sg/our-programmes/cyber-wellness
+*   Visit &gt; https://www.healthhub.sg/programmes/mindsg/caring-for-ourselves/learning-about-cyber-wellness-youths
+*   Visit &gt; https://www.nlb.gov.sg/main/site/sure-elevated
 
 ***
 
