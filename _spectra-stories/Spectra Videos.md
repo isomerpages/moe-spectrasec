@@ -2,96 +2,112 @@
 title: Spectra Videos
 permalink: /spectra-stories/spectra-videos/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-##### **Passion. Skills. Attitude. Our Spectran (2024)**
-[![](/images/Our_Spectran.png)](https://drive.google.com/file/d/17heq9WUFc_1IE3hp6V8BgWSrKR-P11TG/view?usp=sharing)
-
-
-##### **Passion. Skills. Attitude. Project Silver Wheels (2024)**
-[![](/images/silverwheelsproject2024.png)](https://drive.google.com/file/d/149neZSadbpDP5i_RjDd5XkO54oxphPYg/view?usp=drive_link)
-
-
-##### **Together (2023) - 10th Anniversary Special**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY" height="315" width="560"></iframe>
-
-##### **Stronger (2023) - 10th Anniversary Special**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/dqOz9TQrk04?si=pM9sue8MHiwd_lPQ" height="315" width="560"></iframe>
-
-##### **Bolder (2023) - 10th Anniversary Special**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/pkwgDgfcWyY?si=Fhl-OozfqvV3aY-b" height="315" width="560"></iframe>
-
-##### **Bike to Work (2022)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/9wVlV_81FPA?si=jOOnmLwJY3_mpXDm" height="315" width="560"></iframe>
-
-
-##### **Farm to Table (2022)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/kFuGA2Pxohg?si=gM7QRj_IsU6wz3WO" height="315" width="560"></iframe>
-
-
-##### **Virtual Tour (2021)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/gnq578XoHjw?si=7LGL-cq2zQ9E1GdU" height="315" width="560"></iframe>
-
-
-##### **Planting the Seeds of our Future (2021)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/-2L_Cy34yr8?si=xDlkGRjN9G7GpsqK" height="315" width="560"></iframe>
-
-
-##### **Finding the Key to the Future (2021)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/veHCX_rVowo?si=eAlmbKKRrDeKY3pA" height="315" width="560"></iframe>
-
-##### **Building the Foundation of the Future (2021)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/lXSTMngdOhA?si=hgeAJCqWFXQ1Ng4_" height="315" width="560"></iframe>
-
-
-##### **Chasing Dreams (2020)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/_-FjkNWK3Yw?si=AmgRzThNUdEKa1nv" height="315" width="560"></iframe>
-
-
-##### **Discovering Dreams (2020)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/OtVxdCXiqoU?si=JzzN1Nh2uD9QsO-b" height="315" width="560"></iframe>
-
-##### **Serving with Passion (2020)**
-
-<iframe allowfullscreen="" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" frameborder="0" title="YouTube video player" src="https://www.youtube.com/embed/vERoeBdp6Wo?si=yeiBjhwLY_nBf3OH" height="315" width="560"></iframe>
-
-
-##### **Spectra Experience (2020)**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/BZbp6VKdOlw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-##### **Mrs Chong and Garden of Possibilities (2020)**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/RBp8Ka5V0zY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-##### **PSG and Garden of Possibilities (2020)**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/4D-uk2WhJnI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-##### **Learning by Doing: Spectra Secondary (2019)**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/-89d2fFZEEA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-##### **MOE Cool Kids Beatbox (2018)** 
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/bIwBWMgNYqs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-##### **Spectra and Maki-san (2017)**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/aWHpgrH-Jlo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
-
-
-##### **It takes a Village (2015)**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8IneIoHZ_n8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen=""></iframe>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<h5><strong>Passion. Skills. Attitude. Our Spectran (2024)</strong></h5><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17heq9WUFc_1IE3hp6V8BgWSrKR-P11TG/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our_Spectran.png"></a>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5><strong>Together (2023) - 10th Anniversary Special</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="420" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY"></iframe>
+</div>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
+<h5><strong>Passion. Skills. Attitude. Our Spectran (2024)</strong></h5><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17heq9WUFc_1IE3hp6V8BgWSrKR-P11TG/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Our_Spectran.png"></a>
+<h5><strong>Passion. Skills. Attitude. Project Silver Wheels (2024)</strong></h5>
+<p></p>
+<h5><strong>Together (2023) - 10th Anniversary Special</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY"></iframe>
+</div>
+<h5><strong>Stronger (2023) - 10th Anniversary Special</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/dqOz9TQrk04?si=pM9sue8MHiwd_lPQ"></iframe>
+</div>
+<h5><strong>Bolder (2023) - 10th Anniversary Special</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/pkwgDgfcWyY?si=Fhl-OozfqvV3aY-b"></iframe>
+</div>
+<h5><strong>Bike to Work (2022)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/9wVlV_81FPA?si=jOOnmLwJY3_mpXDm"></iframe>
+</div>
+<h5><strong>Farm to Table (2022)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/kFuGA2Pxohg?si=gM7QRj_IsU6wz3WO"></iframe>
+</div>
+<h5><strong>Virtual Tour (2021)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gnq578XoHjw?si=7LGL-cq2zQ9E1GdU"></iframe>
+</div>
+<h5><strong>Planting the Seeds of our Future (2021)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-2L_Cy34yr8?si=xDlkGRjN9G7GpsqK"></iframe>
+</div>
+<h5><strong>Finding the Key to the Future (2021)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/veHCX_rVowo?si=eAlmbKKRrDeKY3pA"></iframe>
+</div>
+<h5><strong>Building the Foundation of the Future (2021)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/lXSTMngdOhA?si=hgeAJCqWFXQ1Ng4_"></iframe>
+</div>
+<h5><strong>Chasing Dreams (2020)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/_-FjkNWK3Yw?si=AmgRzThNUdEKa1nv"></iframe>
+</div>
+<h5><strong>Discovering Dreams (2020)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/OtVxdCXiqoU?si=JzzN1Nh2uD9QsO-b"></iframe>
+</div>
+<h5><strong>Serving with Passion (2020)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/vERoeBdp6Wo?si=yeiBjhwLY_nBf3OH"></iframe>
+</div>
+<h5><strong>Spectra Experience (2020)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/BZbp6VKdOlw"></iframe>
+</div>
+<h5><strong>Mrs Chong and Garden of Possibilities (2020)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/RBp8Ka5V0zY"></iframe>
+</div>
+<h5><strong>PSG and Garden of Possibilities (2020)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/4D-uk2WhJnI"></iframe>
+</div>
+<h5><strong>Learning by Doing: Spectra Secondary (2019)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/-89d2fFZEEA"></iframe>
+</div>
+<h5><strong>MOE Cool Kids Beatbox (2018)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/bIwBWMgNYqs"></iframe>
+</div>
+<h5><strong>Spectra and Maki-san (2017)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/aWHpgrH-Jlo"></iframe>
+</div>
+<h5><strong>It takes a Village (2015)</strong></h5>
+<div class="iframe-wrapper">
+<iframe height="315" width="560" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/8IneIoHZ_n8"></iframe>
+</div>
+<p></p>
