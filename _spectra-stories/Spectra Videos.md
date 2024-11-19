@@ -4,7 +4,7 @@ permalink: /spectra-stories/spectra-videos/
 description: ""
 variant: markdown
 ---
-<table style="minWidth: 25px">
+<table style="minWidth: 25px; width=100%;">
 <colgroup>
 <col>
 </colgroup>
@@ -18,7 +18,7 @@ variant: markdown
 <td rowspan="1" colspan="1">
 <h5><strong>Together (2023) - 10th Anniversary Special</strong></h5>
 <div class="iframe-wrapper">
-<iframe height="420" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY"></iframe>
+<iframe height="360px" width="100%" allowfullscreen="true" frameborder="0" src="https://www.youtube.com/embed/gHzHoZhMrSc?si=-6eHAFUDXtY3FtXY"></iframe>
 </div>
 </td>
 </tr>
