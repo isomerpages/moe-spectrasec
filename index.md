@@ -23,14 +23,6 @@ sections:
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
       variant: image
   - infopic:
-      title: Open House 2024
-      subtitle: Spectra Spectacular
-      id: infopic
-      button: FIND OUT
-      url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
-      image: /images/Spectra_Open_House_2024.png
-      alt: Image alt text
-  - infopic:
       title: iShop@Spectra
       subtitle: Welcome to our Pop-Up Store
       id: infopic
