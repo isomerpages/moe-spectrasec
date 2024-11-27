@@ -12,7 +12,7 @@ sections:
         - title: 2025 Sec 1 Registration
           description: ""
           url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
-        - title: Booklists 2025
+        - title: 2025 Booklists
           description: ""
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
         - title: Instagram
@@ -34,7 +34,7 @@ sections:
       title: Useful Links
       id: textcards
       cards:
-        - title: Booklists 2025
+        - title: 2025 Booklists
           description: ""
           linktext: Download
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
