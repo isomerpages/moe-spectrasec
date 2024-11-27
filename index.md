@@ -11,7 +11,7 @@ sections:
       key_highlights:
         - title: 2025 Sec 1 Registration
           description: ""
-          url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
+          url: https://spectra.edu.sg/2025-sec-1-registration/
         - title: 2025 Booklists
           description: ""
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
