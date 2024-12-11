@@ -9,27 +9,19 @@ sections:
   - hero:
       background: /images/Homepage_Background_19_Nov_2024.gif
       key_highlights:
-        - title: Yearbook 2024
+        - title: 2025 Sec 1 Registration
           description: ""
-          url: https://heyzine.com/flip-book/959bac7747.html
-        - title: Sec 1 Admission
+          url: https://spectra.edu.sg/2025-sec-1-registration/
+        - title: 2025 Booklists
           description: ""
-          url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
         - title: Instagram
           description: "#SpectraStories"
           url: https://www.instagram.com/spectrastories/
-        - title: Booklists 2025
+        - title: Yearbook 2024
           description: ""
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
+          url: https://heyzine.com/flip-book/959bac7747.html
       variant: image
-  - infopic:
-      title: Open House 2024
-      subtitle: Spectra Spectacular
-      id: infopic
-      button: FIND OUT
-      url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
-      image: /images/Spectra_Open_House_2024.png
-      alt: Image alt text
   - infopic:
       title: iShop@Spectra
       subtitle: Welcome to our Pop-Up Store
@@ -42,18 +34,18 @@ sections:
       title: Useful Links
       id: textcards
       cards:
-        - title: Yearbook 2024
+        - title: 2025 Booklists
           description: ""
-          linktext: View Now
-          url: https://heyzine.com/flip-book/959bac7747.html
+          linktext: Download
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: Booklists 2025
+        - title: Yearbook 2024
           description: ""
-          linktext: Download
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
+          linktext: View Now
+          url: https://heyzine.com/flip-book/959bac7747.html
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
