@@ -42,6 +42,14 @@ school choices.</p>
 <p>Alternatively, you can indicate Spectra as one of the choices during Secondary
 1 Posting Exercise.</p>
 <hr>
+<h5><strong>Appeals for Transfer to Spectra Secondary School</strong></h5>
+<p>Students who wish to seek a transfer to Spectra Secondary School can do
+so by sending an appeal to: <strong><a href="mailto:spectra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">spectra@schools.gov.sg</a>  </strong> 
+</p>
+<p>Secondary 1 students who are in Posting Group 1 and Group 1 / 2 are eligible
+for the appeal. All applications are subject to available vacancies and
+the school’s admission criteria.</p>
+<hr>
 <h5><strong>Frequently Asked Question (FAQ) on Direct Admission and Secondary 1 (S1) Posting</strong></h5>
 <table style="minWidth: 25px">
 <colgroup>
