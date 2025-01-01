@@ -516,10 +516,10 @@ variant: tiptap
 <p>S3-5 (IOTA &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Abdul Salem Bin Samat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Raymond Ng</p>
 </td>
 </tr>
 <tr>
@@ -527,10 +527,10 @@ variant: tiptap
 <p>S3-6 (CRO &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Syahirah Binte Mohamad Azib</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Wong Yi Kun</p>
 </td>
 </tr>
 <tr>
@@ -538,10 +538,10 @@ variant: tiptap
 <p>S3-7 (CRO &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Aliffy Bin Haris</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tham Sau Lan</p>
 </td>
 </tr>
 <tr>
@@ -549,10 +549,10 @@ variant: tiptap
 <p>S3-8 (CRO &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Yuan Lihong</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Khairilzaly Bin Yusoff</p>
 </td>
 </tr>
 <tr>
@@ -560,10 +560,21 @@ variant: tiptap
 <p>S3-9 (CRO &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chang Li Jun Winnie</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lee Guang Hui, Shaun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S3-10 (IOTA &amp; REC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choi Kah Mun (Carmen)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Ang Kee Thye</p>
 </td>
 </tr>
 <tr>
