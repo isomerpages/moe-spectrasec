@@ -42,10 +42,10 @@ sections:
           description: ""
           linktext: Find Out
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: Yearbook 2024
+        - title: Student Information Hub (SIH)
           description: ""
-          linktext: View Now
-          url: https://heyzine.com/flip-book/959bac7747.html
+          linktext: More
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
