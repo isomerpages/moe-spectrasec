@@ -664,101 +664,101 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-1</p>
+<p>S4-1 (MDA &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Liew Hian Wai</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-2</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Goh Shuo Yi (Joyce)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-3</p>
+<p>S4-2 (MWA &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Tan Meng Liang (Victor)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-4</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Winnie Tong</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-5</p>
+<p>S4-3 (IOTA &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Norisha Binte Ridzwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-6</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ching Kian Leng (James)</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-7</p>
+<p>S4-4 (IOTA &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tok Wei Sze Audrey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>S4-8</p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
-</td>
-<td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Syed Mohamad Khairi</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-9</p>
+<p>S4-5 (IOTA &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lee Lye Peng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Chuminah Bte Abdul Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S4-6 (CRO &amp; MDA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Chia Lay San</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Rajik Ahamed s/o Habeeb Mohamed</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S4-7 (CRO &amp; MDA)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hamasavallii</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Teo Hong Qing Andre</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S4-8 (CRO &amp; REC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Geeta</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Goh Hui Ying</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>S4-9 (CRO &amp; REC)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Sharifah Yasmine Binte Syed Tahar</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Chua Lam Soon (Justin)</p>
 </td>
 </tr>
 <tr>
