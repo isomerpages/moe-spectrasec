@@ -9,18 +9,18 @@ sections:
   - hero:
       background: /images/Homepage_Background_19_Nov_2024.gif
       key_highlights:
-        - title: 2025 Sec 1 Registration
-          description: ""
-          url: https://spectra.edu.sg/2025-sec-1-registration/
-        - title: 2025 Booklists
-          description: ""
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
         - title: Instagram
           description: "#SpectraStories"
           url: https://www.instagram.com/spectrastories/
+        - title: 2025 Booklists
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
         - title: Yearbook 2024
           description: ""
           url: https://heyzine.com/flip-book/959bac7747.html
+        - title: Student Information Hub (SIH)
+          description: ""
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home
       variant: image
   - infopic:
       title: iShop@Spectra
