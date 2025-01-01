@@ -318,6 +318,30 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher, ML</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Khairunisak Binte Hussain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher, MA</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Lee Lye Peng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Teacher, PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Eleonor Serrano Rivera</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Manager, Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
