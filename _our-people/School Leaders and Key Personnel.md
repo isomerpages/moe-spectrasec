@@ -193,7 +193,7 @@ variant: tiptap
 <p>Year Head 2 (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Geeta Rani D/O Primdas</p>
+<p>Ms Geeta Shorey</p>
 </td>
 </tr>
 <tr>
@@ -282,6 +282,38 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Shuo Yi (Joyce)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Lower Sec Coordinator, EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Choi Kah Mun (Carmen)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Upper Sec Coordinator, EL</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Tan Meng Liang (Victor)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Science Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Hamsavalli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yuan Feng</p>
 </td>
 </tr>
 <tr>
