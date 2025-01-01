@@ -82,7 +82,7 @@ variant: tiptap
 <p>S1-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Lee Jin Min (Luis)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -93,7 +93,7 @@ variant: tiptap
 <p>S1-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mrs Rahmat B Saion</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -104,7 +104,7 @@ variant: tiptap
 <p>S1-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Lim Manqing Tiffany</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -115,10 +115,10 @@ variant: tiptap
 <p>S1-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Woon Ta-Chuang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Koh Siew Khim Doreen</p>
 </td>
 </tr>
 <tr>
@@ -126,7 +126,7 @@ variant: tiptap
 <p>S1-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ismail Bin Kamarudin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -137,7 +137,7 @@ variant: tiptap
 <p>S1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Koh Wenyu Jasmine</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -148,7 +148,7 @@ variant: tiptap
 <p>S1-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Sarina Bte Rauwi</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -159,10 +159,10 @@ variant: tiptap
 <p>S1-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chan Weng Kit</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Nicole Yao Baoji</p>
 </td>
 </tr>
 <tr>
@@ -170,7 +170,7 @@ variant: tiptap
 <p>S1-9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr IdzhaniBte Kailani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -181,10 +181,10 @@ variant: tiptap
 <p>S1-10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ling Yih Jye</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tan Zhen Xuan Julia</p>
 </td>
 </tr>
 <tr>
@@ -277,10 +277,10 @@ variant: tiptap
 <p>S2-1</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Eleonor Serrano Rivera</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Yuan Feng</p>
 </td>
 </tr>
 <tr>
@@ -288,7 +288,7 @@ variant: tiptap
 <p>S2-2</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Howe Moey Eng Carolynn</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -299,7 +299,7 @@ variant: tiptap
 <p>S2-3</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ma Ying (Charlotte)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -310,7 +310,7 @@ variant: tiptap
 <p>S2-4</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Siti Nadiah Binte Idris</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -321,10 +321,10 @@ variant: tiptap
 <p>S2-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Pok Siok Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Nuriman Bin Mohd Nor</p>
 </td>
 </tr>
 <tr>
@@ -332,7 +332,7 @@ variant: tiptap
 <p>S2-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Teo Siew Choo</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -343,7 +343,7 @@ variant: tiptap
 <p>S2-7</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ng Boon Cheng, Mabel</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -354,7 +354,7 @@ variant: tiptap
 <p>S2-8</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Iskandar Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -365,7 +365,7 @@ variant: tiptap
 <p>S2-9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Mehraj Begum</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -376,7 +376,7 @@ variant: tiptap
 <p>S2-10</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Wang Hui Wen</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -472,10 +472,10 @@ variant: tiptap
 <p>S3-1 (MDA &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Tay Sze Ing Chivelle</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ismail Bin Ahmad</p>
 </td>
 </tr>
 <tr>
@@ -483,10 +483,10 @@ variant: tiptap
 <p>S3-2 (REC &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Jason Liu</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Muhammad Irsyad Bin Isa</p>
 </td>
 </tr>
 <tr>
@@ -494,10 +494,10 @@ variant: tiptap
 <p>S3-3 (IOTA &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Khairunisak Binte Hussain</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ang Cui-Xian (Josephine)</p>
 </td>
 </tr>
 <tr>
@@ -505,10 +505,10 @@ variant: tiptap
 <p>S3-4 (IOTA &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Ong Hui Mei Sharon Rebekah</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Ng Hock Teck (William)</p>
 </td>
 </tr>
 <tr>
