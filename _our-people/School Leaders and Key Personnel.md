@@ -70,7 +70,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/CCE</p>
+<p>HOD/CCE &amp; SA Programme Head</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Lijun</p>
@@ -78,10 +78,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/CSU &amp; LSU</p>
+<p>HOD/CSU &amp; LSU (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Elijah Ong Yit Sin</p>
+<p>Ms S G Sarah Abdullah</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/VE</p>
+<p>HOD/VE1 &amp; SA Coordinator 1</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wendy Lim Soo Ling</p>
@@ -126,10 +126,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/VE2 (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Raymond Ng Kok Hui</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Year Head 1 (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Mohamed Haniff Bin Mohamed Said</p>
+<p>Mr Nur Qarnain B Hussin</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +145,7 @@ variant: tiptap
 <p>Year Head 2 (Sec 1)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Poh Eng Hua Terence</p>
+<p>Ms Farrah Bte Mohamed Ghazali</p>
 </td>
 </tr>
 <tr>
@@ -145,7 +153,7 @@ variant: tiptap
 <p>Year Head 1 (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Haekal Bin Mohamed Taib</p>
+<p>Mr Mohamed Haniff Bin Mohamed Said</p>
 </td>
 </tr>
 <tr>
@@ -153,7 +161,7 @@ variant: tiptap
 <p>Year Head 2 (Sec 2)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ong Hui Mei Sharon Rebekah</p>
+<p>Mr Poh Eng Hua Terence</p>
 </td>
 </tr>
 <tr>
@@ -161,7 +169,7 @@ variant: tiptap
 <p>Year Head 1 (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Yoong Kang Chien</p>
+<p>Mr Muhammad Haekal Bin Md Taib</p>
 </td>
 </tr>
 <tr>
@@ -169,7 +177,7 @@ variant: tiptap
 <p>Year Head 2 (Sec 3)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Geeta Rani D/O Primdas</p>
+<p>Ms Ong Hui Mei Sharon Rebekah</p>
 </td>
 </tr>
 <tr>
@@ -177,7 +185,7 @@ variant: tiptap
 <p>Year Head 1 (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Goh Teck Heong Peter</p>
+<p>Mr Yoong Kang Chien</p>
 </td>
 </tr>
 <tr>
@@ -185,7 +193,7 @@ variant: tiptap
 <p>Year Head 2 (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Farrah Bte Mohamed Ghazali</p>
+<p>Ms Geeta Rani D/O Primdas</p>
 </td>
 </tr>
 <tr>
@@ -193,12 +201,28 @@ variant: tiptap
 <p>Programme Head (Spectra Academy)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mrs Rahmat Bin Saion</p>
+<p>Ms Liu Lijun</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, CCE (Acting)</p>
+<p>Subject Head, CCA &amp; PE</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Aliffy Bin Haris</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head, CCE (Lower Sec)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Naomi Nesam Abraham</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head, CCE (Upper Sec)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharifah Yasmine Binte Syed Taher</p>
@@ -206,10 +230,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, EL</p>
+<p>Subject Head, CRO</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Naomi Nesam Abraham</p>
+<p>Mr Lee Guang Hui, Shaun</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head, CSU &amp; LSU</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Ng Tyan Miin</p>
 </td>
 </tr>
 <tr>
@@ -222,22 +254,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, IOTA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Raymond Ng Kok Hui</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head, LSU</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Ng Tyan Miin</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head, MA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -246,7 +262,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, ML</p>
+<p>Subject Head, MDA &amp; SA Coordinator 2</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Chuminah Bte Abdul Rahman</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Subject Head, MTL</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Syahirah Binte Mohamad Azib</p>
@@ -262,31 +286,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head, MDA</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Chuminah Bte Abdul Rahman</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head, PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Aliffy Bin Haris</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head, REC</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tan Ling Ling Angeline</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Manager, STM</p>
+<p>Manager, Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr R Mano Haran</p>
@@ -294,7 +294,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Manager (Administration &amp; Procurement)</p>
+<p>Manager, Student Services &amp; Programmes</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Toh Boo Gee (William)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Senior Manager (Admin &amp; Procurement)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Hwee Ling (Jocelyn)</p>
