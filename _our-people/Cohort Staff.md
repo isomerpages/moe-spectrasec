@@ -469,7 +469,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-1 (MDA &amp; MWA)</p>
+<p>S3-1
+<br>(MDA &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tay Sze Ing Chivelle</p>
@@ -480,7 +481,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-2 (REC &amp; MWA)</p>
+<p>S3-2
+<br>(REC &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Jason Liu</p>
@@ -491,7 +493,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-3 (IOTA &amp; MWA)</p>
+<p>S3-3
+<br>(IOTA &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Khairunisak Binte Hussain</p>
@@ -502,7 +505,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-4 (IOTA &amp; MDA)</p>
+<p>S3-4
+<br>(IOTA &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Hui Mei Sharon Rebekah</p>
@@ -513,7 +517,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-5 (IOTA &amp; MDA)</p>
+<p>S3-5
+<br>(IOTA &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Abdul Salem Bin Samat</p>
@@ -524,7 +529,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-6 (CRO &amp; MDA)</p>
+<p>S3-6
+<br>(CRO &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Syahirah Binte Mohamad Azib</p>
@@ -535,7 +541,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-7 (CRO &amp; MDA)</p>
+<p>S3-7
+<br>(CRO &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Muhammad Aliffy Bin Haris</p>
@@ -546,7 +553,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-8 (CRO &amp; REC)</p>
+<p>S3-8
+<br>(CRO &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Yuan Lihong</p>
@@ -557,7 +565,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-9 (CRO &amp; REC)</p>
+<p>S3-9
+<br>(CRO &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chang Li Jun Winnie</p>
@@ -568,7 +577,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S3-10 (IOTA &amp; REC)</p>
+<p>S3-10
+<br>(IOTA &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Choi Kah Mun (Carmen)</p>
@@ -664,7 +674,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-1 (MDA &amp; MWA)</p>
+<p>S4-1
+<br>(MDA &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Liew Hian Wai</p>
@@ -675,7 +686,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-2 (MWA &amp; REC)</p>
+<p>S4-2
+<br>(MWA &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Meng Liang (Victor)</p>
@@ -686,7 +698,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-3 (IOTA &amp; MWA)</p>
+<p>S4-3
+<br>(IOTA &amp; MWA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Norisha Binte Ridzwan</p>
@@ -697,7 +710,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-4 (IOTA &amp; MDA)</p>
+<p>S4-4
+<br>(IOTA &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tok Wei Sze Audrey</p>
@@ -708,7 +722,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-5 (IOTA &amp; MDA)</p>
+<p>S4-5
+<br>(IOTA &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Lee Lye Peng</p>
@@ -719,7 +734,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-6 (CRO &amp; MDA)</p>
+<p>S4-6
+<br>(CRO &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mdm Chia Lay San</p>
@@ -730,7 +746,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-7 (CRO &amp; MDA)</p>
+<p>S4-7
+<br>(CRO &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Hamasavallii</p>
@@ -741,7 +758,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-8 (CRO &amp; REC)</p>
+<p>S4-8
+<br>(CRO &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Geeta</p>
@@ -752,7 +770,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>S4-9 (CRO &amp; REC)</p>
+<p>S4-9
+<br>(CRO &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Sharifah Yasmine Binte Syed Tahar</p>
