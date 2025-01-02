@@ -198,14 +198,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme Head (Spectra Academy)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Liu Lijun</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Subject Head, CCA &amp; PE</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -305,7 +297,7 @@ variant: tiptap
 <p>Science Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hamsavalli</p>
+<p>Ms Hamsavalli D/O Suppayan Sodimani</p>
 </td>
 </tr>
 <tr>
