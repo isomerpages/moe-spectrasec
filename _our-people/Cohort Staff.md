@@ -170,7 +170,7 @@ variant: tiptap
 <p>S1-9</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr IdzhaniBte Kailani</p>
+<p>Ms Idzhani Bte Kailani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
