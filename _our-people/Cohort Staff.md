@@ -750,7 +750,7 @@ variant: tiptap
 <br>(CRO &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hamasavallii</p>
+<p>Ms Hamasavallii D/O Suppayan Sodimani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Hong Qing Andre</p>
