@@ -297,7 +297,7 @@ variant: tiptap
 <p>Science Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hamsavalli D/O Suppayan Sodimani</p>
+<p>Ms Hamsavallii D/O Suppayan Sodimani</p>
 </td>
 </tr>
 <tr>
@@ -378,6 +378,14 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Cheong Kok Hon (Bryan)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Assistant Manager</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Yong Yew Lee Henry</p>
 </td>
 </tr>
 </tbody>
