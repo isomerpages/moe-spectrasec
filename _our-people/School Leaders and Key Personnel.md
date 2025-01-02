@@ -193,7 +193,7 @@ variant: tiptap
 <p>Year Head 2 (Sec 4)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Geeta Shorey</p>
+<p>Ms Geeta Rani D/O Primdas</p>
 </td>
 </tr>
 <tr>
