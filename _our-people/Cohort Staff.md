@@ -717,7 +717,7 @@ variant: tiptap
 <p>Ms Tok Wei Sze Audrey</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Mohamad Khairi</p>
+<p>Mr Syed Mohamad Khairi Bin Syed Ahmad Alsree</p>
 </td>
 </tr>
 <tr>
