@@ -278,38 +278,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lower Sec Coordinator, EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Choi Kah Mun (Carmen)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Upper Sec Coordinator, EL</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Tan Meng Liang (Victor)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Science Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Hamsavallii D/O Suppayan Sodimani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yuan Feng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher, ML</p>
 </td>
 <td rowspan="1" colspan="1">
