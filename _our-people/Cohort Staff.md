@@ -60,7 +60,7 @@ variant: tiptap
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Tan Jing Jie &amp; Mr Tengku Muhammad Hafiz</p>
+<p>Mr Tan Jing Jie &amp; Mr Tengku Muhammad Hafiz Bin Engku Kamil</p>
 </td>
 </tr>
 <tr>
@@ -450,7 +450,7 @@ variant: tiptap
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Priyalatha</p>
+<p>Ms Priyalatha D/O Selvarathnam</p>
 </td>
 </tr>
 <tr>
