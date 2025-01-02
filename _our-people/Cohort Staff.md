@@ -641,7 +641,7 @@ variant: tiptap
 <p>Year Head 2</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Geeta Rani</p>
+<p>Ms Geeta Rani D/O Primdas</p>
 </td>
 </tr>
 <tr>
@@ -750,7 +750,7 @@ variant: tiptap
 <br>(CRO &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Hamasavallii D/O Suppayan Sodimani</p>
+<p>Ms Hamsavallii D/O Suppayan Sodimani</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Teo Hong Qing Andre</p>
@@ -762,7 +762,7 @@ variant: tiptap
 <br>(CRO &amp; REC)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Geeta</p>
+<p>Ms Geeta Rani D/O Primdas</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Goh Hui Ying</p>
