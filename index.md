@@ -12,7 +12,7 @@ sections:
         - title: Instagram
           description: "#SpectraStories"
           url: https://www.instagram.com/spectrastories/
-        - title: 2025 Booklists
+        - title: Booklists 2025
           description: ""
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
         - title: Yearbook 2024
@@ -34,7 +34,7 @@ sections:
       title: Useful Links
       id: textcards
       cards:
-        - title: 2025 Booklists
+        - title: Booklists 2025
           description: ""
           linktext: Download
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
@@ -42,7 +42,7 @@ sections:
           description: ""
           linktext: Find Out
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: 2025 Timetable (Semester 1)
+        - title: Timetable 2025 (Semester 1)
           description: ""
           linktext: Download
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/timetable
