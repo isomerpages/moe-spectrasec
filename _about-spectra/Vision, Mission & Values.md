@@ -12,7 +12,7 @@ variant: markdown
 
 ##### **Our Mission**
 
-<p align="justify">Provide an engaged learning experience that prepares every Spectran for work and life.</p>
+<p align="justify">Provide an engaging learning experience that prepares every Spectran for work and life.</p>
 
 ***
 
