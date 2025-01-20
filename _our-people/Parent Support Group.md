@@ -5,7 +5,7 @@ description: ""
 variant: tiptap
 ---
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="2024 PSG" src="/images/IMG_20240415_WA0014.jpg">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2025___20_Jan.png">
 </div>
 <h5><strong>Our PSG</strong></h5>
 <p>Parents are a very important part of the SPECTRA family. The SPECTRA <strong>Parents Support Group (PSG)</strong> was
@@ -32,7 +32,11 @@ awareness of school events and activities to parents.</p>
 </ul>
 <hr>
 <h5><strong>Our 2024 PSG EXCO Members</strong></h5>
-<table>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
@@ -49,7 +53,7 @@ awareness of school events and activities to parents.</p>
 <p>Chairperson</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheng Ying Ling</p>
+<p>Mdm Melody Chow</p>
 </td>
 </tr>
 <tr>
@@ -57,7 +61,7 @@ awareness of school events and activities to parents.</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Julia Lee Siew Guat</p>
+<p>Mdm. Julia Lee Siew Guat</p>
 </td>
 </tr>
 <tr>
@@ -65,55 +69,7 @@ awareness of school events and activities to parents.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Anand Narayana Vadivu</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Belinda Wong Wei Chi</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mrs Lee Yew Kheng, Adelina</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Melody Chow</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Rashidah M Sani</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Sharon Ong Bee Lan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Shawn Tan</p>
+<p>Mdm. Belinda Wong</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +85,47 @@ awareness of school events and activities to parents.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Sri Kembang Mekar</p>
+<p>Mdm Mahmutha Begum d/o Ismathinoon</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Anand Narayana Vadivu</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Shawn Tan Eng Kiong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Rashidah M Sani</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Patrick Cher Hock Lye</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Lim Pei Lan, Vivian</p>
 </td>
 </tr>
 <tr>
@@ -138,6 +134,14 @@ awareness of school events and activities to parents.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Moon Chong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mdm Cheng Ying Ling</p>
 </td>
 </tr>
 </tbody>
