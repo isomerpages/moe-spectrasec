@@ -61,7 +61,7 @@ awareness of school events and activities to parents.</p>
 <p>Secretary</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Julia Lee Siew Guat</p>
+<p>Mdm Julia Lee Siew Guat</p>
 </td>
 </tr>
 <tr>
@@ -69,7 +69,7 @@ awareness of school events and activities to parents.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm. Belinda Wong</p>
+<p>Mdm Belinda Wong</p>
 </td>
 </tr>
 <tr>
