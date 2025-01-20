@@ -31,7 +31,7 @@ awareness of school events and activities to parents.</p>
 </li>
 </ul>
 <hr>
-<h5><strong>Our 2024 PSG EXCO Members</strong></h5>
+<h5><strong>Our 2025 PSG EXCO Members</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
