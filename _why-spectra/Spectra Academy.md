@@ -48,19 +48,19 @@ of Singapore who have pledged to provide bursaries to help our students
 in achieving successful outcomes.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Mind the Gap 200 – Hope Fund</p>
-</li>
-<li>
 <p>Kampung Spirit Fund</p>
 </li>
 <li>
-<p>TSMP Foundation</p>
+<p>Mind the Gap 200 – Hope Fund</p>
+</li>
+<li>
+<p>Ng Yuek Fan Foundation</p>
 </li>
 <li>
 <p>Sky Foundation</p>
 </li>
 <li>
-<p>Ng Yuek Fan Foundation</p>
+<p>TSMP Foundation</p>
 </li>
 </ul>
 <hr>
