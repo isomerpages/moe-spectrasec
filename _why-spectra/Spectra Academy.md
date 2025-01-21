@@ -59,9 +59,13 @@ in achieving successful outcomes.</p>
 <li>
 <p>Sky Foundation</p>
 </li>
+<li>
+<p>Ng Yuek Fan Foundation</p>
+</li>
 </ul>
 <hr>
 <h5><strong>How to enrol?</strong></h5>
-<p>Application for 2024 admission is now open. If you are keen to find out
-more about this programme, please submit your enquiries to us at <strong><a href="https://go.gov.sg/spectra-academy" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-academy</a></strong>
+<p>Application for 2025 admission will be starting soon. If you are keen
+to find out more about this programme, please submit your enquiries to
+us at <strong><a href="https://go.gov.sg/spectra-academy" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-academy</a></strong>
 </p>
