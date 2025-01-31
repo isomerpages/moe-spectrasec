@@ -291,7 +291,7 @@ both offline and online</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 3</p>
+<p>Term 2</p>
 </td>
 </tr>
 </tbody>
