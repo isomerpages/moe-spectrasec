@@ -49,8 +49,8 @@ provision of general administrative assistance as needed.</p>
 providing accurate and helpful information.</p>
 </li>
 <li>
-<p>Support in Admin-related purchases, including preparation of purchase
-requests and evaluation of bids.</p>
+<p>Support Admin-related purchases, including preparation of purchase requests
+and evaluation of bids.</p>
 </li>
 <li>
 <p>Demonstrate an understanding of the needs of the students and act as role
@@ -69,11 +69,9 @@ schools.</p>
 </li>
 <li>
 <p>Diploma in any discipline</p>
-<p></p>
 </li>
 </ul>
 <hr>
-<p></p>
 <p>If you're interested to join us, please email a detailed CV to <a href="mailto:toh_sook_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_sook_wei@schools.gov.sg</a> and
 <a href="mailto:ng_bee_keow_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_bee_keow_a@schools.gov.sg</a>that includes a recent photograph, academic
 and professional qualifications, and relevant work experiences. We regret
