@@ -9,9 +9,7 @@ variant: tiptap
 professional pride and competence. Currently, we have the following career
 opportunities: &nbsp; &nbsp;</p>
 <hr>
-<p></p>
-<p><strong>Executive/Senior Executive, Administration</strong>
-</p>
+<h4><strong>Executive/Senior Executive, Administration</strong></h4>
 <p><strong><u>Responsibilities</u></strong>
 </p>
 <p>Your main responsibility is to assist the Senior Manager, Admin &amp;
@@ -69,6 +67,47 @@ schools.</p>
 </li>
 <li>
 <p>Diploma in any discipline</p>
+</li>
+</ul>
+<hr>
+<h4><strong>Teacher, Science</strong> </h4>
+<p>Spectra Secondary School is a Specialised School for students mainly from
+G1.</p>
+<p><strong><u>Job Description</u></strong>
+</p>
+<p>Your main job responsibilities will comprise the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teach Lower Secondary Science</p>
+</li>
+<li>
+<p>Student management &amp; counselling responsibilities as Form Teacher</p>
+</li>
+<li>
+<p>Organise CCA activities for students</p>
+</li>
+<li>
+<p>Participate in department and school committees</p>
+</li>
+<li>
+<p>Engage parents and stakeholders</p>
+</li>
+</ul>
+<p><strong><u> Requirements</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Preferably 3 years of relevant working experience in a MOE secondary school</p>
+</li>
+<li>
+<p>Possess a strong sense of mission to help and nurture students</p>
+</li>
+<li>
+<p>Resourceful, self-driven, meticulous and socially adept</p>
+</li>
+<li>
+<p>Preferably a Postgraduate Diploma in Education or Diploma in Education
+from NIE or Degree in related discipline</p>
 </li>
 </ul>
 <hr>
