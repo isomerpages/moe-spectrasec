@@ -6,10 +6,10 @@ variant: tiptap
 ---
 <h5><strong>Overview of Spectra Academy Programme</strong></h5>
 <p>The Spectra Academy, launched in March 2023, is a 24-week work-study programme
-to prepare eligible students for admission to the ITE. Targeted at hands-on
-learners, this programme allows the students to deepen their career interests
-through formal training in an ITE Skills Subject (ISS), and an 8-week work
-attachment. Currently, the three ISSs offered are <strong>Culinary &amp; Restaurant Operations</strong>, <strong>Retail &amp; e-Commerce</strong> and <strong>Internet of Things Applications</strong>.</p>
+to prepare eligible post-secondary students for admission to the ITE. Targeted
+at hands-on learners, this programme allows the students to deepen their
+career interests through formal training in an ITE Skills Subject (ISS),
+and an 8-week work attachment. Currently, the three ISSs offered are <strong>Culinary &amp; Restaurant Operations</strong>, <strong>Retail &amp; e-Commerce</strong> and <strong>Internet of Things Applications</strong>.</p>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SA_Learning_Outcomes.png">
 </div>
