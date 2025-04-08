@@ -26,7 +26,7 @@ skills through the organization of workshops and seminars;</p>
 <p>increase parent-child bonds through activities and camp; and</p>
 </li>
 <li>
-<p>promote&nbsp;parental involvement in the school’s programs by raising
+<p>promote&nbsp;parental involvement in the school’s programmes by raising
 awareness of school events and activities to parents.</p>
 </li>
 </ul>
