@@ -4,42 +4,121 @@ permalink: /about-spectra/shared-beliefs/
 description: ""
 variant: tiptap
 ---
-##### **General Philosophy In Learning**
-<img style="width:800px" src="/images/chart-1024x712.jpg">
-
-***
-
-##### **Teaching Philosophy Of Spectra**
-
-Here in Spectra, we have&nbsp;two key beliefs that guide our teaching and learning.
-
-* Every student wants to learn
-* Every student learns at a different pace
-
-***
-
-##### **Every Student Wants To Learn**
-
-<p align="justify"> Every student wants to learn though they may vary in reasons for learning and in levels of motivation. We believe that if the school can give students purpose and relevance in their learning, make them feel competent and give them meaningful choice and autonomy, all students will learn.</p>
-
-<p align="justify">We seek to create purpose in learning by making knowledge relevant to students. Through curriculum integration, we allow students to see how the knowledge they are acquiring is relevant to their future workplace, as well as create an immediate usage for it whenever possible.</p>
-
-<p align="justify">We want our students to experience small successes which will motivate them to keep trying till they feel competent in whatever they do. We believe that this sense of competency will spur them to achieve the next level in their work.</p>
-
-<p align="justify">We want to give students real choices that shape their learning as well as give them the freedom to manage their own learning. By allowing students to apply their knowledge in the context of their choice, we believe that it creates a sense of ownership in them, increasing interest and motivation levels as a result.</p>
-
-***
-
-##### **Every Student Learns At A Different Pace**
-
-<p align="justify">Our students come from diverse background and have different academic readiness to acquire the next level of knowledge. We do not expect nor think it is necessary to try and teach the same knowledge to the every student at any one time. Instead, we focus on allowing students to exercise self-help in the absence of their teacher using technology and at the same time ensuring that differentiated instruction is taking place.</p>
-
-<p align="justify">We believe that making it possible for students to self-help is critical. The teacher’s attention is perhaps the most precious commodity in class and has to be shared according to the urgency of students’ needs. Alternatives to the teacher’s attention have to be made available so that every student can still move on with their learning to a large extent with minimal teacher attention. This helps reduce the amount of attention required in total and allows the teacher to give attention to those that need it the most.</p>
-
-<p align="justify">We believe that the key to creating alternatives to the teacher’s attention lies in technology. In addition, technology also allows teachers to track the progress of every student, making it possible for them to intervene and implement differentiated instruction in class.</p>
-
-***
-
-##### **Joy Of Learning**
-
-<p align="justify">When students are motivated to learn and allowed to learn at a pace suitable for them, they will enjoy learning and will develop a desire to learn more (intrinsic motivation). With this newfound motivation, we believe they will develop many of the desired outcomes of education such as curiosity, self-directedness and the desire for conceptual understanding. All these will prepare them for a world where the ability to learn and apply new knowledge will be critical.</p>
+<h4><strong>We believe that…</strong></h4>
+<p><strong>Every Student Can Learn and Succeed</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every student can learn, even if they learn for different reasons. When
+we make learning meaningful, relevant, and give students some control over
+how they learn, they can succeed.</p>
+</li>
+<li>
+<p>We connect what students learn to real life and future jobs, making it
+easier to understand why learning matters. When students can make choices
+about their learning, they become more interested and motivated.</p>
+</li>
+</ul>
+<p><strong>Every Student Learns at a Different Pace&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Students come from different backgrounds and are ready to learn different
+things at different times. Instead of teaching everyone the same way, we
+let students learn at their own pace using technology and differentiated
+instruction.&nbsp;</p>
+</li>
+<li>
+<p>We teach students how to find help when they need it. Technology helps
+students track their progress and get extra help when needed.</p>
+</li>
+</ul>
+<p><strong>Small Successes should be Recognised and are Worth Celebrating</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Learning is like a journey where you grow step by step. While major milestones
+are great, celebrating small wins helps students stay motivated and feel
+confident.</p>
+</li>
+<li>
+<p>When we praise students' efforts, they learn that they can always improve
+and develop a love for learning that lasts a lifetime.</p>
+</li>
+</ul>
+<hr>
+<h4><strong>We want to…</strong></h4>
+<p><strong>Care for our Students’ Well-Being</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>At Spectra, we care about keeping students healthy and happy so they can
+learn better. This means providing balanced nutrition, physical activities,
+and programs that support their mental and emotional health.</p>
+</li>
+<li>
+<p>We work with parents to make sure students are cared for both at school
+and at home.</p>
+</li>
+</ul>
+<p><strong>Listen to our students’ voices/concerns; Know our students well</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Every student is special, and we want to understand each one. We build
+trust by listening to them and helping them become <u>Confident</u>, <u>Empathetic</u>, <u>Responsible</u>, <u>Resilient</u>,
+and <u>Resourceful</u> young adults. We want students to know that <u>Spectra is a place where they are loved and valued</u>.</p>
+<p></p>
+</li>
+</ul>
+<p><strong>Forgive our students and give second chances for unintentional mistakes</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Making mistakes is part of learning and growing up. While there may be
+consequences, we forgive students and help them learn from their mistakes.
+This helps them become more aware of themselves and understand others better.</p>
+</li>
+<li>
+<p>When we show students how to forgive, they learn to understand other people's
+situations better - a skill they'll need throughout life.</p>
+</li>
+</ul>
+<hr>
+<h4><strong>We hope our students will…</strong></h4>
+<p><strong>Have respect for others and self</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Respecting others means accepting different views, cultures, and personal
+space without judging.</p>
+</li>
+<li>
+<p>Self-respect means knowing your own worth, setting healthy boundaries,
+taking care of yourself, and making good choices that match your values. <u>Everyone is unique and have their strengths and areas for growth. </u>
+</p>
+</li>
+</ul>
+<p><strong>Be resilient and not give up&nbsp;</strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Being resilient means facing challenges and finding new ways when things
+get tough.</p>
+</li>
+<li>
+<p><u>We want our students to believe that they can improve with feedback and self-awareness, effort and practice</u>.
+When they keep trying, even when things are difficult, they become more
+confident in handling future challenges.</p>
+</li>
+</ul>
+<p><strong>Work together as a team</strong>&nbsp;</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Working with others is important in school and life. Through group projects,
+sports, camps, and activities, students learn to communicate better, build
+friendships, and achieve goals together.</p>
+<p></p>
+</li>
+</ul>
+<p></p>
