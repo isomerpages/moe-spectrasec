@@ -54,7 +54,7 @@ and develop a love for learning that lasts a lifetime.</p>
 <li>
 <p>At Spectra, we care about keeping students healthy and happy so they can
 learn better. This means providing balanced nutrition, physical activities,
-and programs that support their mental and emotional health.</p>
+and programmes that support their mental and emotional health.</p>
 </li>
 <li>
 <p>We work with parents to make sure students are cared for both at school
