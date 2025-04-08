@@ -95,7 +95,7 @@ space without judging.</p>
 </li>
 <li>
 <p>Self-respect means knowing your own worth, setting healthy boundaries,
-taking care of yourself, and making good choices that match your values. <u>Everyone is unique and have their strengths and areas for growth. </u>
+taking care of yourself, and making good choices that match your values. <u>Everyone is unique and have their strengths and areas for growth.</u>
 </p>
 </li>
 </ul>
