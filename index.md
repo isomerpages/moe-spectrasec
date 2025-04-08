@@ -22,14 +22,6 @@ sections:
           description: ""
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home
       variant: image
-  - infopic:
-      title: iShop@Spectra
-      subtitle: Welcome to our Pop-Up Store
-      id: infopic
-      button: Enter
-      url: https://ishop.spectra.edu.sg/
-      image: /images/iShop_Spectra.png
-      alt: Image alt text
   - textcards:
       title: Useful Links
       id: textcards
