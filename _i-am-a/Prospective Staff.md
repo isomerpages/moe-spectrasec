@@ -9,6 +9,41 @@ variant: tiptap
 professional pride and competence. Currently, we have the following career
 opportunities: &nbsp; &nbsp;</p>
 <hr>
+<h4><strong>After School Engagement (ASE) Instructor (Part-time), Bike Station</strong></h4>
+<p>Spectra is a Specialised Secondary School catering to students who are
+technically inclined.</p>
+<p><strong><u>Job Description</u></strong>
+</p>
+<p>Your main job responsibilities will comprise the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Impart to students the basic knowledge &amp; skills in bicycle assembly,
+maintenance and repair skills.</p>
+</li>
+<li>
+<p>Teach and guide the students to use bicycle equipment and tools properly
+and safely.</p>
+</li>
+<li>
+<p>Reinforce messages of safety and responsibility, when cycling on roads
+and in the public.</p>
+</li>
+</ul>
+<p><strong><u>Requirements</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Good knowledge and experience in bicycle repair, including knowledge of
+frame building, gear systems, brakes, wheels and tyre repair.</p>
+</li>
+<li>
+<p>Possess a strong sense of mission to help and nurture student learners.</p>
+</li>
+<li>
+<p>Able to commit every Monday, 2.30pm to 4.30pm during school terms.</p>
+</li>
+</ul>
+<hr>
 <h4><strong>Executive/Senior Executive, Administration</strong></h4>
 <p><strong><u>Responsibilities</u></strong>
 </p>
@@ -70,7 +105,7 @@ schools.</p>
 </li>
 </ul>
 <hr>
-<h4><strong>Teacher, Science</strong> </h4>
+<h4><strong>Teacher, Science</strong></h4>
 <p>Spectra Secondary School is a Specialised School for students mainly from
 G1.</p>
 <p><strong><u>Job Description</u></strong>
@@ -93,7 +128,7 @@ G1.</p>
 <p>Engage parents and stakeholders</p>
 </li>
 </ul>
-<p><strong><u> Requirements</u></strong>
+<p><strong><u>Requirements</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
