@@ -8,7 +8,7 @@ variant: tiptap
 <h4><strong>MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong></h4>
 <p>1.&nbsp; &nbsp; &nbsp;Sexuality Education (SEd) in schools is about enabling
 students to understand the physiological, social, and emotional changes
-they experience as they mature, develop healthy and rewarding relationships
+they experience as they mature, develop healthy and rewarding relationships,
 including those with members of the opposite sex, and make wise, informed
 and responsible decisions on sexuality matters. SEd is premised on the
 importance of the family as the basic unit of society. This means encouraging
@@ -16,25 +16,22 @@ healthy, heterosexual marriages and stable nuclear family units with extended
 family support. The teaching and learning of SEd is based on respect for
 the values and beliefs of the different ethnic and religious communities
 in Singapore on sexuality issues.</p>
-<p>2.&nbsp; &nbsp; &nbsp;The goals of Sexuality Education are to:</p>
+<p>2.&nbsp; &nbsp; &nbsp;The <strong>Goals of Sexuality Education</strong> are
+to:</p>
 <ul>
 <li>
-<p>To help students make wise, responsible, and informed decisions through
-the provision of accurate, current, and age-appropriate&nbsp;knowledge&nbsp;on
-human sexuality and the consequences of sexual activity;</p>
+<p>Support students in managing their physiological, social and emotional
+changes as they grow up and develop safe and healthy relationships.</p>
 </li>
 <li>
-<p>To help students know themselves and build healthy and rewarding relationships
-through the acquisition of&nbsp;social and emotional skills&nbsp;of self-awareness,
-management of their thoughts, feelings, and behaviours, development of
-empathy for others, possession of effective communication, problem-solving,
-and decision-making skills; and</p>
+<p>Guide students to make wise, informed and responsible decisions on sexuality
+matters.</p>
 </li>
 <li>
-<p>To help students develop a moral compass, and respect for themselves and
-for others as sexual beings, premised on the family as the basic unit of
-society, through the inculcation of&nbsp;positive mainstream values and
-attitudes&nbsp;about sexuality.</p>
+<p>Help students develop a moral compass and respect for themselves and others
+by having positive mainstream values and attitudes about sexuality that
+are premised on the family as the basic unit of society.</p>
+<p></p>
 </li>
 </ul>
 <p>3.&nbsp; &nbsp; &nbsp;The key messages of Sexuality Education are:</p>
@@ -91,8 +88,9 @@ at this age.</p>
 </p>
 <p><strong>Secondary 1</strong>
 </p>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -101,21 +99,24 @@ at this age.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>UNIT</strong>
+<p><strong>Unit</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>LESSONS / DURATION</strong>
+<p><strong>Lesson Title / Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
-<p><strong>At the end of the lesson, students will be able to:</strong>
-</p>
+<p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
+<p><strong>Time Period</strong>
 </p>
 </td>
 </tr>
@@ -124,8 +125,18 @@ at this age.</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1</p>
-<p>(120 mins)</p>
+<p>Steady or Not</p>
+<p>Lesson 1</p>
+<p>(60 mins)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson helps students understand more about relationship building
+and the different types of love (e.g. familial, platonic, romantic). They
+will have the opportunity to better understand the considerations involved
+in making responsible decisions towards dating and romantic relationships
+and understand how to build healthy and supportive relationships, both
+online and offline.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -158,6 +169,9 @@ in dating vary among individuals</p>
 <p>(120 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>Understand that physical and psychological abuse from others, especially
@@ -174,6 +188,9 @@ self-concept</p>
 <td rowspan="1" colspan="1">
 <p>3</p>
 <p>(120 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
