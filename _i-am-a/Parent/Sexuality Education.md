@@ -86,8 +86,7 @@ to deal with various issues related to sexuality, which are of prime concern
 at this age.</p>
 <p><strong>At Spectra Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2025:</strong>
 </p>
-<p><strong>Secondary 1</strong>
-</p>
+<h4><strong>Secondary 1</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -159,17 +158,24 @@ in dating vary among individuals</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-<p>&nbsp;</p>
-<p>(120 mins)</p>
+<p>Being Aware, Being Safe</p>
+<p>Lesson 2</p>
+<p>(50 mins)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>This lesson focuses on helping students to be safe from the dangers of
+sexual grooming and on respecting one’s right to safety. Students will
+also learn about the legal provisions against sexual abuse, and the impact
+of sexual abuse on victims, including the psychological impact on the sense
+of self.&nbsp;</p>
+<p>&nbsp;</p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -181,15 +187,25 @@ self-concept</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
-<p>(120 mins)</p>
+<p>More than Meets the Eye</p>
+<p>Lesson 3</p>
+<p>(50 mins)</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
+<p>This lesson touches on two areas relevant to an adolescent’s curiosity
+on matters related to sexuality – masturbation and pornography. Students
+will gain awareness of the health, legal and moral issues related to viewing,
+downloading and/or distributing pornography. While students may perceive
+watching pornography as a private issue without consequences to bear, they
+will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms,
+so that the students will feel more comfortable during the discussions.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -208,7 +224,7 @@ etc.)</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 </tbody>
