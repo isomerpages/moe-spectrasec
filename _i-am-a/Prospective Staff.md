@@ -9,7 +9,7 @@ variant: tiptap
 with professional pride and competence. Currently, we have the following
 career opportunities: &nbsp; &nbsp;</p>
 <hr>
-<h4><strong>Teacher, Internet of Things Applications (IOTA) </strong></h4>
+<h4><strong>Teacher, Internet of Things Applications (IOTA)</strong></h4>
 <p><strong><u>Job Description</u></strong>
 </p>
 <p>Your main job responsibilities will comprise the following:</p>
