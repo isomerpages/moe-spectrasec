@@ -376,10 +376,11 @@ both offline and online</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 3</strong>
-</p>
-<table style="minWidth: 100px">
+<hr>
+<h4><strong>Secondary 3</strong></h4>
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -388,107 +389,74 @@ both offline and online</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>UNIT</strong>
+<p><strong>Unit</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>LESSONS / DURATION</strong>
+<p><strong>Lesson Title/Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
-<p><strong>At the end of the lesson, students will be able to:</strong>
-</p>
+<p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
+<p><strong>Time Period</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="3" colspan="1">
+<td rowspan="1" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1A</p>
-<p>(60 mins)</p>
+<p>When Respect Takes Centre Stage</p>
+<p>Lesson 2</p>
+<p>(50 mins)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson aims to help students think critically and make informed decisions
+in the contexts of sexting and voyeurism, and encourages students to exert
+a positive influence as a respectful online user.</p>
+<p></p>
+<p>It will also deepen students’ convictions about making moral decisions
+by taking into consideration the impact of their decisions and actions
+on their well-being and safety, their loved ones, and the community.</p>
+<p></p>
+<p>Students learn that they have a right and responsibility to be safe and
+protect their personal space and body. They also learn that sexting, voyeurism
+and other related sexual offences are never justifiable and they can seek
+help in times of need.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Know that self-perception and identity have an impact on our self-esteem
-and how we interact with others and the choices we make, both online and
-offline.</p>
-</li>
-<li>
-<p>Understand that expectations of oneself and others may differ and can
-affect one’s emotions, thoughts and behaviours.&nbsp;</p>
-</li>
-<li>
-<p>Recognise what healthy dating relationships involve and know that readiness
-is important when entering into a dating relationship.</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>1B</p>
-<p>&nbsp;</p>
-<p>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>recognise differences in perspectives of dating and romantic relationships</p>
-</li>
-<li>
-<p>evaluate one’s readiness for romantic relationships</p>
-</li>
-<li>
-<p>recognise challenges that occur in the context of a relationship</p>
-</li>
-<li>
-<p>examine how our response to emotions can affect relationships positively
-or negatively</p>
-</li>
-</ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>2</p>
-<p>(60 mins)</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Recognise the importance of being informed of social and moral issues
+<p>recognise the importance of being informed of social and moral issues
 of the day and the need to reflect on these issues, and weigh them against
-our own moral standpoints as we form our perspectives about them.</p>
+our own moral standpoints as we form our perspectives about them</p>
 </li>
 <li>
-<p>Understand that we strengthen our character when we commit to sound values-based
+<p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
-alignment with our beliefs.</p>
+alignment with our beliefs</p>
+<p></p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 4</strong>
-</p>
+<hr>
+<h4><strong>Secondary 4</strong></h4>
 <table style="minWidth: 100px">
 <colgroup>
 <col>
