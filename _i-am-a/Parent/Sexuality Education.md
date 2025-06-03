@@ -229,10 +229,11 @@ etc.)</p>
 </tr>
 </tbody>
 </table>
-<p><strong>Secondary 2</strong>
-</p>
-<table style="minWidth: 100px">
+<hr>
+<h4><strong>Secondary 2</strong></h4>
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -241,21 +242,24 @@ etc.)</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>UNIT</strong>
+<p><strong>Unit</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>LESSONS / DURATION</strong>
+<p><strong>Lesson Title / Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
-<p><strong>At the end of the lesson, students will be able to:</strong>
-</p>
+<p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
+<p><strong>Time Period</strong>
 </p>
 </td>
 </tr>
@@ -264,8 +268,24 @@ etc.)</p>
 <p>Respectful Relationships &amp; Safety</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1</p>
-<p>(120 mins)</p>
+<p>A Role for Everyone</p>
+<p>Lesson 1</p>
+<p>(50 mins)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focus on how the family, culture and society can influence
+one’s perception of their gender roles. Students will learn what gender
+stereotypes are (e.g. males traditionally as breadwinners and females traditionally
+as doing household chores) and how gender stereotypes are formed. Students
+will discuss how one’s understanding of gender roles should not be limited
+by gender stereotypes, for example women can be pilots, while men can be
+nurses.</p>
+<p>Students learn to focus on their personal strengths to pursue their interests
+and build their self- confidence.</p>
+<p>Students will also learn about the definitions of biological sex, gender
+identity, gender expression and sexual orientation. They will learn to
+treat everyone with respect and empathy.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -283,14 +303,25 @@ as a male or female</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 week 5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2A</p>
-<p>&nbsp;</p>
-<p>(120 mins)</p>
+<p>Online Safety Challenge</p>
+<p>Lesson 2A</p>
+<p>(50 mins)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on the issue of online grooming and cyber-flashing.
+It emphasises the need for help-seeking, peer support and positive peer
+influence. The lesson encourages the safe and responsible use of social
+media, and aims to deepen students’ conviction, and extend a call to action
+to students to taking appropriate decisions to safeguard their well-being
+and safety.</p>
+<p>This lesson is conducted separately for boys and girls in different classrooms,
+so that the students will feel more comfortable during the discussions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
@@ -302,13 +333,24 @@ both online and offline</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2B</p>
-<p>(120 mins)</p>
+<p>Do I or Don’t I</p>
+<p>Lesson 2B</p>
+<p>(50 mins)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on respect for personal boundaries; and how to be
+safe from risky sexual behaviour, teenage pregnancy and abortion. Students
+will learn the importance of respecting one another’s boundaries in relationships.
+This lesson emphasises the importance of responsible decision-making, the
+value of sexual abstinence, the need for help seeking. Students will be
+aware of Singapore laws protecting minors, such as the legal consequences
+of having sex with a minor, abortion and the abandonment of babies.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
