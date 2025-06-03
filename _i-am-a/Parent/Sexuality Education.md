@@ -140,19 +140,19 @@ online and offline.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Recognise the importance of monitoring and managing our emotional reactions,
+<p>recognise the importance of monitoring and managing our emotional reactions,
 in helpful ways that are reflective of our values and principles</p>
 </li>
 <li>
-<p>Recognise that there are different forms of love (e.g. familial, platonic,
+<p>recognise that there are different forms of love (e.g. familial, platonic,
 romantic love)</p>
 </li>
 <li>
-<p>Recognise the importance and understand what builds healthy and supportive
+<p>recognise the importance of, and understand what builds healthy and supportive
 relationships, both online and offline</p>
 </li>
 <li>
-<p>Understand what dating is, and recognise that the readiness and interest
+<p>understand what dating is, and recognise that the readiness and interest
 in dating vary among individuals</p>
 </li>
 </ul>
@@ -180,7 +180,7 @@ of self.&nbsp;</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Understand that physical and psychological abuse from others, especially
+<p>understand that physical and psychological abuse from others, especially
 those we know and trust, can have strong negative effects on a person’s
 self-concept</p>
 </li>
@@ -206,22 +206,22 @@ watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
 <p>This lesson is conducted separately for boys and girls in different classrooms,
 so that the students will feel more comfortable during the discussions.</p>
-<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Understand and accept that as we work towards becoming our best self,
+<p>understand and accept that as we work towards becoming our best self,
 there will be times when we make mistakes, and recognise the importance
 of exercising moral courage in facing up to consequences</p>
 </li>
 <li>
-<p>Recognise that there are moral and legal consequences of risky sexual
-behaviours, pornography access, and acting irresponsibly or maliciously
+<p>recognise that there are moral and legal consequences of risky sexual
+behaviours, pornography access and acting irresponsibly or maliciously
 when online (e.g. spreading of online falsehoods, flouting copyright laws,
 etc.)</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 Week 5</p>
@@ -281,8 +281,10 @@ as doing household chores) and how gender stereotypes are formed. Students
 will discuss how one’s understanding of gender roles should not be limited
 by gender stereotypes, for example women can be pilots, while men can be
 nurses.</p>
+<p></p>
 <p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
+<p></p>
 <p>Students will also learn about the definitions of biological sex, gender
 identity, gender expression and sexual orientation. They will learn to
 treat everyone with respect and empathy.</p>
@@ -290,17 +292,18 @@ treat everyone with respect and empathy.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Know that one’s understanding of gender roles should not be limited by
+<p>know that one’s understanding of gender roles should not be limited by
 gender stereotypes</p>
 </li>
 <li>
-<p>Develop an appreciation of one’s own unique qualities and characteristics
+<p>develop an appreciation of one’s own unique qualities and characteristics
 as a male or female</p>
 </li>
 <li>
-<p>Understand what sexual orientation entails</p>
+<p>understand what sexual orientation entails</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2 week 5</p>
@@ -320,13 +323,14 @@ influence. The lesson encourages the safe and responsible use of social
 media, and aims to deepen students’ conviction, and extend a call to action
 to students to taking appropriate decisions to safeguard their well-being
 and safety.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Recognise one’s vulnerability to risky situations and the importance of
+<p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
 both online and offline</p>
 </li>
@@ -355,18 +359,19 @@ of having sex with a minor, abortion and the abandonment of babies.</p>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Recognise the importance of self-respect and respect for others in relating
-to members of the opposite gender</p>
+<p>recognise the importance of self-respect and respect for others in relating
+to members of the opposite sex</p>
 </li>
 <li>
-<p>Recognise one’s vulnerability to risky situations and the importance of
+<p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
 both offline and online</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
