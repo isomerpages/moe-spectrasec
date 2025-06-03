@@ -457,8 +457,9 @@ alignment with our beliefs</p>
 </table>
 <hr>
 <h4><strong>Secondary 4</strong></h4>
-<table style="minWidth: 100px">
+<table style="minWidth: 125px">
 <colgroup>
+<col>
 <col>
 <col>
 <col>
@@ -467,26 +468,29 @@ alignment with our beliefs</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>UNIT</strong>
+<p><strong>Unit</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>LESSONS / DURATION</strong>
+<p><strong>Lesson Title / Duration</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Lesson Overview</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
 <p><strong>Lesson Objectives</strong>
 </p>
-<p><strong>At the end of the lesson, students will be able to:</strong>
-</p>
+<p>At the end of the lesson, students will be able to:</p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>TIME PERIOD</strong>
+<p><strong>Time Period</strong>
 </p>
 </td>
 </tr>
 <tr>
-<td rowspan="4" colspan="1">
+<td rowspan="3" colspan="1">
 <p>Respectful Relationships &amp; Safety</p>
 <p>
 <br>
@@ -496,106 +500,148 @@ alignment with our beliefs</p>
 <p>&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>1</p>
-<p>(120 mins)</p>
+<p>Levelling the Ground Lesson 1</p>
+<p>(50 mins)</p>
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson aims to help students think critically about gender stereotypes
+that exist in our society in the contexts of career and family (e.g. males
+typically perceived as main breadwinners and females typically perceived
+as main caregivers in the family), and the impact of these stereotypes
+on individuals.</p>
+<p></p>
+<p>Students will learn to be aware of possible gender stereotypes that may
+affect one’s family and future decisions. They will also learn to reframe
+their perspectives and not judge others based on their own or others’ values
+and principles, with regard to gender stereotypes.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Understand that the value of a person is not tied to one’s gender and
-not conforming to gender stereotypes does not negate one’s gender identity.</p>
+<p>understand what gender stereotypes comprise, e.g. notions of masculinity
+and femininity vary over time and space, and are shaped by societal expectations</p>
 </li>
 <li>
-<p>Understand what gender stereotypes comprise, e.g. notions of masculinity
-and femininity vary over time and space, and are shaped by societal expectations.</p>
-</li>
-<li>
-<p>Know that imposing gender stereotypes on oneself and others can limit
+<p>know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
-and should be avoided.</p>
+and should be avoided</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>2</p>
-<p>(120 mins)</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>When Love Hurts</p>
+<p>Lesson 2</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>(50 mins)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson aims to help students recognise unhealthy relationships and
+build their help-seeking skills. Students will learn to identify potential
+signs of an unhealthy relationship and recognise the different forms of
+dating violence.</p>
+<p></p>
+<p>They will get to understand why dating violence occurs, why victims often
+feel “trapped” in such unhealthy relationships, and how one can get out
+of such a relationship safely.</p>
+<p></p>
+<p>Students will learn when, where and how to seek help from trusted adults
+(e.g. family, teachers, school counsellors) in the supportive environment
+that they have if they or their friends are involved in an unhealthy relationship.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Know there are healthy ways of coping with broken relationships, and family
-and friends are important pillars of support.</p>
+<p>know there are healthy ways of coping with broken relationships, and family
+and friends are important pillars of support</p>
 </li>
 <li>
-<p>Recognise emotions caused by traumatic situations, e.g. bullying, abuse
+<p>recognise emotions caused by traumatic situations, e.g. bullying, abuse
 and dating violence, and understand the physiological and psychological,
-social impact on victims.</p>
+social impact on victims</p>
 </li>
 <li>
-<p>Understand that we need moral courage and wisdom to recognise and end
+<p>understand that we need moral courage and wisdom to recognise and end
 relationships that are unhealthy and cause harm to our mental and emotional
-well-being.</p>
+well-being</p>
 </li>
 <li>
-<p>Understand the importance of ensuring that non-verbal messages match with
+<p>understand the importance of ensuring that non-verbal messages match with
 verbal ones, when communicating personal and emotional boundaries in a
-relationship.</p>
+relationship</p>
+<p>a relationship.</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>3</p>
-<p>(120 mins)</p>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p>For Better or For Worse</p>
+<p>Lesson 3</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p>(50 mins)</p>
 <p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>This lesson focuses on building a positive relationship with one’s partner
+in a marriage. Students will understand that while a marriage, defined
+in Singapore as a union between a man and a woman, requires mutual commitment
+and effort like the other relationships in their lives, what sets a marriage
+apart is its lifelong commitment.</p>
+<p></p>
+<p>Students will learn that what really matters in sustaining and maintaining
+a long-term romantic relationship that leads to marriage, is understanding
+the other person’s perspective and effectively communicating with each
+other.</p>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
-<p>Know that long-term romantic relationships leading to marriage involve
+<p>know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
-and moral dimensions.</p>
+and moral dimensions</p>
 </li>
 <li>
-<p>Know that marriage entails a union between a man and a woman based on
-love, trust, commitment, and requires mutual effort.</p>
+<p>know that marriage entails a union between a man and a woman based on
+love, trust, commitment, and requires mutual effort</p>
 </li>
 <li>
-<p>Understand that conflicts are normal in any relationship, including marriage,
+<p>understand that conflicts are normal in any relationship, including marriage,
 and the way in which a couple handles conflict is critical to the success
-of their marriage.
-<br>
-</p>
+of their marriage</p>
 </li>
 </ul>
-</td>
-<td rowspan="1" colspan="1">
-<p>Term 2</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>4</p>
-<p>(120 mins)</p>
-<p>&nbsp;</p>
-</td>
-<td rowspan="1" colspan="1">
-<ul data-tight="true" class="tight">
-<li>
-<p>Understand that we strengthen our character when we commit to sound values-based
-viewpoints (e.g. respect for life) and decisions, and speak and act in
-alignment with our beliefs.&nbsp;</p>
-</li>
-</ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Term 2</p>
@@ -641,26 +687,24 @@ to make wise, informed, and sensible decisions.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mass Talk by HPB appointed vendor</p>
+<p>Mass Talk delivered through a pre-recorded video</p>
 </td>
 <td rowspan="1" colspan="1">
+<p>Raise awareness and provide knowledge on:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Awareness of the different STIs and HIV/AIDS</p>
+<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
+prevent infection mainly through ABC (abstinence, being faithful, correct,
+and consistent condom use).</p>
 </li>
 <li>
-<p>Modes of transmission</p>
-</li>
-<li>
-<p>Modes of protection, specifically on how the condom is used</p>
-</li>
-<li>
-<p>Consequences and impact of STIs/HIV</p>
+<p>Managing relationships and risky situations in a healthy way.</p>
 </li>
 </ul>
+<p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 5</p>
 </td>
 </tr>
 <tr>
@@ -676,7 +720,7 @@ of assertiveness and responsible decision-making</p>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 </tbody>
