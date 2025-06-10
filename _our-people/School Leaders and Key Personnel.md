@@ -329,7 +329,7 @@ variant: tiptap
 <p>Manager (Finance)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Goh Poh Gek</p>
+<p>Mr Koh Wee Kwang</p>
 </td>
 </tr>
 <tr>
