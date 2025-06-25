@@ -233,7 +233,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Total Income</strong>
+<p><strong>Total Income</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -251,7 +251,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Total Expenses</strong>
+<p><strong>Total Expenses</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -356,7 +356,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Trades &amp; Other receivables</p>
+<p>Trades &amp; Other Receivables</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>386</p>
@@ -370,7 +370,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Cash &amp; cash equivalents</p>
+<p>Cash &amp; Cash Equivalents</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>27,931</p>
@@ -384,7 +384,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Total Assets</strong>
+<p><strong>Total Assets</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -448,7 +448,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Current Liabilities</p>
+<p>Current Liabilities</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>8,055</p>
@@ -462,7 +462,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Total Liabilities</strong>
+<p><strong>Total Liabilities</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
@@ -512,7 +512,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;General Fund</p>
+<p>General Fund</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>24,502</p>
@@ -526,7 +526,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>&nbsp;Other Funds</p>
+<p>Other Funds</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>384</p>
@@ -540,7 +540,7 @@ Education and the ITE Skill Subject Certificates.</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>&nbsp;Total Funds</strong>
+<p><strong>Total Funds</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
