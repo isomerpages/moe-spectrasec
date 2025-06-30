@@ -34,7 +34,7 @@ sections:
           description: ""
           linktext: Find Out
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: Timetable 2025 (Semester 1)
+        - title: Timetable 2025 (Semester 2)
           description: ""
           linktext: Download
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/timetable
