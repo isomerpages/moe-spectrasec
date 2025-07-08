@@ -73,7 +73,7 @@ in via MIMS)</p>
 </p>
 </li>
 <li>
-<p><a href="http://10.163.112.142/TimeSolution/SignIn.aspx" rel="noopener noreferrer" target="_blank">Spectra HR System</a>
+<p><a href="https://sg.quickhr.co/" rel="noopener noreferrer" target="_blank">QuickHR</a>
 </p>
 </li>
 <li>
