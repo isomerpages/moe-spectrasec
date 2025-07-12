@@ -17,36 +17,36 @@ G1.</p>
 <p>Your main job responsibilities will comprise the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teach English Language at both Lower and Upper Secondary</p>
+<p>Teach English Language at both Lower and Upper Secondary.</p>
 </li>
 <li>
-<p>Student management &amp; counselling responsibilities as Form Teacher</p>
+<p>Student management &amp; counselling responsibilities as Form Teacher.</p>
 </li>
 <li>
-<p>Organise CCA activities for students</p>
+<p>Organise CCA activities for students.</p>
 </li>
 <li>
-<p>Participate in department and school committees</p>
+<p>Participate in department and school committees.</p>
 </li>
 <li>
-<p>Engage parents and stakeholders</p>
+<p>Engage parents and stakeholders.</p>
 </li>
 </ul>
 <p><strong><u>Requirements</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Preferably 3 years of relevant working experience in a MOE secondary school</p>
+<p>Preferably 3 years of relevant working experience in a MOE secondary school.</p>
 </li>
 <li>
-<p>Possess a strong sense of mission to help and nurture students</p>
+<p>Possess a strong sense of mission to help and nurture students.</p>
 </li>
 <li>
-<p>Resourceful, self-driven, meticulous and socially adept</p>
+<p>Resourceful, self-driven, meticulous and socially adept.</p>
 </li>
 <li>
 <p>Preferably a Postgraduate Diploma in Education or Diploma in Education
-from NIE or Degree in related discipline</p>
+from NIE or Degree in related discipline.</p>
 </li>
 </ul>
 <hr>
@@ -58,36 +58,36 @@ G1.</p>
 <p>Your main job responsibilities will comprise the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teach Mathematics at both Lower and Upper Secondary</p>
+<p>Teach Mathematics at both Lower and Upper Secondary.</p>
 </li>
 <li>
-<p>Student management &amp; counselling responsibilities as Form Teacher</p>
+<p>Student management &amp; counselling responsibilities as Form Teacher.</p>
 </li>
 <li>
-<p>Organise CCA activities for students</p>
+<p>Organise CCA activities for students.</p>
 </li>
 <li>
-<p>Participate in department and school committees</p>
+<p>Participate in department and school committees.</p>
 </li>
 <li>
-<p>Engage parents and stakeholders</p>
+<p>Engage parents and stakeholders.</p>
 </li>
 </ul>
 <p><strong><u>Requirements</u></strong>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Preferably 3 years of relevant working experience in a MOE secondary school</p>
+<p>Preferably 3 years of relevant working experience in a MOE secondary school.</p>
 </li>
 <li>
-<p>Possess a strong sense of mission to help and nurture students</p>
+<p>Possess a strong sense of mission to help and nurture students.</p>
 </li>
 <li>
-<p>Resourceful, self-driven, meticulous and socially adept</p>
+<p>Resourceful, self-driven, meticulous and socially adept.</p>
 </li>
 <li>
 <p>Preferably a Postgraduate Diploma in Education or Diploma in Education
-from NIE or Degree in related discipline</p>
+from NIE or Degree in related discipline.</p>
 </li>
 </ul>
 <hr>
