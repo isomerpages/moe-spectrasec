@@ -9,7 +9,7 @@ variant: tiptap
 with professional pride and competence. Currently, we have the following
 career opportunities: &nbsp; &nbsp;</p>
 <hr>
-<h4><strong>Teacher, English Language</strong> </h4>
+<h4><strong>Teacher, English Language</strong></h4>
 <p>Spectra Secondary School is a Specialised School for students mainly from
 G1.</p>
 <p><strong><u>Job Description</u></strong>
@@ -50,7 +50,7 @@ from NIE or Degree in related discipline</p>
 </li>
 </ul>
 <hr>
-<h4><strong>Teacher, Mathematics</strong> </h4>
+<h4><strong>Teacher, Mathematics</strong></h4>
 <p>Spectra Secondary School is a Specialised School for students mainly from
 G1.</p>
 <p><strong><u>Job Description</u></strong>
