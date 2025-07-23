@@ -137,7 +137,7 @@ variant: tiptap
 <p>S1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Wenyu Jasmine</p>
+<p>Ms Noorshakina Binte Jemahat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
