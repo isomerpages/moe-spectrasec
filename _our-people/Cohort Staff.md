@@ -60,7 +60,7 @@ variant: tiptap
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Tan Jing Jie &amp; Mr Tengku Muhammad Hafiz Bin Engku Kamil</p>
+<p>Mr Tengku Muhammad Hafiz Bin Engku Kamil</p>
 </td>
 </tr>
 <tr>
