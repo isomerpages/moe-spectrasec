@@ -60,7 +60,7 @@ variant: tiptap
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Tan Jing Jie &amp; Mr Tengku Muhammad Hafiz Bin Engku Kamil</p>
+<p>Mr Tengku Muhammad Hafiz Bin Engku Kamil</p>
 </td>
 </tr>
 <tr>
@@ -137,7 +137,7 @@ variant: tiptap
 <p>S1-6</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Koh Wenyu Jasmine</p>
+<p>Ms Noorshakina Binte Jemahat</p>
 </td>
 <td rowspan="1" colspan="1">
 <p></p>
@@ -714,10 +714,10 @@ variant: tiptap
 <br>(IOTA &amp; MDA)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Tok Wei Sze Audrey</p>
+<p>Mr Syed Mohamad Khairi Bin Syed Ahmad Alsree</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Syed Mohamad Khairi Bin Syed Ahmad Alsree</p>
+<p></p>
 </td>
 </tr>
 <tr>
