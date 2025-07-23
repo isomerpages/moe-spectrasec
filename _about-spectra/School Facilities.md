@@ -25,10 +25,6 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/edible%20garden%202023.png">
 </div>
-<h5><strong>Escape Room</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Escape_Room_2024.png">
-</div>
 <h5><strong>Green Room</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GreenRoom.jpg">
@@ -60,9 +56,5 @@ variant: tiptap
 <h5><strong>Games Room</strong></h5>
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/GamesRoom.jpg">
-</div>
-<h5><strong>Gym</strong></h5>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Gym.jpg">
 </div>
 <p></p>
