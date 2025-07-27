@@ -7,7 +7,6 @@ variant: markdown
 ##### **A Seamless Vocational Education Pathway**
 
 <p align="justify">Spectra offers a dual-certification programme: our students will complete and graduate with a&nbsp;<b>Singapore-Cambridge Secondary Education Certificate (SEC)</b>&nbsp;and an&nbsp;<b>ITE Skills Subject Certificate (ISSC)</b>. The ITE Skills Subject provides hands-on vocational education in an authentic learning environment for our students.</p>
-
 ![](/images/Pathway_2024.png)
 
 ***
@@ -25,7 +24,7 @@ Spectra offers the following&nbsp;**5 ITE Skills Subjects (ISS)**:
 
 <p align="justify">In the upper secondary programme, students will specialise in two ITE Skills Subjects and complete an onsite work attachment via our Industry Experiential Programme (IEP).</p>
 
-![](/images/oct%202023%20industry%20partners.png)
+![](/images/IEP_Partners_2025.png)
 
 * * *
 
