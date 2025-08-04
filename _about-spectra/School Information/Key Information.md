@@ -100,9 +100,11 @@ Education and the ITE Skill Subject Certificates.</p>
 <br>Ms Cindy Karim
 <br>Mr Conceicao Nicholas Gerard
 <br>Mdm Chilukuri Dimps Rao
-<br>Mr Chua You Cheng
+<br>Mr Chua You Cheng</p>
+<p>Mr Ganesh Kalyanam
 <br>Ms Juliana Soh Kheng Mei
-<br>Mr Lock Ka Fai
+<br>Mr Lock Ka Fai</p>
+<p>Mr Loh Chee Leong Stephen
 <br>Ms Sabrena Abdullah
 <br>Mr Seng Chin Chye
 <br>Mr Tan Soon Liang
