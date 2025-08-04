@@ -61,10 +61,6 @@ variant: tiptap
 <td rowspan="1" colspan="1">
 <ol data-tight="true" class="tight">
 <li>
-<p><a href="http://10.163.112.149/" rel="noopener noreferrer" target="_blank">SSIS (Spectra Student Information System)</a>
-</p>
-</li>
-<li>
 <p><a href="https://rbs.avero-tech.com/" rel="noopener noreferrer nofollow" target="_blank">Room Booking System (RBS)</a> (log
 in via MIMS)</p>
 </li>
