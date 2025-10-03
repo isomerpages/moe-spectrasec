@@ -26,7 +26,7 @@ instilling self-confidence in all.</p>
 <img style="width:800px" height="auto" width="100%" src="/images/twin%20certification.png">
 </div>
 <hr>
-<h5><strong>Spectra Open House 2024</strong></h5>
+<h5><strong>Spectra Open House 2025</strong></h5>
 <p>Sign up for our Open House at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a> on
 the following days:</p>
 <p></p>
