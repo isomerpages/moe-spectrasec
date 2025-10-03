@@ -29,8 +29,9 @@ instilling self-confidence in all.</p>
 <h5><strong>Spectra Open House 2024</strong></h5>
 <p>Sign up for our Open House at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a> on
 the following days:</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/website_openhse_2.png">
+<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/website_openhse3.png">
 </div>
 <p>During the Open House, students can:</p>
 <ul data-tight="true" class="tight">
