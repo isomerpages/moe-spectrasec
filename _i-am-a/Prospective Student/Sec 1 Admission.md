@@ -30,7 +30,7 @@ instilling self-confidence in all.</p>
 <p>Sign up for our Open House at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a> on
 the following days:</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_03_103557.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_03_111532.png">
 </div>
 <p>During the Open House, students can:</p>
 <ul data-tight="true" class="tight">
