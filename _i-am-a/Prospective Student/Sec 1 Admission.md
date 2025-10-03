@@ -29,9 +29,70 @@ instilling self-confidence in all.</p>
 <h5><strong>Spectra Open House 2024</strong></h5>
 <p>Sign up for our Open House at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a> on
 the following days:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_03_111532.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
+<p>Date</p>
+</th>
+<th rowspan="1" colspan="1">
+<p>Time</p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>25 Nov Tue</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>11.00 am - 3.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>26 Nov Wed</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am - 3.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>27 Nov Thu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am - 2.00 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>28 Nov Fri</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am - 2.00 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>29 Nov Sat</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>9.00 am - 3.30 pm</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>During the Open House, students can:</p>
 <ul data-tight="true" class="tight">
 <li>
