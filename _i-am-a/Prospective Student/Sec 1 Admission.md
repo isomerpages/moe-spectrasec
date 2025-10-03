@@ -27,18 +27,22 @@ instilling self-confidence in all.</p>
 </div>
 <hr>
 <h5><strong>Spectra Open House 2024</strong></h5>
-<p>Sign up for our Open House at <strong><a href="https://go.gov.sg/2024-spectra-open-house" rel="noopener nofollow" target="_blank">https://go.gov.sg/2024-spectra-open-house</a></strong> from <strong>20 Nov 2024 (11.00am - 5.00pm), 21 Nov to 22 Nov 2024 (9.00am - 5.00pm) and 23 Nov 2024 (9.00am - 3.00pm)</strong>,
-where students can:</p>
+<p>Sign up for our Open House at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a> on
+the following days:</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Screenshot_2025_10_03_103557.png">
+</div>
+<p>During the Open House, students can:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Take a tour around our school campus</p>
+<p>take a tour around our school campus</p>
 </li>
 <li>
-<p>Interact with our Spectrans as they share about their school life and
+<p>interact with our Spectrans as they share about their school life and
 the Spectra journey and</p>
 </li>
 <li>
-<p>Experience our curriculum</p>
+<p>experience our curriculum.</p>
 </li>
 </ul>
 <p></p>
@@ -62,7 +66,7 @@ school choices.</p>
 <hr>
 <h5><strong>Appeals for Transfer to Spectra Secondary School</strong></h5>
 <p>Students who wish to seek a transfer to Spectra Secondary School can do
-so by sending an appeal to: <strong><a href="mailto:spectra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">spectra@schools.gov.sg</a>  </strong> 
+so by sending an appeal to: <strong><a href="mailto:spectra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">spectra@schools.gov.sg</a></strong>
 </p>
 <p>Secondary 1 students who are in Posting Group 1 and Group 1 / 2 are eligible
 for the appeal. All applications are subject to available vacancies and
