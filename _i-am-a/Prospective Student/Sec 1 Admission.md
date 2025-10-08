@@ -27,19 +27,54 @@ instilling self-confidence in all.</p>
 </div>
 <hr>
 <h5><strong>Spectra Open House 2025</strong></h5>
-<p>Sign up for our Open House at <a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a> on
+<p>Sign up for our Open House at <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a></strong> on
 the following days:</p>
-<div class="isomer-image-wrapper">
-<img style="width: 60%;" height="auto" width="100%" alt="" src="/images/Open House/website_openhse3.png">
-</div>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day of PSLE results release</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11.00am – 3.30pm</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day after PSLE results release to 28 Nov 2025 (Fri)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9.00am – 3.30pm</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>29 Nov 2025 (Sat)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9.00am – 3.00pm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
 <p>During the Open House, students can:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>take a tour around our school campus</p>
+<p>take a tour around our school campus;</p>
 </li>
 <li>
 <p>interact with our Spectrans as they share about their school life and
-the Spectra journey and</p>
+the Spectra journey and;</p>
 </li>
 <li>
 <p>experience our unique, hands-on curriculum.</p>
