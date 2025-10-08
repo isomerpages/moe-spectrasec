@@ -67,6 +67,8 @@ the following days:</p>
 </tr>
 </tbody>
 </table>
+<p><em>* Information will be updated closer to the day of PSLE results release</em>
+</p>
 <p>During the Open House, students can:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -78,9 +80,9 @@ the Spectra journey and;</p>
 </li>
 <li>
 <p>experience our unique, hands-on curriculum.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <hr>
 <h5><strong>Application Process</strong></h5>
 <p>Spectra admits students who are eligible for <strong>Posting Group 1 </strong>and <strong>Group 1/2</strong>.
