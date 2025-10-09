@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><em>No part of the publications may be reproduced without the school's permission.</em>
 </p>
-<h6><a href="https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click HERE to view the brochure.</a></h6><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spectra_Spectacular_Brochure_2024.jpg"></a>
+<h6><strong><a href="https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click HERE to view the brochure</a></strong></h6><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spectra_Spectacular_Brochure_2024.jpg"></a>
 <hr>
 <h5><strong>What Spectra Offers</strong></h5>
 <p>Spectra Secondary School is a skills-focused specialized school. We admitted&nbsp;our
@@ -26,22 +26,63 @@ instilling self-confidence in all.</p>
 <img style="width:800px" height="auto" width="100%" src="/images/twin%20certification.png">
 </div>
 <hr>
-<h5><strong>Spectra Open House 2024</strong></h5>
-<p>Sign up for our Open House at <strong><a href="https://go.gov.sg/2024-spectra-open-house" rel="noopener nofollow" target="_blank">https://go.gov.sg/2024-spectra-open-house</a></strong> from <strong>20 Nov 2024 (11.00am - 5.00pm), 21 Nov to 22 Nov 2024 (9.00am - 5.00pm) and 23 Nov 2024 (9.00am - 3.00pm)</strong>,
-where students can:</p>
+<h5><strong>Spectra Open House 2025</strong></h5>
+<p>Sign up for our Open House at <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a></strong> on
+the following days:</p>
+<table style="minWidth: 50px">
+<colgroup>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day of PSLE results release</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>11.00am – 3.30pm</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Day after PSLE results release to 28 Nov 2025 (Fri)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9.00am – 3.30pm</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>29 Nov 2025 (Sat)</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>9.00am – 3.00pm</strong>
+</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>* Information will be updated closer to the day of PSLE results release</em>
+</p>
+<p>During the Open House, students can:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Take a tour around our school campus</p>
+<p>take a tour around our school campus;</p>
 </li>
 <li>
-<p>Interact with our Spectrans as they share about their school life and
-the Spectra journey and</p>
+<p>interact with our Spectrans as they share about their school life and
+the Spectra journey and;</p>
 </li>
 <li>
-<p>Experience our curriculum</p>
+<p>experience our unique, hands-on curriculum.</p>
+<p></p>
 </li>
 </ul>
-<p></p>
 <hr>
 <h5><strong>Application Process</strong></h5>
 <p>Spectra admits students who are eligible for <strong>Posting Group 1 </strong>and <strong>Group 1/2</strong>.
@@ -62,7 +103,7 @@ school choices.</p>
 <hr>
 <h5><strong>Appeals for Transfer to Spectra Secondary School</strong></h5>
 <p>Students who wish to seek a transfer to Spectra Secondary School can do
-so by sending an appeal to: <strong><a href="mailto:spectra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">spectra@schools.gov.sg</a>  </strong> 
+so by sending an appeal to: <strong><a href="mailto:spectra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">spectra@schools.gov.sg</a></strong>
 </p>
 <p>Secondary 1 students who are in Posting Group 1 and Group 1 / 2 are eligible
 for the appeal. All applications are subject to available vacancies and
