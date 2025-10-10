@@ -27,7 +27,7 @@ instilling self-confidence in all.</p>
 </div>
 <hr>
 <h5><strong>Spectra Open House 2025</strong></h5>
-<p>Sign up for our Open House at <strong><a rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a></strong> on
+<p>Sign up for our Open House at <strong><a href="https://go.gov.sg/spectra-open-house" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a></strong> on
 the following days:</p>
 <table style="minWidth: 50px">
 <colgroup>
