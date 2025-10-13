@@ -7,7 +7,8 @@ variant: tiptap
 ---
 <p><em>No part of the publications may be reproduced without the school's permission.</em>
 </p>
-<h6><strong><a href="https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing" rel="noopener noreferrer nofollow" target="_blank">Click HERE to view the brochure</a></strong></h6><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spectra_Spectacular_Brochure_2024.jpg"></a>
+<p><strong>Click on the image below to view the brochure</strong>
+</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Spectra_Spectacular_Brochure_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spectra_Spectacular_Brochure_2024.jpg"></a>
 <hr>
 <h5><strong>What Spectra Offers</strong></h5>
 <p>Spectra Secondary School is a skills-focused specialized school. We admitted&nbsp;our
