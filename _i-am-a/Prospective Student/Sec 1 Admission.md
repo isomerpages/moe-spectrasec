@@ -7,7 +7,7 @@ variant: tiptap
 ---
 <p><em>No part of the publications may be reproduced without the school's permission.</em>
 </p>
-<p><strong><a href="/files/Spectra_Spectacular_Brochure_2025.pdf" rel="noopener nofollow" target="_blank">Click Here to view the brochure</a></strong>
+<p><strong>Click on the image below to view the brochure</strong>
 </p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Spectra_Spectacular_Brochure_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spectra_Spectacular_Brochure_2024.jpg"></a>
 <hr>
 <h5><strong>What Spectra Offers</strong></h5>
