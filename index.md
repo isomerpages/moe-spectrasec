@@ -26,19 +26,19 @@ sections:
         - title: Timetable 2026 (Semester 1)
           description: ""
           linktext: Available soon
-          url: https://spectra.edu.sg/timetable/
+          url: https://spectra.edu.sg/i-am-a/student/timetable/
         - title: Booklists 2026
           description: ""
           linktext: Available soon
-          url: https://spectra.edu.sg/booklists/
+          url: https://www.spectra.edu.sg/i-am-a/student/booklists/
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
-          url: https://spectra.edu.sg/school-uniform/
+          url: https://www.spectra.edu.sg/i-am-a/student/school-uniform/
         - title: Home-Based Learning (HBL)
           description: ""
           linktext: View
-          url: https://spectra.edu.sg/home-based-learning/
+          url: https://www.spectra.edu.sg/i-am-a/student/home-based-learning/
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
