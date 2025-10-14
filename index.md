@@ -34,7 +34,7 @@ sections:
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
-          url: https://www.spectra.edu.sg/i-am-a/student/useful-links/school-uniform
+          url: https://spectra.edu.sg/school-uniform/
         - title: Home-Based Learning (HBL)
           description: ""
           linktext: View
