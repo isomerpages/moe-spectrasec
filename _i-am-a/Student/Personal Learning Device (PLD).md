@@ -5,4 +5,4 @@ variant: tiptap
 description: ""
 third_nav_title: Student
 ---
-<p></p>
+<p>⚠️ More information will be available soon...</p>
