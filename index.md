@@ -30,7 +30,7 @@ sections:
         - title: Booklists 2026
           description: ""
           linktext: Available soon
-          url: https://www.spectra.edu.sg/i-am-a/student/useful-links/booklists
+          url: https://spectra.edu.sg/booklists/
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
