@@ -12,32 +12,29 @@ sections:
         - title: Instagram
           description: "#SpectraStories"
           url: https://www.instagram.com/spectrastories/
-        - title: Booklists 2025
-          description: ""
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
+        - title: Facebook
+          description: Spectra Secondary School
+          url: https://www.facebook.com/SpectraSecondarySchool/
         - title: Yearbook 2024
           description: ""
           url: https://heyzine.com/flip-book/959bac7747.html
-        - title: Student Information Hub (SIH)
-          description: ""
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home
       variant: image
   - textcards:
-      title: Useful Links
+      title: Useful Links For Students
       id: textcards
       cards:
-        - title: Booklists 2025
+        - title: Booklists 2026
           description: ""
-          linktext: Download
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
+          linktext: Available soon
+          url: https://www.spectra.edu.sg/
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: Timetable 2025 (Semester 2)
+        - title: Timetable 2026 (Semester 1)
           description: ""
-          linktext: Download
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/timetable
+          linktext: Available soon
+          url: https://www.spectra.edu.sg/
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
