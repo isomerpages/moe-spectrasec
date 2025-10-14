@@ -26,7 +26,7 @@ sections:
         - title: Timetable 2026 (Semester 1)
           description: ""
           linktext: Available soon
-          url: https://www.spectra.edu.sg/i-am-a/student/useful-links/timetable
+          url: https://spectra.edu.sg/timetable/
         - title: Booklists 2026
           description: ""
           linktext: Available soon
