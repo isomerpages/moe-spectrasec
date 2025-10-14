@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parent
 variant: tiptap
 ---
-<h5><strong>MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)</strong></h5>
+<h5><strong>💰 MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)</strong></h5>
 <p>The MOE Financial Assistance Scheme aims to help needy Singaporean students
 pay for essential school expenses.</p>
 <p><strong>With effect from January 2023, the income eligibility criteria will be: Gross Monthly Household Income (GHI) = $3000 or below OR Gross Monthly Household Per Capita Income (PCI) = $750 or below.</strong>
