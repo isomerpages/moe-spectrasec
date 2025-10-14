@@ -23,7 +23,7 @@ sections:
       title: Useful Links For Students
       id: textcards
       cards:
-        - title: Timetable 2026 (Semester 1)
+        - title: Timetable 2026
           description: ""
           linktext: Available soon
           url: https://spectra.edu.sg/i-am-a/student/timetable/
