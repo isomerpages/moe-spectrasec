@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student
 ---
-<h4><strong>Sale of School Uniform</strong></h4>
+<h4><strong>🛍️ Sale of School Uniform</strong></h4>
 <p>The school uniform can be purchased either online at <a href="https://shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://shanghai-uniforms.com/</u></a> or
 in-store:</p>
 <p></p>
