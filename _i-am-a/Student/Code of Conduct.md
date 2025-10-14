@@ -9,7 +9,7 @@ third_nav_title: Student
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.spectra.edu.sg/files/Spectra_Code_of_Conduct__Updated_1_Jan_2025_.pdf" rel="noopener nofollow" target="_blank">Click HERE to view the Code of Conduct</a>
+<p><strong><a href="/files/Spectra_Code_of_Conduct__Updated_1_Jan_2025_.pdf" rel="noopener nofollow" target="_blank">Click HERE to view the Code of Conduct</a></strong>
 </p>
 </li>
 </ul>
