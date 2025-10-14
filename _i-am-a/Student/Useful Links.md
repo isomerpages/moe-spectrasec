@@ -16,12 +16,6 @@ variant: markdown
 
 ***
 
-###### **[Personal Learning Device (PLD)](https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld)**
-
-<a target="new" href="https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/pld?pli=1"><img style="width:400px" src="/images/2023%20ict%20banner%201.png"></a>
-
-***
-
 ###### **[Spectra Fault Reporting](https://go.gov.sg/sssfaultreporting)**
 <a target="new" href="https://go.gov.sg/sssfaultreporting"><img style="width:400px" src="/images/SSSFaultReporting2024.png"></a>
 
