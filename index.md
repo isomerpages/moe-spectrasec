@@ -23,6 +23,10 @@ sections:
       title: Useful Links For Students
       id: textcards
       cards:
+        - title: Timetable 2026 (Semester 1)
+          description: ""
+          linktext: Available soon
+          url: https://www.spectra.edu.sg/
         - title: Booklists 2026
           description: ""
           linktext: Available soon
@@ -31,9 +35,9 @@ sections:
           description: ""
           linktext: Find Out
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: Timetable 2026 (Semester 1)
+        - title: Home-Based Learning (HBL)
           description: ""
-          linktext: Available soon
+          linktext: View
           url: https://www.spectra.edu.sg/
   - infobar:
       subtitle: Location & Contact Information
