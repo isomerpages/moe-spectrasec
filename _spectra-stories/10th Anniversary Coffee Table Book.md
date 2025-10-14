@@ -12,7 +12,7 @@ our enduring mission to provide an engaged learning experience that prepares eve
 
 ***
 
-<h6 style="color:#3e006d;">No part of the publications may be reproduced in any form without the permission of the school.</h6>
+<h6 style="color:#3e006d;">⚠️ No part of the publications may be reproduced in any form without the permission of the school.</h6>
 
 **[Click HERE to view](https://heyzine.com/flip-book/e6ea06d97d.html)**
 
