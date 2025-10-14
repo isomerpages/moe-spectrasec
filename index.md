@@ -34,7 +34,7 @@ sections:
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
+          url: https://www.spectra.edu.sg/i-am-a/student/useful-links/school-uniform
         - title: Home-Based Learning (HBL)
           description: ""
           linktext: View
