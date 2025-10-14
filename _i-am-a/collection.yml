@@ -2,6 +2,7 @@ collections:
   i-am-a:
     output: true
     order:
+      - Student/Home Based Learning.md
       - Student/.keep
       - Student/Timetable.md
       - Student/Booklists.md
