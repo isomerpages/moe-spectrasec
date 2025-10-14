@@ -5,7 +5,7 @@ variant: tiptap
 description: ""
 third_nav_title: Student
 ---
-<h4><strong>Code of Conduct</strong></h4>
+<h4><strong>📋 Code of Conduct</strong></h4>
 <p>The School reserves the right to amend/review the Code of Conduct at any
 point in the year.</p>
 <ul data-tight="true" class="tight">
@@ -15,7 +15,7 @@ point in the year.</p>
 </li>
 </ul>
 <hr>
-<h4><strong>Attire &amp; Grooming</strong></h4>
+<h4><strong>👍 Attire &amp; Grooming</strong></h4>
 <p>Students are to wear the prescribed school uniform and PE attire. Modifications
 to the uniform and PE attire are not allowed.</p>
 <ul data-tight="true" class="tight">
@@ -25,7 +25,7 @@ to the uniform and PE attire are not allowed.</p>
 </li>
 </ul>
 <hr>
-<h4><strong>Student-Staff Communication Guidelines</strong></h4>
+<h4><strong>📲 Student-Staff Communication Guidelines</strong></h4>
 <p>The School reserves the right to amend/review the Communication Guidelines
 at any point in the year.</p>
 <ul data-tight="true" class="tight">
@@ -34,4 +34,6 @@ at any point in the year.</p>
 </p>
 </li>
 </ul>
+<hr>
+<p></p>
 <p></p>
