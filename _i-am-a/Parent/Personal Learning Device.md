@@ -11,7 +11,7 @@ variant: markdown
 
 ***
 
-##### **Funding for Students**
+##### **💰 Funding for Students**
 
 <p align="justify">The cost of the device bundle can be paid using the&nbsp;<b>Student’s Edusave</b>&nbsp;account, after setting aside a provision for payment of second-tier miscellaneous fees.</p>
 
@@ -19,7 +19,7 @@ variant: markdown
 
 ***
 
-##### **Financial Assistance Support**
+##### **💵 Financial Assistance Support**
 
 *   For students on MOE-FAS, subsidies are available even if there is insufficient Edusave balance. The cash out-of-pocket (OOP) will be $0.
 *   For students on non-MOE-FAS, subsidies are available such that the maximum OOP will be $50.
@@ -28,7 +28,7 @@ variant: markdown
 
 
 
-##### **Supporting Parents to Support their Child**
+##### **💁‍♀️ Supporting Parents to Support their Child**
 
 <p align="justify">As parents, you play an important part in ensuring that your child, continues to learn to be respectful, safe, and responsible users of technology. Some simple tips include:</p>
 
@@ -47,7 +47,7 @@ variant: markdown
 
 ***
 
-##### **Minimum Laptop Specifications**
+##### **💻 Minimum Laptop Specifications**
 
 * Intel N200 Processor
 * 12” or larger Display
