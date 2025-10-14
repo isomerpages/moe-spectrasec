@@ -4,8 +4,8 @@ collections:
     order:
       - Student/.keep
       - Student/Timetable.md
-      - Student/Booklists.md
       - Student/Home Based Learning.md
+      - Student/Booklists.md
       - Student/Code of Conduct.md
       - Student/Useful Links.md
       - Student/Yearbooks.md
