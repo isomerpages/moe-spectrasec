@@ -2,13 +2,13 @@ collections:
   i-am-a:
     output: true
     order:
-      - Student/Acceptable Use Policy (AUP).md
       - Student/.keep
       - Student/Timetable.md
       - Student/Home Based Learning.md
       - Student/Booklists.md
       - Student/School Uniform.md
       - Student/Personal Learning Device (PLD).md
+      - Student/Acceptable Use Policy (AUP).md
       - Student/Code of Conduct.md
       - Student/Useful Links.md
       - Student/Yearbooks.md
