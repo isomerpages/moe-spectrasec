@@ -12,7 +12,7 @@ variant: tiptap
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<h5><strong>Teaching and Learning Portals</strong></h5>
+<h5><strong>👩‍🏫 Teaching and Learning Portals</strong></h5>
 </td>
 </tr>
 <tr>
@@ -35,7 +35,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5><strong>Communications</strong></h5>
+<h5><strong>📲 Communications</strong></h5>
 </td>
 </tr>
 <tr>
@@ -54,7 +54,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5><strong>Administration</strong></h5>
+<h5><strong>✍️ Administration</strong></h5>
 </td>
 </tr>
 <tr>
@@ -97,7 +97,7 @@ VPN)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5><strong>Examination and Result Matters</strong></h5>
+<h5><strong>💻 Examination and Result Matters</strong></h5>
 </td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ VPN)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5><strong>Professional Learning and Development</strong></h5>
+<h5><strong>👨‍💻 Professional Learning and Development</strong></h5>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ VPN)</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<h5><strong>Staff Well-Being</strong></h5>
+<h5><strong>💆‍♀️ Staff Well-Being</strong></h5>
 </td>
 </tr>
 <tr>
