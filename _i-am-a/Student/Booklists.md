@@ -5,5 +5,5 @@ variant: tiptap
 description: ""
 third_nav_title: Student
 ---
-<h4><strong><em>Available soon...</em></strong></h4>
-<p></p>
+<h4><strong>Booklists 2026</strong></h4>
+<p>More information will be available soon...</p>
