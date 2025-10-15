@@ -38,7 +38,7 @@ sections:
         - title: Home-Based Learning (HBL)
           description: ""
           linktext: View
-          url: https://www.spectra.edu.sg/i-am-a/student/home-based-learning/
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/hbl
   - infobar:
       subtitle: Location & Contact Information
       description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
