@@ -14,7 +14,7 @@ Spectra must abide by the school's AUP.</p>
 </p>
 <ul data-tight="true" class="tight">
 <li>
-<p><a href="https://www.spectra.edu.sg/files/Spectra_PDLP_Acceptable_Use_Policy_Version_10_May_2021.pdf" rel="noopener nofollow" target="_blank">Click here to view the PDLP Acceptable Use Policy</a>
+<p><strong><a href="https://www.spectra.edu.sg/files/Spectra_PDLP_Acceptable_Use_Policy_Version_10_May_2021.pdf" rel="noopener nofollow" target="_blank">Click here to view the PDLP Acceptable Use Policy</a></strong>
 </p>
 </li>
 </ul>
