@@ -30,7 +30,7 @@ to the uniform and PE attire are not allowed.</p>
 at any point in the year.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Student_Staff_Communication_Guidelines.pdf" rel="noopener nofollow" target="_blank">Click HERE to view the Student-Staff Communication Guidelines</a></strong>
+<p><strong><a href="https://www.spectra.edu.sg/files/Student_Staff_Communication_Guidelines.pdf" rel="noopener nofollow" target="_blank">Click HERE to view the Student-Staff Communication Guidelines</a></strong>
 </p>
 </li>
 </ul>
