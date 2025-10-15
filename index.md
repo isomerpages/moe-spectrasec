@@ -41,6 +41,6 @@ sections:
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/hbl
   - infobar:
       subtitle: Location & Contact Information
-      description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
-        8184  | Email: spectra@schools.gov.sg"
+      description: "📍 1, Woodlands Drive 64, Singapore 737758 |☎️ Tel: 6466 0775 | 📱
+        6805 8184  | 📧 Email: spectra@schools.gov.sg"
 ---
