@@ -5,8 +5,7 @@ description: ""
 third_nav_title: Prospective Student
 variant: tiptap
 ---
-<p>⚠️ No part of the publications may be reproduced without the school's
-permission<em>.</em>
+<p>⚠️<em> No part of the publications may be reproduced without the school's permission.</em>
 </p>
 <p><a href="https://www.spectra.edu.sg/files/Spectra_Spectacular_Brochure_2025.pdf" rel="noopener nofollow" target="_blank">Click here to view our Spectra Spectacular brochure</a>
 </p>
