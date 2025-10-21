@@ -105,7 +105,7 @@ Sat (9 am - 12 pm)</p>
 <iframe style="border:0;" height="450" width="600" allowfullscreen="true" frameborder="0" src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1370.089109831964!2d103.7464300526684!3d1.3269390345964218!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x31da1009f76aaaab%3A0x49b66d8d79772e84!2sAcer%20Service%20Centre!5e0!3m2!1sen!2ssg!4v1761013444084!5m2!1sen!2ssg"></iframe>
 </div>
 <hr>
-<h4><strong>Reporting of Device Issues (Hardware &amp; Damages) </strong></h4>
+<h4><strong>Reporting of Device Issues (Hardware &amp; Damages)</strong></h4>
 <p>💻 If your device is a PDLP laptop:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -156,6 +156,54 @@ troubleshooting and assist to log a case with contractor if needed.</p>
 <p>Please note that only personal learning devices procured under PDLP device
 bulk tender are eligible for the fortnightly collection services provided
 by contractors.</p>
+</li>
+</ul>
+<hr>
+<h4><strong>Reporting of Lost Devices</strong></h4>
+<p>💻 If your device is a PDLP laptop:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents to make a police report for the lost device.</p>
+</li>
+<li>
+<p>If the lost device is covered under the circumstances listed in the device’s
+insurance coverage, parents should contact and inform the device contractor
+via their helpdesk or service centre.</p>
+</li>
+<li>
+<p>They will need to furnish the vendor with the police report for insurance
+claim. (Applicable only if the device is still under insurance coverage
+period).</p>
+</li>
+<li>
+<p>The vendor’s helpdesk/service centre will advise parents on the insurance
+claim procedure.</p>
+</li>
+<li>
+<p>Parents should also inform school of the lost device. School’s DMA Administrator
+to remote lock the device.</p>
+</li>
+<li>
+<p>School will loan a temporary device from the common pool to students.</p>
+</li>
+<li>
+<p>Vendor to send the new replacement device to school and school to pass
+to student if device is covered under insurance.</p>
+</li>
+<li>
+<p>If the device is without insurance coverage or the loss is due to clause(s)
+not covered under insurance, parents can seek school’s assistance to procure
+a replacement device.</p>
+</li>
+</ul>
+<p>💻 If your device is a non-PDLP laptop, bought from school:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Parents to make a police report for the lost device.</p>
+</li>
+<li>
+<p>Print out the report and submit a copy to Spectra IT Helpdesk and your
+Form Teacher.</p>
 </li>
 </ul>
 <hr>
