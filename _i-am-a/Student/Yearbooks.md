@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Student
 variant: markdown
 ---
-<h6 style="color:#3e006d;">No part of the publications may be reproduced in any form without the permission of the school.</h6>
+<h6 style="color:#3e006d;">⚠️ No part of the publications may be reproduced in any form without the permission of the school.</h6>
 
 ***
 ##### **Yearbook 2024**
