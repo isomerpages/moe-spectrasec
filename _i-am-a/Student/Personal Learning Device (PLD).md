@@ -49,22 +49,26 @@ or
 </ul>
 <hr>
 <h4><strong>Lenovo Authorised Service Centre</strong></h4>
-<ul>
+<ul data-tight="true" class="tight">
 <li>
-<p>Servlink Resource Technologies Pte Ltd: <strong>2 Kallang Avenue, #09-01, CTHub Singapore 339407</strong> (3
-mins walk from Bendemeer MRT)</p>
+<p><strong>Servlink Resource Technologies Pte Ltd</strong>
+</p>
 </li>
 <li>
-<p>Working Hours: Mon - Fri (9 am - 6 pm), Sat (9 am - 1 pm)</p>
+<p><strong>2 Kallang Avenue, #09-01, CTHub Singapore 339407</strong> (3 mins
+walk from Bendemeer MRT)</p>
 </li>
 <li>
-<p>Closed on Sundays &amp; Public Holidays</p>
+<p>🕰️ Working Hours: Mon - Fri (9 am - 6 pm), Sat (9 am - 1 pm)</p>
 </li>
 <li>
-<p>Contact Number: 68171435</p>
+<p>📆 Closed on Sundays &amp; Public Holidays</p>
 </li>
 <li>
-<p>Website: <a href="http://www.servlink.com.sg/pages/product-repair-support" rel="noopener noreferrer nofollow" target="_blank">www.servlink.com.sg/pages/product-repair-support</a>
+<p>☎️ Contact Number: 68171435</p>
+</li>
+<li>
+<p>💻 Website: <a href="http://www.servlink.com.sg/pages/product-repair-support" rel="noopener noreferrer nofollow" target="_blank">www.servlink.com.sg/pages/product-repair-support</a>
 </p>
 </li>
 </ul>
