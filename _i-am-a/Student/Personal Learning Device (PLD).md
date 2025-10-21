@@ -41,6 +41,9 @@ or
 <p>☎️ Contact Number: 63207120</p>
 </li>
 <li>
+<p>📧 Email:</p>
+</li>
+<li>
 <p>🕰️ Operating Hours: Monday - Friday (8 am - 4 pm)</p>
 </li>
 <li>
@@ -94,7 +97,7 @@ Sat (9 am - 12 pm)</p>
 <p>📆 Closed on Sundays &amp; Public Holidays</p>
 </li>
 <li>
-<p>☎️ Contact Number: 1800 8956299</p>
+<p>☎️ Contact Number: 1800 8956299 (Toll-free)</p>
 </li>
 <li>
 <p>💻 Website: <a href="https://www.acer.com/sg-en" rel="noopener nofollow" target="_blank">https://www.acer.com/sg-en</a>
