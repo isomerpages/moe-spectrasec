@@ -26,7 +26,7 @@ sections:
         - title: Timetable 2026
           description: ""
           linktext: Available soon
-          url: https://spectra.edu.sg/i-am-a/student/timetable/
+          url: https://www.spectra.edu.sg/i-am-a/student/timetable/
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
