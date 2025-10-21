@@ -38,10 +38,11 @@ or
 <h4><strong>Spectra IT Helpdesk</strong></h4>
 <ul>
 <li>
-<p>☎️ Contact Number: 63207120</p>
+<p>☎️ Contact Number: 64660775</p>
 </li>
 <li>
-<p>📧 Email:</p>
+<p>📧 Email: <a href="spectra@schools.gov.sg" rel="noopener nofollow" target="_blank">spectra@schools.gov.sg</a>
+</p>
 </li>
 <li>
 <p>🕰️ Operating Hours: Monday - Friday (8 am - 4 pm)</p>
