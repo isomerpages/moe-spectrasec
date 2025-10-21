@@ -2,6 +2,7 @@
 title: Exceptional Learning & Behavioural Support
 permalink: /why-spectra/exceptional-learning-behavioural-support/
 description: ""
+variant: markdown
 ---
 ##### **Literacy, Numeracy and Behavioural Programme**
 
@@ -9,11 +10,11 @@ description: ""
 
 ![3 Tier Support](/images/3-Tier-Support.png)
 
-<p></p><p align="justify"><b>Our Literacy coaches</b>&nbsp;support students with language learning difficulties to access the Tier 1 main class curriculum by building their confidence and bridging their literacy skills gaps.</p>
+<p></p><p align="justify"><b>📖 Our Literacy coaches</b>&nbsp;support students with language learning difficulties to access the Tier 1 main class curriculum by building their confidence and bridging their literacy skills gaps.</p>
 
-<p></p><p align="justify"><b>Our Numeracy coaches</b>&nbsp;help students build confidence and strengthen their core Mathematical concepts through the use of manipulatives, games and online resources.</p>
+<p></p><p align="justify"><b>🔢 Our Numeracy coaches</b>&nbsp;help students build confidence and strengthen their core Mathematical concepts through the use of manipulatives, games and online resources.</p>
 
-<p></p><p align="justify"><b>Our Learning Behaviour Support coaches</b>&nbsp;support students in achieving better social, emotional, and academic outcomes through the Positive Behavioural Intervention Support (PBIS) approach and individualised behaviour intervention plans.</p>
+<p></p><p align="justify"><b>👩🏻‍🏫 Our Learning Behaviour Support coaches</b>&nbsp;support students in achieving better social, emotional, and academic outcomes through the Positive Behavioural Intervention Support (PBIS) approach and individualised behaviour intervention plans.</p>
 
 ![](/images/csulsu2023.png)
 	
