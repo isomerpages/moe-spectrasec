@@ -27,10 +27,6 @@ sections:
           description: ""
           linktext: Available soon
           url: https://spectra.edu.sg/i-am-a/student/timetable/
-        - title: Booklists 2026
-          description: ""
-          linktext: Available soon
-          url: https://www.spectra.edu.sg/i-am-a/student/booklists/
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
