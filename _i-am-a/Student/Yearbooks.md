@@ -10,7 +10,7 @@ variant: markdown
 ***
 ##### **Yearbook 2025**
 
-<a target="new" href="https://heyzine.com/flip-book/f54c214e30.html"><img style="width:500px" src="/images/Spectra_Yearbook_2024.png"></a>
+<a target="new" href="https://heyzine.com/flip-book/f54c214e30.html"><img style="width:500px" src="/images/Sparkles_2025.png"></a>
 ###### [Click here to access the digital version of the Yearbook 2025](https://heyzine.com/flip-book/f54c214e30.html)
 
 ***
