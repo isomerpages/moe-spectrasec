@@ -7,7 +7,7 @@ variant: tiptap
 <div class="isomer-image-wrapper">
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2025___20_Jan.png">
 </div>
-<h5><strong>Our PSG</strong></h5>
+<h5><strong>😊 Our PSG</strong></h5>
 <p>Parents are a very important part of the SPECTRA family. The SPECTRA <strong>Parents Support Group (PSG)</strong> was
 set up because we believe that both the parents and teachers have important
 and complementary roles to play in the upbringing of the children. Today,
@@ -15,7 +15,7 @@ as children spend long hours in school for both academic and co-curricular
 activities, it is more crucial that parents partner with the school in
 inculcating a common set of values in them.</p>
 <hr>
-<h5><strong>Objectives</strong></h5>
+<h5><strong>☑️ Objectives</strong></h5>
 <p>The SPECTRA PSG aims to:</p>
 <ul data-tight="true" class="tight">
 <li>
@@ -31,7 +31,7 @@ awareness of school events and activities to parents.</p>
 </li>
 </ul>
 <hr>
-<h5><strong>Our 2025 PSG EXCO Members</strong></h5>
+<h5><strong>🫰 Our 2025 PSG EXCO Members</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>

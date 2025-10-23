@@ -12,34 +12,31 @@ sections:
         - title: Instagram
           description: "#SpectraStories"
           url: https://www.instagram.com/spectrastories/
-        - title: Booklists 2025
+        - title: Facebook
+          description: Spectra Secondary School
+          url: https://www.facebook.com/SpectraSecondarySchool/
+        - title: Sparkles Yearbook 2025
           description: ""
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
-        - title: Yearbook 2024
-          description: ""
-          url: https://heyzine.com/flip-book/959bac7747.html
-        - title: Student Information Hub (SIH)
-          description: ""
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home
+          url: https://heyzine.com/flip-book/f54c214e30.html
       variant: image
   - textcards:
-      title: Useful Links
+      title: Useful Links For Students
       id: textcards
       cards:
-        - title: Booklists 2025
+        - title: Timetable 2026
           description: ""
-          linktext: Download
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/booklists
+          linktext: Available soon
+          url: https://www.spectra.edu.sg/i-am-a/student/timetable/
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/others/uniform?authuser=0
-        - title: Timetable 2025 (Semester 2)
+          url: https://www.spectra.edu.sg/i-am-a/student/school-uniform/
+        - title: Home-Based Learning (HBL)
           description: ""
-          linktext: Download
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/timetable
+          linktext: View
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/hbl
   - infobar:
       subtitle: Location & Contact Information
-      description: "1, Woodlands Drive 64, Singapore 737758 | Tel: 6466 0775 | 6805
-        8184  | Email: spectra@schools.gov.sg"
+      description: "📍 1, Woodlands Drive 64, Singapore 737758 |☎️ Tel: 6466 0775 | 📱
+        6805 8184  | 📧 Email: spectra@schools.gov.sg"
 ---

@@ -14,11 +14,11 @@ variant: markdown
 
 Spectra offers the following&nbsp;**5 ITE Skills Subjects (ISS)**:
 
-* **Culinary &amp; Restaurant Operations (CRO)**
-* **Internet of Things Applications (IOTA)**
-* **Mobile Web Applications (MWA)**
-* **Mechanical Design &amp; Automation (MDA)**
-* **Retail and e-Commerce (REC)**
+* **🍽️ Culinary &amp; Restaurant Operations (CRO)**
+* **🛜 Internet of Things Applications (IOTA)**
+* **👩🏻‍💻 Mobile Web Applications (MWA)**
+* **🔨 Mechanical Design &amp; Automation (MDA)**
+* **🛍️ Retail and e-Commerce (REC)**
 
 <p align="justify">At lower secondary levels, students are exposed to Vocational Education course tasters that prepare them for the full range of&nbsp; ITE Skills Subject offerings.</p>
 

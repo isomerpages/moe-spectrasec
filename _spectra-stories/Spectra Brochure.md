@@ -2,12 +2,14 @@
 title: Spectra Brochure
 permalink: /spectra-stories/spectra-brochure/
 description: ""
-variant: markdown
+variant: tiptap
 ---
-_No part of the publications may be reproduced without the school's permission._
-
-###### [Click HERE to view the brochure](https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing)
-
-[![](/images/Spectra_Spectacular_Brochure_2024.jpg)](https://drive.google.com/file/d/1vy-PjHk3xnxJzBmmiJUbspR52xRxOB05/view?usp=sharing)
-
-* * *
+<p>⚠️<em> No part of the publications may be reproduced without the school's permission.</em>
+</p>
+<p><a href="https://www.spectra.edu.sg/files/Spectra_Spectacular_Brochure_2025.pdf" rel="noopener nofollow" target="_blank">Click here to view our Spectra Spectacular brochure</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Spectra_Spectacular_Brochure_2024.jpg">
+</div>
+<hr>
+<p></p>

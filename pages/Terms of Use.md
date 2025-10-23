@@ -4,18 +4,18 @@ permalink: /terms-of-use/
 variant: tiptap
 description: ""
 ---
-<h4><strong>Terms of Use</strong></h4>
+<h4><strong>📜 Terms of Use</strong></h4>
 <p>Thank you for visiting Spectra Secondary School website. By accessing
 and using this Website, you shall be deemed to have accepted to be legally
 bound by these Terms of Use. If you do not agree to these Terms of Use,
 please do not use this Web Site.</p>
-<p><strong><u>General </u></strong>
+<p><strong><u>General</u></strong>
 </p>
 <p>2. These Terms of Use may be changed from time to time. Changes will be
 posted on this page and your use of this Web Site after such changes have
 been posted will constitute your agreement to the modified Terms of Use
 and all of the changes.</p>
-<p><strong><u>Proprietary Rights </u></strong>
+<p><strong><u>Proprietary Rights</u></strong>
 </p>
 <p>3. This Web Site is maintained by Spectra Secondary School. It is owned
 by Spectra Secondary School.</p>
@@ -24,11 +24,11 @@ software programs (the Contents), are protected by copyright, trademark
 and other forms of proprietary rights. All rights, title and interest in
 the Contents are owned by, licensed to or controlled by Spectra Secondary
 School.</p>
-<p><strong><u>Privacy Policy </u></strong>
+<p><strong><u>Privacy Policy</u></strong>
 </p>
 <p>5. Click <a href="https://www.spectra.edu.sg/privacy/" rel="noopener noreferrer nofollow" target="_blank">here</a> to
 review this Web Site Privacy Statement.</p>
-<p><strong><u>Restrictions on Use of Materials </u></strong>
+<p><strong><u>Restrictions on Use of Materials</u></strong>
 </p>
 <p>6. Except as otherwise provided, the Contents of this Web Site shall not
 be reproduced, republished, uploaded, posted, transmitted or otherwise
@@ -43,13 +43,13 @@ other purpose will be a violation of Spectra Secondary School’s copyright
 and other intellectual property rights. Graphics and images on this Web
 Site are protected by copyright and may not be reproduced or appropriated
 in any manner without written permission of Spectra Secondary School.</p>
-<p><strong><u>Right of Access </u></strong>
+<p><strong><u>Right of Access</u></strong>
 </p>
 <p>8. Spectra Secondary School reserves all rights to deny or restrict access
 to this Web Site to any particular person, or to block access from a particular
 external address to this Web Site, at any time, without ascribing any reasons
 whatsoever.</p>
-<p><strong><u>Disclaimer of Warranties and Liability </u></strong>
+<p><strong><u>Disclaimer of Warranties and Liability</u></strong>
 </p>
 <p>9. The Contents of this Web Site are provided on an "as is" basis without
 warranties of any kind. To the fullest extent permitted by law, Spectra
@@ -66,7 +66,7 @@ loss of any kind caused as a result (direct or indirect) of the use of
 the Web Site, including but not limited to any damage or loss suffered
 as a result of reliance on the Contents contained in or available from
 the Web Site.</p>
-<p><strong><u>Links from This Web Site to Other Web Sites </u></strong>
+<p><strong><u>Links from This Web Site to Other Web Sites</u></strong>
 </p>
 <p>11. This Web Site contains hyperlinks to web sites which are not maintained
 Spectra Secondary School. Spectra Secondary School is not responsible for
@@ -77,7 +77,7 @@ access to such web sites are entirely at your own risk.</p>
 circumstances shall Spectra Secondary School be considered to be associated
 or affiliated with any trade or service marks, logos, insignia or other
 devices used or appearing on web sites to which this Web Site is linked.</p>
-<p><strong><u>Links to This Web Site from Other Web Sites </u></strong>
+<p><strong><u>Links to This Web Site from Other Web Sites</u></strong>
 </p>
 <p>13. Except as set forth below, caching and links to, and the framing of
 this Web Site or any of the Contents are prohibited.</p>
@@ -104,7 +104,7 @@ intellectual property, proprietary, privacy or publicity rights.</p>
 links or frames and disclaims any responsibility for the content available
 on any other site reached by links to or from this Web Site or any of the
 Contents.</p>
-<p><strong><u>Governing Law </u></strong>
+<p><strong><u>Governing Law</u></strong>
 </p>
 <p>19. These Terms of Use shall be governed and construed in accordance with
 laws of the Republic of Singapore.</p>

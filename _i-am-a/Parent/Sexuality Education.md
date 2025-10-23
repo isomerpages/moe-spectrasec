@@ -5,7 +5,7 @@ description: ""
 third_nav_title: Parent
 variant: tiptap
 ---
-<h4><strong>MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong></h4>
+<h4><strong>👨‍🏫 MOE</strong>&nbsp;<strong>Sexuality Education in Schools</strong></h4>
 <p>1.&nbsp; &nbsp; &nbsp;Sexuality Education (SEd) in schools is about enabling
 students to understand the physiological, social, and emotional changes
 they experience as they mature, develop healthy and rewarding relationships,
@@ -55,7 +55,7 @@ ones</p>
 <p><strong>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on MOE Sexuality Education.</strong>
 </p>
 <hr>
-<h4><strong>Overview of Spectra Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>👀 Overview of Spectra Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2025</strong></h4>
 <p>4.&nbsp; &nbsp; &nbsp;Sexuality Education is delivered in a holistic manner
 through the school curriculum. The content for Sexuality Education is grouped
 into five main themes: Human Development, Interpersonal Relationships,
@@ -650,7 +650,7 @@ of their marriage</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>eTeens Programme</strong>:</h4>
+<h4><strong>👦 eTeens Programme 👧</strong></h4>
 <p>8.&nbsp; &nbsp;eTeens is a programme developed by Health Promotion Board,
 in collaboration with the Ministry of Education,&nbsp;<strong>for Secondary 3 students</strong>&nbsp;to
 provide them with accurate information on STIs, HIV and protection from

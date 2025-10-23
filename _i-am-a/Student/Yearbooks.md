@@ -5,7 +5,13 @@ description: ""
 third_nav_title: Student
 variant: markdown
 ---
-<h6 style="color:#3e006d;">No part of the publications may be reproduced in any form without the permission of the school.</h6>
+<h6 style="color:#3e006d;">⚠️ No part of the publications may be reproduced in any form without the permission of the school.</h6>
+
+***
+##### **Yearbook 2025**
+
+<a target="new" href="https://heyzine.com/flip-book/f54c214e30.html"><img style="width:500px" src="/images/Sparkles_2025.png"></a>
+###### [Click here to access the digital version of the Yearbook 2025](https://heyzine.com/flip-book/f54c214e30.html)
 
 ***
 ##### **Yearbook 2024**

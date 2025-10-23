@@ -5,13 +5,16 @@ description: ""
 third_nav_title: Prospective Student
 variant: tiptap
 ---
-<p><em>No part of the publications may be reproduced without the school's permission.</em>
+<p>⚠️<em> No part of the publications may be reproduced without the school's permission.</em>
 </p>
-<p><strong>Click on the image below to view the brochure</strong>
-</p><a class="isomer-image-wrapper" href="https://cms.isomer.gov.sg/files/Spectra_Spectacular_Brochure_2025.pdf"><img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spectra_Spectacular_Brochure_2024.jpg"></a>
+<p><a href="https://www.spectra.edu.sg/files/Spectra_Spectacular_Brochure_2025.pdf" rel="noopener nofollow" target="_blank">Click here to view our Spectra Spectacular brochure</a>
+</p>
+<div class="isomer-image-wrapper">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spectra_Spectacular_Brochure_2024.jpg">
+</div>
 <hr>
-<h5><strong>What Spectra Offers</strong></h5>
-<p>Spectra Secondary School is a skills-focused specialized school. We admitted&nbsp;our
+<h5><strong>👍 What Spectra Offers</strong></h5>
+<p>Spectra Secondary School is a skills-focused, specialised school. We admitted&nbsp;our
 first batch of Secondary One students&nbsp;in January 2014. We provide
 a customized and practice-oriented curriculum to suit the learning needs
 of our students. We also work closely with the Institute of Technical Education
@@ -27,7 +30,7 @@ instilling self-confidence in all.</p>
 <img style="width:800px" height="auto" width="100%" src="/images/twin%20certification.png">
 </div>
 <hr>
-<h5><strong>Spectra Open House 2025</strong></h5>
+<h5><strong>🏫 Spectra Open House 2025</strong></h5>
 <p>Sign up for our Open House at <strong><a href="https://go.gov.sg/spectra-open-house" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a></strong> on
 the following days:</p>
 <table style="minWidth: 50px">
@@ -85,7 +88,7 @@ the Spectra journey and;</p>
 </li>
 </ul>
 <hr>
-<h5><strong>Application Process</strong></h5>
+<h5><strong>📝 Application Process</strong></h5>
 <p>Spectra admits students who are eligible for <strong>Posting Group 1 </strong>and <strong>Group 1/2</strong>.
 Admission to Spectra can be by Direct Admission or Secondary 1 posting
 process.</p>
@@ -102,7 +105,7 @@ school choices.</p>
 <p>Alternatively, you can indicate Spectra as one of the choices during Secondary
 1 Posting Exercise.</p>
 <hr>
-<h5><strong>Appeals for Transfer to Spectra Secondary School</strong></h5>
+<h5><strong>💁‍♂️ Appeals for Transfer to Spectra Secondary School</strong></h5>
 <p>Students who wish to seek a transfer to Spectra Secondary School can do
 so by sending an appeal to: <strong><a href="mailto:spectra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">spectra@schools.gov.sg</a></strong>
 </p>
