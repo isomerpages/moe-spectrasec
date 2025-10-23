@@ -15,7 +15,7 @@ sections:
         - title: Facebook
           description: Spectra Secondary School
           url: https://www.facebook.com/SpectraSecondarySchool/
-        - title: Yearbook 2025
+        - title: Sparkles Yearbook 2025
           description: ""
           url: https://heyzine.com/flip-book/f54c214e30.html
       variant: image
