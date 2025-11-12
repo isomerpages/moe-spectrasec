@@ -6,24 +6,78 @@ third_nav_title: Parent
 variant: tiptap
 ---
 <h5><strong>💰 MINISTRY OF EDUCATION FINANCIAL ASSISTANCE SCHEME (MOE FAS)</strong></h5>
-<p>The MOE Financial Assistance Scheme aims to help needy Singaporean students
-pay for essential school expenses.</p>
-<p><strong>With effect from January 2023, the income eligibility criteria will be: Gross Monthly Household Income (GHI) = $3000 or below OR Gross Monthly Household Per Capita Income (PCI) = $750 or below.</strong>
-</p>
-<p>The MOE FAS will provide a full waiver of school fees and miscellaneous
-fees. It will also provide free textbooks, free school attire, transport
-subsidy and meal subsidy.</p>
+<p>The Ministry of Education (MOE) provides financial assistance to needy
+Singaporean pupils in specialised schools. The application for financial
+assistance for the year 2026 is now open, and parents/guardians may apply
+online at <strong><a href="https://go.gov.sg/moe-efasss" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/moe-efasss</a></strong>.</p>
+<p>Key enhancements and provisions have been introduced for the 2026 MOE
+FAS applications to streamline the application process and better support
+families.</p>
+<p>MOE will integrate HOMES for means-testing from the 2026 application cycle.
+Once a parent/guardian applies for financial assistance via the link, the
+system will automatically draw household income data from government sources,
+removing the need for most applicants to submit supporting documents.</p>
+<p>To expand access to financial assistance and provide better support to
+families in need, the monthly gross household income ceiling for MOE FAS
+will <strong>increase from $3,000 to $4,000</strong>, while the per capita
+income ceiling will <strong>increase from $750 to $1,000</strong>. Students
+under MOE FAS will also benefit from enhanced transport subsidies. The
+monthly public transport subsidy for students taking public transport will <strong>increase from $17 to $21</strong>.</p>
+<p>The enhancements are in addition to existing subsidies that remain for
+school fees, textbooks, uniforms and meals.</p>
 <hr>
-<p>To apply for the MOE FAS for your child/ward, please download the application
-form via this link &gt; <a href="/files/moe fas application form for specialised schools 2024.pdf" rel="noopener nofollow" target="_blank">FAS Application Form 2025</a>&nbsp;or
-obtain a copy from the General Office. Please complete the application
-form and return it with supporting documents to the school.</p>
-<p>The school will review your application and inform you of the outcome.</p>
-<p><strong>If you have any enquiries, please contact the General Office at 6466 0775 or 6805 8184.</strong>
+<h4><strong>📑Summary of Key Enhancements to MOE FAS applicable for Specialised Schools</strong></h4>
+<table style="minWidth: 75px">
+<colgroup>
+<col>
+<col>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>&nbsp;</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Current</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p><strong>Enhancement / Revised Provisions Criteria (from AY2026)</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Income Eligibility Criteria for MOE FAS</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GHI&nbsp;≤ $3,000 or PCI&nbsp;≤ $750</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>GHI ≤ $4,000 or PCI ≤ $1,000</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>Transport Subsidies for MOE FAS Recipients</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$17 monthly public transport subsidy (for students taking public transport)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>$21 monthly public transport subsidy (for students taking public transport)</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><em>GHI - Gross Household Income<br>PCI - Per Capita Income</em>
 </p>
 <hr>
-<p></p>
-<div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_MOE_FAS_Infograhics.png">
-</div>
+<p>👉 For more information on the FAS scheme, please refer to the following
+MOE webpage at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></strong> &nbsp;or
+contact the school’s General Office at <strong>6466 0775 / 6805 8184</strong>.</p>
 <p></p>
