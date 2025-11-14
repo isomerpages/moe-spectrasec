@@ -10,7 +10,7 @@ third_nav_title: Student
 <h4><strong>📝 The Acceptable Use Policy (AUP) in Spectra</strong></h4>
 <p>For meaningful use of the device for learning purposes, all students in
 Spectra must abide by the school's AUP.</p>
-<p><em>Version: 10 May 2021</em>
+<p><em>Version: 14 Nov 2025</em>
 </p>
 <ul data-tight="true" class="tight">
 <li>
