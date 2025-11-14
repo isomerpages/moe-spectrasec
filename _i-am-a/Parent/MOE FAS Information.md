@@ -78,6 +78,6 @@ school fees, textbooks, uniforms and meals.</p>
 </p>
 <hr>
 <p>👉 For more information on the FAS scheme, please refer to the following
-MOE webpage at&nbsp;<strong><a rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></strong> &nbsp;or
+MOE webpage at&nbsp;<strong><a href="https://www.moe.gov.sg/financial-matters/financial-assistance" rel="noopener noreferrer nofollow" target="_blank">https://www.moe.gov.sg/financial-matters/financial-assistance</a></strong> &nbsp;or
 contact the school’s General Office at <strong>6466 0775 / 6805 8184</strong>.</p>
 <p></p>
