@@ -40,21 +40,21 @@ the following days:</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Day of PSLE results release</strong>
+<p><strong>25 Nov 2025 (Tue)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>11.00am – 3.30pm</strong>
+<p><strong>12.00 pm to 4.00 pm</strong>
 </p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>Day after PSLE results release to 28 Nov 2025 (Fri)</strong>
+<p><strong>26 to 28 Nov 2025 (Wed to Fri)</strong>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9.00am – 3.30pm</strong>
+<p><strong>9.00 am to 4.00 pm</strong>
 </p>
 </td>
 </tr>
@@ -64,14 +64,12 @@ the following days:</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p><strong>9.00am – 3.00pm</strong>
+<p><strong>9.00 am to 3.00 pm</strong>
 </p>
 </td>
 </tr>
 </tbody>
 </table>
-<p><em>* Information will be updated closer to the day of PSLE results release</em>
-</p>
 <p>During the Open House, students can:</p>
 <ul data-tight="true" class="tight">
 <li>
