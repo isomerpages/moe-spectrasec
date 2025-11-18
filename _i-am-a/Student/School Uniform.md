@@ -17,8 +17,8 @@ in-store:</p>
 <p><strong>Please Note:</strong>
 <br>Shanghai Uniform will be selling uniforms in the school from <strong>Tue, 7 January</strong> to <strong>Fri, 10 January 2025</strong>.
 The operating hours are from <strong>9.00 am to 3.00 pm</strong>.</p>
-<p>If you wish to purchase the items from the bookshop online, please visit <strong><a href="https://shanghai-uniforms.com/" rel="noopener noreferrer nofollow" target="_blank"><u>https://dyeducation.net/sss/</u></a></strong> (Password
-can be obtained from the Form Teacher or General Office).&nbsp;</p>
+<p>If you wish to purchase items from the bookshop online, please visit&nbsp;<strong><a href="https://dyeducation.net/" rel="noopener noreferrer nofollow" target="_blank"><u>https://dyeducation.net</u></a></strong>.
+(A password can be obtained from the General Office, Tel: 6466 0775)&nbsp;</p>
 <p>Delivery for collection at the school is complimentary; however<strong>,</strong>&nbsp;a
 delivery fee applies if you would like the items to be delivered to an
 address other than the school in Singapore.</p>
