@@ -19,6 +19,14 @@ sections:
           description: ""
           url: https://heyzine.com/flip-book/f54c214e30.html
       variant: image
+  - infopic:
+      title: Open House 2025
+      subtitle: JOIN US FOR
+      id: infopic
+      button: FIND OUT MORE
+      url: https://www.spectra.edu.sg/i-am-a/prospective-student/sec-1-admission/
+      image: /images/Spectra_Open_House_2025.png
+      alt: Image alt text
   - textcards:
       title: Useful Links For Students
       id: textcards
