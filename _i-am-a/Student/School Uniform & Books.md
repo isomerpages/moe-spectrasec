@@ -40,8 +40,8 @@ dates:</p>
 </div>
 <hr>
 <h4><strong>📖 Sale of School Books</strong></h4>
-<p>The purchase of items from the bookshop online, it will only be available
-from 1st week of December 2025.</p>
+<p>Online sales of books and items from the bookshop will commence from 1
+December 2025.</p>
 <p>If you wish to purchase items from the bookshop online, please visit&nbsp;<strong><a href="https://dyeducation.net/" rel="noopener noreferrer nofollow" target="_blank"><u>https://dyeducation.net</u></a></strong>.
 (A password can be obtained from the General Office, Tel: 6466 0775)&nbsp;</p>
 <p>Delivery for collection at the school is complimentary; however<strong>,</strong>&nbsp;a
