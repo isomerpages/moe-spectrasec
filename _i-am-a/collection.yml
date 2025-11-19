@@ -4,7 +4,7 @@ collections:
     order:
       - Student/.keep
       - Student/Timetable.md
-      - Student/School Uniform.md
+      - Student/School Uniform & Books.md
       - Student/Personal Learning Device (PLD).md
       - Student/Acceptable Use Policy (AUP).md
       - Student/Code of Conduct.md
