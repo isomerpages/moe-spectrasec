@@ -10,6 +10,16 @@ variant: tiptap
 </colgroup>
 <tbody>
 <tr>
+<td rowspan="1" colspan="1">
+<h5><strong>All in a Day’s Work (2025)</strong></h5>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<h5><strong>ISS+ CPAS Heartwork (2025)</strong></h5>
+</td>
+</tr>
+<tr>
 <th rowspan="1" colspan="1">
 <h5><strong>Passion. Skills. Attitude. Our Spectran (2024)</strong></h5><a class="isomer-image-wrapper" href="https://drive.google.com/file/d/17heq9WUFc_1IE3hp6V8BgWSrKR-P11TG/view?usp=sharing"><img style="width: 100%;" height="auto" width="100%" alt="" src="/images/Our_Spectran.png"></a>
 <p></p>
