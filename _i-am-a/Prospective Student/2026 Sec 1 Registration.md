@@ -11,7 +11,7 @@ message to indicate successful admission, you will also receive an Offer
 Package via mail. Please refer to the information in the package for the
 admission details.&nbsp;</p>
 <p>(B) For students posted to Spectra Secondary School via the&nbsp;<strong>Secondary 1 Posting Exercise</strong>,
-please report to the school on&nbsp;<strong>Mon, 22 December 2025, based on the timing indicated in your offer package</strong>.</p>
+please report to the school on&nbsp;<strong>Mon, 22 December 2025 at 2.00 pm</strong>.</p>
 <p>Please bring the following documents:</p>
 <ul data-tight="true" class="tight">
 <li>
