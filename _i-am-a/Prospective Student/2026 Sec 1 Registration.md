@@ -34,7 +34,7 @@ applicable)&nbsp;</p>
 <hr>
 <h5><strong>💁‍♂️ Appeals for Transfer to Spectra Secondary School</strong></h5>
 <p>Students who wish to seek a transfer to Spectra Secondary School can do
-so by sending an appeal to:&nbsp;<strong><a href="mailto: spectra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">spectra@schools.gov.sg</a></strong>&nbsp;</p>
+so by sending an appeal to:&nbsp;<strong><a href="mailto:spectra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">spectra@schools.gov.sg</a></strong>&nbsp;</p>
 <p>Secondary 1 students who are in Posting Group 1 and Group 1 / 2 are eligible
 for the appeal. All applications are subject to available vacancies and
 the school’s admission criteria.</p>
