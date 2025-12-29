@@ -19,14 +19,6 @@ sections:
           description: ""
           url: https://heyzine.com/flip-book/f54c214e30.html
       variant: image
-  - infopic:
-      title: Sec 1 Registration 2026
-      subtitle: INFORMATION FOR
-      id: infopic
-      button: FIND OUT
-      url: https://spectra.edu.sg/2026-sec-1-registration/
-      image: /images/s1registration2026.png
-      alt: Image alt text
   - textcards:
       title: Useful Links For Students
       id: textcards
@@ -35,14 +27,18 @@ sections:
           description: ""
           linktext: Available soon
           url: https://www.spectra.edu.sg/i-am-a/student/timetable/
+        - title: Code of Conduct
+          description: ""
+          linktext: Learn more
+          url: https://www.spectra.edu.sg/files/Spectra_Code_of_Conduct__Updated_28_Dec_2025_.pdf
+        - title: Attire & Grooming
+          description: ""
+          linktext: Learn more
+          url: https://www.spectra.edu.sg/files/2026_Attire_and_Grooming_Slides__Updated_28_Dec_2025_.pdf
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out
           url: https://www.spectra.edu.sg/i-am-a/student/school-uniform/
-        - title: Home-Based Learning (HBL)
-          description: ""
-          linktext: View
-          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/hbl
   - infobar:
       subtitle: Location & Contact Information
       description: "📍 1, Woodlands Drive 64, Singapore 737758 |☎️ Tel: 6466 0775 | 📱

@@ -10,7 +10,7 @@ third_nav_title: Student
 point in the year.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.spectra.edu.sg/files/Spectra_Code_of_Conduct__Updated_1_Jan_2025_.pdf" rel="noopener nofollow" target="_blank">Click HERE to view the Code of Conduct</a></strong>
+<p><strong><a href="https://www.spectra.edu.sg/files/Spectra_Code_of_Conduct__Updated_28_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Click HERE to view the Code of Conduct</a></strong>
 </p>
 </li>
 </ul>
@@ -20,7 +20,7 @@ point in the year.</p>
 to the uniform and PE attire are not allowed.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.spectra.edu.sg/files/Attire_and_Grooming_for_Spectrans.pdf" rel="noopener nofollow" target="_blank">Click HERE to find out more about the Attire &amp; Grooming for Spectrans</a></strong>
+<p><strong><a href="https://www.spectra.edu.sg/files/2026_Attire_and_Grooming_Slides__Updated_28_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Click HERE to find out more about the Attire &amp; Grooming for Spectrans</a></strong>
 </p>
 </li>
 </ul>
