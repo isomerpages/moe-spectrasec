@@ -35,6 +35,10 @@ sections:
           description: ""
           linktext: View
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/hbl
+        - title: Code of Conduct
+          description: ""
+          linktext: Learn more
+          url: https://www.spectra.edu.sg/files/Spectra_Code_of_Conduct__Updated_28_Dec_2025_.pdf
   - infobar:
       subtitle: Location & Contact Information
       description: "📍 1, Woodlands Drive 64, Singapore 737758 |☎️ Tel: 6466 0775 | 📱
