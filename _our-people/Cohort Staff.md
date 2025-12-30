@@ -24,7 +24,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong>SECONDARY 1 (2025)</strong></h4>
+<h4><strong>SECONDARY 1 (2026)</strong></h4>
 </td>
 </tr>
 <tr>
@@ -219,7 +219,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong>SECONDARY 2 (2025)</strong></h4>
+<h4><strong>SECONDARY 2 (2026)</strong></h4>
 </td>
 </tr>
 <tr>
@@ -414,7 +414,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong>SECONDARY 3 (2025)</strong></h4>
+<h4><strong>SECONDARY 3 (2026)</strong></h4>
 </td>
 </tr>
 <tr>
@@ -619,7 +619,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="3">
-<h4><strong>SECONDARY 4 (2025)</strong></h4>
+<h4><strong>SECONDARY 4 (2026)</strong></h4>
 </td>
 </tr>
 <tr>
