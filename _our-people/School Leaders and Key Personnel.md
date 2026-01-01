@@ -238,7 +238,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Programme Head, Spectra Academy</p>
+<p>Spectra Academy Programme Head, CCE Advisor</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Liu Lijun</p>
@@ -254,14 +254,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Teacher, ML</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Khairunisak Binte Hussain</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Teacher, MA</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -270,10 +262,34 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Teacher, ML</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Khairunisak Binte Hussain</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Senior Teacher, PE</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Eleonor Serrano Rivera</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CL Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Yuan Feng</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>CSU Coordinator</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Wee Sin Yee</p>
 </td>
 </tr>
 <tr>
@@ -290,22 +306,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Tan Meng Liang (Victor)</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>SC Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Thng Hwee Theng Elizabeth</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>CL Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Yuan Feng</p>
 </td>
 </tr>
 <tr>
@@ -334,10 +334,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>CSU Coordinator</p>
+<p>SC Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Wee Sin Yee</p>
+<p>Ms Thng Hwee Theng Elizabeth</p>
 </td>
 </tr>
 <tr>
