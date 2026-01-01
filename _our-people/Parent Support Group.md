@@ -31,7 +31,7 @@ awareness of school events and activities to parents.</p>
 </li>
 </ul>
 <hr>
-<h5><strong>🫰 Our 2025 PSG EXCO Members</strong></h5>
+<h5><strong>🫰 Our 2026 PSG EXCO Members</strong></h5>
 <table style="minWidth: 50px">
 <colgroup>
 <col>
@@ -40,108 +40,108 @@ awareness of school events and activities to parents.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
+<p><strong>PSG EXCO Member's Name</strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p><strong>Name</strong>
-</p>
+<p>Patrick Cher</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Chairman</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chairperson</p>
+<p>Lim Pei Lan Vivian</p>
 </td>
-<td rowspan="1" colspan="1">
-<p>Mdm Melody Chow</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Secretary</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mdm Julia Lee Siew Guat</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Member</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
-<p>Mdm Belinda Wong</p>
+<p>Anand Narayana Vadivu</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Tan Eng Kiong (Shawn)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Siti Masrina</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Rashidah M Sani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Mahmutha Begum d/o Ismathinoon</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Mahmutha Begum d/o Ismathinoon</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Anand Narayana Vadivu</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Liang Aik Kwan, Derek</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Shawn Tan Eng Kiong</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Nur Syazwani Tan @ Tan Pei Fern</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Rashidah M Sani</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Ember Yeo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Patrick Cher Hock Lye</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Chow Yoke Lan (Melody)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Lim Pei Lan, Vivian</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Julia Lee Siew Guat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tan Moon Chong</p>
+<p>Member</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Cheng Ying Ling</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mdm Cheng Ying Ling</p>
+<p>Member</p>
 </td>
 </tr>
 </tbody>
