@@ -40,108 +40,116 @@ awareness of school events and activities to parents.</p>
 <tbody>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>PSG EXCO Member's Name</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
 <p><strong>Designation</strong>
 </p>
 </td>
+<td rowspan="1" colspan="1">
+<p><strong>Name</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td rowspan="1" colspan="1">
-<p>Patrick Cher</p>
-</td>
 <td rowspan="1" colspan="1">
 <p>Chairman</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Patrick Cher</p>
+</td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Lim Pei Lan Vivian</p>
+<p>Honorary Secretary</p>
 </td>
+<td rowspan="1" colspan="1">
+<p>Naomi Abraham (Hon Sec)</p>
+</td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Member</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Anand Narayana Vadivu</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mahmutha Ismathinoon</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Tan Eng Kiong (Shawn)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Member</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Rashidah M Sani</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Shawn Tan</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Mahmutha Begum d/o Ismathinoon</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Vivian Lim</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Liang Aik Kwan, Derek</p>
+<p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Member</p>
+<p>Derek Liang</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Nur Syazwani Tan @ Tan Pei Fern</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Member</p>
 </td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Ember Yeo</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Nur Syazwani Tan Pei En</p>
 </td>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Chow Yoke Lan (Melody)</p>
-</td>
-<td rowspan="1" colspan="1">
 <p>Member</p>
 </td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Julia Lee Siew Guat</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Member</p>
-</td>
-</tr>
-<tr>
 <td rowspan="1" colspan="1">
 <p>Cheng Ying Ling</p>
 </td>
+</tr>
+<tr>
 <td rowspan="1" colspan="1">
 <p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Melody Chow</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Member</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Julia Lee</p>
 </td>
 </tr>
 </tbody>
