@@ -23,11 +23,39 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://deck.toys/" rel="noopener noreferrer nofollow" target="_blank">Deck.Toys</a>
+<p><a href="https://deck.toys/login" rel="noopener noreferrer nofollow" target="_blank">Deck.Toys</a>
 </p>
 </li>
 <li>
-<p><a href="https://sites.google.com/moe.edu.sg/spectra-student-info-hub/home" rel="noopener noreferrer" target="_blank">Spectra Student Information Hub</a>
+<p><a href="https://classkick.com/" rel="noopener nofollow" target="_blank">Classkick</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.canva.com/" rel="noopener nofollow" target="_blank">Canva</a>
+</p>
+</li>
+<li>
+<p><a href="https://edpuzzle.com/schools/join/hjh532" rel="noopener nofollow" target="_blank">Edpuzzle</a>
+</p>
+</li>
+<li>
+<p><a href="https://padlet.com/" rel="noopener nofollow" target="_blank">Padlet</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.blooket.com/" rel="noopener nofollow" target="_blank">Blooket</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.classpoint.io/" rel="noopener nofollow" target="_blank">ClassPoint</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.socrative.com/" rel="noopener nofollow" target="_blank">Socrative</a>
+</p>
+</li>
+<li>
+<p><a href="https://www.mentimeter.com/" rel="noopener nofollow" target="_blank">Mentimeter</a>
 </p>
 </li>
 </ol>
