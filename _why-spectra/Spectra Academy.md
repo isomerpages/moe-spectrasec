@@ -48,24 +48,18 @@ of Singapore who have pledged to provide bursaries to help our students
 in achieving successful outcomes.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kampung Spirit Fund</p>
+<p>Enpee Group Foundation</p>
 </li>
 <li>
-<p>Mind the Gap 200 – Hope Fund</p>
+<p>Shu Yuqiang Charity Fund</p>
 </li>
 <li>
-<p>Ng Yuek Fan Foundation</p>
-</li>
-<li>
-<p>Sky Foundation</p>
-</li>
-<li>
-<p>TSMP Foundation</p>
+<p>TD Family Foundation</p>
 </li>
 </ul>
 <hr>
 <h5><strong>How to enrol?</strong></h5>
-<p>Application for 2025 admission will be starting soon. If you are keen
+<p>Application for 2026 admission will be starting soon. If you are keen
 to find out more about this programme, please submit your enquiries to
 us at <strong><a href="https://go.gov.sg/spectra-academy" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-academy</a></strong>
 </p>
