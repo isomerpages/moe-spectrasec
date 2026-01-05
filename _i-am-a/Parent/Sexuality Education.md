@@ -93,7 +93,7 @@ to deal with various issues related to sexuality, which are of prime concern
 at this age.</p>
 <p><strong>At Spectra Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2026:</strong>
 </p>
-<h4><strong>Secondary 1</strong></h4>
+<h4><strong>📘 Secondary 1</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -148,12 +148,12 @@ online and offline.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>recognise the importance of monitoring and managing our emotional reactions,
-in helpful ways that are reflective of our values and principles</p>
+in helpful ways that are reflective of our values and principles;</p>
 <p></p>
 </li>
 <li>
 <p>recognise that there are different forms of love (e.g. familial, platonic,
-romantic love)</p>
+romantic love);</p>
 <p></p>
 </li>
 <li>
@@ -162,7 +162,7 @@ relationships, both online and offline</p>
 </li>
 <li>
 <p>understand what dating is, and recognise that the readiness and interest
-in dating vary among individuals</p>
+in dating vary among individuals.</p>
 </li>
 </ul>
 </td>
@@ -191,7 +191,7 @@ of self.&nbsp;</p>
 <li>
 <p>understand that physical and psychological abuse from others, especially
 those we know and trust, can have strong negative effects on a person’s
-self-concept</p>
+self-concept.</p>
 </li>
 </ul>
 </td>
@@ -222,14 +222,14 @@ will learn that it could lead to addiction and/or other risky sexual behaviours.
 <li>
 <p>understand and accept that as we work towards becoming our best self,
 there will be times when we make mistakes, and recognise the importance
-of exercising moral courage in facing up to consequences</p>
+of exercising moral courage in facing up to consequences;</p>
 <p></p>
 </li>
 <li>
 <p>recognise that there are moral and legal consequences of risky sexual
 behaviours, pornography access and acting irresponsibly or maliciously
 when online (e.g. spreading of online falsehoods, flouting copyright laws,
-etc.)</p>
+etc.).</p>
 </li>
 </ul>
 <p></p>
@@ -241,7 +241,7 @@ etc.)</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Secondary 2</strong></h4>
+<h4><strong>📕 Secondary 2</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -307,16 +307,16 @@ treat everyone with respect and empathy.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>know that one’s understanding of gender roles should not be limited by
-gender stereotypes</p>
+gender stereotypes;</p>
 <p></p>
 </li>
 <li>
 <p>develop an appreciation of one’s own unique qualities and characteristics
-as a male or female</p>
+as a male or female;</p>
 <p></p>
 </li>
 <li>
-<p>understand what sexual orientation entails</p>
+<p>understand what sexual orientation entails.</p>
 </li>
 </ul>
 <p></p>
@@ -348,7 +348,7 @@ and safety.</p>
 <li>
 <p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
-both online and offline</p>
+both online and offline.</p>
 </li>
 </ul>
 </td>
@@ -379,13 +379,13 @@ of babies.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>recognise the importance of self-respect and respect for others in relating
-to members of the opposite sex</p>
+to members of the opposite sex;</p>
 <p></p>
 </li>
 <li>
 <p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
-both offline and online</p>
+both offline and online.</p>
 </li>
 </ul>
 <p></p>
@@ -397,7 +397,7 @@ both offline and online</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Secondary 3</strong></h4>
+<h4><strong>📙Secondary 3</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -459,13 +459,13 @@ help in times of need.</p>
 <li>
 <p>recognise the importance of being informed of social and moral issues
 of the day and the need to reflect on these issues, and weigh them against
-our own moral standpoints as we form our perspectives about them</p>
+our own moral standpoints as we form our perspectives about them;</p>
 <p></p>
 </li>
 <li>
 <p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
-alignment with our beliefs</p>
+alignment with our beliefs.</p>
 <p></p>
 </li>
 </ul>
@@ -477,7 +477,7 @@ alignment with our beliefs</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Secondary 4</strong></h4>
+<h4><strong>📗 Secondary 4</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -541,13 +541,13 @@ and principles, with regard to gender stereotypes.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>understand what gender stereotypes comprise, e.g. notions of masculinity
-and femininity vary over time and space, and are shaped by societal expectations</p>
+and femininity vary over time and space, and are shaped by societal expectations;</p>
 <p></p>
 </li>
 <li>
 <p>know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
-and should be avoided</p>
+and should be avoided.</p>
 </li>
 </ul>
 <p></p>
@@ -591,19 +591,19 @@ that they have if they or their friends are involved in an unhealthy relationshi
 <ul data-tight="true" class="tight">
 <li>
 <p>know there are healthy ways of coping with broken relationships, and family
-and friends are important pillars of support</p>
+and friends are important pillars of support;</p>
 <p></p>
 </li>
 <li>
 <p>recognise emotions caused by traumatic situations, e.g. bullying, abuse
 and dating violence, and understand the physiological and psychological,
-social impact on victims</p>
+social impact on victims;</p>
 <p></p>
 </li>
 <li>
 <p>understand that we need moral courage and wisdom to recognise and end
 relationships that are unhealthy and cause harm to our mental and emotional
-well-being</p>
+well-being;</p>
 <p></p>
 </li>
 <li>
@@ -654,18 +654,18 @@ other.</p>
 <li>
 <p>know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
-and moral dimensions</p>
+and moral dimensions;</p>
 <p></p>
 </li>
 <li>
 <p>know that marriage entails a union between a man and a woman based on
-love, trust, commitment, and requires mutual effort</p>
+love, trust, commitment, and requires mutual effort;</p>
 <p></p>
 </li>
 <li>
 <p>understand that conflicts are normal in any relationship, including marriage,
 and the way in which a couple handles conflict is critical to the success
-of their marriage</p>
+of their marriage.</p>
 </li>
 </ul>
 <p></p>
@@ -757,7 +757,7 @@ of assertiveness and responsible decision-making.</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Information for Parents</strong></h4>
+<h4><strong>💡Information for Parents</strong></h4>
 <p>10.&nbsp; &nbsp;Parents may opt their children out of the Sexuality Education
 lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education
 programmes by MOE-approved external providers.</p>
