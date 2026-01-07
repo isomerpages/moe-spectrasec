@@ -27,14 +27,14 @@ sections:
           description: ""
           linktext: Available soon
           url: https://www.spectra.edu.sg/i-am-a/student/timetable/
+        - title: Home-Based Learning (HBL)
+          description: ""
+          linktext: View now
+          url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/hbl
         - title: Code of Conduct
           description: ""
           linktext: Learn more
           url: https://www.spectra.edu.sg/files/Spectra_Code_of_Conduct__Updated_28_Dec_2025_.pdf
-        - title: Attire & Grooming
-          description: ""
-          linktext: Learn more
-          url: https://www.spectra.edu.sg/files/2026_Attire_and_Grooming_Slides__Updated_28_Dec_2025_.pdf
         - title: Sale of School Uniform
           description: ""
           linktext: Find Out

@@ -7,11 +7,11 @@ variant: tiptap
 <h5><strong>Overview of Spectra Academy Programme</strong></h5>
 <p>The Spectra Academy, launched in March 2023, is a 24-week work-study programme
 to prepare eligible post-secondary students for admission to the ITE. Targeted
-at hands-on learners, this programme allows the students to deepen their
-career interests through formal training in an ITE Skills Subject (ISS),
-and an 8-week work attachment. Currently, the three ISSs offered are <strong>Culinary &amp; Restaurant Operations</strong>, <strong>Retail &amp; e-Commerce</strong> and <strong>Internet of Things Applications</strong>.</p>
+at hands-on learners, this programme enables students to deepen their career
+interests through formal training in an ITE Skills Subject (ISS) and an
+8-week work attachment. Currently, the three ISSs offered are <strong>Culinary &amp; Restaurant Operations</strong>, <strong>Retail &amp; e-Commerce</strong> and <strong>Mechanical Design &amp; Automation</strong>.</p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/2024_SA_Learning_Outcomes.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/SA_LO_2026.png">
 </div>
 <p>The programme aims to:</p>
 <ul data-tight="true" class="tight">
@@ -48,24 +48,18 @@ of Singapore who have pledged to provide bursaries to help our students
 in achieving successful outcomes.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Kampung Spirit Fund</p>
+<p>Enpee Group Foundation</p>
 </li>
 <li>
-<p>Mind the Gap 200 – Hope Fund</p>
+<p>Shu Yuqiang Charity Fund</p>
 </li>
 <li>
-<p>Ng Yuek Fan Foundation</p>
-</li>
-<li>
-<p>Sky Foundation</p>
-</li>
-<li>
-<p>TSMP Foundation</p>
+<p>TD Family Foundation</p>
 </li>
 </ul>
 <hr>
 <h5><strong>How to enrol?</strong></h5>
-<p>Application for 2025 admission will be starting soon. If you are keen
+<p>Application for 2026 admission will be starting soon. If you are keen
 to find out more about this programme, please submit your enquiries to
 us at <strong><a href="https://go.gov.sg/spectra-academy" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-academy</a></strong>
 </p>

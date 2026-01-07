@@ -123,6 +123,57 @@ those recognised by the Singapore Association for Counselling (SAC).</p>
 <hr>
 </li>
 </ul>
+<h4><strong>🏫 Executive Assistant (Estate, Safety &amp; Security)</strong></h4>
+<p><u>Job Description</u>
+</p>
+<p>Your main job responsibilities will comprise the following, but are not
+limited to:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Plan and carry out regular preventive and corrective measures for school
+building assets and facilities: i) Perform minor building and installation
+repairs; ii) Liaise with vendors and contractors for estate maintenance
+work and improvement projects; and iii) Ensure that repair and rectification
+works are completed in a safe and satisfactory manner.</p>
+</li>
+<li>
+<p>Provide logistics support for school activities, excursions and functions.</p>
+</li>
+<li>
+<p>Assist in maintaining the security and safety of the school premises and
+property, which includes supporting the establishment of security and safety
+procedures, conducting emergency exercises and performing traffic control
+duties.</p>
+</li>
+<li>
+<p>Maintain and manage inventory records and emergency and first-aid supplies.</p>
+</li>
+<li>
+<p>Perform basic administrative tasks, such as purchase requisitions and
+evaluations.</p>
+</li>
+<li>
+<p>Any other duties assigned by the School.</p>
+</li>
+</ul>
+<p><u>Requirements</u>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Preferably with at least 2 years of relevant working experience</p>
+</li>
+<li>
+<p>Basic knowledge of Microsoft® Office applications</p>
+</li>
+<li>
+<p>Applicants should possess a Certificate, Nitec or Higher Nitec in a relevant
+discipline</p>
+</li>
+<li>
+<p>Physically fit</p>
+</li>
+</ul>
+<hr>
 <p>A career at Spectra requires deep passion to serve others coupled with
 professional pride and competence.</p>
 <p>If you're interested to join us, please email a detailed CV to <a href="mailto:toh_sook_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_sook_wei@schools.gov.sg</a> and

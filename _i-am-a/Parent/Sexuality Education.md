@@ -55,15 +55,22 @@ ones</p>
 <p><strong>You may click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for more information on MOE Sexuality Education.</strong>
 </p>
 <hr>
-<h4><strong>👀 Overview of Spectra Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2025</strong></h4>
+<h4><strong>👀 Overview of Spectra Secondary&nbsp;School’s&nbsp;Sexuality Education Programme for 2026</strong></h4>
 <p>4.&nbsp; &nbsp; &nbsp;Sexuality Education is delivered in a holistic manner
 through the school curriculum. The content for Sexuality Education is grouped
 into five main themes: Human Development, Interpersonal Relationships,
 Sexual Health, Sexual Behaviour, and, Culture, Society and Law. You may
 click&nbsp;<a href="https://www.moe.gov.sg/education-in-sg/our-programmes/sexuality-education/scope-and-teaching-approach" rel="noopener noreferrer nofollow" target="_blank">here</a>&nbsp;for
 more information on the scope of Sexuality Education in the school curriculum.</p>
-<p>5.&nbsp; &nbsp;The subjects that incorporate topics on sexuality include
-Science and Character and Citizenship Education (CCE)</p>
+<p>5.&nbsp; &nbsp;The subjects that incorporate topics on sexuality include:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Science</p>
+</li>
+<li>
+<p>Character and Citizenship Education (CCE)</p>
+</li>
+</ul>
 <p><strong>Sexuality</strong>&nbsp;<strong>Education</strong>&nbsp;<strong>Lessons</strong>:</p>
 <p>6.&nbsp;&nbsp;The values and attitudes of our youth towards sexuality
 are increasingly shaped by their peers, exposure to the media, popular
@@ -84,9 +91,9 @@ students will have the opportunity to develop positive self-esteem, develop
 their character, and expand their understanding and repertoire of skills
 to deal with various issues related to sexuality, which are of prime concern
 at this age.</p>
-<p><strong>At Spectra Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2025:</strong>
+<p><strong>At Spectra Secondary School, the following lessons from the Sexuality Education Programme will be taught in 2026:</strong>
 </p>
-<h4><strong>Secondary 1</strong></h4>
+<h4><strong>📘 Secondary 1</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -141,11 +148,13 @@ online and offline.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>recognise the importance of monitoring and managing our emotional reactions,
-in helpful ways that are reflective of our values and principles</p>
+in helpful ways that are reflective of our values and principles;</p>
+<p></p>
 </li>
 <li>
 <p>recognise that there are different forms of love (e.g. familial, platonic,
-romantic love)</p>
+romantic love);</p>
+<p></p>
 </li>
 <li>
 <p>recognise the importance of, and understand what builds healthy and supportive
@@ -153,7 +162,7 @@ relationships, both online and offline</p>
 </li>
 <li>
 <p>understand what dating is, and recognise that the readiness and interest
-in dating vary among individuals</p>
+in dating vary among individuals.</p>
 </li>
 </ul>
 </td>
@@ -182,12 +191,12 @@ of self.&nbsp;</p>
 <li>
 <p>understand that physical and psychological abuse from others, especially
 those we know and trust, can have strong negative effects on a person’s
-self-concept</p>
+self-concept.</p>
 </li>
 </ul>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 9</p>
+<p>Term 2 Week 7</p>
 </td>
 </tr>
 <tr>
@@ -204,21 +213,23 @@ will gain awareness of the health, legal and moral issues related to viewing,
 downloading and/or distributing pornography. While students may perceive
 watching pornography as a private issue without consequences to bear, they
 will learn that it could lead to addiction and/or other risky sexual behaviours.</p>
-<p>This lesson is conducted separately for boys and girls in different classrooms,
-so that the students will feel more comfortable during the discussions.</p>
+<p></p>
+<p><em>This lesson is conducted separately for boys and girls in different classrooms, so that the students will feel more comfortable during the discussions.</em>
+</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>understand and accept that as we work towards becoming our best self,
 there will be times when we make mistakes, and recognise the importance
-of exercising moral courage in facing up to consequences</p>
+of exercising moral courage in facing up to consequences;</p>
+<p></p>
 </li>
 <li>
 <p>recognise that there are moral and legal consequences of risky sexual
 behaviours, pornography access and acting irresponsibly or maliciously
 when online (e.g. spreading of online falsehoods, flouting copyright laws,
-etc.)</p>
+etc.).</p>
 </li>
 </ul>
 <p></p>
@@ -230,7 +241,7 @@ etc.)</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Secondary 2</strong></h4>
+<h4><strong>📕 Secondary 2</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -275,12 +286,15 @@ etc.)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focus on how the family, culture and society can influence
-one’s perception of their gender roles. Students will learn what gender
-stereotypes are (e.g. males traditionally as breadwinners and females traditionally
-as doing household chores) and how gender stereotypes are formed. Students
-will discuss how one’s understanding of gender roles should not be limited
-by gender stereotypes, for example women can be pilots, while men can be
-nurses.</p>
+one’s perception of their gender roles.</p>
+<p></p>
+<p>Students will learn what gender stereotypes are (e.g. males traditionally
+as breadwinners and females traditionally as doing household chores) and
+how gender stereotypes are formed.</p>
+<p></p>
+<p>Students will discuss how one’s understanding of gender roles should not
+be limited by gender stereotypes, for example women can be pilots, while
+men can be nurses.</p>
 <p></p>
 <p>Students learn to focus on their personal strengths to pursue their interests
 and build their self- confidence.</p>
@@ -293,14 +307,16 @@ treat everyone with respect and empathy.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>know that one’s understanding of gender roles should not be limited by
-gender stereotypes</p>
+gender stereotypes;</p>
+<p></p>
 </li>
 <li>
 <p>develop an appreciation of one’s own unique qualities and characteristics
-as a male or female</p>
+as a male or female;</p>
+<p></p>
 </li>
 <li>
-<p>understand what sexual orientation entails</p>
+<p>understand what sexual orientation entails.</p>
 </li>
 </ul>
 <p></p>
@@ -332,7 +348,7 @@ and safety.</p>
 <li>
 <p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
-both online and offline</p>
+both online and offline.</p>
 </li>
 </ul>
 </td>
@@ -349,23 +365,27 @@ both online and offline</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>This lesson focuses on respect for personal boundaries; and how to be
-safe from risky sexual behaviour, teenage pregnancy and abortion. Students
-will learn the importance of respecting one another’s boundaries in relationships.
-This lesson emphasises the importance of responsible decision-making, the
-value of sexual abstinence, the need for help seeking. Students will be
-aware of Singapore laws protecting minors, such as the legal consequences
-of having sex with a minor, abortion and the abandonment of babies.</p>
+safe from risky sexual behaviour, teenage pregnancy and abortion.</p>
+<p></p>
+<p>Students will learn the importance of respecting one another’s boundaries
+in relationships. This lesson emphasises the importance of responsible
+decision-making, the value of sexual abstinence, the need for help seeking.</p>
+<p></p>
+<p>Students will be aware of Singapore laws protecting minors, such as the
+legal consequences of having sex with a minor, abortion and the abandonment
+of babies.</p>
 </td>
 <td rowspan="1" colspan="1">
 <ul data-tight="true" class="tight">
 <li>
 <p>recognise the importance of self-respect and respect for others in relating
-to members of the opposite sex</p>
+to members of the opposite sex;</p>
+<p></p>
 </li>
 <li>
 <p>recognise one’s vulnerability to risky situations and the importance of
 exercising discretion to reduce risks and avoid negative consequences,
-both offline and online</p>
+both offline and online.</p>
 </li>
 </ul>
 <p></p>
@@ -377,7 +397,7 @@ both offline and online</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Secondary 3</strong></h4>
+<h4><strong>📙Secondary 3</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -439,12 +459,13 @@ help in times of need.</p>
 <li>
 <p>recognise the importance of being informed of social and moral issues
 of the day and the need to reflect on these issues, and weigh them against
-our own moral standpoints as we form our perspectives about them</p>
+our own moral standpoints as we form our perspectives about them;</p>
+<p></p>
 </li>
 <li>
 <p>understand that we strengthen our character when we commit to sound values-based
 viewpoints (e.g. respect for life) and decisions, and speak and act in
-alignment with our beliefs</p>
+alignment with our beliefs.</p>
 <p></p>
 </li>
 </ul>
@@ -456,7 +477,7 @@ alignment with our beliefs</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Secondary 4</strong></h4>
+<h4><strong>📗 Secondary 4</strong></h4>
 <table style="minWidth: 125px">
 <colgroup>
 <col>
@@ -520,12 +541,13 @@ and principles, with regard to gender stereotypes.</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>understand what gender stereotypes comprise, e.g. notions of masculinity
-and femininity vary over time and space, and are shaped by societal expectations</p>
+and femininity vary over time and space, and are shaped by societal expectations;</p>
+<p></p>
 </li>
 <li>
 <p>know that imposing gender stereotypes on oneself and others can limit
 one’s experiences, cause harm to the self-esteem of oneself and others
-and should be avoided</p>
+and should be avoided.</p>
 </li>
 </ul>
 <p></p>
@@ -569,17 +591,20 @@ that they have if they or their friends are involved in an unhealthy relationshi
 <ul data-tight="true" class="tight">
 <li>
 <p>know there are healthy ways of coping with broken relationships, and family
-and friends are important pillars of support</p>
+and friends are important pillars of support;</p>
+<p></p>
 </li>
 <li>
 <p>recognise emotions caused by traumatic situations, e.g. bullying, abuse
 and dating violence, and understand the physiological and psychological,
-social impact on victims</p>
+social impact on victims;</p>
+<p></p>
 </li>
 <li>
 <p>understand that we need moral courage and wisdom to recognise and end
 relationships that are unhealthy and cause harm to our mental and emotional
-well-being</p>
+well-being;</p>
+<p></p>
 </li>
 <li>
 <p>understand the importance of ensuring that non-verbal messages match with
@@ -629,40 +654,46 @@ other.</p>
 <li>
 <p>know that long-term romantic relationships leading to marriage involve
 understanding oneself and others in the intellectual, emotional, social
-and moral dimensions</p>
+and moral dimensions;</p>
+<p></p>
 </li>
 <li>
 <p>know that marriage entails a union between a man and a woman based on
-love, trust, commitment, and requires mutual effort</p>
+love, trust, commitment, and requires mutual effort;</p>
+<p></p>
 </li>
 <li>
 <p>understand that conflicts are normal in any relationship, including marriage,
 and the way in which a couple handles conflict is critical to the success
-of their marriage</p>
+of their marriage.</p>
 </li>
 </ul>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
 </table>
 <hr>
 <h4><strong>👦 eTeens Programme 👧</strong></h4>
-<p>8.&nbsp; &nbsp;eTeens is a programme developed by Health Promotion Board,
-in collaboration with the Ministry of Education,&nbsp;<strong>for Secondary 3 students</strong>&nbsp;to
-provide them with accurate information on STIs, HIV and protection from
-a health perspective. eTeens is conducted in two segments: a mass talk
-segment and a classroom-based programme.</p>
-<p>9.&nbsp; &nbsp;Students are taught skills such as decision-making, assertiveness,
+<p>8.&nbsp; &nbsp;<em>eTeens</em> is a programme that was developed by Health
+Promotion Board, in collaboration with the Ministry of Education, to provide <strong>Secondary 3 students </strong>with
+accurate information on STIs, HIV and protection from a health perspective.
+With the formation of the Communicable Diseases Agency (CDA) on 1 April
+2025, the programme would now be managed by CDA’s Training and Education
+Division instead of HPB. <em>eTeens</em> is conducted in two segments – a
+mass talk segment and a classroom-based programme. The desired outcome
+of the <em>eTeens</em> programme is that students are empowered to make wise,
+informed and sensible decisions to protect themselves from sexually transmitted
+infectious diseases.</p>
+<p>9.&nbsp; Students are taught skills such as decision-making, assertiveness
 and negotiation to say “no” to sex and negative peer pressure. They also
 learn that the impact of STIs/HIV extends beyond themselves and involves
-their family. Abstinence and upholding family values are the key messages.
-The desired outcome of the eTeens programme is that students are empowered
-to make wise, informed, and sensible decisions.</p>
-<p><strong>At Spectra Secondary School, the eTeens programme will be implemented as follows in 2025:</strong>
+their family, and the importance of responsible decision-making and seeking
+help. Abstinence and upholding family values are the key messages.</p>
+<p><strong>At Spectra Secondary School, the eTeens programme will be implemented as follows in 2026:</strong>
 </p>
 <table style="minWidth: 75px">
 <colgroup>
@@ -691,16 +722,16 @@ to make wise, informed, and sensible decisions.</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Raise awareness and provide knowledge on:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Infectious diseases (STIs and HIV): what it is, how it spreads, how to
-prevent infection mainly through ABC (abstinence, being faithful, correct,
-and consistent condom use).</p>
-</li>
-<li>
-<p>Managing relationships and risky situations in a healthy way.</p>
-</li>
-</ul>
+<p>a)&nbsp;&nbsp; Sexually transmitted infectious diseases (STIs and HIV):
+what it is, how it spreads, how to prevent infection mainly through ABC
+(abstinence, being faithful, correct, and consistent condom use), consequences
+and impact.</p>
+<p>&nbsp;</p>
+<p>b)&nbsp;&nbsp; Skills for respecting boundaries (e.g. decision-making,
+assertiveness, negotiation to say ‘no’ to peer pressure).</p>
+<p>&nbsp;</p>
+<p>c)&nbsp;&nbsp; Managing relationships and risky situations in a healthy
+way, including avenues for help-seeking.</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
@@ -715,7 +746,7 @@ and consistent condom use).</p>
 <ul data-tight="true" class="tight">
 <li>
 <p>Learn to negotiate their way out of a risky situation by applying skills
-of assertiveness and responsible decision-making</p>
+of assertiveness and responsible decision-making.</p>
 </li>
 </ul>
 </td>
@@ -726,18 +757,18 @@ of assertiveness and responsible decision-making</p>
 </tbody>
 </table>
 <hr>
-<h4><strong>Information for Parents</strong></h4>
+<h4><strong>💡Information for Parents</strong></h4>
 <p>10.&nbsp; &nbsp;Parents may opt their children out of the Sexuality Education
 lessons,&nbsp;<em>eTeens</em>&nbsp;and/or supplementary sexuality education
 programmes by MOE-approved external providers.</p>
 <p>11.&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;<strong>Sexuality Education lessons</strong>&nbsp;need
 to complete an opt-out form. If you would like to withdraw your child from
-Sexuality Education in 2025, please complete the Opt-out Form&nbsp;<a href="https://go.gov.sg/2025-sed-optout" rel="noopener noreferrer nofollow" target="_blank">here</a>.
-The Opt-out Form is to be submitted <strong>by 10 March 2025</strong>.</p>
+Sexuality Education in 2026, please complete the Opt-out Form&nbsp;<a href="https://go.gov.sg/opt-out-form-2026" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The Opt-out Form is to be submitted <strong>by 12 March 2026</strong>.</p>
 <p>12.&nbsp; &nbsp;Parents who wish to opt their children out of the&nbsp;<strong><em>eTeens</em></strong>&nbsp;<strong>programme</strong>&nbsp;need
 to complete an opt-out form. If you would like to withdraw your child from
-the eTeens Programme in 2025, please complete the Opt-out Form&nbsp;
-<a href="https://go.gov.sg/2025-eteens-optout" rel="noopener noreferrer nofollow" target="_blank">here</a>. The Opt-out Form is to be submitted <strong>by 10 March 2025</strong>.</p>
+the eTeens Programme in 2026, please complete the Opt-out Form <a href="https://go.gov.sg/eteens-opt-out-form-spectra" rel="noopener noreferrer nofollow" target="_blank">here</a>.
+The Opt-out Form is to be submitted <strong>by 12 March 2026</strong>.</p>
 <p>13.&nbsp; &nbsp;Parents can contact the school at&nbsp;<a href="mailto:spectra@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">spectra@schools.gov.sg</a>&nbsp;for
 discussion or to seek clarification about the school’s sexuality education
 programme.</p>
