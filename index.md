@@ -25,15 +25,15 @@ sections:
       cards:
         - title: Timetable 2026
           description: ""
-          linktext: Available soon
+          linktext: View now
           url: https://www.spectra.edu.sg/i-am-a/student/timetable/
         - title: Home-Based Learning (HBL)
           description: ""
-          linktext: View now
+          linktext: More
           url: https://sites.google.com/moe.edu.sg/spectra-student-info-hub/hbl
         - title: Code of Conduct
           description: ""
-          linktext: Learn more
+          linktext: Read
           url: https://www.spectra.edu.sg/files/Spectra_Code_of_Conduct__Updated_28_Dec_2025_.pdf
         - title: Sale of School Uniform
           description: ""
