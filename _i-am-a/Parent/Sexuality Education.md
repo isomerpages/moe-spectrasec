@@ -235,7 +235,7 @@ etc.).</p>
 <p></p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Term 2 Week 5</p>
+<p>Term 2 Week 9</p>
 </td>
 </tr>
 </tbody>
