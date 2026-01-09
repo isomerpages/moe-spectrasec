@@ -20,7 +20,7 @@ they need to succeed, delivering diverse learning experiences that build their s
 <p style="text-align:justify;">As part of our commitment to the future of learning, we continue to invest in our resources and upgrade our school facilities. These enhancements are designed to enrich our students’ learning experiences and equip them with the skills they need to thrive in an ever-evolving world.</p>
 
 <p style="text-align:justify;">We are proud of our achievements, which reflect the hard work and dedication of our entire school community. From our alumnus receiving the prestigious Lee Kuan Yew All-Round Excellence Award, to the Community in Bloom Award for four years for our Edible Learning Garden, to securing overall championships in the ignITE Challenge organized by the Institute of Technical
-Education for two consecutive years, Spectra continues to shine. These
+Education for three consecutive years, Spectra continues to shine. These
 accomplishments are a testament to the enduring spirit of our staff and
 students.</p>
 
