@@ -4,8 +4,9 @@ permalink: /our-people/parent-support-group/
 description: ""
 variant: tiptap
 ---
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2025___20_Jan.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/PSG_2026.jpg">
 </div>
 <h5><strong>😊 Our PSG</strong></h5>
 <p>Parents are a very important part of the SPECTRA family. The SPECTRA <strong>Parents Support Group (PSG)</strong> was
@@ -125,7 +126,7 @@ awareness of school events and activities to parents.</p>
 <p>Member</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Nur Syazwani Tan Pei En</p>
+<p>Nur Syazwani Tan Pei Fern</p>
 </td>
 </tr>
 <tr>
