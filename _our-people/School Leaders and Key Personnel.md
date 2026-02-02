@@ -257,6 +257,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Subject Head (Acting), CRO</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Wong Wai Kay</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>MDA Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
