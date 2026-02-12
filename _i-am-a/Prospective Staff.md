@@ -7,7 +7,49 @@ variant: tiptap
 <h4><strong>Prospective Staff</strong></h4>
 <p>A career at Spectra requires a deep passion for serving others, coupled
 with professional pride and competence. Currently, we have the following
-career opportunities: &nbsp; &nbsp;</p>
+career opportunities: &nbsp;</p>
+<hr>
+<h4><strong>📖 Teacher, English Language</strong></h4>
+<p>Spectra Secondary School is a Specialised School for students mainly from
+G1.</p>
+<p><strong><u>Job Description</u></strong>
+</p>
+<p>Your main job responsibilities will comprise the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teach English Language at both Lower and Upper Secondary.</p>
+</li>
+<li>
+<p>Student management &amp; counselling responsibilities as Form Teacher.</p>
+</li>
+<li>
+<p>Organise CCA activities for students.</p>
+</li>
+<li>
+<p>Participate in department and school committees.</p>
+</li>
+<li>
+<p>Engage parents and stakeholders.</p>
+<p></p>
+</li>
+</ul>
+<p><strong><u>Requirements</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Preferably 3 years of relevant working experience in a MOE secondary school.</p>
+</li>
+<li>
+<p>Possess a strong sense of mission to help and nurture students.</p>
+</li>
+<li>
+<p>Resourceful, self-driven, meticulous and socially adept.</p>
+</li>
+<li>
+<p>Preferably a Postgraduate Diploma in Education or Diploma in Education
+from NIE or Degree in related discipline.</p>
+</li>
+</ul>
 <hr>
 <h4><strong>🔢 Teacher, Mathematics</strong></h4>
 <p><strong><u>Job Description</u></strong>
@@ -45,132 +87,6 @@ career opportunities: &nbsp; &nbsp;</p>
 <li>
 <p>Preferably a Postgraduate Diploma in Education or Diploma in Education
 from NIE or Degree in related discipline.</p>
-</li>
-</ul>
-<hr>
-<h4><strong>🫶🏻 School Counsellor</strong></h4>
-<p><u>Job Description</u>
-</p>
-<p>Your main job responsibilities will comprise the following:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Develop suitable school counselling programme including a system for needs
-analysis, early identification and referral of students with mental health
-issues and social, emotional and behavioural problems.</p>
-</li>
-<li>
-<p>Provide consultation as well as planning and conducting training for staff
-and parents on pertinent mental health issues and skills for first-line
-intervention and support.</p>
-</li>
-<li>
-<p>Evaluate and report to the school management on the state of student mental
-health in the school, and the effectiveness of the school counselling programme.</p>
-</li>
-<li>
-<p>Develop and conduct small and large group psycho-educational sessions
-for students on mental health issues and healthy coping strategies.</p>
-</li>
-<li>
-<p>Develop and make mental health resources available for students, parents
-and staff.</p>
-</li>
-<li>
-<p>Provide individual and group counselling to students.</p>
-</li>
-<li>
-<p>Conference with staff, parents and external professionals and agencies
-on students being counselled, and conduct home visits where necessary.</p>
-</li>
-<li>
-<p>Look into the referral of students and their families to community resources
-or external professionals, where needed.</p>
-</li>
-<li>
-<p>Provide direct crisis intervention and follow-up to students affected
-by critical incidents.</p>
-</li>
-<li>
-<p>Provide regular updates to school management on the progress of students
-being seen for counselling.&nbsp;</p>
-</li>
-</ul>
-<p><u>Requirements</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Passion and disposition to work with students-at-risk.</p>
-</li>
-<li>
-<p>Empathy for students with social, emotional and mental health difficulties.</p>
-</li>
-<li>
-<p>Strong interpersonal and communication skills.</p>
-</li>
-<li>
-<p>Aware of and sensitive to multicultural issues.</p>
-</li>
-<li>
-<p>Resourceful and resilient.</p>
-</li>
-<li>
-<p>Preferably with at least 3 years of relevant working experience. Experience
-working or volunteering with children or youths would be an advantage.</p>
-</li>
-<li>
-<p>Applicants should possess a relevant counselling qualification, such as
-those recognised by the Singapore Association for Counselling (SAC).</p>
-<hr>
-</li>
-</ul>
-<h4><strong>🏫 Executive Assistant (Estate, Safety &amp; Security)</strong></h4>
-<p><u>Job Description</u>
-</p>
-<p>Your main job responsibilities will comprise the following, but are not
-limited to:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Plan and carry out regular preventive and corrective measures for school
-building assets and facilities: i) Perform minor building and installation
-repairs; ii) Liaise with vendors and contractors for estate maintenance
-work and improvement projects; and iii) Ensure that repair and rectification
-works are completed in a safe and satisfactory manner.</p>
-</li>
-<li>
-<p>Provide logistics support for school activities, excursions and functions.</p>
-</li>
-<li>
-<p>Assist in maintaining the security and safety of the school premises and
-property, which includes supporting the establishment of security and safety
-procedures, conducting emergency exercises and performing traffic control
-duties.</p>
-</li>
-<li>
-<p>Maintain and manage inventory records and emergency and first-aid supplies.</p>
-</li>
-<li>
-<p>Perform basic administrative tasks, such as purchase requisitions and
-evaluations.</p>
-</li>
-<li>
-<p>Any other duties assigned by the School.</p>
-</li>
-</ul>
-<p><u>Requirements</u>
-</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Preferably with at least 2 years of relevant working experience</p>
-</li>
-<li>
-<p>Basic knowledge of Microsoft® Office applications</p>
-</li>
-<li>
-<p>Applicants should possess a Certificate, Nitec or Higher Nitec in a relevant
-discipline</p>
-</li>
-<li>
-<p>Physically fit</p>
 </li>
 </ul>
 <hr>
