@@ -22,8 +22,9 @@ for our students. ’Spectra’ represents the school’s philosophy of recogniz
 the different spectrum of talents and strengths of our students. The School
 aims to embrace and nurture our young in developing their strengths and
 instilling self-confidence in all.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width:800px" height="auto" width="100%" src="/images/customised%20pathway.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway_2026.png">
 </div>
 <div class="isomer-image-wrapper">
 <img style="width:800px" height="auto" width="100%" src="/images/twin%20certification.png">
