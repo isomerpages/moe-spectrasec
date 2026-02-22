@@ -10,8 +10,9 @@ and graduate with a&nbsp;<strong>Singapore-Cambridge Secondary Education Certifi
 an&nbsp;<strong>ITE Skills Subject Certificate (ISSC)</strong>. The ITE
 Skills Subject provides hands-on vocational education in an authentic learning
 environment for our students.</p>
+<p></p>
 <div class="isomer-image-wrapper">
-<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Spectra_Pathway_2026.png">
+<img style="width: 100%" height="auto" width="100%" alt="" src="/images/Pathway_2026.png">
 </div>
 <hr>
 <h5><strong>Vocational Education Programmes</strong></h5>
