@@ -20,7 +20,7 @@ point in the year.</p>
 to the uniform and PE attire are not allowed.</p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="https://www.spectra.edu.sg/files/2026_Attire_and_Grooming_Slides__Updated_28_Dec_2025_.pdf" rel="noopener nofollow" target="_blank">Click HERE to find out more about the Attire &amp; Grooming for Spectrans</a></strong>
+<p><strong><a href="https://www.spectra.edu.sg/files/2026_attire_and_grooming_slides__updated_10_mar_2026.pdf" rel="noopener nofollow" target="_blank">Click HERE to find out more about the Attire &amp; Grooming for Spectrans</a></strong>
 </p>
 </li>
 </ul>
