@@ -112,7 +112,15 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSD, HOD/CCA &amp; AES (Covering)</p>
+<p>HOD/PE &amp; CCA (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Sufri Bin Ramli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>SSD &amp; HOD AES (Covering)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Fong Yee</p>
@@ -233,7 +241,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/VE2 (Acting)</p>
+<p>HOD/VE2</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Raymond Ng Kok Hui</p>
@@ -459,6 +467,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>Senior Manager, Finance</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Tan Theng Joo</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>Manager, Finance</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -475,7 +491,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Manager, Student Admin (Acting)</p>
+<p>Manager, Student Admin</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Ong Denise Germaine</p>
