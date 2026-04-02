@@ -280,7 +280,7 @@ variant: tiptap
 <p>Mr Lee Jin Min (Luis)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Lim Fong Yee</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +324,7 @@ variant: tiptap
 <p>Mr Ismail Bin Kamarudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Farrah Bte Mohamed Ghazali</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +335,7 @@ variant: tiptap
 <p>Ms Noorshakina Binte Jemahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Farrah Bte Mohamed Ghazali</p>
 </td>
 </tr>
 <tr>
@@ -346,7 +346,7 @@ variant: tiptap
 <p>Ms Sarina Bte Rauwi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Liu Lijun</p>
 </td>
 </tr>
 <tr>
@@ -707,7 +707,7 @@ variant: tiptap
 <p>Mr Ng Hock Teck (William)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Ong Hui Mei Rebekah</p>
 </td>
 </tr>
 <tr>
@@ -718,7 +718,7 @@ variant: tiptap
 <p>Mr Abdul Salem Bin Samat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mr Raymond Ng Kok Hui</p>
 </td>
 </tr>
 <tr>
@@ -740,7 +740,7 @@ variant: tiptap
 <p>Ms Tham Sau Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Yeo Puay Joo</p>
 </td>
 </tr>
 <tr>
