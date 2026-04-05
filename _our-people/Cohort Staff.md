@@ -60,7 +60,7 @@ variant: tiptap
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Caryn Zou Jiawei</p>
+<p>Ms Wee Sin Yee</p>
 </td>
 </tr>
 <tr>
