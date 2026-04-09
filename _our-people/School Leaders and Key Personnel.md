@@ -120,7 +120,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>SSD &amp; HOD AES (Covering)</p>
+<p>SSD &amp; HOD/AES</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Lim Fong Yee</p>
@@ -503,14 +503,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Ardines Reymund Gerona</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Associate Manager, IT Support</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Yong Yew Lee Henry</p>
 </td>
 </tr>
 </tbody>
