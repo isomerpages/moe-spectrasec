@@ -60,7 +60,7 @@ variant: tiptap
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Caryn Zou Jiawei</p>
+<p>Ms Wee Sin Yee</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>Mr Mohd Yusri Bin Mohamed Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Sharifah Yasmine Binte Syed Tahar</p>
+<p></p>
 </td>
 </tr>
 <tr>
@@ -107,7 +107,7 @@ variant: tiptap
 <p>Ms Pok Siok Cheng</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Sufri Bin Ramli</p>
+<p>Ms Sharifah Yasmine Binte Syed Tahar</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ variant: tiptap
 <p>Ms Ma Ying (Charlotte)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Sufri Bin Ramli</p>
+<p>Ms Siti Zaleha Sharip</p>
 </td>
 </tr>
 <tr>
@@ -129,7 +129,7 @@ variant: tiptap
 <p>Ms Thng Hwee Theng Elizabeth</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Geeta Shorey</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ variant: tiptap
 <p>Mr Nuriman Bin Mohd Nor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Geeta Shorey</p>
 </td>
 </tr>
 <tr>
@@ -162,7 +162,7 @@ variant: tiptap
 <p>Ms Howe Moey Eng Carolynn</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Mr Chan Mun Leong, Jeremy</p>
 </td>
 </tr>
 <tr>
@@ -280,7 +280,7 @@ variant: tiptap
 <p>Mr Lee Jin Min (Luis)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Lim Fong Yee</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +324,7 @@ variant: tiptap
 <p>Mr Ismail Bin Kamarudin</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Farrah Bte Mohamed Ghazali</p>
 </td>
 </tr>
 <tr>
@@ -335,7 +335,7 @@ variant: tiptap
 <p>Ms Noorshakina Binte Jemahat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Farrah Bte Mohamed Ghazali</p>
 </td>
 </tr>
 <tr>
@@ -346,7 +346,7 @@ variant: tiptap
 <p>Ms Sarina Bte Rauwi</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Liu Lijun</p>
 </td>
 </tr>
 <tr>
@@ -476,7 +476,7 @@ variant: tiptap
 <p>Ms Soh Lay Leng (Lynn)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mr Muhammad Sufri Bin Ramli</p>
 </td>
 </tr>
 <tr>
@@ -498,7 +498,7 @@ variant: tiptap
 <p>Mr Ching Kian Leng (James)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Ms Naomi Nesam Abraham</p>
 </td>
 </tr>
 <tr>
@@ -509,7 +509,7 @@ variant: tiptap
 <p>Mr Iskandar Bin Ismail</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mr Ng Chee Keong</p>
 </td>
 </tr>
 <tr>
@@ -520,7 +520,7 @@ variant: tiptap
 <p>Mr Rajik Ahamed S/O Habeeb Mohamed</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>&nbsp;Mr Terence Poh Eng Hus</p>
 </td>
 </tr>
 <tr>
@@ -553,7 +553,7 @@ variant: tiptap
 <p>Ms Norisha Binte Ridzwan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Wendy Lim Soo Ling</p>
 </td>
 </tr>
 <tr>
@@ -707,7 +707,7 @@ variant: tiptap
 <p>Mr Ng Hock Teck (William)</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Ong Hui Mei Rebekah</p>
 </td>
 </tr>
 <tr>
@@ -718,7 +718,7 @@ variant: tiptap
 <p>Mr Abdul Salem Bin Samat</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Mr Raymond Ng Kok Hui</p>
 </td>
 </tr>
 <tr>
@@ -740,7 +740,7 @@ variant: tiptap
 <p>Ms Tham Sau Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>&nbsp;</p>
+<p>Ms Yeo Puay Joo</p>
 </td>
 </tr>
 <tr>
