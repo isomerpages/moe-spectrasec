@@ -94,13 +94,12 @@ Education and the ITE Skill Subject Certificates.</p>
 </p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Tai Lee Siang
-<br>Mr Chua Boon Keat
+<p>Mr Chua Boon Keat
 <br>Ms Ivy Lai Keet Yee
 <br>Ms Cindy Karim
 <br>Mr Conceicao Nicholas Gerard
 <br>Mdm Chilukuri Dimps Rao
-<br>Mr Chua You Cheng
+<br>Mr Chua Cheng You
 <br>Mr Ganesh Kalyanam
 <br>Ms Juliana Soh Kheng Mei
 <br>Mr Lock Ka Fai
