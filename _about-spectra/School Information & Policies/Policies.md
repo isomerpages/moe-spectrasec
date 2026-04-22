@@ -21,4 +21,12 @@ variant: tiptap
 </li>
 </ul>
 <hr>
+<h5><strong>💲Financial Information</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Financial Information can be found <a href="https://www.charities.gov.sg/_layouts/15/CPInternet/SearchOrgProfile.aspx?q=MjhiMjRhNTctNzk2NS1lMzExLThmZGEtMDA1MDU2YjMwNDg1" rel="noopener nofollow" target="_blank">here</a>
+</p>
+</li>
+</ul>
+<hr>
 <p></p>
