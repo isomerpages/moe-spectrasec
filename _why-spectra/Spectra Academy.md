@@ -42,22 +42,6 @@ help and bursaries.</p>
 <img style="width: 100%" height="auto" width="100%" alt="" src="/images/sa%20key%20stages.png">
 </div>
 <hr>
-<h5><strong>Donors to the Spectra Academy</strong></h5>
-<p>We would like to thank the generous donors through the Community Foundation
-of Singapore who have pledged to provide bursaries to help our students
-in achieving successful outcomes.</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>Enpee Group Foundation</p>
-</li>
-<li>
-<p>Shu Yuqiang Charity Fund</p>
-</li>
-<li>
-<p>TD Family Foundation</p>
-</li>
-</ul>
-<hr>
 <h5><strong>How to enrol?</strong></h5>
 <p>Application for 2026 admission will be starting soon. If you are keen
 to find out more about this programme, please submit your enquiries to
