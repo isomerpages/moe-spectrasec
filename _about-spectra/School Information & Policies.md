@@ -1,9 +1,8 @@
 ---
-title: Policies
-permalink: /about-spectra/school-information/policies/
-description: ""
-third_nav_title: School Information
+title: School Information & Policies
+permalink: /school-information-policies/
 variant: tiptap
+description: ""
 ---
 <h5><strong>📝 Data Protection Guidelines</strong></h5>
 <ul data-tight="true" class="tight">
@@ -17,6 +16,14 @@ variant: tiptap
 <ul data-tight="true" class="tight">
 <li>
 <p>Please refer to the document for details: <a href="/files/whistleblowing_policy_ver_4__spectra_.pdf" rel="noopener noreferrer nofollow" target="_blank">Whistleblowing Policy</a>
+</p>
+</li>
+</ul>
+<hr>
+<h5><strong>💲Financial Information</strong></h5>
+<ul data-tight="true" class="tight">
+<li>
+<p>School Financial Information can be found <a href="https://www.charities.gov.sg/_layouts/15/CPInternet/SearchOrgProfile.aspx?q=MjhiMjRhNTctNzk2NS1lMzExLThmZGEtMDA1MDU2YjMwNDg1" rel="noopener nofollow" target="_blank">here</a>
 </p>
 </li>
 </ul>

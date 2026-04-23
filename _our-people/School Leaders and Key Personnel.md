@@ -459,14 +459,6 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Senior Manager, Operations</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Teo Hung Meng</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>Senior Manager, Finance</p>
 </td>
 <td rowspan="1" colspan="1">
