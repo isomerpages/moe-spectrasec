@@ -10,22 +10,22 @@ third_nav_title: Student
 <p></p>
 <ul data-tight="true" class="tight">
 <li>
-<p><strong><a href="/files/Sec_1__Semester_2__Timetable_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable (Semester 2) 2026</a></strong>
+<p><strong><a href="/files/Sec_1_Semester_2_Timetable_2026__Updated_30062026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 1 Timetable (Semester 2) 2026</a></strong>
 </p>
 <p></p>
 </li>
 <li>
-<p><strong><a href="/files/Sec_2__Semester_2__Timetable_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable (Semester 2) 2026</a></strong>
+<p><strong><a href="/files/Sec_2_Semester_2_Timetable_2026__Updated_30062026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 2 Timetable (Semester 2) 2026</a></strong>
 </p>
 <p></p>
 </li>
 <li>
-<p><strong><a href="/files/Sec_3__Semester_2__Timetable_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable (Semester 2) 2026</a></strong>
+<p><strong><a href="/files/Sec_3_Semester_2_Timetable_2026__Updated_30062026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 3 Timetable (Semester 2) 2026</a></strong>
 </p>
 <p></p>
 </li>
 <li>
-<p><strong><a href="/files/Sec_4__Semester_2__Timetable_2026.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Timetable (Semester 2) 2026</a></strong>
+<p><strong><a href="/files/Sec_4_Semester_2_Timetable_2026__Updated_30062026_.pdf" rel="noopener noreferrer nofollow" target="_blank">Sec 4 Timetable (Semester 2) 2026</a></strong>
 </p>
 </li>
 </ul>
