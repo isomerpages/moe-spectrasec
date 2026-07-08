@@ -51,13 +51,67 @@ from NIE or Degree in related discipline.</p>
 </li>
 </ul>
 <hr>
-<h4><strong>🔢 Teacher, Mathematics</strong></h4>
+<h4><strong>💻 Teacher, Internet of Things Applications (IoTA) and/or Mobile Web Applications (MWA)</strong></h4>
+<p>Spectra Secondary School is a Specialised School for students mainly from
+G1.&nbsp;</p>
 <p><strong><u>Job Description</u></strong>
 </p>
 <p>Your main job responsibilities will comprise the following:</p>
 <ul data-tight="true" class="tight">
 <li>
-<p>Teach Mathematics at both Lower and Upper Secondary.</p>
+<p>Develop effective teaching materials, assignments and assessments to enhance
+students’ learning.</p>
+</li>
+<li>
+<p>Teach Internet of Things Applications (IoTA) and/or Mobile Web Applications
+(MWA)<strong> </strong>at both Lower and Upper Secondary.</p>
+</li>
+<li>
+<p>Student management &amp; counselling responsibilities as Form Teacher.</p>
+</li>
+<li>
+<p>Participate in department and school committees.</p>
+</li>
+<li>
+<p>Establishing networks and linkages with industry.</p>
+</li>
+<li>
+<p>Parent &amp; Stakeholder Engagement.</p>
+<p></p>
+</li>
+</ul>
+<p><strong><u>Requirements</u></strong>
+</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Possess a strong sense of mission to help and nurture students.</p>
+</li>
+<li>
+<p>Resourceful, self-driven, meticulous and socially adept.</p>
+</li>
+<li>
+<p>Familiar with&nbsp;Information Technology, Electrical &amp; Electronic
+Engineering, Computer Science, Data Science and/or Analytics.</p>
+</li>
+<li>
+<p>Possess a subject relevant Diploma/Degree. Fresh graduates are welcome
+to apply.</p>
+</li>
+<li>
+<p>Prior teaching experience to 13-16 year-old students would be an advantage
+(online and blended learning).&nbsp;</p>
+</li>
+</ul>
+<hr>
+<h4><strong>📒 Teacher, Malay Language</strong></h4>
+<p>Spectra Secondary School is a Specialised School for students mainly from
+G1.&nbsp;</p>
+<p><strong><u>Job Description</u></strong>
+</p>
+<p>Your main job responsibilities will comprise the following:</p>
+<ul data-tight="true" class="tight">
+<li>
+<p>Teach Malay Language at both Lower and Upper Secondary.&nbsp;</p>
 </li>
 <li>
 <p>Student management &amp; counselling responsibilities as Form Teacher.</p>
@@ -70,6 +124,7 @@ from NIE or Degree in related discipline.</p>
 </li>
 <li>
 <p>Engage parents and stakeholders.</p>
+<p></p>
 </li>
 </ul>
 <p><strong><u>Requirements</u></strong>
@@ -90,9 +145,9 @@ from NIE or Degree in related discipline.</p>
 </li>
 </ul>
 <hr>
-<p>A career at Spectra requires deep passion to serve others coupled with
-professional pride and competence.</p>
-<p>If you're interested to join us, please email a detailed CV to <a href="mailto:toh_sook_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_sook_wei@schools.gov.sg</a> and
-<a href="mailto:ng_bee_keow_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_bee_keow_a@schools.gov.sg</a>that includes a recent photograph, academic
-and professional qualifications, and relevant work experiences. We regret
-that only shortlisted candidates will be notified.</p>
+<p>Interested candidates should possess a deep sense of mission to help students
+grow, coupled with patience and professional competence.</p>
+<p><strong>If you're interested to join us, please email a detailed CV to <a href="mailto:toh_sook_wei@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">toh_sook_wei@schools.gov.sg</a> and <a href="mailto:ng_bee_keow_a@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">ng_bee_keow_a@schools.gov.sg</a>that includes a recent photograph, academic and professional qualifications, and relevant work experiences. We regret that only shortlisted candidates will be notified.</strong>
+</p>
+<hr>
+<p></p>

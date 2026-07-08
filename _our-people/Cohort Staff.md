@@ -60,7 +60,7 @@ variant: tiptap
 <p>Counsellor</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Ms Wee Sin Yee</p>
+<p>Mr Low Jian Kai Daryl</p>
 </td>
 </tr>
 <tr>
@@ -96,7 +96,7 @@ variant: tiptap
 <p>Mr Mohd Yusri Bin Mohamed Noor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p></p>
+<p>Ms Goh Li Li</p>
 </td>
 </tr>
 <tr>
@@ -140,7 +140,7 @@ variant: tiptap
 <p>Mr Nuriman Bin Mohd Nor</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Geeta Shorey</p>
+<p>Ms Kavitha Ravichandran</p>
 </td>
 </tr>
 <tr>
@@ -151,7 +151,7 @@ variant: tiptap
 <p>Ms Teo Siew Choo</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Normanisha Bte Sarmani</p>
+<p>Ms Yeo Puay Joo</p>
 </td>
 </tr>
 <tr>
@@ -291,7 +291,7 @@ variant: tiptap
 <p>Mrs Rahmat B Saion</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Ng Tyan Miin</p>
+<p>Mr Koo Chee Kiong</p>
 </td>
 </tr>
 <tr>
@@ -313,7 +313,7 @@ variant: tiptap
 <p>Mr Woon Ta-Chuang</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yong Jui Lin</p>
+<p>Ms Farrah Bte Mohamed Ghazali</p>
 </td>
 </tr>
 <tr>
@@ -321,10 +321,10 @@ variant: tiptap
 <p>S2-5</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Ismail Bin Kamarudin</p>
+<p>Ms Normanisha Bte Sarmani</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Farrah Bte Mohamed Ghazali</p>
+<p>Ms Ng Tyan Miin</p>
 </td>
 </tr>
 <tr>
@@ -357,7 +357,7 @@ variant: tiptap
 <p>Ms Chong Nyet Ting</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Nicole Yao Baoji</p>
+<p>Mr Koo Chee Kiong</p>
 </td>
 </tr>
 <tr>
@@ -436,7 +436,7 @@ variant: tiptap
 <p>Year Head 2</p>
 </td>
 <td rowspan="1" colspan="2">
-<p>Mr Poh Eng Hua Terence</p>
+<p>Mr Poh Eng Hu Terence</p>
 </td>
 </tr>
 <tr>
@@ -740,7 +740,7 @@ variant: tiptap
 <p>Ms Tham Sau Lan</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Yeo Puay Joo</p>
+<p>Mr Wong Wai Kay</p>
 </td>
 </tr>
 <tr>

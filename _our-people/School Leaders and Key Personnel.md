@@ -112,10 +112,10 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/PE &amp; CCA (Acting)</p>
+<p>HOD/PE &amp; CCA (Designate)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Mr Muhammad Sufri Bin Ramli</p>
+<p>Ms Thng Hwee Theng Elizabeth</p>
 </td>
 </tr>
 <tr>
@@ -187,7 +187,7 @@ variant: tiptap
 <p>SC Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
-<p>Ms Thng Hwee Theng Elizabeth</p>
+<p>Mr Koo Chee Kiong</p>
 </td>
 </tr>
 <tr>
@@ -233,7 +233,8 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/VE1 &amp; SA Coordinator 1</p>
+<p>HOD/VE1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Wendy Lim Soo Ling</p>
@@ -273,7 +274,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDA Coordinator</p>
+<p>Subject Head, MDA (Acting) &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Rajik Ahamed S/O Habeeb Mohamed</p>
@@ -281,15 +282,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>MDA Coordinator</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Tham Sau Lan</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Spectra Academy Coordinator 2</p>
+<p>Spectra Academy Coordinator</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Chuminah Bte Abdul Rahman</p>
@@ -418,10 +411,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Manager, Student Management</p>
+<p>Manager, STM 1&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr R Mano Haran</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>Manager, STM 2&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Neo Aik Seng</p>
 </td>
 </tr>
 <tr>
@@ -463,14 +464,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Tan Theng Joo</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Manager, Finance</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Koh Wee Kwang</p>
 </td>
 </tr>
 <tr>
