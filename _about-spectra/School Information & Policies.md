@@ -4,38 +4,26 @@ permalink: /school-information-policies/
 variant: tiptap
 description: ""
 ---
-<h5><strong>📝 Data Protection Guidelines</strong></h5>
-<p><em>Updated 23 June 2024</em>
-</p>
+<h4><strong>📝 Data Protection Guidelines</strong></h4>
+<p></p>
 <p><strong>Introduction</strong>
 </p>
-<ol data-tight="true" class="tight">
-<li>
-<p>The Singapore Personal Data Protection Act - 2012 (‘PDPA’) establishes
-a data protection law that comprises various rules governing the collection,
-use, disclosure and care of personal data. It recognises both the rights
+<p>1)The Singapore Personal Data Protection Act - 2012 (‘PDPA’) establishes
+a data protection law comprising various rules governing the collection,
+use, disclosure, and care of personal data. It recognises both the rights
 of individuals to protect their personal data, including rights of access
 and correction, and the needs of organisations to collect, use or disclose
 personal data for legitimate and reasonable purposes.</p>
-<p></p>
-</li>
-<li>
-<p>The purpose of this document is to inform users how Spectra Secondary
+<p>2)The purpose of this document is to inform users how Spectra Secondary
 School (‘the School’) manages Personal Data, which is subject to the Singapore
 Personal Data Protection Act (2012). This Data Protection Policy supplements
 but does not supersede or replace any other consent you may have previously
 provided to the School.</p>
 <p></p>
-</li>
-</ol>
 <p><strong>Data Collected, Usage, Disclosure and Purpose</strong>
 </p>
-<ol start="3" data-tight="true" class="tight">
-<li>
-<p>The School collects data on its staff employment and students enrolment
+<p>3)The School collects data on its staff employment and students enrolment
 including (but not limited to):</p>
-</li>
-</ol>
 <p>a. Staff: personal details, contact information, household information,
 payroll related information, resume, educational information, performance
 indicators, attendance information, training records, terms of employment
@@ -43,11 +31,7 @@ details, any relevant medical information and photographs.</p>
 <p>b. Student: personal details, contact information, family details, household
 information, assessment/examination results, attendance information, behavior,
 any relevant medical information and photographs.</p>
-<ol start="4" data-tight="true" class="tight">
-<li>
-<p>The data is used in order to:</p>
-</li>
-</ol>
+<p>4) The data is used in order to:</p>
 <p>a. Determine the suitability, eligibility or qualifications for employment,
 promotion in employment and/or continuance in employment, and any other
 uses to support the School’s operational needs.</p>
@@ -58,13 +42,9 @@ other uses normally associated with this provision in a specialised school
 environment. The School may make use of limited personal data (such as
 contact details) relating to students, their parents or guardians to maintain
 relationships with them.</p>
-<ol start="5" data-tight="true" class="tight">
-<li>
-<p>Data may be shared, as necessary, with third party companies to provide
+<p>5)Data may be shared, as necessary, with third party companies to provide
 extended services; examples include transport, medical, catering, travel
 services and online services such as email. In particular, the School may:</p>
-</li>
-</ol>
 <p>a. Make available information to any internal organisation or society
 set up for the purpose of maintaining contact with staff and students or
 for administration, fundraising, marketing or promotional purposes relating
@@ -81,27 +61,17 @@ consistent with a specialised school environment.</p>
 <p></p>
 <p><strong>Consent and Implied Consent</strong>
 </p>
-<ol start="6" data-tight="true" class="tight">
-<li>
-<p>For the purposes of the School’s students (as minors), it is reasonable
+<p>6)For the purposes of the School’s students (as minors), it is reasonable
 and accepted that parental/guardian consent is sufficient.</p>
-</li>
-<li>
-<p>By voluntarily providing the School with your personal data, you shall
+<p>7)By voluntarily providing the School with your personal data, you shall
 be deemed to consent the School to collect, use and disclose the data for
 the purpose that you have provided for. The School shall highlight such
 situation and seek to obtain explicit consent. Examples of such situation
 are staff employment and student enrolment.</p>
 <p></p>
-</li>
-</ol>
 <p><strong>Data Security and Retention</strong>
 </p>
-<ol start="8" data-tight="true" class="tight">
-<li>
-<p>The School undertakes to:</p>
-</li>
-</ol>
+<p>8)The School undertakes to:</p>
 <p>a. Implement appropriate security measures to protect personal data against
 accidental or unlawful destruction or accidental loss, alteration, unauthorised
 disclosure or access, in particular when the processing of data involves
@@ -113,31 +83,21 @@ the services specified or outlined above.</p>
 <p></p>
 <p><strong>Sharing Data with Third Parties</strong>
 </p>
-<ol start="9" data-tight="true" class="tight">
-<li>
-<p>The School shares personal data with a variety of third parties for the
-purposes of the third party providing a relevant service to the school.
+<p>9)The School shares personal data with a variety of third parties for
+the purposes of the third party providing a relevant service to the school.
 Examples of these services include transport, catering, travel services,
 accommodation and medical.</p>
-</li>
-<li>
-<p>The School will only share data for the purposes of eliciting a necessary
+<p>10)The School will only share data for the purposes of eliciting a necessary
 service from these third party organisations and not for commercial gain.</p>
-</li>
-<li>
-<p>Where the School signs explicit contracts with these organisations, it
-will include clauses from Appendix A1 - Contracts with Third Parties to
-ensure that the organisation is using the data purely for the intended
+<p>11)Where the School signs explicit contracts with these organisations,
+it will include clauses from Appendix A1 - Contracts with Third Parties
+to ensure that the organisation is using the data purely for the intended
 purpose of providing the required service and that it is taking appropriate
 precautions to safeguard the data.</p>
-</li>
-<li>
-<p>In some instances, for example for online services provided by companies
+<p>12)In some instances, for example for online services provided by companies
 outside of Singapore, explicit signed contracts do not exist. In these
 instances the School will ensure that the terms &amp; conditions of the
 service include clauses that:</p>
-</li>
-</ol>
 <p>a. The School remains the owner of the data;</p>
 <p>b. The service provider is not entitled to use any data held on its service
 for any purpose other than to provide the required service;</p>
@@ -148,11 +108,7 @@ that any and all data held will be deleted and not used for any other purpose.</
 <p></p>
 <p><strong>Contacting Us – Withdrawal of Consent, Access and Correction of your Personal Data</strong>
 </p>
-<ol start="13" data-tight="true" class="tight">
-<li>
-<p>If you:</p>
-</li>
-</ol>
+<p>13)If you:</p>
 <p>a. Have any question or feedback relating to your Personal Data or our
 Data Protection Policy;</p>
 <p>b. Would like to withdraw your consent to any use of your Personal Data
