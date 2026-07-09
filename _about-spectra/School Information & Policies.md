@@ -8,13 +8,13 @@ description: ""
 <p></p>
 <p><strong>Introduction</strong>
 </p>
-<p>1)The Singapore Personal Data Protection Act - 2012 (‘PDPA’) establishes
+<p>1) The Singapore Personal Data Protection Act - 2012 (‘PDPA’) establishes
 a data protection law comprising various rules governing the collection,
 use, disclosure, and care of personal data. It recognises both the rights
 of individuals to protect their personal data, including rights of access
 and correction, and the needs of organisations to collect, use or disclose
 personal data for legitimate and reasonable purposes.</p>
-<p>2)The purpose of this document is to inform users how Spectra Secondary
+<p>2) The purpose of this document is to inform users how Spectra Secondary
 School (‘the School’) manages Personal Data, which is subject to the Singapore
 Personal Data Protection Act (2012). This Data Protection Policy supplements
 but does not supersede or replace any other consent you may have previously
@@ -22,7 +22,7 @@ provided to the School.</p>
 <p></p>
 <p><strong>Data Collected, Usage, Disclosure and Purpose</strong>
 </p>
-<p>3)The School collects data on its staff employment and students enrolment
+<p>3) The School collects data on its staff employment and students enrolment
 including (but not limited to):</p>
 <p>a. Staff: personal details, contact information, household information,
 payroll related information, resume, educational information, performance
@@ -42,7 +42,7 @@ other uses normally associated with this provision in a specialised school
 environment. The School may make use of limited personal data (such as
 contact details) relating to students, their parents or guardians to maintain
 relationships with them.</p>
-<p>5)Data may be shared, as necessary, with third party companies to provide
+<p>5) Data may be shared, as necessary, with third party companies to provide
 extended services; examples include transport, medical, catering, travel
 services and online services such as email. In particular, the School may:</p>
 <p>a. Make available information to any internal organisation or society
@@ -61,9 +61,9 @@ consistent with a specialised school environment.</p>
 <p></p>
 <p><strong>Consent and Implied Consent</strong>
 </p>
-<p>6)For the purposes of the School’s students (as minors), it is reasonable
+<p>6) For the purposes of the School’s students (as minors), it is reasonable
 and accepted that parental/guardian consent is sufficient.</p>
-<p>7)By voluntarily providing the School with your personal data, you shall
+<p>7) By voluntarily providing the School with your personal data, you shall
 be deemed to consent the School to collect, use and disclose the data for
 the purpose that you have provided for. The School shall highlight such
 situation and seek to obtain explicit consent. Examples of such situation
@@ -71,7 +71,7 @@ are staff employment and student enrolment.</p>
 <p></p>
 <p><strong>Data Security and Retention</strong>
 </p>
-<p>8)The School undertakes to:</p>
+<p>8) The School undertakes to:</p>
 <p>a. Implement appropriate security measures to protect personal data against
 accidental or unlawful destruction or accidental loss, alteration, unauthorised
 disclosure or access, in particular when the processing of data involves
@@ -83,13 +83,13 @@ the services specified or outlined above.</p>
 <p></p>
 <p><strong>Sharing Data with Third Parties</strong>
 </p>
-<p>9)The School shares personal data with a variety of third parties for
+<p>9) The School shares personal data with a variety of third parties for
 the purposes of the third party providing a relevant service to the school.
 Examples of these services include transport, catering, travel services,
 accommodation and medical.</p>
-<p>10)The School will only share data for the purposes of eliciting a necessary
+<p>10) The School will only share data for the purposes of eliciting a necessary
 service from these third party organisations and not for commercial gain.</p>
-<p>11)Where the School signs explicit contracts with these organisations,
+<p>11) Where the School signs explicit contracts with these organisations,
 it will include clauses from Appendix A1 - Contracts with Third Parties
 to ensure that the organisation is using the data purely for the intended
 purpose of providing the required service and that it is taking appropriate
@@ -108,7 +108,7 @@ that any and all data held will be deleted and not used for any other purpose.</
 <p></p>
 <p><strong>Contacting Us – Withdrawal of Consent, Access and Correction of your Personal Data</strong>
 </p>
-<p>13)If you:</p>
+<p>13) If you:</p>
 <p>a. Have any question or feedback relating to your Personal Data or our
 Data Protection Policy;</p>
 <p>b. Would like to withdraw your consent to any use of your Personal Data
@@ -129,12 +129,67 @@ make corrections to your Personal Data records.</p>
 <p>➢ Spectra Secondary School, 1 Woodlands Drive 64, Singapore 737758</p>
 <hr>
 <h5><strong>📢 Whistleblowing Policy</strong></h5>
-<ul data-tight="true" class="tight">
-<li>
-<p>Please refer to the document for details: <a href="/files/whistleblowing_policy_ver_4__spectra_.pdf" rel="noopener noreferrer nofollow" target="_blank">Whistleblowing Policy</a>
+<p></p>
+<p><strong>Introduction</strong>
 </p>
-</li>
-</ul>
+<p>1) All Directors and Staff are expected to maintain high standards of
+business and personal ethics, honesty and integrity in carrying out their
+duties and responsibilities and to conduct themselves in a professional
+manner at all times tobring credit to and enhance the image of the company.</p>
+<p>2) Whistleblowing is the act of reporting misconduct within an organization
+and the policy provides a channel for directors, employees and external
+parties to bring to the attention of the Board any misdeed or impropriety
+committed by the directors, management and staff of the company.</p>
+<p><strong>Scope</strong>
+</p>
+<p>3) The whistleblowing policy shall surface and address concerns over any
+action or omission within the company relating to unlawful conduct, financial
+malpractice and fraud, criminal violation of prevailing laws, rules and
+regulations, conflict of interest, non-compliance of company’s internal
+controls and procedures, unauthorised disclosure of information, abuse
+of authority for personal gain and discrimination and intimidation of staff
+in the course of work.</p>
+<p><strong>Responsibility</strong>
+</p>
+<p>4) The Board Chairman and the School Principal shall be the team authorised
+to investigate all concerns raised.</p>
+<p>5) Where the concern raised is against one of the team members, the other
+members may appoint additional directors or school management members to
+assist in the investigation.</p>
+<p><strong>Safeguards</strong>
+</p>
+<p>6) The policy is designed to enable directors, management and staff to
+raise concerns and the following safeguards are put in place to facilitate
+the process:</p>
+<p>a. Protection – The school shall protect the whistleblower and ensure
+that he/she will not be victimized, discriminated, harassed or disciplined.</p>
+<p>b. Confidentiality – Whistleblowers are encouraged to disclose their identity
+when reporting concerns and providing information. The identity of the
+whistleblower and the concerns raised together with all information shall
+be treated with the strictest confidentiality.</p>
+<p>7) The whistleblower may be kept informed of the progress of the investigation
+and where possible, the final outcome subject to any legal and confidentiality
+constraint.</p>
+<p></p>
+<p><strong>Reporting a Concern</strong>
+</p>
+<p>8) All concerns should be raised in writing via a letter or email to the
+team members. The information should include background, history of event,
+reasons for raising the concern, persons involved and evidence to support
+the concern raised.</p>
+<p>9) For reporting by email - The whistleblower can address the email to
+the following members:</p>
+<p>➢ Investigation Team Members: Chairman / Principal</p>
+<p>➢ Email to address to: Ms Low Ying Xiu (Vice-Principal/Administration),
+<a href="mailto:Low_Ying_Xiu_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Ying_Xiu_B@schools.gov.sg</a>
+</p>
+<p>10) For reporting by mail – The whistleblower can send the letter to the
+following address:</p>
+<p>To: <strong>The Investigation Team</strong>
+</p>
+<p>Attn: <strong>Chairman / Principal</strong>
+</p>
+<p>Address: Spectra Secondary School, 1 Woodlands Drive 64, Singapore 737758</p>
 <hr>
 <h5><strong>💲Financial Information</strong></h5>
 <ul data-tight="true" class="tight">
