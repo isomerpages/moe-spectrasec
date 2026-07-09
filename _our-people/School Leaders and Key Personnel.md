@@ -112,6 +112,14 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
+<p>HOD/PE &amp; CCA (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Mr Muhammad Sufri Bin Ramli</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>HOD/PE &amp; CCA (Designate)&nbsp;</p>
 </td>
 <td rowspan="1" colspan="1">
@@ -140,14 +148,6 @@ variant: tiptap
 </td>
 <td rowspan="1" colspan="1">
 <p>Ms Syahirah Binte Mohamad Azib</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p>Subject Head, PE</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Mr Muhammad Sufri Bin Ramli</p>
 </td>
 </tr>
 <tr>
@@ -266,7 +266,7 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>Subject Head (Acting), CRO</p>
+<p>Subject Head, CRO (Acting)</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Wong Wai Kay</p>
@@ -307,18 +307,18 @@ variant: tiptap
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p>HOD/CCE (Acting)</p>
-</td>
-<td rowspan="1" colspan="1">
-<p>Ms Naomi Nesam Abraham</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
 <p>HOD/Student Management</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>Mr Zhang Zhiyang, Don</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>HOD/CCE (Acting)</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Ms Naomi Nesam Abraham</p>
 </td>
 </tr>
 <tr>
