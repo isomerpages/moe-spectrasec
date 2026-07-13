@@ -233,26 +233,49 @@ make corrections to your Personal Data records.</p>
 </tr>
 </tbody>
 </table>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
-<p></p>
 <hr>
 <h5><strong>📢 Whistleblowing Policy</strong></h5>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<th rowspan="1" colspan="1">
 <p></p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Introduction</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1) All Directors and Staff are expected to maintain high standards of
 business and personal ethics, honesty and integrity in carrying out their
 duties and responsibilities and to conduct themselves in a professional
 manner at all times tobring credit to and enhance the image of the company.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2) Whistleblowing is the act of reporting misconduct within an organization
 and the policy provides a channel for directors, employees and external
 parties to bring to the attention of the Board any misdeed or impropriety
 committed by the directors, management and staff of the company.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Scope</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3) The whistleblowing policy shall surface and address concerns over any
 action or omission within the company relating to unlawful conduct, financial
 malpractice and fraud, criminal violation of prevailing laws, rules and
@@ -260,15 +283,37 @@ regulations, conflict of interest, non-compliance of company’s internal
 controls and procedures, unauthorised disclosure of information, abuse
 of authority for personal gain and discrimination and intimidation of staff
 in the course of work.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Responsibility</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4) The Board Chairman and the School Principal shall be the team authorised
 to investigate all concerns raised.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5) Where the concern raised is against one of the team members, the other
 members may appoint additional directors or school management members to
 assist in the investigation.</p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Safeguards</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>6) The policy is designed to enable directors, management and staff to
 raise concerns and the following safeguards are put in place to facilitate
 the process:</p>
@@ -278,29 +323,58 @@ that he/she will not be victimized, discriminated, harassed or disciplined.</p>
 when reporting concerns and providing information. The identity of the
 whistleblower and the concerns raised together with all information shall
 be treated with the strictest confidentiality.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>7) The whistleblower may be kept informed of the progress of the investigation
 and where possible, the final outcome subject to any legal and confidentiality
 constraint.</p>
 <p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Reporting a Concern</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>8) All concerns should be raised in writing via a letter or email to the
 team members. The information should include background, history of event,
 reasons for raising the concern, persons involved and evidence to support
 the concern raised.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>9) For reporting by email - The whistleblower can address the email to
 the following members:</p>
-<p>➢ Investigation Team Members: Chairman / Principal</p>
-<p>➢ Email to address to: Ms Low Ying Xiu (Vice-Principal/Administration),
-<a href="mailto:Low_Ying_Xiu_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Ying_Xiu_B@schools.gov.sg</a>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong>➢ Investigation Team Members: Chairman / Principal<br>➢ Email to address to: Ms Low Ying Xiu (Vice-Principal/Administration), <a href="mailto:Low_Ying_Xiu_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Ying_Xiu_B@schools.gov.sg</a></strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>10) For reporting by mail – The whistleblower can send the letter to the
-following address:</p>
-<p>To: <strong>The Investigation Team</strong>
-</p>
-<p>Attn: <strong>Chairman / Principal</strong>
-</p>
-<p>Address: Spectra Secondary School, 1 Woodlands Drive 64, Singapore 737758</p>
+following address:
+<br>To: <strong>The Investigation Team</strong>
+<br>Attn: <strong>Chairman / Principal</strong>
+<br>Address: Spectra Secondary School, 1 Woodlands Drive 64, Singapore 737758</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
 <hr>
 <h5><strong>💲Financial Information</strong></h5>
 <ul data-tight="true" class="tight">
