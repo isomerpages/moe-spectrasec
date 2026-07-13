@@ -5,23 +5,49 @@ variant: tiptap
 description: ""
 ---
 <h4><strong>📝 Data Protection Guidelines</strong></h4>
+<table style="minWidth: 25px">
+<colgroup>
+<col>
+</colgroup>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
 <p></p>
+</td>
+</tr>
+<tr>
+<th rowspan="1" colspan="1">
 <p><strong>Introduction</strong>
 </p>
+</th>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>1) The Singapore Personal Data Protection Act - 2012 (‘PDPA’) establishes
 a data protection law comprising various rules governing the collection,
 use, disclosure, and care of personal data. It recognises both the rights
 of individuals to protect their personal data, including rights of access
 and correction, and the needs of organisations to collect, use or disclose
 personal data for legitimate and reasonable purposes.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>2) The purpose of this document is to inform users how Spectra Secondary
 School (‘the School’) manages Personal Data, which is subject to the Singapore
 Personal Data Protection Act (2012). This Data Protection Policy supplements
 but does not supersede or replace any other consent you may have previously
 provided to the School.</p>
-<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p><strong>Data Collected, Usage, Disclosure and Purpose</strong>
 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>3) The School collects data on its staff employment and students enrolment
 including (but not limited to):</p>
 <p>a. Staff: personal details, contact information, household information,
@@ -31,6 +57,10 @@ details, any relevant medical information and photographs.</p>
 <p>b. Student: personal details, contact information, family details, household
 information, assessment/examination results, attendance information, behavior,
 any relevant medical information and photographs.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>4) The data is used in order to:</p>
 <p>a. Determine the suitability, eligibility or qualifications for employment,
 promotion in employment and/or continuance in employment, and any other
@@ -42,6 +72,10 @@ other uses normally associated with this provision in a specialised school
 environment. The School may make use of limited personal data (such as
 contact details) relating to students, their parents or guardians to maintain
 relationships with them.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
 <p>5) Data may be shared, as necessary, with third party companies to provide
 extended services; examples include transport, medical, catering, travel
 services and online services such as email. In particular, the School may:</p>
@@ -58,6 +92,27 @@ internal staff for planning school-related activities, programmes and trips.</p>
 <p>d. Retain and use personal data after a staff or student has left employment/graduated
 to provide references, employment/educational history and alumni services
 consistent with a specialised school environment.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
+<p></p>
 <p></p>
 <p><strong>Consent and Implied Consent</strong>
 </p>
