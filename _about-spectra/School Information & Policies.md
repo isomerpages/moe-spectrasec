@@ -51,7 +51,6 @@ provided to the School.</p>
 <td rowspan="1" colspan="1">
 <p>3) The School collects data on its staff employment and students enrolment
 including (but not limited to):
-<br>
 <br>a. Staff: personal details, contact information, household information,
 payroll related information, resume, educational information, performance
 indicators, attendance information, training records, terms of employment
@@ -64,7 +63,6 @@ any relevant medical information and photographs.</p>
 <tr>
 <td rowspan="1" colspan="1">
 <p>4) The data is used in order to:
-<br>
 <br>a. Determine the suitability, eligibility or qualifications for employment,
 promotion in employment and/or continuance in employment, and any other
 uses to support the School’s operational needs.
@@ -82,7 +80,6 @@ relationships with them.</p>
 <p>5) Data may be shared, as necessary, with third party companies to provide
 extended services; examples include transport, medical, catering, travel
 services and online services such as email. In particular, the School may:
-<br>
 <br>a. Make available information to any internal organisation or society
 set up for the purpose of maintaining contact with staff and students or
 for administration, fundraising, marketing or promotional purposes relating
