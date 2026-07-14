@@ -352,7 +352,7 @@ the following members:</p>
 </tr>
 <tr>
 <td rowspan="1" colspan="1">
-<p><strong>➢ Investigation Team Members: Chairman / Principal<br>➢ Email to address to: Ms Low Ying Xiu (Vice-Principal/Administration), <a href="mailto:Low_Ying_Xiu_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Ying_Xiu_B@schools.gov.sg</a></strong>
+<p><strong>➢ Investigation Team Members: Chairman / Principal<br>➢ Email to be sent to: Ms Low Ying Xiu (Vice-Principal/Administration), <a href="mailto:Low_Ying_Xiu_B@schools.gov.sg" rel="noopener noreferrer nofollow" target="_blank">Low_Ying_Xiu_B@schools.gov.sg</a></strong>
 </p>
 </td>
 </tr>
