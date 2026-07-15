@@ -23,10 +23,10 @@ sections:
       title: Open House 2026
       subtitle: Many Stories, One Spectra!
       id: infopic
-      description: Join us on 9 May or 25 July
+      description: Visit us on 25 July 2026 (Saturday)
       button: Register now
       url: https://go.gov.sg/spectraexperienceparent
-      image: /images/2026_Spectra_Open_House_for_Parents.png
+      image: /images/Spectra_Open_House__25_July_2026_.png
       alt: Image alt text
   - textcards:
       title: Useful Links For Students
