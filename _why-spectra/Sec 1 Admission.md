@@ -30,61 +30,6 @@ instilling self-confidence in all.</p>
 <img style="width:800px" height="auto" width="100%" src="/images/twin%20certification.png">
 </div>
 <hr>
-<h5><strong>🏫 Spectra Open House 2025</strong></h5>
-<p>Sign up for our Open House at <strong><a href="https://go.gov.sg/spectra-open-house" rel="noopener noreferrer nofollow" target="_blank">https://go.gov.sg/spectra-open-house</a></strong> on
-the following days:</p>
-<table style="minWidth: 50px">
-<colgroup>
-<col>
-<col>
-</colgroup>
-<tbody>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>25 Nov 2025 (Tue)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>12.00 pm to 4.00 pm</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>26 to 28 Nov 2025 (Wed to Fri)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9.00 am to 4.00 pm</strong>
-</p>
-</td>
-</tr>
-<tr>
-<td rowspan="1" colspan="1">
-<p><strong>29 Nov 2025 (Sat)</strong>
-</p>
-</td>
-<td rowspan="1" colspan="1">
-<p><strong>9.00 am to 3.00 pm</strong>
-</p>
-</td>
-</tr>
-</tbody>
-</table>
-<p>During the Open House, students can:</p>
-<ul data-tight="true" class="tight">
-<li>
-<p>take a tour around our school campus;</p>
-</li>
-<li>
-<p>interact with our Spectrans as they share about their school life and
-the Spectra journey and;</p>
-</li>
-<li>
-<p>experience our unique, hands-on curriculum.</p>
-</li>
-</ul>
-<hr>
 <h5><strong>📝 Application Process</strong></h5>
 <p>Spectra admits students who are eligible for <strong>Posting Group 1 </strong>and <strong>Group 1/2</strong>.
 Admission to Spectra can be by Direct Admission or Secondary 1 posting
