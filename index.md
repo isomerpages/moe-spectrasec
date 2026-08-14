@@ -19,15 +19,6 @@ sections:
           description: ""
           url: https://heyzine.com/flip-book/f54c214e30.html
       variant: image
-  - infopic:
-      title: Open House 2026
-      subtitle: Many Stories, One Spectra!
-      id: infopic
-      description: Visit us on 25 July 2026 (Saturday)
-      button: Register now
-      url: https://go.gov.sg/spectraexperienceparent
-      image: /images/Spectra_Open_House__25_July_2026_.png
-      alt: Image alt text
   - textcards:
       title: Useful Links For Students
       id: textcards
